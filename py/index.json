@@ -7,7 +7,13 @@
   },
   {
     "id": "rb_nt_cb1_5_6_2025",
-    "title": "RRB NTPC 2025 GRADUATE CBT 1 (05/06/2025)",
+    "title": "RRB NTPC 2025 GRADUATE CBT 1 Shift 1 (05/06/2025)",
+    "questions": 100,
+    "ts": 1749081600000
+  },
+  {
+    "id": "rb_nt_cb1_sh2_5_6_2025",
+    "title": "RRB NTPC 2025 GRADUATE CBT 1 Shift 2 (05/06/2025)",
     "questions": 100,
     "ts": 1749081600000
   }
