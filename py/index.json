@@ -66,5 +66,21 @@
     "type": "pdf", 
     "questions": 100,
     "ts": 1760313600000
-  }
+  },
+  {
+    "id": "rgntgs3eng050625",
+    "title": "RRB NTPC 2025 GRADUATE CBT-1 English Shift 3 (05/06/2025)",
+    "url": "rgntgs3eng050625.pdf",
+    "type": "pdf", 
+    "questions": 100,
+    "ts": 1760313600000
+  },
+  {
+    "id": "rgntgs3hin050625",
+    "title": "RRB NTPC 2025 GRADUATE CBT-1 Hindi Shift 3 (05/06/2025)",
+    "url": "rgntgs3hin050625.pdf",
+    "type": "pdf", 
+    "questions": 100,
+    "ts": 1760313600000
+  },
 ]
