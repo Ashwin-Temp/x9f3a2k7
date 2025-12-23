@@ -12,7 +12,7 @@ while True:
         break
 
     input_pdf = f"{name}.pdf"
-    output_pdf = f"{name}_done.pdf"
+    output_pdf = f"{name}_d.pdf"
 
     if not os.path.exists(input_pdf):
         print("❌ File not found:", input_pdf)
