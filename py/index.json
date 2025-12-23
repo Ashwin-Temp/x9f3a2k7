@@ -22,12 +22,16 @@
   {
     "id": "rbntges2",
     "title": "RRB NTPC 2025 GRADUATE CBT-2 English Shift 2 (13/10/2025)",
+    "url": "rbntges2.pdf",
+    "type": "pdf", 
     "questions": 120,
     "ts": 1760313600000
   },
   {
     "id": "rbntgpes131025",
     "title": "RRB NTPC 2025 GRADUATE CBT-2 Hindi Shift 2 (13/10/2025)",
+    "url": "rbntgpes131025.pdf",
+    "type": "pdf", 
     "questions": 120,
     "ts": 1760313600000
   }
