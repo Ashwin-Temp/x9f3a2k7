@@ -1,0 +1,29 @@
+[
+  {
+    "id": "rb_nt_25_cb2_g_13_10_25",
+    "title": "RRB NTPC 2025 GRADUATE CBT-2 English (13/10/2025)",
+    "questions": 120,
+    "ts": 1760313600000
+  },
+  {
+    "id": "rb_nt_g_e_050625",
+    "title": "RRB NTPC 2025 GRADUATE CBT 1 English Shift 1 (05/06/2025)",
+    "type": "pdf", 
+    "url": "rb_nt_g_e_050625.pdf",
+    "questions": 100,
+    "ts": 1749081600000
+  },
+  {
+    "id": "rb_nt_cb1_sh2_5_6_2025",
+    "title": "RRB NTPC 2025 GRADUATE CBT 1 Shift 2 (05/06/2025)",
+    "questions": 100,
+    "ts": 1749081600000
+  },
+  {
+    "id": "rb_nt_cb1_sh3hin_050625",
+    "title": "RRB NTPC 2025 GRADUATE CBT 1 Shift 3 Hindi (05/06/2025)",
+    "questions": 100,
+    "ts": 1749081600000
+  },
+ 
+]
