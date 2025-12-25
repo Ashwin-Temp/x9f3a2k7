@@ -6,10 +6,14 @@
     "ts": 1760313600000
   },
   {
-    "id": "rb_nt_g_e_050625",
+    "id": "rb_nt_cb1_en_5_6_2025",
     "title": "RRB NTPC 2025 GRADUATE CBT 1 English Shift 1 (05/06/2025)",
-    "type": "pdf", 
-    "url": "rb_nt_g_e_050625.pdf",
+    "questions": 100,
+    "ts": 1749081600000
+  },
+  {
+    "id": "rb_nt_cb1_hi_5_6_2025",
+    "title": "RRB NTPC 2025 GRADUATE CBT 1 Hindi Shift 1 (05/06/2025)",
     "questions": 100,
     "ts": 1749081600000
   },
@@ -24,6 +28,6 @@
     "title": "RRB NTPC 2025 GRADUATE CBT 1 Shift 3 Hindi (05/06/2025)",
     "questions": 100,
     "ts": 1749081600000
-  },
+  }
  
 ]

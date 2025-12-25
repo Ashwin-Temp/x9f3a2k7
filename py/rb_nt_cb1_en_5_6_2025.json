@@ -1,0 +1,1405 @@
+{
+  "meta": {
+    "title": "RRB NTPC 2025 CBT 1 [Graduate Level] Shift 1 (05/06/2025)",
+    "category": "RRB NTPC",
+    "type": "pyq",
+    "duration": 0,
+    "totalQuestions": 100,
+    "createdAt": "2025-12-20T13:44:10.862Z"
+  },
+  "q": [
+    {
+      "id": 1,
+      "s": "General Awareness",
+      "st": "History",
+      "q": "In which year did Bakshi Jagabandhu lead the Paika Rebellion to protest against the British land revenue policy?",
+      "o": [
+        "1785",
+        "1717",
+        "1806",
+        "1817"
+      ],
+      "ans": 3,
+      "exp": "The Paika Rebellion was an armed rebellion against the British East India Company's rule in Odisha in 1817. It was led by Bakshi Jagabandhu Bidyadhara."
+    },
+    {
+      "id": 2,
+      "s": "General Awareness",
+      "st": "Economy",
+      "q": "What was the overall unemployment rate in India as reported in the 6th Annual Employment-Unemployment Survey conducted by the Labour Bureau?",
+      "o": [
+        "5.4%",
+        "6.1%",
+        "4.9%",
+        "7.3%"
+      ],
+      "ans": 0
+    },
+    {
+      "id": 3,
+      "s": "Reasoning",
+      "st": "Mathematical Operations",
+      "q": "If '+' means '-', '-' means 'x', 'x' means '+' and '÷' means '+', then what will come in place of the question mark (?) in the following equation? 32 ÷ 14 + 16 - 8 x 4 = ?",
+      "o": [
+        "14",
+        "18",
+        "16",
+        "22"
+      ],
+      "ans": 0,
+      "exp": "• Decoded Equation: 32 + 14 - 16 × (8 ÷ 4)\n• Step 1: 8 ÷ 4 = 2\n• Step 2: 16 × 2 = 32\n• Step 3: 32 + 14 - 32\n• Result: 14"
+    },
+    {
+      "id": 4,
+      "s": "Current Affairs",
+      "st": "Appointments",
+      "q": "Who among the following assumed charge of the Comptroller General of India in November 2024?",
+      "o": [
+        "K Sanjay Murthy",
+        "Tuhin Kant Pandey",
+        "Manish Singhal",
+        "Arunish Chawla"
+      ],
+      "ans": 0,
+      "exp": "K. Sanjay Murthy assumed charge as the Comptroller and Auditor General (CAG) of India in November 2024, succeeding Girish Chandra Murmu."
+    },
+    {
+      "id": 5,
+      "s": "Computer",
+      "st": "Operating Systems",
+      "q": "Which of the following is an example of an operating system commonly used on desktop computers?",
+      "o": [
+        "Microsoft Word",
+        "Adobe Photoshop",
+        "Windows 10",
+        "Google Chrome"
+      ],
+      "ans": 2,
+      "exp": "Windows 10 is an operating system developed by Microsoft. Microsoft Word and Adobe Photoshop are application software, while Google Chrome is a web browser."
+    },
+    {
+      "id": 6,
+      "s": "Reasoning",
+      "st": "Alphanumeric Series",
+      "q": "Refer to the following number and symbol series and answer the question that follows. Counting to be done from left to right only. (Left) # * £ 3 9 € # % £ 1 % £ 8 8 1 4 9 % 5 8 & 7 (Right) How many such numbers are there each of which is immediately preceded by a symbol and also immediately followed by a symbol?",
+      "o": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "ans": 2,
+      "exp": "• Pattern required: Symbol - Number - Symbol\n• Scanning the series: ... % £ 1 % ...\n• Here, the number 1 is placed between £ and %.\n• Total count = 1"
+    },
+    {
+      "id": 7,
+      "s": "Geography",
+      "st": "Indian Geography",
+      "q": "The 24° latitude passes closest to which Indian state's capital?",
+      "o": [
+        "Patna",
+        "Bhopal",
+        "Raipur",
+        "Dispur"
+      ],
+      "ans": 1,
+      "exp": "The Tropic of Cancer (23.5° N) passes through Madhya Pradesh. Bhopal (approx 23.25° N) is very close to the 24° N latitude."
+    },
+    {
+      "id": 8,
+      "s": "Polity",
+      "st": "Local Government",
+      "q": "Which urban local self government body manages small towns with limited municipal functions like street lighting and drainage?",
+      "o": [
+        "Municipal Corporation",
+        "Port Trust",
+        "Town Area Committee",
+        "Special Purpose Agencies"
+      ],
+      "ans": 2,
+      "exp": "A Town Area Committee is set up for the administration of a small town. It is a semi-municipal authority entrusted with limited civic functions like drainage, roads, and street lighting."
+    },
+    {
+      "id": 9,
+      "s": "Mathematics",
+      "st": "Quadratic Equations",
+      "q": "Find the value of K if the quadratic equations 2x² + Kx + 8 = 0 and 3x² + 4x + 12 = 0 have both roots common.",
+      "o": [
+        "5/3",
+        "8/3",
+        "7/2",
+        "3/2"
+      ],
+      "ans": 1,
+      "exp": "• For common roots, coefficients must be proportional: a1/a2 = b1/b2 = c1/c2\n• 2/3 = K/4 = 8/12\n• Since 8/12 simplifies to 2/3, the condition holds.\n• K/4 = 2/3\n• K = 8/3"
+    },
+    {
+      "id": 10,
+      "s": "Mathematics",
+      "st": "Simplification",
+      "q": "What will come in the place of the question mark (?) in the following equation, if '+' and '-' are interchanged and 'x' and '÷' are interchanged? 38 ÷ 21 ÷ 436 x 4 - 73 = ?",
+      "o": [
+        "761",
+        "762",
+        "764",
+        "763"
+      ],
+      "ans": 1,
+      "exp": "• Original: 38 ÷ 21 + 436 × 4 - 73\n• New: 38 × 21 - 436 ÷ 4 + 73\n• 109 is result of division.\n• 798 is result of multiplication.\n• 798 - 109 + 73 = 762."
+    },
+    {
+      "id": 11,
+      "s": "Reasoning",
+      "st": "Puzzles",
+      "q": "Seven boxes, A, B, C, D, E, F and G, are kept one over the other but not necessarily in the same order. No box is kept above F. Only three boxes are kept between F and B. Only one box is kept between G and D. D is kept immediately above B. Only four boxes are kept between G and C. A is kept in some place above E. How many boxes are kept below D?",
+      "o": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "ans": 2,
+      "exp": "• Arrangement (Top to Bottom):\n7: F\n6: G\n5: A\n4: D\n3: B\n2: E\n1: C\n• D is at position 4. Boxes below D are B, E, C (Total 3)."
+    },
+    {
+      "id": 12,
+      "s": "Current Affairs",
+      "st": "Indices & Rankings",
+      "q": "In the Gender Inequality Index (GII) 2022, what rank did India achieve among 193 countries?",
+      "o": [
+        "108",
+        "115",
+        "100",
+        "122"
+      ],
+      "ans": 0,
+      "exp": "In the Gender Inequality Index (GII) 2022 released by UNDP, India was ranked 108th out of 193 countries."
+    },
+    {
+      "id": 13,
+      "s": "General Science",
+      "st": "Biology",
+      "q": "Which structural-functional issue in a plant root would hinder gas exchange but not significantly impact water absorption?",
+      "o": [
+        "Endodermal cells without suberin",
+        "Disrupted stomatal apparatus on aerial organs",
+        "Absence of root hairs due to epidermal deformation",
+        "Mutated epiblema cells lacking vacuoles"
+      ],
+      "ans": 1
+    },
+    {
+      "id": 14,
+      "s": "General Science",
+      "st": "Chemistry",
+      "q": "Which of the following is an example of a chemical change?",
+      "o": [
+        "Burning wood",
+        "Cutting paper",
+        "Boiling water",
+        "Melting ice"
+      ],
+      "ans": 0,
+      "exp": "Burning wood involves combustion, which is an irreversible chemical reaction producing new substances (ash, smoke, CO2). The other options are physical changes."
+    },
+    {
+      "id": 15,
+      "s": "Computer",
+      "st": "Keyboard Shortcuts",
+      "q": "When navigating through options in a dialog box or menu using the keyboard, what is the primary function of the Tab key?",
+      "o": [
+        "To go back to the previous option or control",
+        "To close the current dialog box or menu",
+        "To move the focus to the next available option or control",
+        "To select the currently highlighted option"
+      ],
+      "ans": 2,
+      "exp": "The Tab key is used to move the focus to the next clickable element or control within a dialog box or window."
+    },
+    {
+      "id": 16,
+      "s": "Mathematics",
+      "st": "Lines and Angles",
+      "q": "The larger of two supplementary angles is 28° more than the smaller one. The smaller angle (in degree) is:",
+      "o": [
+        "76",
+        "79",
+        "80",
+        "84"
+      ],
+      "ans": 0,
+      "exp": "• Let the angles be x and y (where x > y).\n• Supplementary means x + y = 180°.\n• Given: x = y + 28°.\n• Substitute: (y + 28) + y = 180 ⇒ 2y = 152 ⇒ y = 76°."
+    },
+    {
+      "id": 17,
+      "s": "General Awareness",
+      "st": "History",
+      "q": "What is the main focus of the Sangam anthologies, Purananuru and Patirruppattu, from the Ettuttokai collection?",
+      "o": [
+        "Heroism and praises of kings and their deeds",
+        "Love and emotional experiences",
+        "Descriptions of nature and landscapes",
+        "Spiritual and religious themes"
+      ],
+      "ans": 0,
+      "exp": "Purananuru and Patirruppattu are part of the 'Puram' genre of Sangam literature, which deals with war, heroism, public life, and the praises of kings (specifically Chera kings in Patirruppattu)."
+    },
+    {
+      "id": 18,
+      "s": "General Awareness",
+      "st": "Art and Culture",
+      "q": "In South Indian temple architecture, what is the name of the stepped or pyramidal structure built above the sanctum?",
+      "o": [
+        "Jagati",
+        "Mandapa",
+        "Vimana",
+        "Adhisthana"
+      ],
+      "ans": 2,
+      "exp": "In the Dravidian style of architecture, the tower above the main shrine (Garbhagriha) is called the Vimana. It is typically pyramidal and stepped. (Note: The Shikhara is the crowning element at the top of the Vimana or the tower in Nagara style)."
+    },
+    {
+      "id": 19,
+      "s": "General Awareness",
+      "st": "History",
+      "q": "The term 'Bhukti' in post-Gupta polity referred to:",
+      "o": [
+        "tax",
+        "officer",
+        "king",
+        "province"
+      ],
+      "ans": 3
+    },
+    {
+      "id": 20,
+      "s": "General",
+      "st": "Indian Geography",
+      "q": "From which state to which state do the Eastern Coastal Plains of India extend?",
+      "o": [
+        "Gujarat to Kerala",
+        "West Bengal to Tamil Nadu",
+        "Maharashtra to Andhra Pradesh",
+        "Odisha to Karnataka"
+      ],
+      "ans": 1,
+      "exp": "The Eastern Coastal Plains extend along the Bay of Bengal from West Bengal in the north to Tamil Nadu in the south."
+    },
+    {
+      "id": 21,
+      "s": "Mathematics",
+      "st": "Simplification",
+      "q": "Simplify: $\\frac{\\sqrt[3]{5832}}{\\sqrt[4]{10000}}\\times\\frac{5}{24}\\times78$",
+      "o": [
+        "21",
+        "13",
+        "8",
+        "17"
+      ],
+      "ans": 1
+    },
+    {
+      "id": 22,
+      "s": "Mathematics",
+      "st": "Percentage",
+      "q": "Salil's salary was first reduced by 15% and subsequently raised by 10%. What percentage was his final salary lower compared to his initial salary?",
+      "o": [
+        "10%",
+        "1.5%",
+        "6.5%",
+        "15%"
+      ],
+      "ans": 2,
+      "exp": "• Let initial salary be 100.\n• After 15% reduction: 85.\n• After 10% increase on 85: $85 + 8.5 = 93.5$.\n• Difference: $100 - 93.5 = 6.5$.\n• Hence, 6.5% lower."
+    },
+    {
+      "id": 23,
+      "s": "Mathematics",
+      "st": "Ratio and Proportion",
+      "q": "If 260 is the mean proportion between x and 338, what is the value of x?",
+      "o": [
+        "200",
+        "198",
+        "199",
+        "201"
+      ],
+      "ans": 0,
+      "exp": "• Mean proportion formula: $b^2 = ac$.\n• Here, $260^2 = x \\times 338$.\n• $67600 = 338x$.\n• $x = \\frac{67600}{338} = 200$."
+    },
+    {
+      "id": 24,
+      "s": "Computer",
+      "st": "Hardware",
+      "q": "Which of the following components is/are NOT a part of the Central Processing Unit (CPU)?",
+      "o": [
+        "Arithmetic Logic Unit (ALU)",
+        "Graphic Card",
+        "Control Unit (CU)",
+        "Registers"
+      ],
+      "ans": 1,
+      "exp": "The CPU consists of the ALU, Control Unit, and Registers. A Graphic Card (GPU) is a separate component used for rendering images and video, though it can be integrated, it is distinct from the core CPU architecture."
+    },
+    {
+      "id": 25,
+      "s": "Mathematics",
+      "st": "Averages",
+      "q": "A class of 30 students appeared in a test. The average score of 12 students is 60, and that of the rest is 62. What is the average score of the class?",
+      "o": [
+        "61.2",
+        "62.2",
+        "60.2",
+        "59.2"
+      ],
+      "ans": 0,
+      "exp": "• Total students = 30.\n• Sum of marks of 12 students = $12 \\times 60 = 720$.\n• Remaining students = 18. Sum = $18 \\times 62 = 1116$.\n• Total Sum = $720 + 1116 = 1836$.\n• Average = $\\frac{1836}{30} = 61.2$."
+    },
+    {
+      "id": 26,
+      "s": "Reasoning",
+      "st": "Venn Diagrams",
+      "q": "Study the given Venn diagram carefully and answer the question that follows. \n![](https://cdn.jsdelivr.net/gh/Ashwin-Temp/exam-master-assets/images/math/data-interpretation/venny.webp)\nThe numbers in different sections indicate the number of persons. How many chefs are there who are also teachers but not lawyers?",
+      "o": [
+        "8",
+        "9",
+        "5",
+        "7"
+      ],
+      "ans": 1,
+      "exp": "• Identify the region common to the 'Chef' and 'Teacher' circles.\n• Exclude any part of that region that overlaps with the 'Lawyer' circle.\n• The number in the intersecting region of Chef and Teacher (outside Lawyer) is 9."
+    },
+    {
+      "id": 27,
+      "s": "Mathematics",
+      "st": "Number System",
+      "q": "The average of first 14 whole numbers is:",
+      "o": [
+        "6.5",
+        "7.5",
+        "7",
+        "5.5"
+      ],
+      "ans": 0,
+      "exp": "• First 14 whole numbers are $0, 1, 2, ..., 13$.\n• Sum of first $n$ numbers (0 to $n-1$) = $\\frac{(n-1) \\times n}{2}$.\n• Sum = $\\frac{13 \\times 14}{2} = 91$.\n• Average = $\\frac{Sum}{Count} = \\frac{91}{14} = 6.5$."
+    },
+    {
+      "id": 28,
+      "s": "Reasoning",
+      "st": "Analogy",
+      "q": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of ::? #: VEC :: BNW: %",
+      "o": [
+        "# = XHA, % = ZKY",
+        "# = ZKY, % = FTS",
+        "# = FTS, % = XHA",
+        "# = DQU, % = XHA"
+      ],
+      "ans": 0,
+      "exp": "• Analyze relation in BNW : ZKY (from Option 1 logic check).\n• B(2) - 2 = Z(26)\n• N(14) - 3 = K(11)\n• W(23) + 2 = Y(25)\n• Pattern: -2, -3, +2.\n• Apply to find #: # must transform to VEC.\n• X(24) - 2 = V(22)\n• H(8) - 3 = E(5)\n• A(1) + 2 = C(3)\n• Thus, # = XHA and % = ZKY matches the pattern."
+    },
+    {
+      "id": 29,
+      "s": "Geography",
+      "st": "Indian Geography",
+      "q": "Which of the following Indian states does NOT have a coastline?",
+      "o": [
+        "Gujarat",
+        "Rajasthan",
+        "Andhra Pradesh",
+        "Odisha"
+      ],
+      "ans": 1,
+      "exp": "Rajasthan is a landlocked state located in the northwestern part of India. Gujarat, Andhra Pradesh, and Odisha all have coastlines."
+    },
+    {
+      "id": 30,
+      "s": "Reasoning",
+      "st": "Direction and Distance",
+      "q": "Sundar starts from point A and drives 12 km towards the east. He then takes a left turn, drives 9 km, turns left and drives 13 km. He then takes a left turn and drives 11 km. He takes a final left turn, drives 1 km and stops at point P. How far (shortest distance) and towards which direction should he drive in order to reach point A again? (All turns are 90 degree turns only unless specified.)",
+      "o": [
+        "2 km to the south",
+        "1 km to the north",
+        "2 km to the north",
+        "1 km to the south"
+      ],
+      "ans": 2,
+      "exp": "• Path Tracing:\n• 1. Start (0,0) → East 12 km → (12, 0)\n• 2. Left (North) 9 km → (12, 9)\n• 3. Left (West) 13 km → (-1, 9)\n• 4. Left (South) 11 km → (-1, -2)\n• 5. Left (East) 1 km → (0, -2) [Point P]\n• To reach A (0,0) from P (0, -2), he must drive 2 km towards North."
+    },
+    {
+      "id": 31,
+      "s": "Mathematics",
+      "st": "Mensuration",
+      "q": "Find the surface area of a sphere whose diameter is equal to 98 cm.",
+      "o": [
+        "29,256 cm²",
+        "39,204 cm²",
+        "30,184 cm²",
+        "33,284 cm²"
+      ],
+      "ans": 2,
+      "exp": "• Surface Area of a sphere = $4\\pi r^2$\n• Diameter = 98 cm, so Radius (r) = 49 cm.\n• Area = $4 \\times \\frac{22}{7} \\times 49 \\times 49$\n• $= 4 \\times 22 \\times 7 \\times 49$\n• $= 88 \\times 343 = 30184 \\text{ cm}^2$"
+    },
+    {
+      "id": 32,
+      "s": "Mathematics",
+      "st": "Problems on Ages",
+      "q": "Rahul's age is three times the age of his daughter. After 8 years from now, his age will be 5 years more than twice the age of his daughter. Find the present age of Rahul.",
+      "o": [
+        "36 years",
+        "30 years",
+        "33 years",
+        "39 years"
+      ],
+      "ans": 3,
+      "exp": "• Let Daughter's age = $x$. Rahul's age = $3x$.\n• After 8 years: Daughter = $x+8$, Rahul = $3x+8$.\n• According to the condition: $3x + 8 = 2(x + 8) + 5$\n• $3x + 8 = 2x + 16 + 5$\n• $3x - 2x = 21 - 8$\n• $x = 13$\n• Rahul's present age = $3x = 3 \\times 13 = 39$ years."
+    },
+    {
+      "id": 33,
+      "s": "Reasoning",
+      "st": "Order and Ranking",
+      "q": "In a row of 73 students facing north, Gita is 16th from the left end. If Sunita is 21st to the right of Gita, what is Sunita's position from the right end of the line?",
+      "o": [
+        "31st",
+        "28th",
+        "22nd",
+        "37th"
+      ],
+      "ans": 3,
+      "exp": "• Total students = 73.\n• Gita is 16th from Left.\n• Sunita is 21st to the right of Gita.\n• Sunita's position from Left = $16 + 21 = 37$th.\n• Sunita's position from Right = (Total - Left Position) + 1\n• $= (73 - 37) + 1 = 36 + 1 = 37$th."
+    },
+    {
+      "id": 34,
+      "s": "Current Affairs",
+      "st": "Banking and Finance",
+      "q": "In February 2025, Muthoot Finance has received RBI approval to open how many new branches across India, strengthening its presence in the gold loan market?",
+      "o": [
+        "115",
+        "110",
+        "120",
+        "125"
+      ],
+      "ans": 0,
+      "exp": "Muthoot Finance received approval from the RBI to open 115 new branches across India in February 2025."
+    },
+    {
+      "id": 35,
+      "s": "General Science",
+      "st": "Space Technology",
+      "q": "What is the primary objective of the Chandra's Surface Thermophysical Experiment (ChaSTE), 2025, payload?",
+      "o": [
+        "To measure the vertical temperature profile of the lunar regolith",
+        "To study the Moon's magnetic field",
+        "To measure the Moon's atmospheric pressure",
+        "To assess the Moon's geological composition"
+      ],
+      "ans": 0,
+      "exp": "ChaSTE (Chandra's Surface Thermophysical Experiment) is an instrument on the Chandrayaan-3 lander (Vikram). Its objective is to measure the thermal properties (temperature profile) of the lunar surface (regolith) near the south pole."
+    },
+    {
+      "id": 36,
+      "s": "General Awareness",
+      "st": "Government Schemes",
+      "q": "How many cities were initially included under the Smart Cities Mission launched by the Government of India?",
+      "o": [
+        "50",
+        "100",
+        "200",
+        "150"
+      ],
+      "ans": 1,
+      "exp": "The Smart Cities Mission was launched by the Government of India with the aim to develop 100 smart cities across the country."
+    },
+    {
+      "id": 37,
+      "s": "Mathematics",
+      "st": "Time and Work",
+      "q": "Varun and Ashish together can paint a hall in 3 days. Varun alone can paint it in 7 days. In how many days can Ashish alone paint 4 such halls?",
+      "o": [
+        "5.25",
+        "6.25",
+        "22",
+        "21"
+      ],
+      "ans": 3,
+      "exp": "• Let Total Work = LCM(3, 7) = 21 units.\n• Efficiency of (Varun + Ashish) = 21/3 = 7 units/day.\n• Efficiency of Varun = 21/7 = 3 units/day.\n• Efficiency of Ashish = 7 - 3 = 4 units/day.\n• Time for Ashish to paint 1 hall = 21/4 days.\n• Time for 4 halls = $4 \\times \\frac{21}{4} = 21$ days."
+    },
+    {
+      "id": 38,
+      "s": "Mathematics",
+      "st": "Boats and Streams",
+      "q": "If Ishwar covers 721 km in a boat in 42 hours against the stream and he takes 15 hours with the stream, then find the speed of the stream.",
+      "o": [
+        "7.38 km/hr",
+        "19.25 km/hr",
+        "22.48 km/hr",
+        "15.45 km/hr"
+      ],
+      "ans": 3,
+      "exp": "• Upstream Speed (U) = Distance/Time = 721/42 ≈ 17.16 km/hr.\n• Downstream Speed (D) = Distance/Time = 721/15 ≈ 48.06 km/hr.\n• Speed of Stream = $(D - U) / 2$\n• $= (48.06 - 17.16) / 2$\n• $= 30.9 / 2 = 15.45$ km/hr."
+    },
+    {
+      "id": 39,
+      "s": "General Awareness",
+      "st": "Cricket",
+      "q": "Who won the Women's Premiere League WPL 2025 title?",
+      "o": [
+        "Chennai Super Kings",
+        "Mumbai Indians",
+        "Royal Challengers Bangalore",
+        "Delhi Capitals"
+      ],
+      "ans": 1,
+      "exp": "Mumbai Indians is marked as the winner of the WPL 2025 title."
+    },
+    {
+      "id": 40,
+      "s": "General Awareness",
+      "st": "History",
+      "q": "The Takht-i-Bahi inscription refers to which Parthian ruler?",
+      "o": [
+        "Gondophernes",
+        "Menander",
+        "Azes",
+        "Rudradaman"
+      ],
+      "ans": 0,
+      "exp": "The Takht-i-Bahi inscription (found in Mardan, Pakistan) is dated to the year 103 of an unspecified era and refers to the Indo-Parthian king Gondophernes (Guduvhara)."
+    },
+    {
+      "id": 41,
+      "s": "Current Affairs",
+      "st": "Constitution and Amendments",
+      "q": "Which Article of the Directive Principles of State Policy was added by the 97th Constitutional Amendment Act of the Constitution of India?",
+      "o": [
+        "Article 39 A",
+        "Article 43 B",
+        "Article 48 A",
+        "Article 43 A"
+      ],
+      "ans": 1,
+      "exp": "• The 97th Constitutional Amendment Act, 2011, added Article 43B regarding the promotion of co-operative societies to the Directive Principles of State Policy."
+    },
+    {
+      "id": 42,
+      "s": "Reasoning",
+      "st": "Classification",
+      "q": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT belong to that group? (Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster)",
+      "o": [
+        "HL-JN",
+        "MU-KH",
+        "NR-PT",
+        "SW-UY"
+      ],
+      "ans": 1,
+      "exp": "• Analyze the gap between letters in each pair:\n• HL-JN: H(+2)=J, L(+2)=N. (Shift is +2, +2)\n• NR-PT: N(+2)=P, R(+2)=T. (Shift is +2, +2)\n• SW-UY: S(+2)=U, W(+2)=Y. (Shift is +2, +2)\n• MU-KH: M(-2)=K, U(-13)=H. The pattern does not match the others."
+    },
+    {
+      "id": 43,
+      "s": "History",
+      "st": "Socio-Religious Reform Movements",
+      "q": "Who among the following founded the Vedanta College in Calcutta to promote both Indian and Western learning?",
+      "o": [
+        "Rammohan Roy",
+        "Debendranath Tagore",
+        "Swami Vivekananda",
+        "Ishwar Chandra Vidyasagar"
+      ],
+      "ans": 0,
+      "exp": "Raja Ram Mohan Roy founded the Vedanta College in 1825 to offer courses in both Indian learning and Western social and physical sciences."
+    },
+    {
+      "id": 44,
+      "s": "Reasoning",
+      "st": "Analogy",
+      "q": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of:: is the same as that on the right side of ::? #: JLH :: IKG: %",
+      "o": [
+        "# = FJH, % = MHU",
+        "# = DEG, % = NIU",
+        "# = EGC, % = NPL",
+        "# = FDG, % = MLG"
+      ],
+      "ans": 2,
+      "exp": "• Logic: The second term is obtained by adding 5 to the position of each letter of the first term.\n• Check Option 3: # = EGC.\n• E(5)+5 = J(10), G(7)+5 = L(12), C(3)+5 = H(8). Matches JLH.\n• Apply to IKG: I(9)+5 = N(14), K(11)+5 = P(16), G(7)+5 = L(12). Matches NPL (%)."
+    },
+    {
+      "id": 45,
+      "s": "Current Affairs",
+      "st": "State Elections",
+      "q": "Which of the following combinations represents the party and constituency of the Chief Minister of Jharkhand after the 2024 Assembly elections?",
+      "o": [
+        "JMM, Barhait",
+        "JMM, Khunti",
+        "BJP, Jamshedpur East",
+        "BJP, Dhanwar"
+      ],
+      "ans": 0,
+      "exp": "Hemant Soren (JMM) is the Chief Minister of Jharkhand, representing the Barhait constituency."
+    },
+    {
+      "id": 46,
+      "s": "Mathematics",
+      "st": "Percentage",
+      "q": "Kiran spends 45% of his income. If he saves ₹66,000, then his income (in ₹) is:",
+      "o": [
+        "1,21,000",
+        "1,19,000",
+        "29,700",
+        "1,20,000"
+      ],
+      "ans": 3,
+      "exp": "• Income = Expenditure + Savings.\n• Expenditure = 45%, so Savings = 100% - 45% = 55%.\n• Given, 55% of Income = 66,000.\n• Income = (66000 / 55) × 100 = 1200 × 100 = 1,20,000."
+    },
+    {
+      "id": 47,
+      "s": "Current Affairs",
+      "st": "Important Days",
+      "q": "In November 2024, which day was celebrated to honour India's contribution to the dairy revolution?",
+      "o": [
+        "National Dairy Day",
+        "White Revolution Day",
+        "National Milk Day",
+        "Milk Production Day"
+      ],
+      "ans": 2,
+      "exp": "National Milk Day is celebrated in India on November 26th every year to commemorate the birth anniversary of Dr. Verghese Kurien, the father of India's White Revolution."
+    },
+    {
+      "id": 48,
+      "s": "Mathematics",
+      "st": "Profit and Loss",
+      "q": "A dealer sells two dryers at the rate of ₹63,000 per dryer. On one, he earns a profit of 5% and on the other he loses 30%. What is his loss percentage in the whole transaction?",
+      "o": [
+        "14%",
+        "17%",
+        "15%",
+        "16%"
+      ],
+      "ans": 3,
+      "exp": "• Total SP = 63,000 × 2 = 1,26,000.\n• CP of 1st (5% profit) = 63000 / 1.05 = 60,000.\n• CP of 2nd (30% loss) = 63000 / 0.70 = 90,000.\n• Total CP = 60,000 + 90,000 = 1,50,000.\n• Loss = CP - SP = 1,50,000 - 1,26,000 = 24,000.\n• Loss % = (24000 / 150000) × 100 = 16%."
+    },
+    {
+      "id": 49,
+      "s": "Mathematics",
+      "st": "Simple and Compound Interest",
+      "q": "The difference between the simple interest and the compound interest, compounded annually, on a certain sum of money for 2 years at 16% per annum is ₹797. Find the sum (rounded off to the nearest integer).",
+      "o": [
+        "31,113",
+        "31,130",
+        "31,137",
+        "31,133"
+      ],
+      "ans": 3,
+      "exp": "• Difference (D) for 2 years = $P(R/100)^2$\n• 797 = $P (16/100)^2$\n• 797 = $P (0.0256)$\n• $P = 797 / 0.0256 = 31132.8125$\n• Rounded to nearest integer = 31,133."
+    },
+    {
+      "id": 50,
+      "s": "Reasoning",
+      "st": "Number Series",
+      "q": "If 2 is added to each even digit and 2 is added to each odd digit in the number 5217643, what will be the sum of the first digit from the left and the first digit from the right in the new number thus formed?",
+      "o": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "ans": 2,
+      "exp": "• Original Number: 5 2 1 7 6 4 3\n• Operation: Add 2 to ALL digits (since question says add 2 to even AND add 2 to odd).\n• New Number: 7 4 3 9 8 6 5\n• First digit from left = 7.\n• First digit from right = 5.\n• Sum = 7 + 5 = 12."
+    },
+    {
+      "id": 51,
+      "s": "Reasoning",
+      "st": "Coding-Decoding",
+      "q": "A group of numbers/symbols is coded using letter codes as per the codes given below and the conditions that follow. If none of the conditions apply, then codes for the respective number/symbol to be followed directly as given in the table. [Table omitted as per instruction]. Conditions: (i) If the first element is a symbol and the last a number, the codes for these two (the first and the last elements) are to be interchanged. (ii) If the first element is an odd number and the last an even number, the first and last elements are to be coded as ‘@’. (iii) If both the second and third elements are perfect squares, the third element is to be coded as the code for the second element. What will be the code for the following group? 5&3@7%2",
+      "o": [
+        "MDZWPO",
+        "OMDZPW",
+        "ODMZWPO",
+        "MDWZPO"
+      ],
+      "ans": 0,
+      "exp": "• Group: 5 & 3 @ 7 % 2\n• First element (5) is an Odd number. Last element (2) is an Even number.\n• Condition (ii) applies: First and Last codes become specific codes (based on Hindi source and standard patterns, this often implies a specific symbol like 'M' or code swap, here Option 1 fits the pattern of the provided key).\n• Note: The specific symbol '@' mentioned in the text might vary in the actual table image (e.g., Copyright or specific char). Based on the answer key Option 1 (MDZWPO), the codes for 5 and 2 were transformed/swapped accordingly."
+    },
+    {
+      "id": 52,
+      "s": "Economy",
+      "st": "Infrastructure",
+      "q": "The Indian telecom sector was liberalised under which year's Telecom Policy?",
+      "o": [
+        "1997",
+        "1999",
+        "1994",
+        "2002"
+      ],
+      "ans": 2,
+      "exp": "The National Telecom Policy (NTP) 1994 opened up the Indian telecom sector to private investment and foreign players, marking the beginning of liberalization."
+    },
+    {
+      "id": 53,
+      "s": "Mathematics",
+      "st": "Simplification",
+      "q": "What is the value of $\\frac{3}{8}+\\frac{1}{8}+\\frac{5}{16}+\\frac{2}{8}-2?$",
+      "o": [
+        "-23/16",
+        "13/16",
+        "-15/16",
+        "-21/16"
+      ],
+      "ans": 2,
+      "exp": "• Convert all fractions to denominator 16:\n• $\\frac{6}{16} + \\frac{2}{16} + \\frac{5}{16} + \\frac{4}{16} - \\frac{32}{16}$\n• Sum numerators: $6 + 2 + 5 + 4 - 32 = 17 - 32 = -15$.\n• Result: $-\\frac{15}{16}$."
+    },
+    {
+      "id": 54,
+      "s": "Mathematics",
+      "st": "Ratio and Proportion",
+      "q": "When x is added to each of 30, 15, 21 and 11, then the numbers so obtained, in this order, are in proportion. Then, if 6x : y :: y : (3x-9), and y > 0 what is the value of y?",
+      "o": [
+        "18",
+        "24",
+        "10",
+        "37"
+      ],
+      "ans": 0
+    },
+    {
+      "id": 55,
+      "s": "Mathematics",
+      "st": "Mensuration",
+      "q": "In quadrilateral ABCD, AB=17 cm, BC=8 cm, CD=9 cm, AD=12 cm, and AC=15 cm. What is the area (in cm²) of the quadrilateral?",
+      "o": [
+        "105",
+        "114",
+        "118",
+        "121"
+      ],
+      "ans": 1,
+      "exp": "• In $\\Delta ABC$: Sides 8, 15, 17 form a Pythagorean triplet ($8^2+15^2=17^2$). Area = $0.5 \\times 8 \\times 15 = 60$.\n• In $\\Delta ADC$: Sides 9, 12, 15 form a Pythagorean triplet ($9^2+12^2=15^2$). Area = $0.5 \\times 9 \\times 12 = 54$.\n• Total Area = $60 + 54 = 114$ cm²."
+    },
+    {
+      "id": 56,
+      "s": "Mathematics",
+      "st": "Simple Interest",
+      "q": "Find the duration (in years) in which ₹1,200 will amount to ₹2,280 at a rate of 4% per annum simple interest.",
+      "o": [
+        "22.5",
+        "21.5",
+        "23.5",
+        "24.5"
+      ],
+      "ans": 0,
+      "exp": "• Simple Interest (SI) = Amount - Principal = $2280 - 1200 = 1080$.\n• Formula: $SI = \\frac{P \\times R \\times T}{100}$\n• $1080 = \\frac{1200 \\times 4 \\times T}{100} = 48T$\n• $T = \\frac{1080}{48} = 22.5$ years."
+    },
+    {
+      "id": 57,
+      "s": "General Awareness",
+      "st": "Rivers of India",
+      "q": "The Sabarmati river originates from which of the following places?",
+      "o": [
+        "Aravalli Hills, Rajasthan",
+        "Western Ghats, Maharashtra",
+        "Satpura Range, Gujarat",
+        "Vindhya Range, Madhya Pradesh"
+      ],
+      "ans": 0,
+      "exp": "The Sabarmati river originates from the Aravalli Hills in the Udaipur district of Rajasthan."
+    },
+    {
+      "id": 58,
+      "s": "Current Affairs",
+      "st": "Government Schemes",
+      "q": "Which of the following statements is/are correct about the Digital Agriculture Mission launched in 2024? 1. It includes the creation of Digital Public Infrastructure such as AgriStack and Comprehensive Soil Fertility Maps. 2. AgriStack is managed solely by the Central Government. 3. The mission seeks to facilitate digital services like credit and insurance to farmers through authenticated data.",
+      "o": [
+        "Only 2 and 3",
+        "1, 2 and 3",
+        "Only 1 and 2",
+        "Only 1 and 3"
+      ],
+      "ans": 3,
+      "exp": "• Statement 1 and 3 are correct objectives of the mission.\n• Statement 2 is incorrect because AgriStack is a collaborative effort involving state governments (State Agricultural Registers) and is not managed solely by the Centre."
+    },
+    {
+      "id": 59,
+      "s": "Reasoning",
+      "st": "Number Series",
+      "q": "What should come in place of the question mark (?) in the given series? 701 700 697 692 685 ?",
+      "o": [
+        "675",
+        "673",
+        "671",
+        "676"
+      ],
+      "ans": 3,
+      "exp": "• Pattern of differences:\n• 700 - 701 = -1\n• 697 - 700 = -3\n• 692 - 697 = -5\n• 685 - 692 = -7\n• Next difference should be -9.\n• $685 - 9 = 676$."
+    },
+    {
+      "id": 60,
+      "s": "Computer",
+      "st": "Memory Management",
+      "q": "What is the primary purpose of virtual memory in a computer system?",
+      "o": [
+        "To provide backup for data",
+        "To increase physical storage capacity",
+        "To extend CACHE memory for storage",
+        "To extend RAM capacity by using disk space"
+      ],
+      "ans": 3,
+      "exp": "Virtual memory uses hardware and software to allow a computer to compensate for physical memory shortages by temporarily transferring data from Random Access Memory (RAM) to disk storage."
+    },
+    {
+      "id": 61,
+      "s": "Mathematics",
+      "st": "Profit and Loss",
+      "q": "A vendor bought lemons at 7 for ₹1. How many lemons must he sell for ₹1 to gain 75%?",
+      "o": [
+        "8",
+        "4",
+        "5",
+        "6"
+      ],
+      "ans": 1,
+      "exp": "• Cost Price (CP) of 7 lemons = ₹1.\n• CP of 1 lemon = ₹1/7.\n• Gain required = 75%.\n• Selling Price (SP) of 1 lemon = $CP \\times (1 + \\frac{75}{100})$\n• $SP = \\frac{1}{7} \\times \\frac{175}{100} = \\frac{1}{7} \\times \\frac{7}{4} = \\frac{1}{4}$.\n• SP of 1 lemon is ₹1/4.\n• Therefore, for ₹1, he must sell 4 lemons."
+    },
+    {
+      "id": 62,
+      "s": "General Science",
+      "st": "Chemistry",
+      "q": "Which of the following solutions is slightly acidic due to hydrolysis?",
+      "o": [
+        "$NH_4CH_3COO$",
+        "$NH_4Cl$",
+        "$Na_2CO_3$",
+        "$CH_3COONa$"
+      ],
+      "ans": 1,
+      "exp": "• $NH_4Cl$ is a salt of a strong acid ($HCl$) and a weak base ($NH_4OH$).\n• Upon hydrolysis, it produces $H^+$ ions, making the solution slightly acidic.\n• $NH_4^+ + H_2O \\rightleftharpoons NH_4OH + H^+$."
+    },
+    {
+      "id": 63,
+      "s": "Reasoning",
+      "st": "Series Completion",
+      "q": "Which of the following letter-number clusters will replace the question mark (?) in the given series to make it logically complete? OKI 4, QLG 8, SME 12, UNC 16, ?",
+      "o": [
+        "WOA 24",
+        "WOA 20",
+        "WOV 20",
+        "VOW 16"
+      ],
+      "ans": 1,
+      "exp": "• Pattern for letters:\n• 1st Letter: O (+2) → Q (+2) → S (+2) → U (+2) → **W**\n• 2nd Letter: K (+1) → L (+1) → M (+1) → N (+1) → **O**\n• 3rd Letter: I (-2) → G (-2) → E (-2) → C (-2) → **A**\n• Pattern for numbers: 4 (+4) → 8 (+4) → 12 (+4) → 16 (+4) → **20**\n• Result: WOA 20."
+    },
+    {
+      "id": 64,
+      "s": "Mathematics",
+      "st": "Lines and Angles",
+      "q": "The larger of two supplementary angles is 50° more than the smaller one. The smaller angle (in degree) is:",
+      "o": [
+        "65°",
+        "67°",
+        "56°",
+        "75°"
+      ],
+      "ans": 0,
+      "exp": "• Let the smaller angle be $x$.\n• Then the larger angle is $x + 50^{\\circ}$.\n• Supplementary angles sum to $180^{\\circ}$.\n• $x + (x + 50) = 180 \\Rightarrow 2x = 130 \\Rightarrow x = 65^{\\circ}$."
+    },
+    {
+      "id": 65,
+      "s": "Reasoning",
+      "st": "Analogy",
+      "q": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of ::? #: LHM :: OKP: %",
+      "o": [
+        "# = F, % = NHU",
+        "# = UPS % = RPV",
+        "# = DCV % = NHY",
+        "# = GCH % = TPU"
+      ],
+      "ans": 3,
+      "exp": "• Let's find the relation by checking Option 4 (#=GCH, %=TPU).\n• Relationship: First Term + 5 = Second Term.\n• # -> LHM: G(+5)=L, C(+5)=H, H(+5)=M. (Consistent).\n• OKP -> %: O(+5)=T, K(+5)=P, P(+5)=U. (Result TPU).\n• Thus, #=GCH and %=TPU maintains the +5 pattern."
+    },
+    {
+      "id": 66,
+      "s": "Mathematics",
+      "st": "Ratio and Proportion",
+      "q": "If 7.5 : 19.5 :: 16 : x, find the value of x.",
+      "o": [
+        "39.4",
+        "41.1",
+        "41.6",
+        "45.1"
+      ],
+      "ans": 2,
+      "exp": "• Product of Extremes = Product of Means.\n• $7.5 \\times x = 19.5 \\times 16$\n• $x = \\frac{19.5 \\times 16}{7.5}$\n• $x = \\frac{312}{7.5} = 41.6$"
+    },
+    {
+      "id": 67,
+      "s": "Economy",
+      "st": "Budget and Economic Survey",
+      "q": "According to the Economic Survey 2024-25, what is the current expenditure on Research and Development (R&D) as a percentage of India's GDP?",
+      "o": [
+        "0.45%",
+        "1.15%",
+        "0.64%",
+        "1.28%"
+      ],
+      "ans": 2,
+      "exp": "According to the Economic Survey data provided in the question paper context, India's R&D expenditure is 0.64% of its GDP."
+    },
+    {
+      "id": 68,
+      "s": "Mathematics",
+      "st": "Simplification",
+      "q": "What will come in place of the question mark (?) in the following equation if '+' and '-' are interchanged and 'x' and '+' are interchanged? $1125 \\times 45 \\div 39 - 17 + 19 = ?$",
+      "o": [
+        "992",
+        "973",
+        "379",
+        "975"
+      ],
+      "ans": 3,
+      "exp": "• Note: The English text mentions swapping 'x and +' but the Hindi text and logical flow suggest swapping 'x and ÷'. Based on Hindi:\n• New Equation: $1125 \\div 45 \\times 39 + 17 - 19$.\n• Step 1: $1125 \\div 45 = 25$.\n• Step 2: $25 \\times 39 = 975$.\n• Step 3: $975 + 17 - 19 = 975 - 2 = 973$.\n• Note: The calculated answer is 973, but the official key marks Option 4 (975)."
+    },
+    {
+      "id": 69,
+      "s": "Reasoning",
+      "st": "Number Series",
+      "q": "This question is based on the five, three-digit numbers given below. \n(Left) 614 457 249 625 150 (Right).\n What will be the resultant if the second digit of the highest number is subtracted from the second digit of the lowest number?",
+      "o": [
+        "4",
+        "3",
+        "6",
+        "2"
+      ],
+      "ans": 1,
+      "exp": "• Numbers: 614, 457, 249, 625, 150.\n• Highest Number: 625. Second digit = 2.\n• Lowest Number: 150. Second digit = 5.\n• Subtraction: $5 - 2 = 3$."
+    },
+    {
+      "id": 70,
+      "s": "Reasoning",
+      "st": "Linear Seating Arrangement",
+      "q": "Seven people, N, O, P, Q, R, S and T, are sitting in a straight line facing north. T is sitting at one of the ends of the line. Only two people are sitting to the left of R. P is sitting to the immediate right of R and immediate left of S. Q is sitting to the immediate left of O. Q does not sit at an extreme end of the line. How many people are sitting between O and N?",
+      "o": [
+        "Two",
+        "Zero",
+        "Four",
+        "One"
+      ],
+      "ans": 2
+    },
+    {
+      "id": 71,
+      "s": "Reasoning",
+      "st": "Coding-Decoding",
+      "q": "A group of numbers and symbols is coded using letter codes as per the codes given below and the conditions that follow.\n![](https://cdn.jsdelivr.net/gh/Ashwin-Temp/exam-master-assets/images/reasoning/table1.webp)\nConditions: (i) If the first element is a symbol and the last a number, the codes for these two are to be interchanged. (ii) If the first element is an odd number and the last an even number, the first and last elements are to be coded as ©. (iii) If both second and third elements are perfect squares, the third element is to be coded as the code for the second element. What will be the code for the following group? 7 2 4 @ 5",
+      "o": [
+        "PBBFJ",
+        "JTBFP",
+        "JBBFP",
+        "PTBFJ"
+      ],
+      "ans": 3,
+      "exp": "• Group: 7 2 4 @ 5\n• Codes from table: 7(P), 2(T), 4(B), @(F), 5(J).\n• Condition Check:\n• 1. First Symbol, Last Number? No (7 is number).\n• 2. First Odd, Last Even? No (7 is Odd, 5 is Odd).\n• 3. 2nd and 3rd Perfect Squares? 2nd is 2 (No), 3rd is 4 (Yes). Condition fails.\n• Since no conditions apply, use direct coding: P T B F J."
+    },
+    {
+      "id": 72,
+      "s": "Reasoning",
+      "st": "Puzzles (Floors)",
+      "q": "A, B, C, D, E and F live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, number 2 and so on till the topmost floor is numbered 6. A lives on a floor which is a prime number. The product of floors on which A and E live is 3. Only 2 people live above B. F lives immediately below C. How many people live between D and F?",
+      "o": [
+        "Three",
+        "Four",
+        "One",
+        "Two"
+      ],
+      "ans": 3,
+      "exp": "• Product of A and E is 3. Since floor numbers are integers 1-6, floors must be 1 and 3.\n• A is on a Prime floor, so A = 3, E = 1.\n• Only 2 people live above B -> B is on Floor 4.\n• F lives immediately below C. Available spots are 6, 5 and 2. The only consecutive spots are 6 and 5. So C = 6, F = 5.\n• Remaining person D is on Floor 2.\n• Order (6 to 1): C, F, B, A, D, E.\n• People between D (Floor 2) and F (Floor 5) are A and B. Count = 2."
+    },
+    {
+      "id": 73,
+      "s": "Reasoning",
+      "st": "Number Series",
+      "q": "This question is based on the five, three-digit numbers given below. (Left) 401 418 733 283 902 (Right). What will be the resultant if the second digit of the highest number is added to the third digit of the lowest number?",
+      "o": [
+        "3",
+        "6",
+        "4",
+        "2"
+      ],
+      "ans": 0,
+      "exp": "• Highest Number = 902. Second digit = 0.\n• Lowest Number = 283. Third digit = 3.\n• Resultant = 0 + 3 = 3."
+    },
+    {
+      "id": 74,
+      "s": "Current Affairs",
+      "st": "Indices & Rankings",
+      "q": "How many countries were evaluated in the Climate Change Performance Index 2025?",
+      "o": [
+        "73",
+        "83",
+        "93",
+        "63"
+      ],
+      "ans": 3,
+      "exp": "The Climate Change Performance Index (CCPI) 2025 evaluated 63 countries and the European Union, which together generate 90% of global greenhouse gas emissions."
+    },
+    {
+      "id": 75,
+      "s": "Reasoning",
+      "st": "Direction and Distance",
+      "q": "Fardeen starts from point A and drives 13 km towards west. He then takes a left turn, drives 7 km, turns right and drives 6 km. He then takes a left turn and drives 8 km. He takes a final left turn, drives 19 km and stops at point P. How far (shortest distance) and towards which direction should he drive in order to reach point A again?",
+      "o": [
+        "10 km north",
+        "15 km south",
+        "12 km south",
+        "15 km north"
+      ],
+      "ans": 3,
+      "exp": "• Coordinate Trace (Start 0,0):\n• 1. West 13 → (-13, 0)\n• 2. Left (South) 7 → (-13, -7)\n• 3. Right (West) 6 → (-19, -7)\n• 4. Left (South) 8 → (-19, -15)\n• 5. Left (East) 19 → (0, -15) [Point P]\n• Current Position P is (0, -15). Start A is (0, 0).\n• To reach A from P, he must go 15 km North."
+    },
+    {
+      "id": 76,
+      "s": "Mathematics",
+      "st": "Simplification",
+      "q": "The simplified value of 127 - 7 x (17 + 6) + 93 is:",
+      "o": [
+        "59",
+        "57",
+        "62",
+        "51"
+      ],
+      "ans": 0,
+      "exp": "• Follow BODMAS: Bracket first.\n• 127 - 7 × (23) + 93\n• Multiply: 127 - 161 + 93\n• Add/Sub: 220 - 161 = 59."
+    },
+    {
+      "id": 77,
+      "s": "Mathematics",
+      "st": "Pipes and Cisterns",
+      "q": "Pipe A can fill a tank in 18 minutes, while pipe B can empty the completely filled tank in 20 minutes. Initially, pipe A is opened and after 6 minutes pipe B is also opened. In how much time (in minutes) will the remaining tank be filled completely?",
+      "o": [
+        "120",
+        "137",
+        "107",
+        "127"
+      ],
+      "ans": 0,
+      "exp": "• Efficiency A = 1/18, Efficiency B = -1/20.\n• Work done by A in first 6 mins = 6/18 = 1/3.\n• Remaining work = 1 - 1/3 = 2/3.\n• Combined Efficiency (A+B) = 1/18 - 1/20 = (10-9)/180 = 1/180.\n• Time to fill remaining = Remaining Work / Efficiency\n• Time = (2/3) / (1/180) = (2/3) × 180 = 2 × 60 = 120 minutes."
+    },
+    {
+      "id": 78,
+      "s": "Current Affairs",
+      "st": "International Relations",
+      "q": "As of April 2025, what percentage of the India-UK Free Trade Agreement (FTA) has been finalised, bringing both the nations closer to concluding the deal?",
+      "o": [
+        "90%",
+        "80%",
+        "70%",
+        "95%"
+      ],
+      "ans": 0,
+      "exp": "As per reports in early 2025, India and the UK had finalised approximately 90% of the Free Trade Agreement (FTA) negotiations."
+    },
+    {
+      "id": 79,
+      "s": "Mathematics",
+      "st": "Algebra",
+      "q": "Simplify (2x − 5y)² + (5x + 2y)² + (2x + 5y)(2x − 5y).",
+      "o": [
+        "34x² − 4y²",
+        "−34x² + 4y²",
+        "−33x² − 4y²",
+        "33x² + 4y²"
+      ],
+      "ans": 3,
+      "exp": "• Term 1: 4x² - 20xy + 25y²\n• Term 2: 25x² + 20xy + 4y²\n• Term 3: 4x² - 25y² (Difference of squares)\n• Sum: (4 + 25 + 4)x² + (-20 + 20)xy + (25 + 4 - 25)y²\n• Result: 33x² + 4y²"
+    },
+    {
+      "id": 80,
+      "s": "Current Affairs",
+      "st": "International Organisations",
+      "q": "Which of the following countries assumed the Chairmanship of the Bay of Bengal Inter-Governmental Organisation (BOBP-IGO) in 2025?",
+      "o": [
+        "India",
+        "Myanmar",
+        "Sri Lanka",
+        "Bangladesh"
+      ],
+      "ans": 0,
+      "exp": "India assumed the Chairmanship of the Bay of Bengal Programme Inter-Governmental Organisation (BOBP-IGO) in 2025."
+    },
+    {
+      "id": 81,
+      "s": "Polity",
+      "st": "Judiciary",
+      "q": "The Supreme Court can issue writs under Article 32 only for which specific purpose?",
+      "o": [
+        "To resolve disputes between states",
+        "To enforce the Directive Principles of State Policy",
+        "To protect Fundamental Rights",
+        "To review decisions of statutory tribunals"
+      ],
+      "ans": 2,
+      "exp": "Article 32 of the Indian Constitution empowers the Supreme Court to issue writs specifically for the enforcement of Fundamental Rights."
+    },
+    {
+      "id": 82,
+      "s": "Polity",
+      "st": "Judiciary",
+      "q": "What is the key difference between the Supreme Court’s original jurisdiction in federal disputes versus its writ jurisdiction?",
+      "o": [
+        "Federal dispute jurisdiction can be exercised suo moto, while writ jurisdiction requires a petition.",
+        "Federal dispute jurisdiction applies to civil matters, while writ jurisdiction applies to criminal matters.",
+        "Federal dispute jurisdiction is exclusive to SC, while writ jurisdiction is concurrent with High Courts.",
+        "Federal dispute jurisdiction is advisory, while writ jurisdiction is binding."
+      ],
+      "ans": 2,
+      "exp": "• Original Jurisdiction (Article 131) regarding federal disputes (Centre vs State, State vs State) is **exclusive** to the Supreme Court.\n• Writ Jurisdiction (Article 32) is **concurrent**, meaning High Courts can also issue writs under Article 226."
+    },
+    {
+      "id": 83,
+      "s": "Reasoning",
+      "st": "Number Series",
+      "q": "Select the number from among the given options that can replace the question mark (?) in the following series. 105 97 89 81 73 ?",
+      "o": [
+        "65",
+        "58",
+        "60",
+        "70"
+      ],
+      "ans": 0,
+      "exp": "• The series decreases by 8 at each step.\n• 105 - 8 = 97\n• 97 - 8 = 89\n• 89 - 8 = 81\n• 81 - 8 = 73\n• 73 - 8 = 65."
+    },
+    {
+      "id": 84,
+      "s": "Mathematics",
+      "st": "LCM and HCF",
+      "q": "If the ratio of two numbers is 5 : 3 and the product of their LCM and their HCF is 135, then the sum of the reciprocals of the LCM and the HCF is:",
+      "o": [
+        "16/45",
+        "8/45",
+        "12/35",
+        "4/15"
+      ],
+      "ans": 0,
+      "exp": "• Let numbers be 5x and 3x.\n• Product of Numbers = Product of LCM × HCF.\n• 5x × 3x = 135 ⇒ 15x² = 135 ⇒ x² = 9 ⇒ x = 3.\n• Numbers are 15 and 9.\n• HCF = 3. LCM = 45.\n• Sum of reciprocals = 1/45 + 1/3 = (1 + 15) / 45 = 16/45."
+    },
+    {
+      "id": 85,
+      "s": "Current Affairs",
+      "st": "International Relations",
+      "q": "Which country became the first in Latin America to exit China's Belt and Road Initiative in 2025?",
+      "o": [
+        "Chile",
+        "Argentina",
+        "Colombia",
+        "Panama"
+      ],
+      "ans": 1,
+      "exp": "Argentina, under the leadership of President Javier Milei, announced its exit from China's Belt and Road Initiative (BRI), signaling a shift in foreign policy."
+    },
+    {
+      "id": 86,
+      "s": "Reasoning",
+      "st": "Circular Seating Arrangement",
+      "q": "P, Q, R, S, T, U and V are sitting around a circular table facing the centre. Only two people sit between T and S when counted from the right of T. Only three people sit between V and Q when counted from the right of Q. S sits to the immediate right of Q. U sits to the immediate right of R. How many people sit between Q and U when counted from the right of Q?",
+      "o": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "ans": 3,
+      "exp": "• Sitting Arrangement (Clockwise/Right): Q → S → R → U → V → T → P.\n• Check Conditions:\n• 1. S is immediate right of Q. (Correct)\n• 2. U is immediate right of R. (Correct)\n• 3. V is 4th to right of Q (3 between). (Correct)\n• 4. T is 3rd to right of S? No, T is 3rd to left of S (2 between T and S from right of T? Right of T: P, Q, S. Yes, P and Q are between. Correct).\n• Question: Between Q and U counted from right of Q?\n• Right of Q: S, R... then U.\n• People between are S and R.\n• Count = 2."
+    },
+    {
+      "id": 87,
+      "s": "Mathematics",
+      "st": "Heights and Distances",
+      "q": "A ladder leaning against a wall makes an angle θ with the horizontal ground such that tan θ = 15/8. If the height of the top of the ladder from the wall is 30 m, find the distance (in m) of the foot of the ladder from the wall.",
+      "o": [
+        "18",
+        "16",
+        "14",
+        "20"
+      ],
+      "ans": 1,
+      "exp": "• Let height = AB = 30 m and base = BC.\n• tan θ = Height / Base = 15/8.\n• 30 / BC = 15 / 8\n• 15 × BC = 30 × 8\n• BC = 240 / 15 = 16 m."
+    },
+    {
+      "id": 88,
+      "s": "Mathematics",
+      "st": "Speed, Time and Distance",
+      "q": "A man has to cover a distance of 519 km in 7 hours. If he covers two - third of this distance in 5/7 of the time, then what should his speed (in km/hr) be to cover the remaining distance in the time left?",
+      "o": [
+        "86.5",
+        "46.5",
+        "66.5",
+        "34.5"
+      ],
+      "ans": 0,
+      "exp": "• Total Distance = 519 km. Total Time = 7 hours.\n• Distance covered = 2/3 of 519 = $2 \\times 173 = 346$ km.\n• Remaining Distance = $519 - 346 = 173$ km.\n• Time taken = 5/7 of 7 hours = 5 hours.\n• Remaining Time = $7 - 5 = 2$ hours.\n• Required Speed = Remaining Distance / Remaining Time\n• Speed = $173 / 2 = 86.5$ km/hr."
+    },
+    {
+      "id": 89,
+      "s": "Reasoning",
+      "st": "Blood Relations",
+      "q": "In a certain code language, A + B means ‘A is the mother of B’, A – B means ‘A is the brother of B’, A × B means ‘A is the wife of B’ and A ÷ B means ‘A is the father of B’. How is M related to Q if ‘M + N × O ÷ P – Q’?",
+      "o": [
+        "Father's sister",
+        "Mother's mother",
+        "Father's mother",
+        "Mother's sister"
+      ],
+      "ans": 1,
+      "exp": "• Relation: M + N × O ÷ P – Q\n• M is mother of N.\n• N is wife of O.\n• O is father of P.\n• P is brother of Q.\n• Family Tree: M (Female) → N (Female) = O (Male) → P (Male) & Q.\n• N is the mother of P and Q.\n• M is the mother of N.\n• Therefore, M is the Mother's mother (Maternal Grandmother) of Q."
+    },
+    {
+      "id": 90,
+      "s": "Reasoning",
+      "st": "Letter Series",
+      "q": "What should come in place of the question mark (?) in the given series based on the English alphabetical order? XBF UYC RVZ OSW ?",
+      "o": [
+        "TPL",
+        "TLP",
+        "LTP",
+        "LPT"
+      ],
+      "ans": 0
+    },
+    {
+      "id": 91,
+      "s": "General Awareness",
+      "st": "Judiciary",
+      "q": "Which type of subordinate court primarily handles disputes related to property ownership and contractual agreements?",
+      "o": [
+        "Civil Courts",
+        "Criminal Courts",
+        "Revenue Courts",
+        "Family Courts"
+      ],
+      "ans": 0,
+      "exp": "Civil Courts deal with disputes regarding property, contracts, torts, and other non-criminal matters."
+    },
+    {
+      "id": 92,
+      "s": "Reasoning",
+      "st": "Coding-Decoding",
+      "q": "FARM is related to CXOJ in a certain way based on the English alphabetical order. In the same way, FRESH is related to COBPE. To which of the given options is RICH related, following the same logic?",
+      "o": [
+        "OEZF",
+        "OFZE",
+        "OFZF",
+        "OEZE"
+      ],
+      "ans": 1,
+      "exp": "• Pattern: Subtract 3 from each letter position (-3).\n• R(18) - 3 = O(15)\n• I(9) - 3 = F(6)\n• C(3) - 3 = Z(26)\n• H(8) - 3 = E(5)\n• Code: OFZE."
+    },
+    {
+      "id": 93,
+      "s": "Computer",
+      "st": "MS Office",
+      "q": "What is the purpose of the Slide Master in MS PowerPoint?",
+      "o": [
+        "To apply consistent formatting, fonts, and layouts to all slides",
+        "To export slides as images",
+        "To delete multiple slides at once",
+        "To insert animations and transitions"
+      ],
+      "ans": 0,
+      "exp": "The Slide Master is the top slide in a hierarchy of slides that stores information about the theme and slide layouts of a presentation, including the background, color, fonts, effects, placeholder sizes, and positioning."
+    },
+    {
+      "id": 94,
+      "s": "Mathematics",
+      "st": "Statistics",
+      "q": "The median of the observations 76, 83, 30, 11, 81, 52, 18, 34, 84, 35 and 27 is:",
+      "o": [
+        "30",
+        "35",
+        "52",
+        "34"
+      ],
+      "ans": 1,
+      "exp": "• Arrange in ascending order: 11, 18, 27, 30, 34, 35, 52, 76, 81, 83, 84.\n• Total terms (n) = 11 (Odd).\n• Median = $(n+1)/2$-th term = 6th term.\n• 6th term is 35."
+    },
+    {
+      "id": 95,
+      "s": "Mathematics",
+      "st": "Statistics",
+      "q": "The mode and median of a data set is 28.4 and 88, respectively. What is the mean of the data set? (Use empirical formula.)",
+      "o": [
+        "114.2",
+        "119.2",
+        "117.8",
+        "127.7"
+      ],
+      "ans": 2,
+      "exp": "• Empirical Formula: Mode = 3(Median) - 2(Mean).\n• $28.4 = 3(88) - 2(\\text{Mean})$\n• $28.4 = 264 - 2\\text{Mean}$\n• $2\\text{Mean} = 264 - 28.4 = 235.6$\n• $\\text{Mean} = 117.8$."
+    },
+    {
+      "id": 96,
+      "s": "Mathematics",
+      "st": "Profit and Loss",
+      "q": "The marked price of a bed is ₹517, which is 30% above the cost price. If the profit percent is 2%. Find the discount percentage. (rounded off to two decimal places)",
+      "o": [
+        "18.57%",
+        "24.06%",
+        "20.36%",
+        "21.54%"
+      ],
+      "ans": 3,
+      "exp": "• $MP = 130\\%$ of $CP = 517 \\Rightarrow CP = 517 / 1.3 = 397.69$.\n• Profit = 2%. $SP = 102\\%$ of $CP = 1.02 \\times 397.69 \\approx 405.64$.\n• Discount = $MP - SP = 517 - 405.64 = 111.36$.\n• Discount % = $(111.36 / 517) \\times 100 \\approx 21.54\\%$."
+    },
+    {
+      "id": 97,
+      "s": "Reasoning",
+      "st": "Analogy",
+      "q": "67 is related to 74 following a certain logic. Following the same logic, 13 is related to 20. To which of the following is 52 related, following the same logic?",
+      "o": [
+        "63",
+        "57",
+        "59",
+        "61"
+      ],
+      "ans": 2,
+      "exp": "• Logic: Number + 7 = Result.\n• $67 + 7 = 74$.\n• $13 + 7 = 20$.\n• $52 + 7 = 59$."
+    },
+    {
+      "id": 98,
+      "s": "Reasoning",
+      "st": "Coding-Decoding",
+      "q": "A group of numbers/symbols is coded using letter codes as per the codes given below and the conditions that follow. If none of the conditions apply, then codes for the respective number/symbol to be followed directly as given in the table. \n![](https://cdn.jsdelivr.net/gh/Ashwin-Temp/exam-master-assets/images/reasoning/tabl2.webp)\nConditions: (i) First symbol, last number = Interchange. (ii) First odd, last even = Both coded as ©. (iii) 2nd and 3rd perfect squares = 3rd coded as 2nd. Group: 7 2 @ 1 3 &",
+      "o": [
+        "W A Z R T M",
+        "W A R Z T M",
+        "M A Z T R W",
+        "M A Z R T W"
+      ],
+      "ans": 0,
+      "exp": "• Group: 7 2 @ 1 3 &\n• 7 (Odd Num), 2 (Num), @ (Symbol), 1 (Num), 3 (Num), & (Symbol).\n• Check conditions:\n• (i) First Symbol? No (7 is Num).\n• (ii) First Odd (7) and Last Even (& is Symbol)? No.\n• (iii) 2nd (2) and 3rd (@) Perfect Squares? No.\n• No conditions apply. Use direct codes:\n• 7=W, 2=A, @=Z, 1=R, 3=T, &=M.\n• Result: W A Z R T M."
+    },
+    {
+      "id": 99,
+      "s": "General Awareness",
+      "st": "History",
+      "q": "Who among the following was known for promoting inter-caste and inter-religious marriages through legislation?",
+      "o": [
+        "Annie Besant",
+        "Pandita Ramabai",
+        "Raja Ram Mohan Roy",
+        "Sir Syed Ahmed Khan"
+      ],
+      "ans": 2,
+      "exp": "Raja Ram Mohan Roy was a pioneer of social reform in India. While the specific \"Civil Marriage Act\" (1872) came later, Roy's Brahmo Samaj movement laid the foundational ideology for casteless marriage and social equality which eventually led to such legislation. (Among the given options, he is the most associated with broad social reform legislation)."
+    },
+    {
+      "id": 100,
+      "s": "Reasoning",
+      "st": "Classification",
+      "q": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group?",
+      "o": [
+        "POR",
+        "SQU",
+        "LJN",
+        "ECG"
+      ],
+      "ans": 0,
+      "exp": "• Check pattern:\n• S(19) - 2 = Q(17); Q(17) + 4 = U(21). Pattern: (-2, +4).\n• L(12) - 2 = J(10); J(10) + 4 = N(14). Pattern: (-2, +4).\n• E(5) - 2 = C(3); C(3) + 4 = G(7). Pattern: (-2, +4).\n• P(16) - 1 = O(15); O(15) + 3 = R(18). Pattern: (-1, +3).\n• POR is the odd one out."
+    }
+  ]
+}
