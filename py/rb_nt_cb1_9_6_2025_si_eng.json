@@ -1,0 +1,1204 @@
+{
+  "q": [
+    {
+      "id": 1,
+      "q": " How many total islands/islets/rocky outcrops are there in the Andaman & Nicobar Islands as per the Andaman and Nicobar Administration?",
+      "img": null,
+      "o": [
+        "836",
+        "1002",
+        "742",
+        "612"
+      ],
+      "a": 0
+    },
+    {
+      "id": 2,
+      "q": " Which organisation does the Ministry of Rural Development cooperate with for rural development in Asia and the Pacific?",
+      "img": null,
+      "o": [
+        "Asian Development Bank (ADB)",
+        "African-Asian Rural Development Organization (AARDO)",
+        "Centre on Integrated Rural Development for Asia and Pacific (CIRDAP)",
+        "World Bank"
+      ],
+      "a": 2
+    },
+    {
+      "id": 3,
+      "q": " Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of ::? \n\n# : QVR :: CHD : %",
+      "img": null,
+      "o": [
+        "# = LQM, % = HMI",
+        "# = PMM, % = JUY",
+        "# = LJM, % = NHG",
+        "# = GYT, % = NYU"
+      ],
+      "a": 0
+    },
+    {
+      "id": 4,
+      "q": " Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements. \n\nStatements: All jams are bands. \nAll bands are sacks. \nNo sack is a can. \n\nConclusions:\nNo jam is a can. \n(II) Some sacks are jams.",
+      "img": null,
+      "o": [
+        "Neither conclusion (I) nor (II) follows.",
+        "Only conclusion (I) follows.",
+        "Only conclusion (II) follows.",
+        "Both conclusions (I) and (II) follow."
+      ],
+      "a": 3
+    },
+    {
+      "id": 5,
+      "q": " Which country ranked highest overall in the Climate Change Performance Index 2025?",
+      "img": null,
+      "o": [
+        "Germany",
+        "France",
+        "Denmark",
+        "Sweden"
+      ],
+      "a": 2
+    },
+    {
+      "id": 6,
+      "q": " NASA astronaut Sunita Williams returned to Earth in March 2025 after her mission aboard a SpaceX capsule. How much time had she spent in space?",
+      "img": null,
+      "o": [
+        "608 days",
+        "502 days",
+        "212 days",
+        "578 days"
+      ],
+      "a": 0
+    },
+    {
+      "id": 7,
+      "q": " Select the set in which the numbers are related in the same way as are the numbers of the following sets. \n\n(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) \n\n(33, 429, 13)\n(44, 220, 5)",
+      "img": null,
+      "o": [
+        "(20, 363, 18)",
+        "(43, 903, 21)",
+        "(30, 363, 12)",
+        "(4, 23, 5)"
+      ],
+      "a": 1
+    },
+    {
+      "id": 8,
+      "q": " In March 2025, which health milestone was remembered on National Vaccination Day?",
+      "img": null,
+      "o": [
+        "Pulse Polio First Dose",
+        "National Vax Mission",
+        "Polio Eradication Drive",
+        "Launch of COVID Vaccine"
+      ],
+      "a": 0
+    },
+    {
+      "id": 9,
+      "q": " If 1 is added to each odd digit and 2 is subtracted from each even digit in the number 5673128, what will be the difference between the digits which are third from the left and second from the right in the new number thus formed?",
+      "img": null,
+      "o": [
+        "9",
+        "6",
+        "7",
+        "8"
+      ],
+      "a": 3
+    },
+    {
+      "id": 10,
+      "q": " If 3 times the mother's present age is 36 years more than 5 times her daughter's age, and 3 times the daughter's age is 4 years less than the mother's age, then what is the difference (in years) between the present ages of the mother and the daughter?",
+      "img": null,
+      "o": [
+        "13",
+        "20",
+        "16",
+        "18"
+      ],
+      "a": 2
+    },
+    {
+      "id": 11,
+      "q": " A shopkeeper marked his goods at X% above their cost price and sold them at a discount of 10%. If he gained 71% profit, then find the value of X.",
+      "img": null,
+      "o": [
+        "91",
+        "89",
+        "92",
+        "90"
+      ],
+      "a": 3
+    },
+    {
+      "id": 12,
+      "q": "While covering a distance of $54$ km, a man noticed that after cycling for $1$ hour $15$ minutes, the distance covered by him was $\\dfrac{7}{9}$ of the remaining distance. What was his speed (in km/hr)?",
+      "img": null,
+      "o": [
+        "18.7",
+        "18.9",
+        "19.9",
+        "19.5"
+      ],
+      "a": 1
+    },
+    {
+      "id": 13,
+      "q": "What should come in place of the question mark (?) in the given series based on the English alphabetical order? \n\nNTZ LRX JPV HNT ?",
+      "img": null,
+      "o": [
+        "RLF",
+        "FRL",
+        "FLR",
+        "RFL"
+      ],
+      "a": 2
+    },
+    {
+      "id": 14,
+      "q": "Which of the following is NOT an industrial corridor planned under the Government of India’s infrastructure initiatives?",
+      "img": null,
+      "o": [
+        "Kolkata-Lucknow Industrial Corridor",
+        "Chennai-Bengaluru Industrial Corridor",
+        "Vizag-Chennai Industrial Corridor",
+        "Delhi-Mumbai Industrial Corridor"
+      ],
+      "a": 0
+    },
+    {
+      "id": 15,
+      "q": "A, B, C, D, E and F live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, number 2 and so on till the topmost floor is numbered 6. \nThe product of floors on which F and D live is 15. E lives immediately above C. The sum of floors on which A and D live is 7. \nWhat is the sum of floors on which A and E live?",
+      "img": null,
+      "o": [
+        "6",
+        "5",
+        "8",
+        "7"
+      ],
+      "a": 0
+    },
+    {
+      "id": 16,
+      "q": "If 1 is added to each odd digit and 2 is subtracted from each even digit in the number 8271634, how many digits will appear more than once in the new number thus formed?",
+      "img": null,
+      "o": [
+        "Two",
+        "None",
+        "One",
+        "Three"
+      ],
+      "a": 0
+    },
+    {
+      "id": 17,
+      "q": "Deepesh has 168 litres of Oil A and 234 litres of Oil B. He fills a number of identical containers with the two types of oil in a manner that each container has only one type of oil, and all containers are completely filled. What can be the maximum volume (in litres) of each container that Deepesh uses, so that all the oil that Deepesh has, of both the types, can be poured into these containers?",
+      "img": null,
+      "o": [
+        "10",
+        "6",
+        "14",
+        "5"
+      ],
+      "a": 1
+    },
+    {
+      "id": 18,
+      "q": " What type of farming is practised in hill regions by cutting slopes into steps?",
+      "img": null,
+      "o": [
+        "Mixed farming",
+        "Extensive farming",
+        "Wetland farming",
+        "Terrace farming"
+      ],
+      "a": 3
+    },
+    {
+      "id": 19,
+      "q": " The length, width and height of a cuboid are in the ratio 10 : 17 : 14, and its total surface area is 1096 cm 2 . Find the length (in cm) of the cuboid.",
+      "img": null,
+      "o": [
+        "17",
+        "10",
+        "1",
+        "5"
+      ],
+      "a": 1
+    },
+    {
+      "id": 20,
+      "q": " Which of the following letter-number clusters will replace the question mark (?) in the given series to make it logically complete? \n\nNQ31, MP40, LO49, KN58, ?",
+      "img": null,
+      "o": [
+        "JN66",
+        "JN67",
+        "JM67",
+        "JM66"
+      ],
+      "a": 2
+    },
+    {
+      "id": 21,
+      "q": " Rishi has ₹1,612 with him. He divided it amongst his sons Shan and Piyush and asked them to invest it at 8% rate of interest per annum, compounded annually. It was seen that Shan and Piyush got the same amount after 19 and 20 years, respectively. How much (in ₹) did Rishi give to Shan?",
+      "img": null,
+      "o": [
+        "₹775",
+        "₹875",
+        "₹687",
+        "₹837"
+      ],
+      "a": 3
+    },
+    {
+      "id": 22,
+      "q": " In a certain code language, ‘how are you’ is coded as ‘jp zl rc’ and ‘are they coming’ is coded as ‘zl qn bt’. How is ‘are’ coded in the given language?",
+      "img": null,
+      "o": [
+        "zl",
+        "bt",
+        "jp",
+        "qn"
+      ],
+      "a": 0
+    },
+    {
+      "id": 23,
+      "q": " In MS Word, which feature allows users to set the margins of a document, affecting the space between the text and the edges of the page?",
+      "img": null,
+      "o": [
+        "Page Borders",
+        "Margins",
+        "Page Layout",
+        "Page Size"
+      ],
+      "a": 1
+    },
+    {
+      "id": 24,
+      "q": " P, Q, R, S, T, U and V are sitting around a circular table facing the centre. Only one person sits between P and V when counted from the right of P. Only one person sits between V and U. Only one person sits between P and Q. Only two people sit between R and U. Only one person sits between T and Q. How many people sit between S and P when counted from the left of S?",
+      "img": null,
+      "o": [
+        "2",
+        "0",
+        "3",
+        "5"
+      ],
+      "a": 3
+    },
+    {
+      "id": 25,
+      "q": " What are the wavelength and type of the laser used in a standard CD-ROM drive?",
+      "img": null,
+      "o": [
+        "400 nm; blue laser",
+        "780 nm; infrared laser",
+        "650 nm; red laser",
+        "850 nm; near-infrared laser"
+      ],
+      "a": 1
+    },
+    {
+      "id": 26,
+      "q": " The fraction equivalent to 8.27272... is:",
+      "img": null,
+      "o": [
+        "$\\dfrac{91}{11}$",
+        "$\\dfrac{89}{8}$",
+        "$\\dfrac{84}{17}$",
+        "$\\dfrac{83}{12}$"
+      ],
+      "a": 0
+    },
+    {
+      "id": 27,
+      "q": " The ratio of incomes of Seema and Darshan is 7 : 8. They save ₹15,000 and ₹9,000, respectively. If the ratio of their expenditures is 11 : 16, then what is the total expenditure (in ₹) of Seema and Darshan?",
+      "img": null,
+      "o": [
+        "68,000",
+        "64,000",
+        "64,125",
+        "63,000"
+      ],
+      "a": 2
+    },
+    {
+      "id": 28,
+      "q": " Some marbles are to be packed in four boxes, A, B, C and D, in the proportion of 6 : 3 : 7 : 5. If box B has 400 less marbles than box D, then how many marbles are there in total in all the boxes?",
+      "img": null,
+      "o": [
+        "4000",
+        "4100",
+        "4200",
+        "3900"
+      ],
+      "a": 2
+    },
+    {
+      "id": 29,
+      "q": " M, N, O, P, Y and Z live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, number 2 and so on till the topmost floor is numbered 6. Only M lives above N.Z lives immediately below N. Only P lives below O. Who lives on floor numbered 3?",
+      "img": null,
+      "o": [
+        "Z",
+        "Y",
+        "M",
+        "O"
+      ],
+      "a": 1
+    },
+    {
+      "id": 30,
+      "q": " Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT belong to that group? (Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster)",
+      "img": null,
+      "o": [
+        "MO - KM",
+        "CG - LP",
+        "SU - QS",
+        "QS - OQ"
+      ],
+      "a": 1
+    },
+    {
+      "id": 31,
+      "q": " The female counterpart of the male Bhangra is called:",
+      "img": null,
+      "o": [
+        "Giddha",
+        "Kalbelia",
+        "Ghoomar",
+        "Garba"
+      ],
+      "a": 0
+    },
+    {
+      "id": 32,
+      "q": " What is the primary function of Alt + Tab in most modern operating systems?",
+      "img": null,
+      "o": [
+        "Switches between open applications",
+        "Minimises the active window",
+        "Opens a new tab in the current application",
+        "Opens Task Manager directly"
+      ],
+      "a": 0
+    },
+    {
+      "id": 33,
+      "q": " Which bank of India will mark its 90th anniversary in 2025?",
+      "img": null,
+      "o": [
+        "Indian Bank",
+        "Punjab National Bank",
+        "Reserve Bank of India",
+        "State Bank of India"
+      ],
+      "a": 2
+    },
+    {
+      "id": 34,
+      "q": " A group of numbers/symbols is coded using letter codes as per the codes given below and the conditions that follow. If none of the conditions apply, then codes for the respective number/symbol to be followed directly as given in the table. \n\n$$ \\begin{array}{|c|c|c|c|c|c|c|c|c|c|c|c|c|} \\hline \\text{Number / Symbol} & 8 & 9 & @ & \\& & 5 & 7 & 2 & \\% & 1 & 3 & \\Delta & 4 & 6 \\\\ \\hline \\text{Code} & L & C & Z & N & D & W & A & P & R & T & F & B & K \\\\ \\hline \\end{array} $$\n\nConditions: \n(i) If the first element is a symbol and the last a number, the codes for these two (the first and the last elements) are to be interchanged. \n(ii) If the first element is an odd number and the last an even number, the first and last elements are to be coded as ©. \n(iii) If both the second and third elements are perfect squares, the third element is to be coded as the code for the second element. What will be the code for the following group? \n7 6 @ 1 3 &",
+      "img": null,
+      "o": [
+        "W K Z R T W",
+        "W K R Z T N",
+        "N K Z R T N",
+        "W K Z R T N"
+      ],
+      "a": 3
+    },
+    {
+      "id": 35,
+      "q": " What is the purpose of creating subfolders when organizing files?",
+      "img": null,
+      "o": [
+        "To change file extensions",
+        "To reduce the file size",
+        "To group related files together for better management",
+        "To automatically back up files to the cloud"
+      ],
+      "a": 2
+    },
+    {
+      "id": 36,
+      "q": " A water tank can be filled in 29 minutes by using 23 pipes of the same capacity. In how many minutes (rounded off to two decimal places) will the water tank be filled if we use 47 pipes of the same capacity as above?",
+      "img": null,
+      "o": [
+        "21.97",
+        "17.43",
+        "14.19",
+        "24.44"
+      ],
+      "a": 2
+    },
+    {
+      "id": 37,
+      "q": " Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT belong to that group? \n(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+      "img": null,
+      "o": [
+        "PS - MP",
+        "GJ - DG",
+        "EH - BE",
+        "RK - JH"
+      ],
+      "a": 3
+    },
+    {
+      "id": 38,
+      "q": " Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of ::? \n\n# : QYE :: BHP : %",
+      "img": null,
+      "o": [
+        "# = RNF, % = WKK",
+        "# = LBZ, % = GEU",
+        "# = WKK, % = LBZ",
+        "# = GEU, % = RNF"
+      ],
+      "a": 1
+    },
+    {
+      "id": 39,
+      "q": " ​F is the brother of G. G is the husband of H. H is the daughter of I. I is the wife of J. How is F related to J?",
+      "img": null,
+      "o": [
+        "Daughter's husband's brother",
+        "Brother",
+        "Father",
+        "Daughter's husband's father"
+      ],
+      "a": 0
+    },
+    {
+      "id": 40,
+      "q": " In the following triads, each group of letters is related to the subsequent one following a certain logic. Select from the given options, the one that follows the same logic. \n\nBAIL - ALIB - LIAB \nDEAF - EFAD - FAED",
+      "img": null,
+      "o": [
+        "LEAN - ELAN - NEAL",
+        "GOLD - ODLG - LGOD",
+        "MEAN - MAEN - NAEM",
+        "BOLD - ODLB - DLOB"
+      ],
+      "a": 3
+    },
+    {
+      "id": 41,
+      "q": " What was the theme of Expo 2025 in Osaka, Japan?",
+      "img": null,
+      "o": [
+        "Connecting Minds, Creating the Future",
+        "Designing Future Society for Our Lives",
+        "Better City, Better Life",
+        "Feeding the Planet, Energy for Life"
+      ],
+      "a": 1
+    },
+    {
+      "id": 42,
+      "q": " In India, which region is NOT suitable for tube-well irrigation due to non-alluvial tracts?",
+      "img": null,
+      "o": [
+        "Plateau regions",
+        "Coastal Plains",
+        "Punjab",
+        "Western Uttar Pradesh"
+      ],
+      "a": 0
+    },
+    {
+      "id": 43,
+      "q": " In MS Word, which command allows users to duplicate a selected block of text and place the copy at a different location within the same document or another document?",
+      "img": null,
+      "o": [
+        "Copy and Paste",
+        "Drag and Drop",
+        "Cut",
+        "Paste Special"
+      ],
+      "a": 0
+    },
+    {
+      "id": 44,
+      "q": " Select the triad that follows the same pattern as that followed by the two triads given below. Both triads follow the same pattern. \nKF-MH-OQ \nID-KF-MO",
+      "img": null,
+      "o": [
+        "GB-ID-KN",
+        "HB-ID-KN",
+        "HB-IC-KN",
+        "GB-ID-KM"
+      ],
+      "a": 3
+    },
+    {
+      "id": 45,
+      "q": " What is the primary role of the Gram Panchayat in the Panchayati Raj System in India?",
+      "img": null,
+      "o": [
+        "To conduct provincial elections, helping the Election Commission",
+        "To act as the judicial forum for local disputes",
+        "To manage urban infrastructure",
+        "To serve as the executive body of village self-government"
+      ],
+      "a": 3
+    },
+    {
+      "id": 46,
+      "q": " Kavish ranked 38 th from the top and 15 th from the bottom in his class. How many students are there in his class?",
+      "img": null,
+      "o": [
+        "50",
+        "52",
+        "53",
+        "51"
+      ],
+      "a": 1
+    },
+    {
+      "id": 47,
+      "q": "Simplify: $$ 81 + \\dfrac{76}{2} + 42 - 86 $$",
+      "img": null,
+      "o": [
+        "81",
+        "72",
+        "75",
+        "85"
+      ],
+      "a": 2
+    },
+    {
+      "id": 48,
+      "q": " Vijay’s salary was first reduced by 16% and subsequently raised by 11%. What percentage was his final salary lower compared to his initial salary?",
+      "img": null,
+      "o": [
+        "6.76%",
+        "16%",
+        "1.76%",
+        "11%"
+      ],
+      "a": 0
+    },
+    {
+      "id": 49,
+      "q": " The 'Tirabhukti' mentioned in Gupta inscriptions corresponds to present-day ______.",
+      "img": null,
+      "o": [
+        "Madhya Pradesh",
+        "Bihar",
+        "Bengal",
+        "Odisha"
+      ],
+      "a": 1
+    },
+    {
+      "id": 50,
+      "q": " What name do the Jarawa tribe use to refer to their home in the Andaman Islands?",
+      "img": null,
+      "o": [
+        "Rangbang",
+        "Chaddhas",
+        "Morung",
+        "Gitiora"
+      ],
+      "a": 1
+    },
+    {
+      "id": 51,
+      "q": " Which of the following statements accurately reflect the outcomes of the 2024 Jammu and Kashmir Assembly elections? \n\n1. The Congress-JKNC alliance secured a majority with 48 seats. \n2. The BJP emerged as the single largest party with 29 seats. \n3. Voter turnout was recorded at 63.88%, showing a significant rise compared to the recently concluded Lok Sabha election. \n4. The newly elected assembly holds full legislative powers equivalent to other Indian states.",
+      "img": null,
+      "o": [
+        "Only 1, 3 and 4",
+        "Only 1 and 3",
+        "Only 2 and 4",
+        "Only 1, 2 and 3"
+      ],
+      "a": 1
+    },
+    {
+      "id": 52,
+      "q": " The ratio of the lengths of two corresponding sides of two similar triangles is 15 : 14. The ratio of the areas of these two triangles, in the order mentioned, is:",
+      "img": null,
+      "o": [
+        "15 : 14",
+        "226 : 197",
+        "225 : 196",
+        "15√15 : 14"
+      ],
+      "a": 2
+    },
+    {
+      "id": 53,
+      "q": " In November 2024, the birth anniversary of the tribal leader Birsa Munda was celebrated as:",
+      "img": null,
+      "o": [
+        "Adivasi Swabhiman Diwas",
+        "Vanvasi Diwas",
+        "Janjatiya Gaurav Divas",
+        "Tribal Freedom Day"
+      ],
+      "a": 2
+    },
+    {
+      "id": 54,
+      "q": " In a certain code language, ‘FUSE’ is coded as ‘3517’ and ‘SING’ is coded as ‘2458’. What is the code for ‘S’ in the given code language?",
+      "img": null,
+      "o": [
+        "5",
+        "1",
+        "8",
+        "2"
+      ],
+      "a": 0
+    },
+    {
+      "id": 55,
+      "q": " For a regular polygon, the sum of the interior angles is 250% more than the sum of its exterior angles. Each interior angle of the polygon measures x°. What is the value of x?",
+      "img": null,
+      "o": [
+        "140",
+        "150",
+        "145",
+        "120"
+      ],
+      "a": 0
+    },
+    {
+      "id": 56,
+      "q": "If goods are purchased at ₹450 and $\\dfrac{1}{3}$ are sold at a loss of $10\\%$, at what gain percentage should the remainder be sold so as to gain $20\\%$ on the whole transaction?",
+      "img": null,
+      "o": [
+        "32%",
+        "28%",
+        "26%",
+        "35%"
+      ],
+      "a": 3
+    },
+    {
+      "id": 57,
+      "q": "The value of $3 + \\tan^2\\phi + \\cot^2\\phi - \\sec^2\\phi \\cosec^2\\phi$ is:",
+      "img": null,
+      "o": [
+        "1",
+        "2",
+        "−1",
+        "0"
+      ],
+      "a": 0
+    },
+    {
+      "id": 58,
+      "q": " Refer to the following letter and symbol series and answer the question that follows. Counting to be done from left to right only. \n\n(Left) 7 * £ 5 8 $ 7 3 * 9 & % 4 6 @ 9 # 1 & 3 Ω (Right) \n\nHow many such symbols are there each of which is immediately preceded by a symbol and also immediately followed by a number?",
+      "img": null,
+      "o": [
+        "Four",
+        "Two",
+        "One",
+        "Three"
+      ],
+      "a": 1
+    },
+    {
+      "id": 59,
+      "q": " This question is based on the five, three-digit numbers given below. \n\n(Left) 535 647 232 804 152 (Right) \n(Example: 697 – First digit = 6, second digit = 9 and third digit = 7) (NOTE: All operations to be done from left to right.) \n\nWhat will be the resultant if the second digit of the highest number is subtracted from the third digit of the lowest number?",
+      "img": null,
+      "o": [
+        "3",
+        "1",
+        "5",
+        "2"
+      ],
+      "a": 3
+    },
+    {
+      "id": 60,
+      "q": " Which country became the first in Africa to be acknowledged by the World Health Organization (WHO) for eliminating onchocerciasis (river blindness) in early 2025?",
+      "img": null,
+      "o": [
+        "Botswana",
+        "Italy",
+        "Niger",
+        "South Africa"
+      ],
+      "a": 2
+    },
+    {
+      "id": 61,
+      "q": " During the 2025 demonstration, which types of drones were successfully destroyed by DRDO’s DEW Mk-II(A)?",
+      "img": null,
+      "o": [
+        "Fixed-wing UAVs and Swarm drones",
+        "Helicopter drones",
+        "Underwater drones",
+        "Racing drones"
+      ],
+      "a": 0
+    },
+    {
+      "id": 62,
+      "q": "Find the roots of $5m^2 + 18m + 16 = 0$.",
+      "img": null,
+      "o": [
+        "$-\\dfrac{8}{5}$ and $4$",
+        "$\\dfrac{8}{5}$ and $-4$",
+        "$\\dfrac{8}{5}$ and $2$",
+        "$-\\dfrac{8}{5}$ and $-2$"
+      ],
+      "a": 3
+    },
+    {
+      "id": 63,
+      "q": " The Chuar Rebellion, which emerged as a culmination of the economic grievances of ordinary peasants and hereditary workers, reached its peak during which of the following years?",
+      "img": null,
+      "o": [
+        "1710-11",
+        "1798-99",
+        "1857-58",
+        "1901-02"
+      ],
+      "a": 1
+    },
+    {
+      "id": 64,
+      "q": " Refer to the following number and symbol series and answer the question that follows. Counting to be done from left to right only. \n\n(Left) 4 6 & 8 $ 7 & 3 9 # % 4 6 @ £ 5 Ω 9 # 1 * 7 (Right) \n\nHow many such numbers are there each of which is immediately preceded by a symbol and also immediately followed by another number?",
+      "img": null,
+      "o": [
+        "One",
+        "Three",
+        "Two",
+        "Four"
+      ],
+      "a": 2
+    },
+    {
+      "id": 65,
+      "q": " In March 2025, NITI Aayog released the 'Future Front: Quarterly Frontier Tech Insights' report. What is the primary focus of this report?​",
+      "img": null,
+      "o": [
+        "Evaluating advancements and investments in quantum computing technologies",
+        "Assessing India's agricultural productivity trends",
+        "Analysing the impact of climate change on coastal regions",
+        "Reviewing the performance of state-run healthcare programs​"
+      ],
+      "a": 0
+    },
+    {
+      "id": 66,
+      "q": " Prakesh starts from point A and drives 11 km towards the south. He then takes a right turn, drives 7 km, turns right and drives 13 km. He then takes a right turn and drives 9 km. He takes a final right turn, drives 2 km and stops at point P. How far (shortest distance) and towards which direction should he drive in order to reach point A again? (All turns are 90 degree turns only unless specified.)",
+      "img": null,
+      "o": [
+        "3 km to the west",
+        "2 km to the east",
+        "2 km to the west",
+        "1 km to the west"
+      ],
+      "a": 2
+    },
+    {
+      "id": 67,
+      "q": "If $x - \\dfrac{1}{x} = 3$, then the value of $x^4 + \\dfrac{1}{x^4}$ is:",
+      "img": null,
+      "o": [
+        "19",
+        "196",
+        "176",
+        "119"
+      ],
+      "a": 3
+    },
+    {
+      "id": 68,
+      "q": " In November 2024, India and Singapore conducted a joint military exercise named Agni Warrior 2024. Where was this exercise held?​",
+      "img": null,
+      "o": [
+        "Devlali, Maharashtra",
+        "Pulgaon, Maharashtra",
+        "Babina, Uttar Pradesh",
+        "Jaisalmer, Rajasthan​"
+      ],
+      "a": 0
+    },
+    {
+      "id": 69,
+      "q": " Kapil starts from point A and drives 9 km towards west. He then takes a right turn, drives 1 km, turns right and drives 5 km. He then takes a left turn and drives 3 km. He then takes a left turn and drive 5 km. He then takes a right turn and drives 8 km. He takes a final right turn, drives 9 km and stops at point P. How far (shortest distance) and towards which direction should he drive in order to reach point A again (all turns are 90° turns only unless specified)?",
+      "img": null,
+      "o": [
+        "12 km north",
+        "10 km south",
+        "12 km south",
+        "11 km north"
+      ],
+      "a": 2
+    },
+    {
+      "id": 70,
+      "q": " What is the target length for the development of a national highway network in India by 2025?",
+      "img": null,
+      "o": [
+        "1 lakh km",
+        "2 lakh km",
+        "1.5 lakh km",
+        "2.5 lakh km"
+      ],
+      "a": 1
+    },
+    {
+      "id": 71,
+      "q": " X is directly proportional to $A^2$ and A is inversely proportional to Y. If X is 97 when Y is 6, find X when Y is 2.",
+      "img": null,
+      "o": [
+        "873",
+        "871",
+        "872",
+        "875"
+      ],
+      "a": 0
+    },
+    {
+      "id": 72,
+      "q": " A person saves 40% of his income. If his expenditure is ₹960, then his income (in ₹) is:",
+      "img": null,
+      "o": [
+        "1,640",
+        "576",
+        "1,600",
+        "384"
+      ],
+      "a": 2
+    },
+    {
+      "id": 73,
+      "q": " What prompted changes in the State Co-operative Societies Acts?",
+      "img": null,
+      "o": [
+        "Poor quality of functioning",
+        "Political interests",
+        "Limited number of societies",
+        "Rise in taxes"
+      ],
+      "a": 0
+    },
+    {
+      "id": 74,
+      "q": " What was the Total Fertility Rate (TFR) in India as per the latest National Family Health Survey - 5 (2019-21)?",
+      "img": null,
+      "o": [
+        "2.2",
+        "2.0",
+        "2.1",
+        "2.3"
+      ],
+      "a": 1
+    },
+    {
+      "id": 75,
+      "q": " Babita travels a certain distance at a speed of 11 km/hr and double the earlier distance at 44 km/hr. She then returns to the starting point through the same route. If her average speed for the entire journey is 34 km/hr, then what is her speed (in km/hr) for the return journey?",
+      "img": null,
+      "o": [
+        "70",
+        "79",
+        "74.8",
+        "76.8"
+      ],
+      "a": 2
+    },
+    {
+      "id": 76,
+      "q": " If the volume of a right circular cone of height 30 cm is 160π cm 3 , find the diameter of its base.",
+      "img": null,
+      "o": [
+        "13 cm",
+        "16 cm",
+        "8 cm",
+        "7 cm"
+      ],
+      "a": 2
+    },
+    {
+      "id": 77,
+      "q": " The first armed tribal rebellion against the British is considered to have taken place in:",
+      "img": null,
+      "o": [
+        "1768",
+        "1784",
+        "1800",
+        "1795"
+      ],
+      "a": 1
+    },
+    {
+      "id": 78,
+      "q": " What should come in place of the question mark (?) in the given series? \n\n401 400 397 392 385 ?",
+      "img": null,
+      "o": [
+        "375",
+        "372",
+        "374",
+        "376"
+      ],
+      "a": 3
+    },
+    {
+      "id": 79,
+      "q": " A man bought 8 shirts at ₹550 each,10 pants at ₹1,000 each and 12 pairs of shoes at ₹850 each pair. What is the average expenditure per article?",
+      "img": null,
+      "o": [
+        "₹820",
+        "₹840",
+        "₹826",
+        "₹836"
+      ],
+      "a": 0
+    },
+    {
+      "id": 80,
+      "q": " The average weight of A, B and C is 45 kg. If the average weight of A and B is 40 kg and that of B and C is 42 kg, then the weight of B (in kg) is:",
+      "img": null,
+      "o": [
+        "39",
+        "44",
+        "29",
+        "19"
+      ],
+      "a": 2
+    },
+    {
+      "id": 81,
+      "q": " Which languages were added to the Eighth Schedule by the 71 st Amendment Act, 1992?",
+      "img": null,
+      "o": [
+        "Sindhi, Tamil and Urdu",
+        "Konkani, Manipuri and Nepali",
+        "Bodo, Santhali and Maithili",
+        "Kannada, Telugu and Marathi"
+      ],
+      "a": 1
+    },
+    {
+      "id": 82,
+      "q": " In one of his famous works, Yahya bin Ahmad Sirhindi claims that the founder of _____ was a descendant of the Prophet.",
+      "img": null,
+      "o": [
+        "Ghaznavid Dynasty",
+        "Tughlaq Dynasty",
+        "Ghurid Dynasty",
+        "Sayyid Dynasty"
+      ],
+      "a": 3
+    },
+    {
+      "id": 83,
+      "q": " If '−' means '÷', '÷' means '×', '×' means '+' and '+' means '−', then what will come in place of the question mark (?) in the following equation? \n\n5 × 39 ÷ 1407 − 3 + 11562 = ?",
+      "img": null,
+      "o": [
+        "6734",
+        "9074",
+        "3426",
+        "1120"
+      ],
+      "a": 0
+    },
+    {
+      "id": 84,
+      "q": " Rakesh invests a sum of ₹5,000 and Shivam invests a sum of ₹9,000 at the same rate of simple interest per annum. If, at the end of 3 years, Shivam gets ₹360 more interest than Rakesh, then find the rate of interest per annum (in percentage).",
+      "img": null,
+      "o": [
+        "1%",
+        "2%",
+        "3%",
+        "5%"
+      ],
+      "a": 2
+    },
+    {
+      "id": 85,
+      "q": " How many molecules are present in 2 moles of CO ₂ ?",
+      "img": null,
+      "o": [
+        "6.022 × 10²³",
+        "1.2044 × 10²⁴",
+        "3.011 × 10²³",
+        "12.044 × 10²³"
+      ],
+      "a": 1
+    },
+    {
+      "id": 86,
+      "q": " In which of the following dance forms vocal music is not used?",
+      "img": null,
+      "o": [
+        "Bharatanatyam",
+        "Chhau",
+        "Kathak",
+        "Odissi"
+      ],
+      "a": 1
+    },
+    {
+      "id": 87,
+      "q": " Which statement is correct with reference to artificially produced elements?",
+      "img": null,
+      "o": [
+        "They are short-lived.",
+        "They are long-lived.",
+        "They are found in all groups of the table.",
+        "They are stable like natural elements."
+      ],
+      "a": 0
+    },
+    {
+      "id": 88,
+      "q": " Select the number from among the given options that can replace the question mark (?) in the following series. \n\n29 33 41 53 ? 89 113",
+      "img": null,
+      "o": [
+        "71",
+        "79",
+        "63",
+        "69"
+      ],
+      "a": 3
+    },
+    {
+      "id": 89,
+      "q": " The original price of a music set is ₹8,000. The price is decreased by 12% and then raised by 25%. What is its new price (in ₹)?",
+      "img": null,
+      "o": [
+        "8,100",
+        "8,300",
+        "8,800",
+        "9,300"
+      ],
+      "a": 2
+    },
+    {
+      "id": 90,
+      "q": "What is the mean of the following distribution? $$ \\begin{array}{|c|c|c|c|c|c|} \\hline \\text{Marks} & 14 & 26 & 44 & 61 & 84 \\\\ \\hline \\text{No. of Students} & 91 & 78 & 95 & 36 & 98 \\\\ \\hline \\end{array} $$",
+      "img": null,
+      "o": [
+        "45",
+        "46",
+        "54",
+        "69"
+      ],
+      "a": 0
+    },
+    {
+      "id": 91,
+      "q": " F, G, H, I, J, K and X are sitting around a circular table facing the centre of the table. H sits to the immediate right of F. Only three people sit between H and G when counted from the left of H. X sits third to the right of F. I sits to the immediate right of K. How many people sit between J and K when counted from the left of K?",
+      "img": null,
+      "o": [
+        "Two",
+        "One",
+        "Four",
+        "Three"
+      ],
+      "a": 0
+    },
+    {
+      "id": 92,
+      "q": " Which country lies to the east of Arunachal Pradesh?",
+      "img": null,
+      "o": [
+        "Bangladesh",
+        "Bhutan",
+        "Myanmar",
+        "China"
+      ],
+      "a": 2
+    },
+    {
+      "id": 93,
+      "q": " A can lay a railway track between two given stations in 8 days and B can do the same job in 24 days. With the help of C, they can do the job in 3 days. C alone can do the job in:",
+      "img": null,
+      "o": [
+        "7 days",
+        "8 days",
+        "6 days",
+        "9 days"
+      ],
+      "a": 2
+    },
+    {
+      "id": 94,
+      "q": " What will come in the place of the question mark (?) in the following equation, if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged? \n\n36 ÷ 15 − 175 × 5 + 11 =?",
+      "img": null,
+      "o": [
+        "524",
+        "564",
+        "464",
+        "484"
+      ],
+      "a": 1
+    },
+    {
+      "id": 95,
+      "q": " A new mutation allows Plasmodium falciparum to exit the liver without maturing into merozoites. What would be the immediate consequence?",
+      "img": null,
+      "o": [
+        "Absence of RBC rupture and reduced clinical symptoms",
+        "Direct infection of alveoli",
+        "Increased severity of disease",
+        "Immediate immune response and clearance"
+      ],
+      "a": 0
+    },
+    {
+      "id": 96,
+      "q": " Which authority decides citizenship for people in newly added territories?",
+      "img": null,
+      "o": [
+        "Union Government",
+        "Supreme Court",
+        "State Government",
+        "Election Commission"
+      ],
+      "a": 0
+    },
+    {
+      "id": 97,
+      "q": " Bholanath Singh was the leader of which of the following revolts?",
+      "img": null,
+      "o": [
+        "Wahabi Movement",
+        "Santhal Revolt",
+        "Tamar Revolt",
+        "Farazi Movement"
+      ],
+      "a": 2
+    },
+    {
+      "id": 98,
+      "q": " Which Indian Constitutional Amendment Act has NOT amended anything in the Directive Principles of the State Policy?",
+      "img": null,
+      "o": [
+        "86 th Amendment Act",
+        "42 nd Amendment Act",
+        "48 th Amendment Act",
+        "97 th Amendment Act"
+      ],
+      "a": 2
+    },
+    {
+      "id": 99,
+      "q": "The value of $$ 17^3 - 10^2 + \\left(\\dfrac{26}{13}\\right)^2 - 12 + 20 \\times 12 $$ is:",
+      "img": null,
+      "o": [
+        "5040",
+        "5046",
+        "5055",
+        "5045"
+      ],
+      "a": 3
+    },
+    {
+      "id": 100,
+      "q": " The arithmetic mean of the observations 79, 92, 39, 57, 91, 28, 74, 90 and 44 is:",
+      "img": null,
+      "o": [
+        "59",
+        "61",
+        "66",
+        "71"
+      ],
+      "a": 2
+    }
+  ]
+}
