@@ -566,7 +566,9 @@
     },
     {
       "id": 48,
-      "q": "A group of numbers/symbols is coded using letter codes as per the codes given below and the conditions that follow. If none of the conditions apply, then codes for the respective number/symbol to be followed directly as given in the table.\n![](https://cdn.jsdelivr.net/gh/Ashwin-Temp/exam-master-assets/images/reasoning/copyrigt-question.webp)\nConditions: \n(i) If the first element is a symbol and the last a number, the codes for these two (the first and the last elements) are to be interchanged. \n(ii) If the first element is an odd number and the last an even number, the first and last elements are to be coded as ©. \n(iii) If both the second and third elements are perfect squares, the third element is to be coded as the code for the second element. \n\nWhat will be the code for the following group? \n@ 9 7 8 3",
+
+  "q": "A group of numbers/symbols is coded using letter codes as per the codes given below and the conditions that follow. If none of the conditions apply, then codes for the respective number/symbol are to be followed directly as given in the table.\n\n![](https://cdn.jsdelivr.net/gh/Ashwin-Temp/exam-master-assets/images/reasoning/copyrigt-question.webp)\n\n$$\n\\begin{array}{|c|c|c|c|c|c|c|c|c|c|c|c|c|}\n\\hline\n\\text{Number / Symbol} & 8 & 9 & @ & \\& & 5 & 7 & 2 & \\% & 1 & 3 & \\Delta & 4 & 6 \\\\\n\\hline\n\\text{Code} & L & C & Z & N & D & W & A & P & R & T & F & B & K \\\\\n\\hline\n\\end{array}\n$$\n\nConditions:\n(i) If the first element is a symbol and the last a number, the codes for these two (the first and the last elements) are to be interchanged.\n(ii) If the first element is an odd number and the last an even number, the first and last elements are to be coded as ©.\n(iii) If both the second and third elements are perfect squares, the third element is to be coded as the code for the second element.\n\nWhat will be the code for the following group?\n@ 9 7 8 3",
+
       "img": null,
       "o": [
         "L C Z T W",
