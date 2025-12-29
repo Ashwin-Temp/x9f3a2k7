@@ -5,6 +5,7 @@
       "id": "full_mock_en_1",
       "title": "RRB NTPC: Full Length Mock Test",
       "questions": 100,
+      "duration": 90,
       "language": "en",
       "phase": "full",
       "ts": 1766997120000
@@ -13,6 +14,7 @@
       "id": "full_mock_hi_1",
       "title": "RRB NTPC: Full Length Mock Test",
       "questions": 100,
+      "duration": 90,
       "language": "hi",
       "phase": "full",
       "ts": 1766997120000
@@ -21,6 +23,7 @@
       "id": "full_mock_en_2",
       "title": "RRB NTPC: Practice Test",
       "questions": 100,
+      "duration": 90,
       "language": "en",
       "phase": "standard",
       "ts": 1766900000000
@@ -29,6 +32,7 @@
       "id": "full_mock_hi_2",
       "title": "RRB NTPC: Practice Test",
       "questions": 100,
+      "duration": 90,
       "language": "hi",
       "phase": "standard",
       "ts": 1766900000000
