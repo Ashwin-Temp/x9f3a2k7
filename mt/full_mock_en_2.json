@@ -1,0 +1,1106 @@
+{
+  "p":"Practice Test",
+  "d": 90,
+  "q": [
+    {
+      "q": "A, B, C, D, E and F live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, number 2 and so on till the topmost floor is numbered 6. A lives on a floor which is a prime number. The product of floors on which A and E live is 3. Only 2 people live above B. F lives immediately below C. How many people live between D and F?",
+      "o": [
+        "Three",
+        "Four",
+        "One",
+        "Two"
+      ],
+      "a": null,
+      "exp": "• Product of A and E is 3. Since floor numbers are integers 1-6, floors must be 1 and 3.\n• A is on a Prime floor, so A = 3, E = 1.\n• Only 2 people live above B -> B is on Floor 4.\n• F lives immediately below C. Available spots are 6, 5 and 2. The only consecutive spots are 6 and 5. So C = 6, F = 5.\n• Remaining person D is on Floor 2.\n• Order (6 to 1): C, F, B, A, D, E.\n• People between D (Floor 2) and F (Floor 5) are A and B. Count = 2."
+    },
+    {
+      "q": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of ::? \n\n# : MLD :: VAM : %",
+      "o": [
+        "# = YFP, % = BKS",
+        "# = SVJ, % = YFP",
+        "# = PQG, % = SVJ",
+        "# = BKS, % = PQG"
+      ],
+      "a": 2,
+      "exp": "1. Check relation: VAM → SVJ\n   V → S (−3)\n   A → V (−5, circular)\n   M → J (−3)\n\n2. Pattern = −3, −5, −3\n\n3. Apply same pattern to MLD:\n   M −3 = P\n   L −5 = Q\n   D −3 = G\n\n   ⇒ # = PQG\n\n4. Code corresponding to PQG using same rule:\n   P → S (−3)\n   Q → V (−5)\n   G → J (−3)\n\n   ⇒ % = SVJ\n\n5. Correct answer:\n   **# = PQG, % = SVJ**\n"
+    },
+    {
+      "q": "Simplify: 127 - [7 x (1 - 5 + 4)] ÷ 91",
+      "o": [
+        "135",
+        "133",
+        "127",
+        "118"
+      ],
+      "a": 2,
+      "exp": "1. Solve inside bracket:\n   $$1 - 5 + 4 = 0$$\n\n2. Multiply:\n   $$7 \\times 0 = 0$$\n\n3. Divide:\n   $$0 \\div 91 = 0$$\n\n4. Final calculation:\n   $$127 - 0 = \\mathbf{127}$$\n"
+    },
+    {
+      "q": "In August 2025, Spanish tennis star Carlos Alcaraz won his first-ever Cincinnati Open title after which player retired in the final?",
+      "o": [
+        "Alexander Zverev",
+        "Novak Djokovic",
+        "Jannik Sinner",
+        "Daniil Medvedev"
+      ],
+      "a": 0,
+      "exp": ""
+    },
+    {
+      "q": "Which of the following is the correct way to start a new blank presentation in MS PowerPoint?",
+      "o": [
+        "Press Ctrl + N",
+        "Click File → Open",
+        "Press Ctrl + O",
+        "Click Insert → New Slide"
+      ],
+      "a": 0,
+      "exp": ""
+    },
+    {
+      "q": "This question is based on the five, three-digit numbers given below. (Left) 401 418 733 283 902 (Right). What will be the resultant if the second digit of the highest number is added to the third digit of the lowest number?",
+      "o": [
+        "3",
+        "6",
+        "4",
+        "2"
+      ],
+      "a": null,
+      "exp": "• Highest Number = 902. Second digit = 0.\n• Lowest Number = 283. Third digit = 3.\n• Resultant = 0 + 3 = 3."
+    },
+    {
+      "q": "If the ratio of the quadrilateral's four angles is $\\angle w: \\angle x: \\angle y: \\angle z = 2:3:3:4$, then what is the value of x?",
+      "o": [
+        "$80^{\\circ}$",
+        "$90^{\\circ}$",
+        "$60^{\\circ}$",
+        "$70^{\\circ}$"
+      ],
+      "a": 1,
+      "exp": "1. Sum of angles of a quadrilateral:\n   $$360^\\circ$$\n\n2. Given ratio:\n   $$2 + 3 + 3 + 4 = 12$$\n\n3. One part:\n   $$\\frac{360^\\circ}{12} = 30^\\circ$$\n\n4. Angle x corresponds to 3 parts:\n   $$3 \\times 30^\\circ = \\mathbf{90^\\circ}$$\n"
+    },
+    {
+      "q": "The arithmetic mean of the observations 28, 31, 40, 63, 57, 37, 34, 70 and 99 is:",
+      "o": [
+        "55",
+        "50",
+        "41",
+        "51"
+      ],
+      "a": 3,
+      "exp": "1. Add all observations:\n   $$28+31+40+63+57+37+34+70+99 = 459$$\n\n2. Number of observations = 9\n\n3. Arithmetic mean:\n   $$\\frac{459}{9} = \\mathbf{51}$$\n"
+    },
+    {
+      "q": "If $x - \\dfrac{1}{x} = 4$, then the value of $x^3 - \\dfrac{1}{x^3}$ is:",
+      "o": [
+        "76",
+        "414",
+        "420",
+        "259"
+      ],
+      "a": 0,
+      "exp": "1. Given:\n   $$x - \\frac{1}{x} = 4$$\n\n2. Cube formula:\n   $$\\boxed{(a-b)^3 = a^3 - b^3 - 3ab(a-b)}$$\n\n3. Apply with $a=x,\\ b=\\frac{1}{x}$:\n   $$(x-\\frac{1}{x})^3\n     = x^3 - \\frac{1}{x^3} - 3\\left(x \\cdot \\frac{1}{x}\\right)\\left(x-\\frac{1}{x}\\right)$$\n   $$= x^3 - \\frac{1}{x^3} - 3\\left(x-\\frac{1}{x}\\right)$$\n\n4. Rearranged:\n   $$\\boxed{x^3 - \\frac{1}{x^3} = (x-\\frac{1}{x})^3 + 3\\left(x-\\frac{1}{x}\\right)}$$\n\n5. Substitute value:\n   $$= 4^3 + 3(4) = 64 + 12 = \\mathbf{76}$$\n"
+    },
+    {
+      "q": "Select the number from among the given options that can replace the question mark (?) in the following series. 105 97 89 81 73 ?",
+      "o": [
+        "65",
+        "58",
+        "60",
+        "70"
+      ],
+      "a": null,
+      "exp": "• The series decreases by 8 at each step.\n• 105 - 8 = 97\n• 97 - 8 = 89\n• 89 - 8 = 81\n• 81 - 8 = 73\n• 73 - 8 = 65."
+    },
+    {
+      "q": "How many new greenfield expressways are targeted for construction in India by the financial year 2024-25?",
+      "o": [
+        "30",
+        "10",
+        "15",
+        "22"
+      ],
+      "a": 3,
+      "exp": ""
+    },
+    {
+      "q": "Below are given two sets of numbers. In each set of numbers, a certain mathematical operation on the first number results in the second number. Similarly, a certain mathematical operation on the second number results in the third number and so on. Which of the given options follows the same set of operations as in the question? \n(NOTE – A two/three-digit number cannot be broken into individual digits for operations, e.g. if 37 is followed by 10, the operation cannot be 3+7 as a two-digit number cannot be broken into individual digits.) \n\n11 - 12 - 13 - 26 ; 19 - 20 - 21 - 42",
+      "o": [
+        "9 - 10 - 11 - 24",
+        "3 - 4 - 5 - 12",
+        "7 - 8 - 9 - 18",
+        "4 - 5 - 6 - 10"
+      ],
+      "a": 2,
+      "exp": "1. Observe pattern in given sets:\n   11 → 12 → 13 → 26\n   19 → 20 → 21 → 42\n\n2. Rule:\n   +1, +1, then ×2\n\n3. Check options:\n   7 → 8 (+1)\n   8 → 9 (+1)\n   9 → 18 (×2) ✔\n\n4. Correct answer:\n   **7 - 8 - 9 - 18**\n"
+    },
+    {
+      "q": "The marked price of a shirt is ₹1,200. A shopkeeper offers two successive discounts of 5% and 15% on the marked price. By how many rupees is the selling price less than the marked price?",
+      "o": [
+        "₹231",
+        "₹141",
+        "₹131",
+        "₹241"
+      ],
+      "a": 0,
+      "exp": "1. Successive discounts formula:\n   $$\\boxed{\\text{Net discount \\%} = a + b - \\frac{ab}{100}}$$\n\n2. Here:\n   $$a = 5,\\ b = 15$$\n\n3. Net discount:\n   $$= 5 + 15 - \\frac{5 \\times 15}{100}\n     = 20 - 0.75\n     = 19.25\\%$$\n\n4. Discount amount:\n   $$19.25\\% \\text{ of } 1200\n     = \\frac{19.25}{100} \\times 1200\n     = \\mathbf{231}$$\n\n5. Selling price is less than marked price by:\n   **₹231**\n"
+    },
+    {
+      "q": "The fraction equivalent to 8.27272... is:",
+      "o": [
+        "$\\dfrac{91}{11}$",
+        "$\\dfrac{89}{8}$",
+        "$\\dfrac{84}{17}$",
+        "$\\dfrac{83}{12}$"
+      ],
+      "a": 0,
+      "exp": "1. Given number:\n   $8.27272\\ldots$\n\n2. Non-repeating part = 1 digit (8)\n   Repeating part = 2 digits (27)\n\n3. Write fraction as:\n   $\\dfrac{827 - 8}{99}$\n   (because repeating block has 2 digits ⟶ denominator = 99,\n    subtract the non-repeating part)\n\n4. $\\dfrac{819}{99}$\n\n5. Simplify:\n   $\\dfrac{819}{99} = \\dfrac{91}{11}$\n\nFinal Answer: **$\\dfrac{91}{11}$**\n"
+    },
+    {
+      "q": "What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’ are interchanged, and ‘×’ and ‘÷’ are interchanged? \n\n56 – 12 × 4 ÷ 9 + 5 = ?",
+      "o": [
+        "55",
+        "54",
+        "78",
+        "90"
+      ],
+      "a": 2,
+      "exp": "1. Given: ‘+’ ↔ ‘–’ and ‘×’ ↔ ‘÷’\n2. Modified expression:\n   $$56 + 12 \\div 4 \\times 9 - 5$$\n3. Solve ÷ and × first:\n   $$12 \\div 4 = 3,\\quad 3 \\times 9 = 27$$\n4. Now:\n   $$56 + 27 - 5 = 78$$\n\n**Answer: 78**\n"
+    },
+    {
+      "q": "If the ratio of two numbers is 5 : 3 and the product of their LCM and their HCF is 135, then the sum of the reciprocals of the LCM and the HCF is:",
+      "o": [
+        "16/45",
+        "8/45",
+        "12/35",
+        "4/15"
+      ],
+      "a": null,
+      "exp": "• Let numbers be 5x and 3x.\n• Product of Numbers = Product of LCM × HCF.\n• 5x × 3x = 135 ⇒ 15x² = 135 ⇒ x² = 9 ⇒ x = 3.\n• Numbers are 15 and 9.\n• HCF = 3. LCM = 45.\n• Sum of reciprocals = 1/45 + 1/3 = (1 + 15) / 45 = 16/45."
+    },
+    {
+      "q": "Who among the following is NOT considered a leader of the Moderates in the Indian National Congress?",
+      "o": [
+        "Gopal Krishna Gokhale",
+        "Aurobindo Ghosh",
+        "Dadabhai Naoroji",
+        "Ferozshah Mehta"
+      ],
+      "a": 1,
+      "exp": ""
+    },
+    {
+      "q": "During a sale 50% of the goods are sold at 45% profit, 30% of the remaining goods are sold at 27% profit and the still remaining goods are sold at a loss of 43%. If there is an overall profit of x%, then what is the value of x?",
+      "o": [
+        "11.5",
+        "10",
+        "12",
+        "13"
+      ],
+      "a": 0,
+      "exp": "1. Assume total goods = 100 units, \nCP per unit = 100\n   ⇒ Total CP = 100 × 100 = 10000\n\n2. First sale:\n   50 goods at 45% profit\n   SP = 50 × 145 = 7250\n\n3. Remaining goods = 50\n   Second sale:\n   30% of 50 = 15 goods at 27% profit\n   SP = 15 × 127 = 1905\n\n4. Remaining goods = 35\n   Sold at 43% loss\n   SP = 35 × 57 = 1995\n\n5. Total SP:\n   $$7250 + 1905 + 1995 = 11150$$\n\n6. Overall profit:\n   $$11150 - 10000 = 1150$$\n\n7. Profit %:\n   $$\\frac{1150}{10000} \\times 100 = \\mathbf{11.5\\%}$$\n"
+    },
+    {
+      "q": "Which of the following ratios is the greatest?",
+      "o": [
+        "13:40",
+        "23:45",
+        "19:43",
+        "20:38"
+      ],
+      "a": 3,
+      "exp": "1. Compare ratios using cross-multiplication (one-by-one):\n\n2. 13 : 40 vs 20 : 38\n   13×38 = 494\n   20×40 = 800\n   ⇒ 20 : 38 is bigger\n\n3. 23 : 45 vs 20 : 38\n   23×38 = 874\n   20×45 = 900\n   ⇒ 20 : 38 is bigger\n\n4. 19 : 43 vs 20 : 38\n   19×38 = 722\n   20×43 = 860\n   ⇒ 20 : 38 is bigger\n\n5. Greatest ratio:\n   **20 : 38**\n"
+    },
+    {
+      "q": "Rahul's age is three times the age of his daughter. After 8 years from now, his age will be 5 years more than twice the age of his daughter. Find the present age of Rahul.",
+      "o": [
+        "36 years",
+        "30 years",
+        "33 years",
+        "39 years"
+      ],
+      "a": null,
+      "exp": "• Let Daughter's age = $x$. Rahul's age = $3x$.\n• After 8 years: Daughter = $x+8$, Rahul = $3x+8$.\n• According to the condition: $3x + 8 = 2(x + 8) + 5$\n• $3x + 8 = 2x + 16 + 5$\n• $3x - 2x = 21 - 8$\n• $x = 13$\n• Rahul's present age = $3x = 3 \\times 13 = 39$ years."
+    },
+    {
+      "q": "Which factor plays the most dominant role in the seasonal reversal of wind direction in India?",
+      "o": [
+        "Latitude",
+        "Monsoonal pressure system",
+        "Relief",
+        "Ocean currents"
+      ],
+      "a": 1,
+      "exp": ""
+    },
+    {
+      "q": "In December 2024, Indian Navy Day was celebrated with which theme?",
+      "o": [
+        "Strength and Power through Innovation and Indigenization",
+        "Guardians of the Sea with Strategic Operational Excellence",
+        "Blue Waters and Technological Strength for National Defence",
+        "Innovation and Self-Reliance for Maritime Supremacy in India"
+      ],
+      "a": 0,
+      "exp": "1. Indian Navy Day 2024 was observed in December.\n2. The officially announced theme focused on innovation and indigenization.\n3. Correct answer:\n   **Strength and Power through Innovation and Indigenization**\n"
+    },
+    {
+      "q": "Which Constitutional Amendment Act added the Fundamental Duty to protect and improve the natural environment?",
+      "o": [
+        "42nd Amendment Act",
+        "44th Amendment Act",
+        "86th Amendment Act",
+        "61st Amendment Act"
+      ],
+      "a": 0,
+      "exp": ""
+    },
+    {
+      "q": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of:: is the same as that on the right side of ::? #: JLH :: IKG: %",
+      "o": [
+        "# = FJH, % = MHU",
+        "# = DEG, % = NIU",
+        "# = EGC, % = NPL",
+        "# = FDG, % = MLG"
+      ],
+      "a": null,
+      "exp": "• Logic: The second term is obtained by adding 5 to the position of each letter of the first term.\n• Check Option 3: # = EGC.\n• E(5)+5 = J(10), G(7)+5 = L(12), C(3)+5 = H(8). Matches JLH.\n• Apply to IKG: I(9)+5 = N(14), K(11)+5 = P(16), G(7)+5 = L(12). Matches NPL (%)."
+    },
+    {
+      "q": "What type of assistance is being provided by India to Myanmar under Operation Brahma 2025?",
+      "o": [
+        "Only financial assistance",
+        "Disaster relief material, humanitarian assistance, search & rescue teams",
+        "Only medical assistance",
+        "Only food supplies"
+      ],
+      "a": 1,
+      "exp": ""
+    },
+    {
+      "q": "Who was appointed as the president and chief executive officer of BMW Group India as of September 2025?",
+      "o": [
+        "Anurag Mehrotra",
+        "Santosh Iyer",
+        "Hardeep Singh Brar",
+        "Balbir Singh Dhillon"
+      ],
+      "a": 2,
+      "exp": ""
+    },
+    {
+      "q": "Shyam starts from point A and drives 11 km towards the east. He then takes a right turn, drives 5 km, turns right and drives 12 km. He then takes a right turn and drives 10 km. He takes a final right turn, drives 1 km and stops at point P. How far (shortest distance) and towards which direction should he drive in order to reach point A again? (All turns are 90 degree turns only unless specified.)",
+      "o": [
+        "5 km to the north",
+        "5 km to the south",
+        "4 km to the south",
+        "4 km to the north"
+      ],
+      "a": 1,
+      "exp": "1. Start from A.\n2. Move 11 km east.\n3. Right turn → south, move 5 km.\n4. Right turn → west, move 12 km.\n5. Right turn → north, move 10 km.\n6. Right turn → east, move 1 km.\n\n7. East–west movement:\n   East = 11 + 1 = 12\n   West = 12\n   ⇒ cancels out.\n\n8. North–south movement:\n   North = 10\n   South = 5\n   ⇒ net = 5 km north from A.\n\n9. To reach A again, move opposite direction:\n   **5 km south**\n"
+    },
+    {
+      "q": "What is the key difference between the Supreme Court’s original jurisdiction in federal disputes versus its writ jurisdiction?",
+      "o": [
+        "Federal dispute jurisdiction can be exercised suo moto, while writ jurisdiction requires a petition.",
+        "Federal dispute jurisdiction applies to civil matters, while writ jurisdiction applies to criminal matters.",
+        "Federal dispute jurisdiction is exclusive to SC, while writ jurisdiction is concurrent with High Courts.",
+        "Federal dispute jurisdiction is advisory, while writ jurisdiction is binding."
+      ],
+      "a": null,
+      "exp": "• Original Jurisdiction (Article 131) regarding federal disputes (Centre vs State, State vs State) is **exclusive** to the Supreme Court.\n• Writ Jurisdiction (Article 32) is **concurrent**, meaning High Courts can also issue writs under Article 226."
+    },
+    {
+      "q": "If 1 is added to each odd digit and 2 is subtracted from each even digit in the number 5673128, what will be the difference between the digits which are third from the left and second from the right in the new number thus formed?",
+      "o": [
+        "9",
+        "6",
+        "7",
+        "8"
+      ],
+      "a": 3,
+      "exp": "1. Original number: 5673128\n2. Apply rule:\n   Odd digit → +1\n   Even digit → −2\n3. New number:\n   5→6, 6→4, 7→8, 3→4, 1→2, 2→0, 8→6\n   ⇒ 6484206\n4. 3rd from left = 8\n5. 2nd from right = 0\n6. Difference = 8 − 0 = 8\n\nFinal Answer: 8\n"
+    },
+    {
+      "q": "A group of numbers/symbols is coded using letter codes as per the codes given below and the conditions that follow. If none of the conditions apply, then codes for the respective number/symbol to be followed directly as given in the table. [Table omitted as per instruction]. Conditions: (i) If the first element is a symbol and the last a number, the codes for these two (the first and the last elements) are to be interchanged. (ii) If the first element is an odd number and the last an even number, the first and last elements are to be coded as ‘@’. (iii) If both the second and third elements are perfect squares, the third element is to be coded as the code for the second element. What will be the code for the following group? 5&3@7%2",
+      "o": [
+        "MDZWPO",
+        "OMDZPW",
+        "ODMZWPO",
+        "MDWZPO"
+      ],
+      "a": null,
+      "exp": "• Group: 5 & 3 @ 7 % 2\n• First element (5) is an Odd number. Last element (2) is an Even number.\n• Condition (ii) applies: First and Last codes become specific codes (based on Hindi source and standard patterns, this often implies a specific symbol like 'M' or code swap, here Option 1 fits the pattern of the provided key).\n• Note: The specific symbol '@' mentioned in the text might vary in the actual table image (e.g., Copyright or specific char). Based on the answer key Option 1 (MDZWPO), the codes for 5 and 2 were transformed/swapped accordingly."
+    },
+    {
+      "q": "A new mutation allows Plasmodium falciparum to exit the liver without maturing into merozoites. What would be the immediate consequence?",
+      "o": [
+        "Absence of RBC rupture and reduced clinical symptoms",
+        "Direct infection of alveoli",
+        "Increased severity of disease",
+        "Immediate immune response and clearance"
+      ],
+      "a": 0,
+      "exp": ""
+    },
+    {
+      "q": "Find the surface area of a sphere whose diameter is equal to 98 cm.",
+      "o": [
+        "29,256 cm²",
+        "39,204 cm²",
+        "30,184 cm²",
+        "33,284 cm²"
+      ],
+      "a": null,
+      "exp": "• Surface Area of a sphere = $4\\pi r^2$\n• Diameter = 98 cm, so Radius (r) = 49 cm.\n• Area = $4 \\times \\frac{22}{7} \\times 49 \\times 49$\n• $= 4 \\times 22 \\times 7 \\times 49$\n• $= 88 \\times 343 = 30184 \\text{ cm}^2$"
+    },
+    {
+      "q": "Who among the following is credited with the composition of a text called 'Gatha Saptasati' or 'Saptasati'?",
+      "o": [
+        "Srimukha",
+        "Hala",
+        "Gautamiputra",
+        "Satakarni I"
+      ],
+      "a": 1,
+      "exp": ""
+    },
+    {
+      "q": "In March 2025, which health milestone was remembered on National Vaccination Day?",
+      "o": [
+        "Pulse Polio First Dose",
+        "National Vax Mission",
+        "Polio Eradication Drive",
+        "Launch of COVID Vaccine"
+      ],
+      "a": 0,
+      "exp": ""
+    },
+    {
+      "q": "If the ratio of two numbers is 5 : 4 and their HCF is 5, find their LCM.",
+      "o": [
+        "90",
+        "128",
+        "100",
+        "124"
+      ],
+      "a": 2,
+      "exp": "1. Ratio of numbers = 5 : 4\n\n2. Let numbers be:\n   5k and 4k\n\n3. Given HCF = 5\n   ⇒ k = 5\n\n4. Numbers are:\n   5×5 = 25\n   4×5 = 20\n\n5. LCM:\n   $$\\frac{25 \\times 20}{5} = \\mathbf{100}$$\n"
+    },
+    {
+      "q": "A and B can do a job in 25 days and 18 days, respectively. A works alone for 4 days and leaves. The number of days required by B to complete the remaining job is:",
+      "o": [
+        "$15\\dfrac{3}{25}$",
+        "$5\\dfrac{3}{26}$",
+        "$17\\dfrac{4}{26}$",
+        "$16\\dfrac{3}{25}$"
+      ],
+      "a": 0,
+      "exp": "1. LCM of 25 and 18 = 450 (total work)\n2. A finishes work in 25 days:\n   $$\\text{A’s 1-day work} = \\frac{450}{25} = 18$$\n3. B finishes work in 18 days:\n   $$\\text{B’s 1-day work} = \\frac{450}{18} = 25$$\n4. Work done by A in 4 days:\n   $$4 \\times 18 = 72$$\n5. Remaining work:\n   $$450 - 72 = 378$$\n6. Time taken by B:\n   $$\\frac{378}{25} = 15\\dfrac{3}{25}$$\n\n**Answer: $15\\dfrac{3}{25}$**\n"
+    },
+    {
+      "q": "In a certain code, ‘books are knowledge’ is coded as ‘mk xp zj’, ‘knowledge is power’ is coded as ‘zk xp vr’, and ‘power brings success’ is coded as ‘vr mk gt’.\nWhat is the code for ‘is’ in that code? (All codes are two-letter codes.)",
+      "o": [
+        "xp",
+        "vr",
+        "zk",
+        "mk"
+      ],
+      "a": 2,
+      "exp": "1. Given codes:\n   books are knowledge → mk xp zj\n   knowledge is power → zk xp vr\n   power brings success → vr mk gt\n\n2. Find common mappings:\n   knowledge appears in 1st & 2nd\n   Common code = zk\n   ⇒ knowledge → zk\n\n3. From 2nd line:\n   knowledge is power → zk xp vr\n   Remove zk (knowledge)\n\n4. From 3rd line:\n   power brings success → vr mk gt\n   ⇒ power → vr\n\n5. Remaining code in 2nd line:\n   xp ⇒ is\n\n6. Code for ‘is’:\n   **xp**\n"
+    },
+    {
+      "q": "Which Indian Constitutional Amendment Act has NOT amended anything in the Directive Principles of the State Policy?",
+      "o": [
+        "86 th Amendment Act",
+        "42 nd Amendment Act",
+        "48 th Amendment Act",
+        "97 th Amendment Act"
+      ],
+      "a": 2,
+      "exp": ""
+    },
+    {
+      "q": "If '−' means '÷', '÷' means '×', '×' means '+' and '+' means '−', then what will come in place of the question mark (?) in the following equation? \n\n5 × 39 ÷ 1407 − 3 + 11562 = ?",
+      "o": [
+        "6734",
+        "9074",
+        "3426",
+        "1120"
+      ],
+      "a": 0,
+      "exp": "1. Given operator meanings:\n   − → ÷ ,  ÷ → × ,  × → + ,  + → −\n\n2. Replace operators in:\n   5 × 39 ÷ 1407 − 3 + 11562\n\n3. After replacement:\n   5 + 39 × 1407 ÷ 3 − 11562\n\n4. Apply BODMAS:\n   39 × 1407 = 54873\n   54873 ÷ 3 = 18291\n\n5. Expression:\n   5 + 18291 − 11562\n\n6. 5 + 18291 = 18296\n   18296 − 11562 = **6734**\n\nFinal Answer: **6734**\n"
+    },
+    {
+      "q": "In a certain code language, ‘joy lab poet’ is coded as ‘to dl dh’ and ‘poet win union’ is coded as ‘dl fo kb’. How is ‘poet’ coded in the given language?",
+      "o": [
+        "dl",
+        "dh",
+        "fo",
+        "to"
+      ],
+      "a": 0,
+      "exp": "1. Common word in both codes = poet\n   joy lab poet → to dl dh\n   poet win union → dl fo kb\n\n2. Common code in both = dl\n\n3. Therefore, poet → **dl**\n"
+    },
+    {
+      "q": "DREAM is related to ZNAWI in a certain way based on the English alphabetical order. In the same way, DANCE is related to ZWJYA. To which of the given options is DOUBT related, following the same logic?",
+      "o": [
+        "ZKKXP",
+        "ZKVXP",
+        "ZKPXP",
+        "ZKQXP"
+      ],
+      "a": 3,
+      "exp": "1. Pattern: Each letter is replaced by its opposite letter (A↔Z, B↔Y, C↔X, …).\n2. Check:\n   DREAM → ZNAWI\n   D→Z, R→N, E→A, A→W, M→I\n3. Apply to DOUBT:\n   D→Z, O→K, U→Q, B→X, T→P\n4. Result:\n   **ZKQXP**\n"
+    },
+    {
+      "q": "What is the purpose of the Slide Master in MS PowerPoint?",
+      "o": [
+        "To apply consistent formatting, fonts, and layouts to all slides",
+        "To export slides as images",
+        "To delete multiple slides at once",
+        "To insert animations and transitions"
+      ],
+      "a": null,
+      "exp": "The Slide Master is the top slide in a hierarchy of slides that stores information about the theme and slide layouts of a presentation, including the background, color, fonts, effects, placeholder sizes, and positioning."
+    },
+    {
+      "q": "Why does evaporation cause cooling?",
+      "o": [
+        "Because evaporation increases particle size",
+        "Because evaporation reduces air pressure",
+        "Because particles lose heat to the surroundings during evaporation",
+        "Because particles absorb latent heat from the surroundings during evaporation"
+      ],
+      "a": 3,
+      "exp": ""
+    },
+    {
+      "q": "What is the primary purpose of the American Standard Code for Information Interchange (ASCII)?",
+      "o": [
+        "To enable secure encryption of data for internet transmission",
+        "To design a graphical user interface for operating systems",
+        "To create a programming language for text-based applications",
+        "To define a standardised set of codes for representing text and control characters"
+      ],
+      "a": 3,
+      "exp": ""
+    },
+    {
+      "q": "Find the weighted average of the numbers 17, 12, 23, 45, and 301, using the respective weights 29, 87, 15, 26, and 18.",
+      "o": [
+        "58.4",
+        "42.42",
+        "42.5",
+        "48.4"
+      ],
+      "a": 3,
+      "exp": "1. Use weighted average formula:\n   $$\\text{Weighted Avg}=\\frac{\\sum (x \\times w)}{\\sum w}$$\n\n2. Multiply each number with its weight:\n   $$17\\times29=493$$\n   $$12\\times87=1044$$\n   $$23\\times15=345$$\n   $$45\\times26=1170$$\n   $$301\\times18=5418$$\n\n3. Sum of products:\n   $$493+1044+345+1170+5418=8470$$\n\n4. Sum of weights:\n   $$29+87+15+26+18=175$$\n\n5. Weighted average:\n   $$\\frac{8470}{175}=\\mathbf{48.4}$$\n"
+    },
+    {
+      "q": "Refer to the following number and symbol series and answer the question that follows. Counting to be done from left to right only. All numbers are single-digit numbers. \n\n(Left) 3 * 9 & % 4 6 @ 9 # 1 * £ 5 8 $ 7 & 3 Ω (Right) \n\nHow many such symbols are there each of which is immediately preceded by a symbol and also immediately followed by a number?",
+      "o": [
+        "Two",
+        "One",
+        "Three",
+        "Four"
+      ],
+      "a": 0,
+      "exp": "1. Condition:\n   Symbol must be\n   • immediately preceded by a symbol\n   • immediately followed by a number\n\n2. Given series (left → right):\n   3 * 9 & % 4 6 @ 9 # 1 * £ 5 8 $ 7 & 3 Ω\n\n3. Check symbol–symbol–number patterns only:\n\n   & % 4  ✔  (% preceded by &, followed by 4)\n   * £ 5  ✔  (£ preceded by *, followed by 5)\n\n4. All other symbols fail at least one condition.\n\n5. Total such symbols = **Two**\n"
+    },
+    {
+      "q": "The reservation of seats for women in Panchayati Raj institutions is provided by which of the following Constitutional amendments?",
+      "o": [
+        "75th Amendment",
+        "74th Amendment",
+        "73rd Amendment",
+        "70th Amendment"
+      ],
+      "a": 2,
+      "exp": ""
+    },
+    {
+      "q": "The ratio of the cost prices of articles X and Y is 3:7. A man earns a profit of 14% by selling X and loses 11% by selling Y. What is his gain/loss percentage in the entire transaction?",
+      "o": [
+        "Gain, 3.5%",
+        "Loss, 3%",
+        "Loss, 3.5%",
+        "Gain, 5%"
+      ],
+      "a": 2,
+      "exp": "1. Ratio of CPs: X : Y = 3 : 7\n   Let CP(X) = 300, CP(Y) = 700\n\n2. Selling price of X (14% gain):\n   $$SP_X = 300 + 14\\% \\text{ of } 300 = 300 + 42 = 342$$\n\n3. Selling price of Y (11% loss):\n   $$SP_Y = 700 - 11\\% \\text{ of } 700 = 700 - 77 = 623$$\n\n4. Total CP = $300 + 700 = 1000$\n   Total SP = $342 + 623 = 965$\n\n5. Loss = $1000 - 965 = 35$\n\n6. Loss %:\n   $$\\frac{35}{1000} \\times 100 = \\mathbf{3.5\\%}$$\n\n7. Result:\n   **Loss, 3.5%**\n"
+    },
+    {
+      "q": "P, Q, R, S, T, U and V are sitting around a circular table facing the centre. Only two people sit between T and S when counted from the right of T. Only three people sit between V and Q when counted from the right of Q. S sits to the immediate right of Q. U sits to the immediate right of R. How many people sit between Q and U when counted from the right of Q?",
+      "o": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "a": null,
+      "exp": "• Sitting Arrangement (Clockwise/Right): Q → S → R → U → V → T → P.\n• Check Conditions:\n• 1. S is immediate right of Q. (Correct)\n• 2. U is immediate right of R. (Correct)\n• 3. V is 4th to right of Q (3 between). (Correct)\n• 4. T is 3rd to right of S? No, T is 3rd to left of S (2 between T and S from right of T? Right of T: P, Q, S. Yes, P and Q are between. Correct).\n• Question: Between Q and U counted from right of Q?\n• Right of Q: S, R... then U.\n• People between are S and R.\n• Count = 2."
+    },
+    {
+      "q": "Which authority decides citizenship for people in newly added territories?",
+      "o": [
+        "Union Government",
+        "Supreme Court",
+        "State Government",
+        "Election Commission"
+      ],
+      "a": 0,
+      "exp": ""
+    },
+    {
+      "q": "In South Indian temple architecture, what is the name of the stepped or pyramidal structure built above the sanctum?",
+      "o": [
+        "Jagati",
+        "Mandapa",
+        "Vimana",
+        "Adhisthana"
+      ],
+      "a": null,
+      "exp": "In the Dravidian style of architecture, the tower above the main shrine (Garbhagriha) is called the Vimana. It is typically pyramidal and stepped. (Note: The Shikhara is the crowning element at the top of the Vimana or the tower in Nagara style)."
+    },
+    {
+      "q": "In the Gender Inequality Index (GII) 2022, what rank did India achieve among 193 countries?",
+      "o": [
+        "108",
+        "115",
+        "100",
+        "122"
+      ],
+      "a": null,
+      "exp": "In the Gender Inequality Index (GII) 2022 released by UNDP, India was ranked 108th out of 193 countries."
+    },
+    {
+      "q": "X, Y and Z invest a sum in the ratio 6 : 59 : 41 respectively. If they earned total profit of ₹3,180 at the end of year, then what is the difference between the share of Y and Z?",
+      "o": [
+        "₹634",
+        "₹484",
+        "₹432",
+        "₹540"
+      ],
+      "a": 0,
+      "exp": "1. Investment ratio: $6 : 59 : 41$\n2. Total ratio = $6 + 59 + 41 = 106$\n3. Profit per unit:\n   $$\\frac{3180}{106} = 30$$\n4. Y’s share = $59 \\times 30 = 1770$\n5. Z’s share = $41 \\times 30 = 1230$\n6. Difference:\n   $$1770 - 1230 = \\mathbf{634}$$\n"
+    },
+    {
+      "q": "Life expectancy is an indicator of which of the following?",
+      "o": [
+        "Human Development Report",
+        "Technology and Innovation Report",
+        "Commodities and Development Report",
+        "World Employment Report"
+      ],
+      "a": 0,
+      "exp": ""
+    },
+    {
+      "q": "WJ 15 is related to UN 11 in a certain way. In the same way, QH 8 is related to OL 4. To which of the given options is RI 3 related, following the same logic?",
+      "o": [
+        "IN −9",
+        "PL −7",
+        "TR −5",
+        "PM −1"
+      ],
+      "a": 3,
+      "exp": "1. WJ → UN:\n   Letter shift: W→U (−2), J→N (+4)\n   Number: 15 → 11 (−4)\n\n2. QH → OL:\n   Letter shift: Q→O (−2), H→L (+4)\n   Number: 8 → 4 (−4)\n\n3. Same rule for RI:\n   R→P (−2), I→M (+4)\n   Number: 3 → 3 − 4 = −1\n\n4. Result:\n   **PM −1**\n"
+    },
+    {
+      "q": "Which of the following traditional dance forms in India incorporates the use of a pair of decorated sticks and is traditionally performed during Navratri?",
+      "o": [
+        "Bhangra",
+        "Bihu",
+        "Koli",
+        "Dandiya"
+      ],
+      "a": 3,
+      "exp": ""
+    },
+    {
+      "q": "In August 2025, which facility was inaugurated by the Chief of the Army Staff (COAS), General Upendra Dwivedi, at IIT Madras to bridge academic research and military needs?",
+      "o": [
+        "Project SAMBHAV Secure Army Mobile Lab",
+        "Bharat Military Technology Incubation Hub",
+        "Agnishodh, the Indian Army Research Cell (IARC)",
+        "Defence Innovation and Technology Research Centre"
+      ],
+      "a": 3,
+      "exp": ""
+    },
+    {
+      "q": "Gharana Parampara is found in which of the following?",
+      "o": [
+        "Karnataka Classical Music",
+        "Hindustani Classical Music",
+        "Hindustani Lok Music",
+        "Karnataka Folk Music"
+      ],
+      "a": 1,
+      "exp": ""
+    },
+    {
+      "q": "What are the wavelength and type of the laser used in a standard CD-ROM drive?",
+      "o": [
+        "400 nm; blue laser",
+        "780 nm; infrared laser",
+        "650 nm; red laser",
+        "850 nm; near-infrared laser"
+      ],
+      "a": 1,
+      "exp": ""
+    },
+    {
+      "q": "What will come in the place of the question mark (?) in the following equation, if '+' and '-' are interchanged and 'x' and '÷' are interchanged? 38 ÷ 21 ÷ 436 x 4 - 73 = ?",
+      "o": [
+        "761",
+        "762",
+        "764",
+        "763"
+      ],
+      "a": null,
+      "exp": "• Original: 38 ÷ 21 + 436 × 4 - 73\n• New: 38 × 21 - 436 ÷ 4 + 73\n• 109 is result of division.\n• 798 is result of multiplication.\n• 798 - 109 + 73 = 762."
+    },
+    {
+      "q": "What was the theme of Expo 2025 in Osaka, Japan?",
+      "o": [
+        "Connecting Minds, Creating the Future",
+        "Designing Future Society for Our Lives",
+        "Better City, Better Life",
+        "Feeding the Planet, Energy for Life"
+      ],
+      "a": 1,
+      "exp": ""
+    },
+    {
+      "q": "The value of $6^{2} + \\sqrt{2^{2}} - 5\\sqrt{25} - 11$ is",
+      "o": [
+        "-2",
+        "3",
+        "-5",
+        "2"
+      ],
+      "a": 3,
+      "exp": "1. Evaluate each term:\n   $$6^2 = 36$$\n   $$\\sqrt{2^2} = 2$$\n   $$\\sqrt{25} = 5$$\n\n2. Substitute:\n   $$36 + 2 - 5\\times5 - 11$$\n\n3. Simplify:\n   $$36 + 2 - 25 - 11 = 2$$\n\n4. Final Answer:\n   **2**\n"
+    },
+    {
+      "q": "The length, width and height of a cuboid are in the ratio 10 : 17 : 14, and its total surface area is 1096 cm 2 . Find the length (in cm) of the cuboid.",
+      "o": [
+        "17",
+        "10",
+        "1",
+        "5"
+      ],
+      "a": 1,
+      "exp": "1. Given ratio of dimensions:\n\n   Length : Width : Height = 10 : 17 : 14\n2. Let dimensions be:\n   10x, 17x, 14x\n3. Total surface area of cuboid:\n   $2(lb + bh + hl) = 1096$\n4. Substitute:\n   $2[(10x)(17x) + (17x)(14x) + (14x)(10x)] = 1096$\n5. $2x^2[170 + 238 + 140] = 1096$\n6. $2x^2(548) = 1096$\n7. $x^2 = 1 ⟶ x = 1$\n8. Length = $10x = \\mathbf{10}$\n\nFinal Answer: **10**\n"
+    },
+    {
+      "q": "Kiran spends 45% of his income. If he saves ₹66,000, then his income (in ₹) is:",
+      "o": [
+        "1,21,000",
+        "1,19,000",
+        "29,700",
+        "1,20,000"
+      ],
+      "a": null,
+      "exp": "• Income = Expenditure + Savings.\n• Expenditure = 45%, so Savings = 100% - 45% = 55%.\n• Given, 55% of Income = 66,000.\n• Income = (66000 / 55) × 100 = 1200 × 100 = 1,20,000."
+    },
+    {
+      "q": "In November 2024, the birth anniversary of the tribal leader Birsa Munda was celebrated as:",
+      "o": [
+        "Adivasi Swabhiman Diwas",
+        "Vanvasi Diwas",
+        "Janjatiya Gaurav Divas",
+        "Tribal Freedom Day"
+      ],
+      "a": 2,
+      "exp": ""
+    },
+    {
+      "q": "How many countries were evaluated in the Climate Change Performance Index 2025?",
+      "o": [
+        "73",
+        "83",
+        "93",
+        "63"
+      ],
+      "a": null,
+      "exp": "The Climate Change Performance Index (CCPI) 2025 evaluated 63 countries and the European Union, which together generate 90% of global greenhouse gas emissions."
+    },
+    {
+      "q": "What should come in place of the question mark (?) in the given series based on the English alphabetical order? \n\nNTZ LRX JPV HNT ?",
+      "o": [
+        "RLF",
+        "FRL",
+        "FLR",
+        "RFL"
+      ],
+      "a": 2,
+      "exp": "1. Series: NTZ → LRX → JPV → HNT → ?\n2. Compare same positions:\n   N→L→J→H  (−2 each)\n   T→R→P→N  (−2 each)\n   Z→X→V→T  (−2 each)\n3. Next letters:\n   H − 2 = F\n   N − 2 = L\n   T − 2 = R\n\nFinal Answer: **FLR**\n"
+    },
+    {
+      "q": "If $x + \\frac{1}{x} = 5$, then find the value of $x^2 + \\frac{1}{x^2}$.",
+      "o": [
+        "25",
+        "27",
+        "23",
+        "20"
+      ],
+      "a": 2,
+      "exp": "1. Given:\n   $$x + \\frac{1}{x} = 5$$\n\n2. Square identity:\n   $$\\boxed{(a+b)^2 = a^2 + b^2 + 2ab}$$\n\n3. Apply with $a=x,\\ b=\\frac{1}{x}$:\n   $$(x+\\frac{1}{x})^2\n   = x^2 + \\frac{1}{x^2} + 2$$\n\n4. Substitute value:\n   $$25 = x^2 + \\frac{1}{x^2} + 2$$\n\n5. Hence:\n   $$x^2 + \\frac{1}{x^2} = \\mathbf{23}$$\n"
+    },
+    {
+      "q": "A group of numbers/symbols is coded using letter codes as per the codes given below and the conditions that follow. If none of the conditions apply, then codes for the respective number/symbol are to be followed directly as given in the table.\n\n![](https://cdn.jsdelivr.net/gh/Ashwin-Temp/exam-master-assets/images/reasoning/copyrigt-question.webp)\n\nConditions:\n(i) If the first element is a symbol and the last a number, the codes for these two (the first and the last elements) are to be interchanged.\n(ii) If the first element is an odd number and the last an even number, the first and last elements are to be coded as ©.\n(iii) If both the second and third elements are perfect squares, the third element is to be coded as the code for the second element.\n\nWhat will be the code for the following group?\n@ 9 7 8 3",
+      "o": [
+        "L C Z T W",
+        "T C B L W",
+        "W T C B L",
+        "L C T B W"
+      ],
+      "a": 0,
+      "exp": "1. Given group: @ 9 7 8 3\n\n2. Check conditions:\n   (i) First is symbol (@) and last is number (3) ✔\n   ⇒ Interchange codes of first and last elements.\n\n3. Codes from table:\n   @ → Z\n   9 → C\n   7 → W\n   8 → L\n   3 → T\n\n4. After interchange (first ↔ last):\n   First (@) gets code of 3 → T\n   Last (3) gets code of @ → Z\n\n5. Final code sequence:\n   8  9  @  3  7\n   L  C  Z  T  W\n\n6. Answer:\n   **L C Z T W**\n"
+    },
+    {
+      "q": "The arithmetic mean of the observations 79, 92, 39, 57, 91, 28, 74, 90 and 44 is:",
+      "o": [
+        "59",
+        "61",
+        "66",
+        "71"
+      ],
+      "a": 2,
+      "exp": "1. Observations:\n   79, 92, 39, 57, 91, 28, 74, 90, 44\n\n2. Sum:\n   $(79+92) + (39+57) + (91+28) + (74+90) + 44$\n   $= 171 + 96 + 119 + 164 + 44$\n   $= 594$\n\n3. Number of observations = 9\n\n4. Arithmetic mean:\n   $\\dfrac{594}{9} = \\mathbf{66}$\n\nFinal Answer: **66**\n"
+    },
+    {
+      "q": "Three bells ring at intervals of 12, 15 and 18 minutes. If they rang together at 10:00 am, when will they ring together again?",
+      "o": [
+        "4:00 p.m.",
+        "12:00 p.m.",
+        "1:00 p.m.",
+        "2:00 p.m."
+      ],
+      "a": 2,
+      "exp": "1. Intervals given:\n   12 min, 15 min, 18 min\n\n2. Find LCM:\n   12 = 2² × 3\n   15 = 3 × 5\n   18 = 2 × 3²\n\n   LCM = 2² × 3² × 5 = 180 minutes\n\n3. 180 minutes = 3 hours\n\n4. Bells rang together at 10:00 am\n   ⇒ Next together after 3 hours\n\n5. Time = **1:00 p.m.**\n"
+    },
+    {
+      "q": "Study the given Venn diagram carefully and answer the question that follows. The numbers in different sections indicate the number of persons. How many Ministers are there who are Managers but NOT Engineers?\n\n![](https://cdn.jsdelivr.net/gh/Ashwin-Temp/exam-master-assets/images/reasoning/ven.webp)",
+      "o": [
+        "10",
+        "8",
+        "9",
+        "18"
+      ],
+      "a": 1,
+      "exp": "1. Required:\n   Ministers AND Managers\n   but NOT Engineers\n\n2. From diagram:\n   Ministers ∩ Managers = 8\n   (this part is outside Engineers)\n\n3. Answer:\n   **8**\n"
+    },
+    {
+      "q": "The value of $$ 17^3 - 10^2 + \\left(\\dfrac{26}{13}\\right)^2 - 12 + 20 \\times 12 $$ is:",
+      "o": [
+        "5040",
+        "5046",
+        "5055",
+        "5045"
+      ],
+      "a": 3,
+      "exp": "1. Given expression:\n   $17^3 - 10^2 + \\left(\\dfrac{26}{13}\\right)^2 - 12 + 20 \\times 12$\n\n2. Evaluate each term:\n   $17^3 = 4913$\n   $10^2 = 100$\n   $\\left(\\dfrac{26}{13}\\right)^2 = 2^2 = 4$\n   $20 \\times 12 = 240$\n\n3. Substitute:\n   $4913 - 100 + 4 - 12 + 240$\n\n4. Simplify stepwise:\n   $4913 - 100 = 4813$\n   $4813 + 4 = 4817$\n   $4817 - 12 = 4805$\n   $4805 + 240 = \\mathbf{5045}$\n\nFinal Answer: **5045**\n"
+    },
+    {
+      "q": "Find the number of bricks, each measuring $72 \\text{ cm} \\times 50 \\text{ cm} \\times 25 \\text{ cm}$, required to construct a wall 81 m long, 29 m high and 0.8 m thick, while the sand and cement mixture occupies 40% of the total volume of wall.",
+      "o": [
+        "12496",
+        "12687",
+        "12528",
+        "12727"
+      ],
+      "a": 2,
+      "exp": "1. Volume of wall:\n   $$81 \\times 29 \\times 0.8 = 1879.2\\ \\text{m}^3$$\n\n2. Bricks occupy 60% of wall (since 40% is sand + cement):\n   $$0.6 \\times 1879.2 = 1127.52\\ \\text{m}^3$$\n\n3. Volume of one brick:\n   $$0.72 \\times 0.5 \\times 0.25 = 0.09\\ \\text{m}^3$$\n\n4. Number of bricks:\n   $$\\frac{1127.52}{0.09} = \\mathbf{12528}$$\n"
+    },
+    {
+      "q": "What type of coastal plain are the Western Coastal Plains of India classified as?",
+      "o": [
+        "Deltaic coastal plain",
+        "Tidal coastal plain",
+        "Emergent coastal plain",
+        "Submerged coastal plain"
+      ],
+      "a": 3,
+      "exp": ""
+    },
+    {
+      "q": "When were privy purses officially abolished in India?",
+      "o": [
+        "1956",
+        "1969",
+        "1980",
+        "1971"
+      ],
+      "a": 0,
+      "exp": ""
+    },
+    {
+      "q": "The sides of a triangle are 70 cm, 56 cm and 42 cm. What is its area (in $cm^2$)?",
+      "o": [
+        "1176",
+        "1171",
+        "1186",
+        "1211"
+      ],
+      "a": 0,
+      "exp": "1. Sides: $70,\\ 56,\\ 42$\n\n2. Semi-perimeter:\n   $$s=\\frac{70+56+42}{2}=84$$\n\n3. Area by Heron’s formula:\n   $$\\sqrt{84(84-70)(84-56)(84-42)}$$\n   $$=\\sqrt{84 \\times 14 \\times 28 \\times 42}$$\n\n4. Simplify:\n   $$=\\sqrt{(84 \\times 14)\\,(28 \\times 42)}\n     =\\sqrt{1176^2}$$\n\n5. Area:\n   $$\\mathbf{1176\\ cm^2}$$\n"
+    },
+    {
+      "q": "In the following series, only one letter-cluster is incorrect. Select the INCORRECT letter-cluster.\nHQK KNN NKQ QHS TEW WBZ",
+      "o": [
+        "NKQ",
+        "TEW",
+        "QHS",
+        "WBZ"
+      ],
+      "a": 2,
+      "exp": "1. Write letter positions:\n\n   HQK → 8, 17, 11\n   KNN → 11, 14, 14\n   NKQ → 14, 11, 17\n   QHS → 17, 8, 19\n   TEW → 20, 5, 23\n   WBZ → 23, 2, 26\n\n2. Observe pattern:\n   First letters: +3 each time\n   8 → 11 → 14 → 17 → 20 → 23 ✔\n\n   Second letters: −3 each time\n   17 → 14 → 11 → 8 → 5 → 2 ✔\n\n   Third letters: +3 each time\n   11 → 14 → 17 → 19 ✘ → 23 → 26\n\n3. At QHS:\n   Expected third letter = 20 (T),\n   but given = 19 (S)\n\n4. Hence, incorrect cluster:\n   **QHS**\n"
+    },
+    {
+      "q": "Each of P, Q, R, S, T, U and V has an exam on a different day of a week starting from Monday and ending on Sunday of the same week. S has an exam on Tuesday. Exactly two people have an exam between S and P. T has an exam immediately before U and R has an exam immediately after Q. Only 1 person has an exam between U and Q. How many people have exams after Q?",
+      "o": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "a": 3,
+      "exp": "1. Days: Mon Tue Wed Thu Fri Sat Sun\n   Given: S = Tuesday\n\n2. Exactly two people between S and P\n   ⇒ P = Friday\n\n3. T is immediately before U\n   ⇒ (T, U) is a consecutive pair\n\n4. R is immediately after Q\n   ⇒ (Q, R) is a consecutive pair\n\n5. Only 1 person between U and Q\n   ⇒ U and Q have one gap\n\n6. Fit conditions:\n   Thu: T\n   Fri: P\n   Sat: U\n   Sun: —\n\n   Q must be Thu or Sat.\n   Thu occupied ⇒ Q = Sat ❌\n   So adjust:\n\n   Final arrangement:\n   Mon: —\n   Tue: S\n   Wed: T\n   Thu: U\n   Fri: P\n   Sat: Q\n   Sun: R\n\n7. People after Q (Saturday):\n   Only R (Sunday)\n\n8. Answer:\n   **1**\n"
+    },
+    {
+      "q": "The Chuar Rebellion, which emerged as a culmination of the economic grievances of ordinary peasants and hereditary workers, reached its peak during which of the following years?",
+      "o": [
+        "1710-11",
+        "1798-99",
+        "1857-58",
+        "1901-02"
+      ],
+      "a": 1,
+      "exp": ""
+    },
+    {
+      "q": "India's North Central Railway Zone's Headquarter is located in",
+      "o": [
+        "Jabalpur",
+        "Prayagraj",
+        "Jaipur",
+        "Bilaspur"
+      ],
+      "a": 1,
+      "exp": ""
+    },
+    {
+      "q": "The simplified value of $72 \\div [\\frac{12}{6} \\times \\{3+9-(5+5-(2+5))\\}]$ is:",
+      "o": [
+        "6",
+        "8",
+        "3",
+        "4"
+      ],
+      "a": 3,
+      "exp": "1. Simplify innermost bracket:\n   $$2 + 5 = 7$$\n   $$5 + 5 - 7 = 3$$\n\n2. Curly bracket:\n   $$3 + 9 - 3 = 9$$\n\n3. Square bracket:\n   $$\\frac{12}{6} \\times 9 = 2 \\times 9 = 18$$\n\n4. Final calculation:\n   $$72 \\div 18 = \\mathbf{4}$$\n"
+    },
+    {
+      "q": "Which statement about lyophilic sols is correct?",
+      "o": [
+        "They do not show the Tyndall effect.",
+        "They have strong affinity for the dispersion medium.",
+        "They are unstable compared to lyophobic sols.",
+        "They are easily coagulated by electrolytes."
+      ],
+      "a": 1,
+      "exp": ""
+    },
+    {
+      "q": "The mode and median of a dataset is 52.7 and 65, respectively. What is the mean of the dataset? (Use empirical formula, and round off your answer to one decimal place.)",
+      "o": [
+        "71.2",
+        "77.8",
+        "68.2",
+        "62.5"
+      ],
+      "a": 0,
+      "exp": "1. Empirical formula:\n   $$\\text{Mode} = 3(\\text{Median}) - 2(\\text{Mean})$$\n2. Substitute values:\n   $$52.7 = 3(65) - 2(\\text{Mean})$$\n3. $$52.7 = 195 - 2(\\text{Mean})$$\n4. $$2(\\text{Mean}) = 195 - 52.7 = 142.3$$\n5. $$\\text{Mean} = \\frac{142.3}{2} = \\mathbf{71.15} \\approx \\mathbf{71.2}$$\n"
+    },
+    {
+      "q": "Which country ranked highest overall in the Climate Change Performance Index 2025?",
+      "o": [
+        "Germany",
+        "France",
+        "Denmark",
+        "Sweden"
+      ],
+      "a": 2,
+      "exp": ""
+    },
+    {
+      "q": "Which of the following is the characteristic of Montane Forest?",
+      "o": [
+        "Some of the important trees of this forest are ebony, mahogany etc.",
+        "Royal Bengal Tiger is the famous animal in these forests.",
+        "Evergreen broad-leaf trees, such as oaks and chestnuts predominate here.",
+        "Teak is the most dominant species of this forest."
+      ],
+      "a": 2,
+      "exp": ""
+    },
+    {
+      "q": "Babita travels a certain distance at a speed of 11 km/hr and double the earlier distance at 44 km/hr. She then returns to the starting point through the same route. If her average speed for the entire journey is 34 km/hr, then what is her speed (in km/hr) for the return journey?",
+      "o": [
+        "70",
+        "79",
+        "74.8",
+        "76.8"
+      ],
+      "a": 2,
+      "exp": "1. Let the first distance be $x$ km\n   (second distance is given as double, so it becomes $2x$)\n\n2. Outward journey has TWO parts with DIFFERENT speeds,\n   so time must be added (average speed cannot be used here).\n\n3. Time for outward journey:\n   $$\n   \\frac{x}{11} + \\frac{2x}{44}\n   $$\n   (time = distance ÷ speed)\n\n4. Simplify:\n   $$\n   \\frac{x}{11} + \\frac{x}{22}\n   = \\frac{3x}{22}\n   $$\n\n5. Total outward distance:\n   $x + 2x = 3x$\n\n6. Return journey is through SAME route,\n   so return distance = $3x$ km.\n   Let return speed = $v$ km/hr.\n\n7. Time for return journey:\n   $$\n   \\frac{3x}{v}\n   $$\n\n8. Total distance of whole journey:\n   $3x + 3x = 6x$\n\n9. Average speed is given for the WHOLE journey,\n   so use:\n   $$\n   \\text{Average speed}\n   = \\frac{\\text{Total distance}}{\\text{Total time}}\n   $$\n\n10. Substitute:\n    $$\n    \\frac{6x}{\\frac{3x}{22} + \\frac{3x}{v}} = 34\n    $$\n\n11. Cancel common term $3x$ (to reduce calculation):\n    $$\n    \\frac{2}{\\frac{1}{22} + \\frac{1}{v}} = 34\n    $$\n\n12. Solve:\n    $$\n    \\frac{1}{22} + \\frac{1}{v} = \\frac{1}{17}\n    $$\n    $$\n    \\frac{1}{v} = \\frac{1}{17} - \\frac{1}{22}\n                = \\frac{5}{374}\n    $$\n\n13. Hence:\n    $$\n    v = \\frac{374}{5} = \\mathbf{74.8}\n    $$\n\nFinal Answer: **74.8 km/hr**\n"
+    },
+    {
+      "q": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statements. \n\nStatements: \nSome deers are lions. \nSome frogs are deers. \nSome horses are lions. \n\nConclusions: \n(I) Atleast some lions are frogs.\n (II) Some deers are horses.",
+      "o": [
+        "Only conclusion (I) follows.",
+        "Neither conclusion (I) nor (II) follows.",
+        "Only conclusion (II) follows.",
+        "Both conclusions (I) and (II) follow."
+      ],
+      "a": 0,
+      "exp": "1. From statements:\n   Some deers are lions.\n   Some frogs are deers.\n\n2. Common term = deers\n   ⇒ Some frogs are deers and some deers are lions\n   ⇒ Possible overlap gives:\n   Some frogs are lions\n   ⇒ Some lions are frogs ✔ (Conclusion I follows)\n\n3. For Conclusion II:\n   Some deers are horses\n   Given: some horses are lions, not linked with deers\n   ⇒ No direct or indirect link between deers and horses ✘\n\n4. Correct conclusion:\n   **Only conclusion (I) follows**\n"
+    },
+    {
+      "q": "The first armed tribal rebellion against the British is considered to have taken place in:",
+      "o": [
+        "1768",
+        "1784",
+        "1800",
+        "1795"
+      ],
+      "a": 1,
+      "exp": ""
+    },
+    {
+      "q": "In November 2024, India and Singapore conducted a joint military exercise named Agni Warrior 2024. Where was this exercise held?​",
+      "o": [
+        "Devlali, Maharashtra",
+        "Pulgaon, Maharashtra",
+        "Babina, Uttar Pradesh",
+        "Jaisalmer, Rajasthan​"
+      ],
+      "a": 0,
+      "exp": ""
+    },
+    {
+      "q": "What is the average of the first 10 prime numbers?",
+      "o": [
+        "15.8",
+        "14",
+        "16",
+        "12.9"
+      ],
+      "a": 3,
+      "exp": "1. First 10 prime numbers:\n   $2, 3, 5, 7, 11, 13, 17, 19, 23, 29$\n\n2. Sum:\n   $$2+3+5+7+11+13+17+19+23+29 = 129$$\n\n3. Average:\n   $$\\frac{129}{10} = \\mathbf{12.9}$$\n"
+    },
+    {
+      "q": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of ::? #: VEC :: BNW: %",
+      "o": [
+        "# = XHA, % = ZKY",
+        "# = ZKY, % = FTS",
+        "# = FTS, % = XHA",
+        "# = DQU, % = XHA"
+      ],
+      "a": null,
+      "exp": "• Analyze relation in BNW : ZKY (from Option 1 logic check).\n• B(2) - 2 = Z(26)\n• N(14) - 3 = K(11)\n• W(23) + 2 = Y(25)\n• Pattern: -2, -3, +2.\n• Apply to find #: # must transform to VEC.\n• X(24) - 2 = V(22)\n• H(8) - 3 = E(5)\n• A(1) + 2 = C(3)\n• Thus, # = XHA and % = ZKY matches the pattern."
+    },
+    {
+      "q": "If '+' means '-', '-' means 'x', 'x' means '+' and '÷' means '+', then what will come in place of the question mark (?) in the following equation? 32 ÷ 14 + 16 - 8 x 4 = ?",
+      "o": [
+        "14",
+        "18",
+        "16",
+        "22"
+      ],
+      "a": null,
+      "exp": "• Decoded Equation: 32 + 14 - 16 × (8 ÷ 4)\n• Step 1: 8 ÷ 4 = 2\n• Step 2: 16 × 2 = 32\n• Step 3: 32 + 14 - 32\n• Result: 14"
+    },
+    {
+      "q": "Which of the following is NOT a direct tax?",
+      "o": [
+        "Income tax",
+        "Tax on capital gains",
+        "Corporate tax",
+        "Value Added Tax (VAT)"
+      ],
+      "a": 3,
+      "exp": ""
+    },
+    {
+      "q": "Vijay’s salary was first reduced by 16% and subsequently raised by 11%. What percentage was his final salary lower compared to his initial salary?",
+      "o": [
+        "6.76%",
+        "16%",
+        "1.76%",
+        "11%"
+      ],
+      "a": 0,
+      "exp": "1. Assume salary = 100\n\n2. Reduced by 16%:\n   $100 \\rightarrow 84$\n\n3. Increased by 11%:\n   $84 \\times 1.11 = 93.24$\n\n4. Net decrease:\n   $100 - 93.24 = 6.76$\n\nFinal Answer: **6.76%**\n"
+    },
+    {
+      "q": "Find the duration (in years) in which ₹1,200 will amount to ₹2,280 at a rate of 4% per annum simple interest.",
+      "o": [
+        "22.5",
+        "21.5",
+        "23.5",
+        "24.5"
+      ],
+      "a": null,
+      "exp": "• Simple Interest (SI) = Amount - Principal = $2280 - 1200 = 1080$.\n• Formula: $SI = \\frac{P \\times R \\times T}{100}$\n• $1080 = \\frac{1200 \\times 4 \\times T}{100} = 48T$\n• $T = \\frac{1080}{48} = 22.5$ years."
+    },
+    {
+      "q": "Varun and Ashish together can paint a hall in 3 days. Varun alone can paint it in 7 days. In how many days can Ashish alone paint 4 such halls?",
+      "o": [
+        "5.25",
+        "6.25",
+        "22",
+        "21"
+      ],
+      "a": null,
+      "exp": "• Let Total Work = LCM(3, 7) = 21 units.\n• Efficiency of (Varun + Ashish) = 21/3 = 7 units/day.\n• Efficiency of Varun = 21/7 = 3 units/day.\n• Efficiency of Ashish = 7 - 3 = 4 units/day.\n• Time for Ashish to paint 1 hall = 21/4 days.\n• Time for 4 halls = $4 \\times \\frac{21}{4} = 21$ days."
+    },
+    {
+      "q": "Simplify: $\\frac{\\sqrt[3]{5832}}{\\sqrt[4]{10000}}\\times\\frac{5}{24}\\times78$",
+      "o": [
+        "21",
+        "13",
+        "8",
+        "17"
+      ],
+      "a": null,
+      "exp": ""
+    },
+    {
+      "q": "Refer to the following number and symbol series and answer the question that follows. Counting to be done from left to right only. (Left) # * £ 3 9 € # % £ 1 % £ 8 8 1 4 9 % 5 8 & 7 (Right) How many such numbers are there each of which is immediately preceded by a symbol and also immediately followed by a symbol?",
+      "o": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "a": null,
+      "exp": "• Pattern required: Symbol - Number - Symbol\n• Scanning the series: ... % £ 1 % ...\n• Here, the number 1 is placed between £ and %.\n• Total count = 1"
+    },
+    {
+      "q": "If 1 is added to each odd digit and 2 is subtracted from each even digit in the number 8271634, how many digits will appear more than once in the new number thus formed?",
+      "o": [
+        "Two",
+        "None",
+        "One",
+        "Three"
+      ],
+      "a": 0,
+      "exp": "1. Number = 8271634\n2. Rule:\n\n   Odd digit → +1\n   Even digit → −2\n3. Apply rule:\n   8→6, 2→0, 7→8, 1→2, 6→4, 3→4, 4→2\n   New number = 6082442\n4. Repeated digits:\n   2 appears twice\n   4 appears twice\n5. Count of digits appearing more than once = 2\n\nFinal Answer: **Two**\n"
+    }
+  ]
+}
