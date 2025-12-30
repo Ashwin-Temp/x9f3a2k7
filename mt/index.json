@@ -13,7 +13,7 @@
     },
     {
       "id": "full_mock_hi_1",
-      "title": "RRB NTPC: Full Length Mock Test",
+      "title": "RRB NTPC: Full Length हिन्दी Mock Test",
       "questions": 100,
       "duration": 90,
       "language": "hi",
@@ -32,7 +32,7 @@
     },
     {
       "id": "full_mock_hi_2",
-      "title": "RRB NTPC: Practice Test",
+      "title": "RRB NTPC: Practice Test हिन्दी ",
       "questions": 100,
       "duration": 90,
       "language": "hi",
@@ -41,4 +41,5 @@
     }
   ]
 }
+
 
