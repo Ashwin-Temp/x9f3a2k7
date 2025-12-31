@@ -708,7 +708,7 @@
       "id": 51,
       "s": "Reasoning",
       "st": "Coding-Decoding",
-      "q": "A group of numbers/symbols is coded using letter codes as per the codes given below and the conditions that follow. If none of the conditions apply, then codes for the respective number/symbol to be followed directly as given in the table. [Table omitted as per instruction]. Conditions: (i) If the first element is a symbol and the last a number, the codes for these two (the first and the last elements) are to be interchanged. (ii) If the first element is an odd number and the last an even number, the first and last elements are to be coded as ‘@’. (iii) If both the second and third elements are perfect squares, the third element is to be coded as the code for the second element. What will be the code for the following group? 5&3@7%2",
+      "q": "A group of numbers/symbols is coded using letter codes as per the codes given below and the conditions that follow. If none of the conditions apply, then codes for the respective number/symbol to be followed directly as given in the table.\n ![](https://cdn.jsdelivr.net/gh/Ashwin-Temp/exam-master-assets/images/reasoning/copy-question.webp) \n\n Conditions:\n (i) If the first element is a symbol and the last a number, the codes for these two (the first and the last elements) are to be interchanged.\n (ii) If the first element is an odd number and the last an even number, the first and last elements are to be coded as ‘@’.\n (iii) If both the second and third elements are perfect squares, the third element is to be coded as the code for the second element.\n What will be the code for the following group?\n 5 & 3@ 7 % 2",
       "o": [
         "MDZWPO",
         "OMDZPW",
