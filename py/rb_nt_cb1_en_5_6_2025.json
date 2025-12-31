@@ -708,12 +708,12 @@
       "id": 51,
       "s": "Reasoning",
       "st": "Coding-Decoding",
-      "q": "A group of numbers/symbols is coded using letter codes as per the codes given below and the conditions that follow. If none of the conditions apply, then codes for the respective number/symbol to be followed directly as given in the table.\n ![](https://cdn.jsdelivr.net/gh/Ashwin-Temp/exam-master-assets/images/reasoning/copy-question.webp) \n\n Conditions:\n (i) If the first element is a symbol and the last a number, the codes for these two (the first and the last elements) are to be interchanged.\n (ii) If the first element is an odd number and the last an even number, the first and last elements are to be coded as ‘@’.\n (iii) If both the second and third elements are perfect squares, the third element is to be coded as the code for the second element.\n What will be the code for the following group?\n 5 & 3@ 7 % 2",
+      "q": "A group of numbers/symbols is coded using letter codes as per the codes given below and the conditions that follow. If none of the conditions apply, then codes for the respective number/symbol to be followed directly as given in the table.\n ![](https://cdn.jsdelivr.net/gh/Ashwin-Temp/exam-master-assets/images/reasoning/copy-question.webp) \n\n Conditions:\n (i) If the first element is a symbol and the last a number, the codes for these two (the first and the last elements) are to be interchanged.\n (ii) If the first element is an odd number and the last an even number, the first and last elements are to be coded as ‘©’.\n (iii) If both the second and third elements are perfect squares, the third element is to be coded as the code for the second element.\n What will be the code for the following group?\n 5 & 3@ 7 % 2",
       "o": [
-        "MDZWPO",
-        "OMDZPW",
-        "ODMZWPO",
-        "MDWZPO"
+        "© M D Z W P ©",
+        "© M D Z P W ©",
+        "© D M Z W P ©",
+        "© M D W Z P ©"
       ],
       "a": 0,
       "exp": "• Group: 5 & 3 @ 7 % 2\n• First element (5) is an Odd number. Last element (2) is an Even number.\n• Condition (ii) applies: First and Last codes become specific codes (based on Hindi source and standard patterns, this often implies a specific symbol like 'M' or code swap, here Option 1 fits the pattern of the provided key).\n• Note: The specific symbol '@' mentioned in the text might vary in the actual table image (e.g., Copyright or specific char). Based on the awer key Option 1 (MDZWPO), the codes for 5 and 2 were traformed/swapped accordingly."
