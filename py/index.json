@@ -1,73 +1,72 @@
 [
   {
-    "id": "rb_nt_25_cb2_g_en_13_10_25",
+    "id": "1_cb2_en_g_13jun25_s1",
     "title": "RRB NTPC 2025 GRADUATE CBT-2 English (13/10/2025)",
     "questions": 120,
     "ts": 1760313600000
   },
   {
-    "id": "rb_nt_cb1_en_5_6_2025",
+    "id": "2_cb1_en_g_5jun25_s1",
     "title": "RRB NTPC 2025 GRADUATE CBT 1 English Shift 1 (05/06/2025)",
     "questions": 100,
     "ts": 1749081600000
   },
   {
-    "id": "rb_nt_cb1_hi_5_6_2025",
+    "id": "2_cb1_hi_g_5jun25_s1",
     "title": "RRB NTPC 2025 GRADUATE CBT 1 हिन्दी Shift 1 (05/06/2025)",
     "questions": 100,
     "ts": 1749081600000
   },
   {
-    "id": "rb_nt_cb1_sh2_en_5_6_2025",
+    "id": "3_cb1_en_g_5jun25_s2",
     "title": "RRB NTPC 2025 GRADUATE CBT 1 English Shift 2 (05/06/2025)",
     "questions": 100,
     "ts": 1749081600000
   },
   {
-    "id": "rb_nt_cb1_sh2_hi_5_6_2025",
+    "id": "3_cb1_hi_g_5jun25_s2",
     "title": "RRB NTPC 2025 GRADUATE CBT 1 हिन्दी Shift 2 (05/06/2025)",
     "questions": 100,
     "ts": 1749081600000
   },
   {
-    "id": "rb_nt_cb1_sh3hin_050625",
+    "id": "3_cb1_hi_g_5jun25_s3",
     "title": "RRB NTPC 2025 GRADUATE CBT 1 Shift 3 हिन्दी (05/06/2025)",
     "questions": 100,
     "ts": 1749081600000
   },
   {
-    "id": "6juns1hin",
+    "id": "4_cb1_hi_g_6jun25_s1",
     "title": "RRB NTPC 2025 GRADUATE CBT 1 Shift 1 हिन्दी (06/06/2025)",
     "questions": 100,
     "ts": 1749081600000
   },
   {
-    "id": "rb_nt_cb1_6juns1eng",
+    "id": "4_cb1_en_g_6juns25_s1",
     "title": "RRB NTPC 2025 GRADUATE CBT 1 Shift 3 English (06/06/2025)",
     "questions": 100,
     "ts": 1749081600000
   },
   {
-    "id": "rb_nt_cb1_9_6_2025_si_eng",
+    "id": "5_cb1_en_g_9jun25_s1",
     "title": "RRB NTPC 2025 GRADUATE CBT 1 Shift 1 English (09/06/2025)",
     "questions": 100,
     "ts": 1749081600000
   },
   {
-    "id": "rb_nt_en_g_6thjune25",
+    "id": "6_cb1_en_g_9jun25_s2",
     "title": "RRB NTPC 2025 GRADUATE CBT 1 Shift 2 English (09/06/2025)",
     "questions": 100,
     "ts": 1749081600000
   },
   {
-    "id": "rb_nt_hi_g_6thjune25",
+    "id": "6_cb1_hi_g_9jun25_s2",
     "title": "RRB NTPC 2025 GRADUATE CBT 1 Shift 2 हिन्दी (09/06/2025)",
     "questions": 100,
     "ts": 1749081600000
   }
- 
-
 ]
+
 
 
 
