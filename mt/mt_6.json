@@ -1,0 +1,1406 @@
+{
+  "id": "mocktest6",
+  "time": 90,
+  "questions": [
+    {
+      "section": "Mathematics",
+      "topic": "Profit and Loss (Dishonest Dealer)",
+      "q": "A dishonest dealer professes to sell his goods at Cost Price but uses a weight of $900 \\text{ gm}$ for a kg weight. Find his gain percent.",
+      "o": [
+        "$10\\%$",
+        "$11.11\\%$",
+        "$12.5\\%$",
+        "$9.09\\%$"
+      ],
+      "a": 1,
+      "e": "Formula: $\\frac{\\text{Error}}{\\text{True Value} - \\text{Error}} \\times 100$.\nError $= 1000 - 900 = 100 \\text{g}$.\nGain $= \\frac{100}{900} \\times 100 = \\frac{1}{9} \\times 100 = 11.11\\%$.",
+      "e2": "Let price of $1 \\text{ gm}$ be $₹1$.\nDealer takes $₹1000$ (for $1 \\text{ kg}$) but gives goods worth $₹900$ ($900 \\text{ gm}$).\nCP $= 900$. SP $= 1000$.\nProfit $= 100$.\n$\\% P = \\frac{100}{900} \\times 100 = 11\\frac{1}{9}\\%$.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Awards (Nobel)",
+      "q": "The Nobel Prize in Economics 2024 was awarded to Daron Acemoglu, Simon Johnson, and James Robinson for their research on:",
+      "o": [
+        "Auction Theory",
+        "Banks and Financial Crises",
+        "How institutions affect prosperity",
+        "Labour Economics"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "q": "Statement:\nNo Lilli is lotus.\nAll lotus are roses.\nNo rose is jasmine.\nConclusion:\nI) All rose are lotus.\nII) No jasmine is lotus.",
+      "o": [
+        "Both conclusion I and II follow",
+        "Either conclusion I or II follows",
+        "Only conclusion II follows",
+        "Neither conclusion I and nor II follows"
+      ],
+      "a": 2,
+      "e": "1. \"All lotus are roses\" does not imply \"All rose are lotus\". Conclusion I is false.\n2. Since \"No rose is jasmine\" and \"Lotus\" is completely inside \"Rose\", Jasmine cannot touch Lotus. Thus, \"No jasmine is lotus\" is true.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "General Science (Chemistry)",
+      "q": "What is the common name of Nitrous Oxide?",
+      "o": [
+        "Tear Gas",
+        "Laughing Gas",
+        "Marsh Gas",
+        "Sleeping Gas"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "q": "In a certain code language, if WIND is coded as 5273 and RIVER is coded as 62981 then WINNER will be coded as.",
+      "o": [
+        "527781",
+        "527782",
+        "527881",
+        "527884"
+      ],
+      "a": 0,
+      "e": "Comparing the letters to the digits:\nW=5, I=2, N=7, D=3\nR=6, I=2, V=9, E=8, R=1\nFor the word **WINNER**:\nW=5, I=2, N=7, N=7, E=8, R=1.\nSo, WINNER = **527781**.\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Mirror Image",
+      "q": "What is the mirror image of the word \"EXAM\" when viewed in a mirror placed vertically to the right of the word?",
+      "o": [
+        "MAXE",
+        "MAXƎ",
+        "EXAM",
+        "ƎXAM"
+      ],
+      "a": 1,
+      "e": "Concept: Lateral Inversion (Left becomes Right).\n1. **Order Reversal**: The last letter becomes the first.\nInput: E - X - A - M $\\to$ Output starts with M.\n2. **Letter Inversion**:\n* **M**: Symmetrical vertically $\\to$ M.\n* **A**: Symmetrical vertically $\\to$ A.\n* **X**: Symmetrical vertically $\\to$ X.\n* **E**: Asymmetrical $\\to$ Becomes Ǝ (Backward E).\n3.  **Combine**: M A X Ǝ.\n\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "International Summits",
+      "q": "Which city hosted the UN Climate Change Conference (COP29) in November 2024?",
+      "o": [
+        "Dubai, UAE",
+        "Baku, Azerbaijan",
+        "Glasgow, UK",
+        "Sharm el-Sheikh, Egypt"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Defence Appointments",
+      "q": "Who is the current Chief of the Naval Staff (CNS) of India (appointed in April 2024)?",
+      "o": [
+        "Admiral Dinesh K. Tripathi",
+        "Admiral R. Hari Kumar",
+        "Admiral Karambir Singh",
+        "Admiral Anil Chauhan"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "International Summits",
+      "q": "Which country will hold the G20 Presidency for the year 2025?",
+      "o": [
+        "South Africa",
+        "Brazil",
+        "USA",
+        "India"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Time and Work",
+      "q": "Raj and Ram together can do work in 16 days, which Ram and Shyam together can do in 32 days. After Raj has been working at it for 15 days and Ram for 13 days, Shyam finished it in 10 days. In how many days Raj and Shyam alone will do the work respectively?",
+      "o": [
+        "24 days and 99 days",
+        "24 days and 48 days",
+        "24 days and 96 days",
+        "24 days and 72 days"
+      ],
+      "a": 2,
+      "e": "Total Work (LCM of 16, 32) = 32 units.\nEff: $R + Rm = 2$, $Rm + S = 1$.\nWork Eq: $15R + 13Rm + 10S = 32$\nRearrange: $13(R+Rm) + 2R + 10S = 32$\n$13(2) + 2R + 10S = 32 \\Rightarrow 26 + 2R + 10S = 32$\n$2R + 10S = 6 \\Rightarrow R + 5S = 3$.\nAlso $S = (Rm+S) - (R+Rm) + R = 1 - 2 + R = R-1$.\nSub $S = R-1$ in eq: $R + 5(R-1) = 3 \\Rightarrow 6R = 8 \\Rightarrow R = 4/3$.\n$S = 1/3$.\nTime Raj: $32 \\div (4/3) = \\mathbf{24}$. Time Shyam: $32 \\div (1/3) = \\mathbf{96}$.",
+      "e2": "**Step 1: Calculate Total Work and Combined Efficiencies.**\nLet Total Work = LCM(16, 32) = 32 units.\nEfficiency of Raj + Ram ($R + Rm$) = $\\frac{32}{16} = 2$ units/day.\nEfficiency of Ram + Shyam ($Rm + S$) = $\\frac{32}{32} = 1$ unit/day.\n\n**Step 2: Set up the Work Equation.**\nRaj works 15 days, Ram 13 days, Shyam 10 days.\nTotal Work = $15R + 13Rm + 10S = 32$.\n\n**Step 3: Solve for Individual Efficiencies.**\nFrom efficiencies: $Rm = 2 - R$ and $S = 1 - Rm$.\nSubstitute $Rm$ in S: $S = 1 - (2 - R) = R - 1$.\nSubstitute $Rm$ and $S$ into the work equation:\n$15R + 13(2 - R) + 10(R - 1) = 32$\n$15R + 26 - 13R + 10R - 10 = 32$\n$12R + 16 = 32$\n$12R = 16 \\Rightarrow R = \\frac{16}{12} = \\frac{4}{3}$ units/day.\n$S = R - 1 = \\frac{4}{3} - 1 = \\frac{1}{3}$ units/day.\n\n**Step 4: Calculate Time for Each.**\nTime for Raj = $\\frac{\\text{Work}}{R} = \\frac{32}{4/3} = 24$ days.\nTime for Shyam = $\\frac{\\text{Work}}{S} = \\frac{32}{1/3} = 96$ days."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Biology (Human Anatomy)",
+      "q": "How many chambers are present in the human heart?",
+      "o": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "a": 3,
+      "e": "The human heart has 4 chambers: two upper chambers (Atria) and two lower chambers (Ventricles).\n* Fish: 2 chambers\n* Amphibians: 3 chambers\n\n\n[Image of human heart diagram chambers]\n\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Physics (Kinetic Energy)",
+      "q": "If the velocity of a moving object is doubled, what happens to its Kinetic Energy?",
+      "o": [
+        "It remains the same",
+        "It becomes 2 times",
+        "It becomes 4 times",
+        "It becomes half"
+      ],
+      "a": 2,
+      "e": "Formula: $K.E. = \\frac{1}{2}mv^2$.\nIf velocity becomes $2v$, then new $K.E.'$:\n$$K.E.' = \\frac{1}{2}m(2v)^2 = \\frac{1}{2}m(4v^2) = 4 \\times (\\frac{1}{2}mv^2)$$\nSo, the Kinetic Energy becomes 4 times the original value.\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "q": "In a certain code language, if HOUSE is coded as 10-13-23-17-7 then REHEARSE will be coded as ?",
+      "o": [
+        "20-7-10-7-3-20-21-7",
+        "16-3-6-3-25-16-17-3",
+        "20-3-10-3-3-16-21-3",
+        "18-5-8-5-1-18-19-5"
+      ],
+      "a": 2,
+      "e": "Each letter's positional value is increased by 2:\nH(8)+2=10, O(15)+2=17, U(21)+2=23, S(19)+2=21, E(5)+2=7.\nWait, according to the solution provided in the image for REHEARSE:\nR(18)+2=20, E(5)-2=3, H(8)+2=10, E(5)-2=3, A(1)+2=3, R(18)-2=16, S(19)+2=21, E(5)-2=3.\nThe pattern alternates between **+2** and **-2**.\nResult: **20-3-10-3-3-16-21-3**.\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Statement and Assumption",
+      "q": "Statement: Earlier there were many birds in the bird sanctuary.\nAssumption:\nI. Birds migrate and come to the sanctuary during a particular time period of the year.\nII. There were good water resources in that area.",
+      "o": [
+        "I and II both are implicit",
+        "Only II is implicit",
+        "Neither I nor II is implicit",
+        "Only I is implicit"
+      ],
+      "a": 3,
+      "e": "The word \"Earlier\" in the statement suggests a temporal change. Assumption I explains why there were many birds previously (migration during a specific period), making it a logical link to the statement. Assumption II, while potentially true in reality, cannot be directly inferred or assumed solely from the statement provided. Hence, only I is implicit.\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Number System (Divisibility)",
+      "q": "Which of the following numbers is divisible by 11?",
+      "o": [
+        "4823718",
+        "8423718",
+        "4832718",
+        "8432718"
+      ],
+      "a": 2,
+      "e": "Rule: Difference between sum of digits at odd places and even places must be 0 or multiple of 11.\nFor 4832718:\nOdd places: $8+7+3+4 = 22$.\nEven places: $1+2+8 = 11$.\nDiff: $22 - 11 = 11$ (Divisible).",
+      "e2": "**Step 1: Apply Divisibility Rule of 11.**\nSum of Odd pos digits - Sum of Even pos digits = 0 or 11k.\n\n**Step 2: Check Option 3 (4832718).**\nOdd pos (from right): $8 + 7 + 3 + 4 = 22$.\nEven pos (from right): $1 + 2 + 8 = 11$.\nDifference = $22 - 11 = 11$.\nSince 11 is divisible by 11, the number is divisible.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Compound Interest",
+      "q": "Find the Compound Interest on ₹4000 for 2 years at 5% per annum.",
+      "o": [
+        "₹405",
+        "₹410",
+        "₹420",
+        "₹400"
+      ],
+      "a": 1,
+      "e": "Use the \"2:1 Ratio Method\" for 2 years.\nStep 1: 5% of 4000 = 200.\nStep 2: 5% of 200 = 10.\nStep 3: Apply Ratio 2:1.\nCI = (2 × 200) + (1 × 10).\nCI = 400 + 10.\nCI = ₹410.",
+      "e2": "Use the \"Tree Method\" (splitting years).\n1st Year Interest = 5% of 4000 = 200.\n2nd Year Interest = 200 + (Interest on 200).\nInterest on 200 = 5% of 200 = 10.\nTotal CI = 200 (Yr 1) + 200 (Yr 2) + 10 (Interest on Interest).\nTotal = 200 + 200 + 10 = ₹410.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Number Series",
+      "q": "Select the number from among the given options that can replace the question mark (?) in the following series.\n156, 182, 210, ?",
+      "o": [
+        "240",
+        "236",
+        "202",
+        "210"
+      ],
+      "a": 0,
+      "e": "Logic 1: Difference Method.\nCalculate the difference between consecutive terms:\n1. $182 - 156 = 26$\n2. $210 - 182 = 28$\nThe difference increases by 2. Next difference should be $30$.\nNext Term $= 210 + 30 = 240$.\n",
+      "e2": "Logic 2: Product of Consecutive Integers.\nThe terms are products of sequential numbers ($n \\times (n+1)$):\n1. $12 \\times 13 = 156$\n2. $13 \\times 14 = 182$\n3. $14 \\times 15 = 210$\nNext: $15 \\times 16 = 240$."
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Profit and Loss",
+      "q": "By selling an article for ₹900, a man gains 20%. Find the Cost Price (CP).",
+      "o": [
+        "₹750",
+        "₹720",
+        "₹800",
+        "₹700"
+      ],
+      "a": 0,
+      "e": "Use the \"Fraction Method\" (Best for mental math).\n20% = 1/5.\nSince it is gain, SP becomes (5 + 1) = 6 units.\n6 units = ₹900.\n1 unit = 900 / 6 = ₹150.\nCP is 5 units.\nCP = 5 × 150 = ₹750.",
+      "e2": "Use the \"100 Method\".\nLet CP = 100%.\nProfit = 20%.\nSP = 120%.\n120% = 900.\n1% = 900 / 120 = 7.5.\nCP (100%) = 7.5 × 100 = ₹750."
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Compound Interest (Growth)",
+      "q": "A sum of money becomes $1.44$ times of itself in $2$ years at Compound Interest. Find the rate per annum.",
+      "o": [
+        "$20\\%$",
+        "$10\\%$",
+        "$15\\%$",
+        "$44\\%$"
+      ],
+      "a": 0,
+      "e": "Use \"Square Root\" trick for 2 years.\nGrowth factor $= 1.44$.\n$\\sqrt{1.44} = 1.2$.\nThis means principal $1$ becomes $1.2$.\nInterest $= 0.2$.\nRate $= 0.2 \\times 100 = 20\\%$.",
+      "e2": "Formula $A = P(1 + r/100)^t$.\n$1.44P = P(1 + r/100)^2$.\nTake square root on both sides.\n$1.2 = 1 + r/100$.\n$0.2 = r/100 \\implies r = 20\\%$.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Defence Exercises",
+      "q": "The joint military exercise 'MAITREE' is conducted between India and which country?",
+      "o": [
+        "Thailand",
+        "Sri Lanka",
+        "Bangladesh",
+        "Myanmar"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "General Science (Biology)",
+      "q": "Which gland in the human body is known as the 'Master Gland'?",
+      "o": [
+        "Thyroid",
+        "Adrenal",
+        "Pituitary",
+        "Pancreas"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Mathematical Operations",
+      "q": "If + means −, − means ×, × means ÷, and ÷ means +, what will come in place of the question mark (?) in the following equation?\n45 – 2 ÷ 9 + 16 × 8 = ?",
+      "o": [
+        "80",
+        "87",
+        "97",
+        "100"
+      ],
+      "a": 2,
+      "e": "Step 1: Swap signs according to the rules.\nExpression: $45 \\times 2 + 9 - 16 \\div 8$\nStep 2: Apply BODMAS.\n1. Division: $16 \\div 8 = 2$.\n$\\to 45 \\times 2 + 9 - 2$\n2. Multiplication: $45 \\times 2 = 90$.\n$\\to 90 + 9 - 2$\n3. Addition/Subtraction: $99 - 2 = 97$.\nResult: **97**.\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Mensuration (Sphere)",
+      "q": "The surface areas of two spheres are in the ratio 4:9. Find the ratio of their volumes.",
+      "o": [
+        "8:27",
+        "2:3",
+        "16:81",
+        "4:9"
+      ],
+      "a": 0,
+      "e": "Area Ratio ($r^2$) = 4:9.\nRadius Ratio ($r$) = $\\sqrt{4}:\\sqrt{9}$ = 2:3.\nVolume Ratio ($r^3$) = $2^3 : 3^3 = \\mathbf{8:27}$.",
+      "e2": "**Step 1: Relate Area to Radius.**\nSurface Area $\\propto r^2$.\n$\\frac{A_1}{A_2} = \\frac{4}{9} \\Rightarrow \\frac{r_1}{r_2} = \\sqrt{\\frac{4}{9}} = \\frac{2}{3}$.\n\n**Step 2: Relate Radius to Volume.**\nVolume $\\propto r^3$.\nRatio $= \\left(\\frac{2}{3}\\right)^3 = \\frac{8}{27}$.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Seating Arrangement",
+      "q": "Seven people, N, O, P, Q, R, S and T, are sitting in a straight line facing north. T is sitting at one of the ends of the line. Only two people are sitting to the left of R. P is sitting to the immediate right of R and immediate left of S. Q is sitting to the immediate left of O. Q does not sit at an extreme end of the line. How many people are sitting between O and N?",
+      "o": [
+        "Two",
+        "Zero",
+        "Four",
+        "One"
+      ],
+      "a": 2,
+      "e": "\n1. Total 7 positions: _ _ _ _ _ _ _\n2. \"Only two people are sitting to the left of R\": R is at the 3rd position.\n_ _ R _ _ _ _\n3. \"P is to the immediate right of R and immediate left of S\":\n_ _ R P S _ _\n4. \"T is at one of the ends\": If T is at the right end, the line is _ _ R P S _ T. If T is at the left end, the line is T _ R P S _ _.\n5. \"Q is to the immediate left of O\" and \"Q is not at an extreme end\":\nCase 1: (T at right end) _ Q O R P S T -> Q is 2nd, O is 3rd. But R is already at 3rd. (Invalid)\nCase 2: (T at left end) T Q O R P S N -> Q is 2nd, O is 3rd. But R is 3rd. (Invalid)\nCorrect Placement: The only spot for the Q-O pair where Q is not at an end is positions 6 and 7.\nArrangement: **T N R P S Q O** (T is at left end, N is 2nd, R is 3rd, P is 4th, S is 5th, Q is 6th, O is 7th).\n6. People between O (7th) and N (2nd): R, P, S, Q (**Four** people).",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Computer Knowledge",
+      "q": "What is the full form of RAM?",
+      "o": [
+        "Read Access Memory",
+        "Random Access Memory",
+        "Read Applied Memory",
+        "Random Applied Memory"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Alphanumeric Series",
+      "q": "Refer to the following number and symbol series and answer the question that follows.\n(Left) # * £ 3 9 € # % £ 1 % £ 8 8 1 4 9 % 5 8 & 7 (Right)\nHow many such numbers are there each of which is immediately preceded by a symbol and also immediately followed by a symbol?",
+      "o": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "a": 2,
+      "e": "Required Pattern: **Symbol $\\rightarrow$ Number $\\rightarrow$ Symbol**\nScanning the series from left to right:\n1.  ... £ **1** % ... (Preceded by £, Followed by %)\nThere is only **1** such number.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Mensuration (Equilateral Triangle)",
+      "q": "If the side of an equilateral triangle is 8 cm, find its area.",
+      "o": [
+        "$16\\sqrt{3}$ cm²",
+        "$32\\sqrt{3}$ cm²",
+        "$64\\sqrt{3}$ cm²",
+        "$12\\sqrt{3}$ cm²"
+      ],
+      "a": 0,
+      "e": "Formula: Area $= \\frac{\\sqrt{3}}{4} a^2$.\nSide $a = 8$.\nArea $= \\frac{\\sqrt{3}}{4} \\times (8)^2$\n$= \\frac{\\sqrt{3}}{4} \\times 64 = 16\\sqrt{3}$.",
+      "e2": "\n\n[Image of equilateral triangle formula]\n\n**Step 1: Use Area Formula.**\nArea = $\\frac{\\sqrt{3}}{4} \\times (\\text{side})^2$.\n\n**Step 2: Substitute side.**\n$\\frac{\\sqrt{3}}{4} \\times 8 \\times 8$.\n$\\sqrt{3} \\times 2 \\times 8 = 16\\sqrt{3}$.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Problem on Ages",
+      "q": "The ratio of the present ages of A and B is 5:6. Seven years hence, this ratio will become 6:7. What is A's present age in years?",
+      "o": [
+        "35",
+        "42",
+        "49",
+        "30"
+      ],
+      "a": 0,
+      "e": "Gap method:\nPresent: $5 : 6$\n+7 yrs: $6 : 7$\nGap in units $= 6-5 = 1$ unit.\n$1 \\text{ unit} = 7 \\text{ years}$.\nA's age $= 5 \\text{ units} = 5 \\times 7 = \\mathbf{35}$.",
+      "e2": "**Step 1: Set up ratios.**\nPresent Ratio (A:B) = 5:6\nFuture Ratio (+7 years) = 6:7\n\n**Step 2: Check unit difference.**\nDifference for A = $6 - 5 = 1$ unit.\nDifference for B = $7 - 6 = 1$ unit.\nSince the difference is constant, 1 unit represents the time gap of 7 years.\n\n**Step 3: Calculate Present Age.**\nA's present age corresponds to 5 units.\nAge $= 5 \\times 7 = 35$ years.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Number System (Divisibility)",
+      "q": "If the number $5432\\times7$ is divisible by $9$, find the value of the digit $x$.",
+      "o": [
+        "$6$",
+        "$1$",
+        "$9$",
+        "$5$"
+      ],
+      "a": 0,
+      "e": "Rule for 9: Sum of digits must be divisible by 9.\nSum $= 5+4+3+2+x+7 = 21 + x$.\nNext multiple of 9 after 21 is 27.\nSo, $21 + x = 27 \\implies x = 6$.",
+      "e2": "Divide sum by 9 and check remainder.\n$21 / 9 \\implies \\text{Remainder } 3$.\nTo make it divisible, we need $9 - 3 = 6$ more.\nSo $x = 6$.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "q": "Statement:\nAll animals are dogs.\nDogs are carnivorous.\nConclusion:\n1. Some animals are not carnivorous.\n2. All animals are carnivorous.\n3. All dogs are animals.",
+      "o": [
+        "Only 3 follows",
+        "None of them follows",
+        "Only 1 follows",
+        "Only 2 follows"
+      ],
+      "a": 3,
+      "e": "The logic chain is: Animals $\\rightarrow$ Dogs $\\rightarrow$ Carnivorous.\nThis means all Animals are essentially Carnivorous. Therefore, Conclusion 2 is correct.\nConclusion 1 is false because all animals are carnivorous. Conclusion 3 is false because \"All dogs are animals\" is the reverse of the statement and is not necessarily true.\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Odd One Out",
+      "q": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT belong to that group?",
+      "o": [
+        "GC-ZV",
+        "LH-DC",
+        "CY-VR",
+        "RN-KG"
+      ],
+      "a": 1,
+      "e": "Check the difference between the letters within each cluster of the pair.\n1.  **GC - ZV**:\n* $G \\xrightarrow{-4} C$\n* $Z \\xrightarrow{-4} V$\n* (Both are -4).\n2.  **LH - DC**:\n* $L \\xrightarrow{-4} H$\n* $D \\xrightarrow{-1} C$\n* (Pattern mismatch: -4 and **-1**).\n3.  **CY - VR**:\n* $C \\xrightarrow{-4} Y$ (Cyclic)\n* $V \\xrightarrow{-4} R$\n* (Both are -4).\n4.  **RN - KG**:\n* $R \\xrightarrow{-4} N$\n* $K \\xrightarrow{-4} G$\n* (Both are -4).\nOption 2 is the odd one out.\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Chemistry (Common Chemicals)",
+      "q": "What is the chemical formula of 'Washing Soda'?",
+      "o": [
+        "$NaHCO_3$",
+        "$Na_2CO_3 \\cdot 10H_2O$",
+        "$CaOCl_2$",
+        "$NaOH$"
+      ],
+      "a": 1,
+      "e": "Washing Soda is Sodium Carbonate Decahydrate.\n* $NaHCO_3$: Baking Soda\n* $NaOH$: Caustic Soda\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "q": "In a certain code language, if INCLUDE is coded as 4790825 and REVERT is coded as 351536 then how will DRIVER be coded as?",
+      "o": [
+        "215343",
+        "251343",
+        "234315",
+        "234153"
+      ],
+      "a": 3,
+      "e": "Each letter is assigned a specific digit based on the given examples:\nI=4, N=7, C=9, L=0, U=8, D=2, E=5\nR=3, E=5, V=1, E=5, R=3, T=6\nBy picking the digits for **DRIVER**:\nD=2, R=3, I=4, V=1, E=5, R=3.\nSo, DRIVER = **234153**.\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Books and Authors",
+      "q": "Who is the author of the autobiography 'Wings of Fire'?",
+      "o": [
+        "Dr. A.P.J. Abdul Kalam",
+        "Chetan Bhagat",
+        "Arundhati Roy",
+        "R.K. Narayan"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Sports (Football)",
+      "q": "Which country won the Copa América 2024 title?",
+      "o": [
+        "Colombia",
+        "Brazil",
+        "Argentina",
+        "Uruguay"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Time and Work",
+      "q": "A can do 50% of a job in 16 days, B can do 1/4th of the job in 24 days. In how many days can they do 3/4th of the job working together?",
+      "o": [
+        "24",
+        "9",
+        "18",
+        "21"
+      ],
+      "a": 2,
+      "e": "Time for Full Work:\nA = $16 \\times 2 = 32$ days.\nB = $24 \\times 4 = 96$ days.\nLCM (Total Work) = 96.\nEff: A = 3, B = 1. Total = 4.\nTime for Full = $96/4 = 24$ days.\nTime for 3/4th = $24 \\times (3/4) = \\mathbf{18}$ days.",
+      "e2": "* Get full time first.\n* A: 50% in 16 $\\rightarrow$ 100% in 32.\n* B: 25% in 24 $\\rightarrow$ 100% in 96.\n* Combined rate: $1/32 + 1/96 = 4/96 = 1/24$.\n* Work required: 3/4.\n* Time: $(3/4) \\times 24 = 18$.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Algebra",
+      "q": "If $a^3 + b^3 = 72$ and $ab = 8$, find the value of $a + b$.",
+      "o": [
+        "5",
+        "6",
+        "8",
+        "4"
+      ],
+      "a": 1,
+      "e": "Use \"Hit and Trial\" (Value Putting).\nFind factors of $ab = 8$.\nPairs: $(8, 1)$ or $(4, 2)$.\nCheck $(4, 2)$:\n$4^3 + 2^3 = 64 + 8 = 72$. (Matches!)\nSo, $a+b = 4+2 = 6$.",
+      "e2": "Use Formula $(a+b)^3 = a^3 + b^3 + 3ab(a+b)$.\nLet $x = a+b$.\n$x^3 = 72 + 3(8)(x)$.\n$x^3 - 24x - 72 = 0$.\nSolve for $x$. (Trial with 6).\n$216 - 144 - 72 = 0$.\nSo $x = 6$.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Calendar",
+      "q": "If 15th August 2023 was a Tuesday, then what day of the week was 26th January 2024?",
+      "o": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Friday"
+      ],
+      "a": 3,
+      "e": "Count the total number of odd days between the two dates:\n1. **August 2023**: Remaining days $= 31 - 15 = 16$.\n2. **September**: 30 days.\n3. **October**: 31 days.\n4. **November**: 30 days.\n5. **December**: 31 days.\n6. **January 2024**: Given date is 26th $\\to$ 26 days.\nTotal Days $= 16 + 30 + 31 + 30 + 31 + 26 = 164$.\nFind odd days: $164 \\div 7 = 23$ weeks with remainder **3**.\nShift forward: Tuesday $+ 3 = $ **Friday**.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Ratio and Proportion (Coins)",
+      "q": "A bag contains ₹1, 50p, and 25p coins in the ratio 2:3:4. If the total value is ₹180, find the number of 50p coins.",
+      "o": [
+        "80",
+        "120",
+        "100",
+        "150"
+      ],
+      "a": 1,
+      "e": "Use the \"Value Unit\" method.\nConvert coin ratio to value:\n2 coins of ₹1 = ₹2.\n3 coins of 50p = ₹1.5.\n4 coins of 25p = ₹1.\nTotal Value unit = 2 + 1.5 + 1 = 4.5 units.\n4.5 units = ₹180.\n1 unit = 180 / 4.5 = 40.\nNumber of 50p coins = 3 (from ratio) × 40 = 120.",
+      "e2": "Basic Algebra Method.\nLet coins be 2x, 3x, and 4x.\nValue = (2x × 1) + (3x × 0.50) + (4x × 0.25) = 180.\n2x + 1.5x + 1x = 180.\n4.5x = 180.\nx = 1800 / 45 = 40.\n50p coins = 3x = 3 × 40 = 120.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Biology (Vitamins)",
+      "q": "Scurvy is caused due to the deficiency of which vitamin?",
+      "o": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "a": 1,
+      "e": "Scurvy is a disease resulting from a lack of Vitamin C (Ascorbic acid). Symptoms include bleeding gums and weakness. Vitamin A deficiency causes Night Blindness, and Vitamin D deficiency causes Rickets.\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Awards (Gallantry)",
+      "q": "Who was posthumously awarded the 'Kirti Chakra' (India's second-highest peacetime gallantry award) in 2024?",
+      "o": [
+        "Major Somnath Sharma",
+        "Captain Anshuman Singh",
+        "Colonel Santosh Babu",
+        "Major Sandeep Unnikrishnan"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Physics (Electricity - Heating Effect)",
+      "q": "A current of 2 A flows through a resistor of $5 \\ \\Omega$ for 10 seconds. Calculate the heat energy produced.",
+      "o": [
+        "100 J",
+        "50 J",
+        "200 J",
+        "10 J"
+      ],
+      "a": 2,
+      "e": "According to Joule's Law of Heating:\n$$H = I^2 R t$$\nGiven: $I = 2 \\text{ A}$, $R = 5 \\ \\Omega$, $t = 10 \\text{ s}$\n$$H = (2)^2 \\times 5 \\times 10$$\n$$H = 4 \\times 5 \\times 10 = 200 \\text{ J}$$\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Physics (Power)",
+      "q": "A pump lifts 100 kg of water to a height of 20 m in 10 seconds. Calculate the power of the pump. (Take $g = 10 \\text{ m/s}^2$).",
+      "o": [
+        "2000 W",
+        "1000 W",
+        "200 W",
+        "20 kW"
+      ],
+      "a": 0,
+      "e": "Power ($P$) = $\\frac{\\text{Work Done}}{\\text{Time}} = \\frac{mgh}{t}$\nGiven: $m=100$, $g=10$, $h=20$, $t=10$\n$$P = \\frac{100 \\times 10 \\times 20}{10} = 2000 \\text{ Watts (or 2 kW)}$$\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Indian Railways",
+      "q": "When was the first passenger train run in India (between Bombay and Thane)?",
+      "o": [
+        "1853",
+        "1854",
+        "1856",
+        "1858"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Geography",
+      "q": "Which is the largest freshwater lake in India?",
+      "o": [
+        "Chilika Lake",
+        "Wular Lake",
+        "Sambhar Lake",
+        "Vembanad Lake"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Time and Work (Fraction)",
+      "q": "A can do $\\frac{1}{2}$ of a work in $5$ days. B can do $\\frac{3}{5}$ of the work in $9$ days. In how many days can they finish the work together?",
+      "o": [
+        "$8$ days",
+        "$10$ days",
+        "$5$ days",
+        "$6$ days"
+      ],
+      "a": 3,
+      "e": "Convert to Full Work first.\nA full $= 5 \\times 2 = 10$ days.\nB full $= 9 \\times \\frac{5}{3} = 15$ days.\nLCM(10, 15) $= 30$.\nEff: $A=3, B=2$. Total $= 5$.\nTime $= \\frac{30}{5} = 6$ days.",
+      "e2": "A's 1 day work $= \\frac{1}{10}$.\nB's 1 day work $= \\frac{1}{15}$.\nTogether $= \\frac{1}{10} + \\frac{1}{15} = \\frac{3+2}{30} = \\frac{5}{30} = \\frac{1}{6}$.\nReciprocal $= 6$ days."
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Algebra",
+      "q": "If x = 3 + √8, find the value of x + (1/x).",
+      "o": [
+        "4",
+        "6",
+        "9",
+        "8"
+      ],
+      "a": 1,
+      "e": "Use the \"Reciprocal Trick\".\nCheck difference of squares:\n3² - (√8)² = 9 - 8 = 1.\nIf diff is 1, then (1/x) is just the conjugate (3 - √8).\nx + 1/x = (3 + √8) + (3 - √8).\nSum = 3 + 3 = 6.",
+      "e2": "Rationalize the denominator.\n1/x = 1 / (3 + √8).\nMultiply top and bottom by (3 - √8).\nDenominator becomes 3² - (√8)² = 1.\nSo 1/x = 3 - √8.\nAdd them: 3 + √8 + 3 - √8 = 6.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Chemistry (Common Chemicals)",
+      "q": "What is the chemical name of 'Milk of Magnesia', often used as an antacid?",
+      "o": [
+        "Magnesium Carbonate",
+        "Magnesium Hydroxide",
+        "Sodium Bicarbonate",
+        "Calcium Hydroxide"
+      ],
+      "a": 1,
+      "e": "Milk of Magnesia is Magnesium Hydroxide [$Mg(OH)_2$]. It is a mild base (alkaline) used to neutralize excess stomach acid and treat indigestion.\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "General Science (Biology)",
+      "q": "Deficiency of Vitamin C causes which disease?",
+      "o": [
+        "Rickets",
+        "Beriberi",
+        "Scurvy",
+        "Night Blindness"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Indices and Rankings",
+      "q": "What is India's rank in the World Economic Forum's 'Energy Transition Index' 2024?",
+      "o": [
+        "63rd",
+        "67th",
+        "55th",
+        "72nd"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Physics (Work and Energy)",
+      "q": "An object of mass 10 kg is accelerated from an initial velocity of $2 \\text{ m/s}$ to a final velocity of $4 \\text{ m/s}$. Calculate the work done on the object.",
+      "o": [
+        "20 J",
+        "100 J",
+        "60 J",
+        "80 J"
+      ],
+      "a": 2,
+      "e": "Work done is equal to the change in Kinetic Energy (Work-Energy Theorem).\n$$W = \\Delta K.E. = \\frac{1}{2}m(v^2 - u^2)$$\nGiven: $m=10$, $u=2$, $v=4$\n$$W = \\frac{1}{2} \\times 10 \\times (4^2 - 2^2)$$\n$$W = 5 \\times (16 - 4) = 5 \\times 12 = 60 \\text{ J}$$\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Physics (Electricity - Heat)",
+      "q": "100 Joules of heat are produced each second in a $4 \\ \\Omega$ resistor. Find the potential difference across the resistor.",
+      "o": [
+        "20 V",
+        "400 V",
+        "25 V",
+        "10 V"
+      ],
+      "a": 0,
+      "e": "Heat produced per second is Electric Power ($P$).\nGiven: $P = 100 \\text{ W (J/s)}$, $R = 4 \\ \\Omega$.\nFormula: $P = \\frac{V^2}{R}$\n$$V^2 = P \\times R = 100 \\times 4 = 400$$\n$$V = \\sqrt{400} = 20 \\text{ V}$$\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Profit and Loss (Equivalent Discount)",
+      "q": "Find the single discount equivalent to two successive discounts of $20\\%$ and $5\\%$.",
+      "o": [
+        "$25\\%$",
+        "$23\\%$",
+        "$24.5\\%$",
+        "$24\\%$"
+      ],
+      "a": 3,
+      "e": "Use Formula: $A + B - \\frac{AB}{100}$.\n$20 + 5 - \\frac{20 \\times 5}{100}$.\n$25 - \\frac{100}{100}$.\n$25 - 1 = 24\\%$.",
+      "e2": "Let MP $= 100$.\nFirst discount $20\\% \\implies 80$.\nSecond discount $5\\%$ on $80$.\n$10\\%$ is $8$, so $5\\%$ is $4$.\nPrice $= 80 - 4 = 76$.\nTotal Discount $= 100 - 76 = 24\\%$.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Direction Sense",
+      "q": "A person starts walking towards East. After walking 20 meters, he turns to his right and walks 15 meters. Then he turns to his left and walks 10 meters. Again he turns to his right and walks 15 meters. Finally, he turns to his right and walks 20 meters. In which direction is he now from his starting point?",
+      "o": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "a": 1,
+      "e": "Trace the movement using vectors:\n1. East 20m.\n2. Right (South) 15m.\n3. Left (East) 10m.\n4. Right (South) 15m.\n5. Right (West) 20m.\nNet Distance Calculation:\nHorizontal (East-West): $20 + 10 - 20 = 10 \\text{ m}$ (East).\nVertical (North-South): $15 + 15 = 30 \\text{ m}$ (South).\nFinal Position: $30 \\text{ m}$ South and $10 \\text{ m}$ East from start.\nSince \"South-East\" is not an option, the primary direction relative to the start is **South** (due to the larger 30m displacement).",
+      "e2": "Visual check:\nThe person went East, then down (South), then further East, then down (South) again, then came back West.\nHe is significantly \"below\" the starting line ($30 \\text{ m}$ down) compared to his horizontal shift ($10 \\text{ m}$ right).\nAnswer is South."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Beauty Pageants",
+      "q": "Who was crowned Miss Universe 2024 at the event held in Mexico?",
+      "o": [
+        "Sheynnis Palacios",
+        "Victoria Kjaer Theilvig (Denmark)",
+        "R'Bonney Gabriel",
+        "Harnaaz Sandhu"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Sports (Kabaddi)",
+      "q": "Which team won the Pro Kabaddi League (PKL) Season 10 title in 2024?",
+      "o": [
+        "Haryana Steelers",
+        "Puneri Paltan",
+        "Jaipur Pink Panthers",
+        "Patna Pirates"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy",
+      "q": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of ::?\n# : VEC :: BNW : %",
+      "o": [
+        "# = XHA, % = ZKY",
+        "# = ZKY, % = FTS",
+        "# = FTS, % = XHA",
+        "# = DQU, % = XHA"
+      ],
+      "a": 0,
+      "e": "\nLet's check Option 1: # = XHA, % = ZKY.\n**Left Pair (XHA : VEC):**\nX (24) $\\xrightarrow{-2}$ V (22)\nH (8) $\\xrightarrow{-3}$ E (5)\nA (1) $\\xrightarrow{+2}$ C (3)\nPattern: **-2, -3, +2**.\n\n**Right Pair (BNW : ZKY):**\nB (2) $\\xrightarrow{-2}$ Z (26)\nN (14) $\\xrightarrow{-3}$ K (11)\nW (23) $\\xrightarrow{+2}$ Y (25)\nPattern: **-2, -3, +2**.\nSince the pattern matches, Option 1 is correct.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Profit and Loss",
+      "q": "The marked price of an item is 25% above its cost price. If a shopkeeper allows a discount of 10% on the marked price, what is his profit percentage?",
+      "o": [
+        "15%",
+        "10%",
+        "12.5%",
+        "20%"
+      ],
+      "a": 2,
+      "e": "Let CP = 100.\nMP = 125 (25% above).\nDiscount = 10% of 125 = 12.5.\nSP = $125 - 12.5 = 112.5$.\nProfit = $112.5 - 100 = \\mathbf{12.5\\%}$.",
+      "e2": "**Step 1: Assume Cost Price.**\nLet Cost Price (CP) = ₹100.\n\n**Step 2: Calculate Marked Price (MP).**\nMP is 25% more than CP.\nMP = $100 + 25 = 125$.\n\n**Step 3: Apply Discount.**\nDiscount is 10% of MP.\nDiscount = $0.10 \\times 125 = 12.5$.\nSelling Price (SP) = MP - Discount\nSP = $125 - 12.5 = 112.5$.\n\n**Step 4: Calculate Profit.**\nProfit = SP - CP = $112.5 - 100 = 12.5$.\nProfit % = 12.5%.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Number Set Analogy",
+      "q": "Which of the given options follows the same set of operations as in the given sets (5 - 6 - 10 - 20) and (12 - 13 - 17 - 34)?",
+      "o": [
+        "17 - 18 - 22 - 44",
+        "15 - 16 - 20 - 30",
+        "7 - 8 - 12 - 26",
+        "23 - 24 - 28 - 54"
+      ],
+      "a": 0,
+      "e": "Analyze the mathematical operations between consecutive terms:\nSet 1: $5 \\xrightarrow{+1} 6 \\xrightarrow{+4} 10 \\xrightarrow{\\times 2} 20$.\nSet 2: $12 \\xrightarrow{+1} 13 \\xrightarrow{+4} 17 \\xrightarrow{\\times 2} 34$.\nLogic: **+1, +4, ×2**.\nCheck Option 1:\n1. $17 + 1 = 18$\n2. $18 + 4 = 22$\n3. $22 \\times 2 = 44$\nThis matches the logic perfectly.\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "q": "Statements:\n1. Some tigers are rats.\n2. All rats are elephants.\n3. All tigers are cats.\nConclusions:\nI. Some cats are elephants.\nII. Some elephants are tigers.\nIII. Some cats are rats.",
+      "o": [
+        "Only conclusions II and III follow.",
+        "All conclusions I, II and III follow.",
+        "Only conclusions I and II follow.",
+        "Only conclusions I and III follow."
+      ],
+      "a": 1,
+      "e": "Logical Deduction using Venn Diagrams:\n1. **Analyze Intersections**:\n* \"Some tigers are rats\" $\\to$ There is an intersection between Tigers (T) and Rats (R). Let's call this common area $X$.\n* \"All rats are elephants\" $\\to$ The entire Rat circle is inside Elephants (E). Therefore, the area $X$ (which is part of Rats) is also inside Elephants.\n* \"All tigers are cats\" $\\to$ The entire Tiger circle is inside Cats (C). Therefore, the area $X$ (which is part of Tigers) is also inside Cats.\n2. **Check Conclusions**:\n* **I. Some cats are elephants**: True. The common area $X$ contains entities that are Rats, Tigers, Elephants, and Cats. Thus, Cats and Elephants overlap at $X$.\n* **II. Some elephants are tigers**: True. Since Rats are Elephants, the Tigers that are Rats ($X$) are also Elephants.\n* **III. Some cats are rats**: True. Since Tigers are Cats, the Rats that are Tigers ($X$) are also Cats.\nResult: **All conclusions follow**.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Time and Work (Alternate Days)",
+      "q": "A and B can do a work in $10$ days and $15$ days respectively. If they work on alternate days starting with A, in how many days will the work be finished?",
+      "o": [
+        "$10$ days",
+        "$12$ days",
+        "$15$ days",
+        "$12.5$ days"
+      ],
+      "a": 1,
+      "e": "Use \"Cycle Method\".\nLCM(10, 15) = 30 units (Total Work).\nA's Eff = 3, B's Eff = 2.\n2-Day Cycle (A then B) = $3 + 2 = 5$ units.\nCycles needed $= \\frac{30}{5} = 6$ cycles.\nTotal Days $= 6 \\times 2 = 12$ days.",
+      "e2": "Day 1: A does 3. Total 3.\nDay 2: B does 2. Total 5.\nDay 3: A does 3. Total 8.\n...\nSince 5 units in 2 days, simply multiply:\n$5 \\times 6 = 30$ units.\n$2 \\times 6 = 12$ days."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Sports (Cricket)",
+      "q": "Which country defeated South Africa to win the ICC Men's T20 World Cup 2024 title?",
+      "o": [
+        "Australia",
+        "India",
+        "England",
+        "West Indies"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy",
+      "q": "Select the option that is related to the third word on the same basis as the second word is related to the first word.\nWrist : Watch :: Finger : ?",
+      "o": [
+        "Joint",
+        "Ring",
+        "Thumb",
+        "Nail"
+      ],
+      "a": 1,
+      "e": "Just as a watch is worn on the wrist, a ring is worn on the finger.\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Classification (Odd One Out)",
+      "q": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT belong to that group?",
+      "o": [
+        "RX – MS",
+        "NR – GL",
+        "MF – HA",
+        "IO – DJ"
+      ],
+      "a": 1,
+      "e": "\nCheck the difference between the letters in each pair:\n1.  **RX – MS:** R(18) $\\to$ M(13) [**-5**]; X(24) $\\to$ S(19) [**-5**]\n2.  **NR – GL:** N(14) $\\to$ G(7) [**-7**]; R(18) $\\to$ L(12) [**-6**]\n3.  **MF – HA:** M(13) $\\to$ H(8) [**-5**]; F(6) $\\to$ A(1) [**-5**]\n4.  **IO – DJ:** I(9) $\\to$ D(4) [**-5**]; O(15) $\\to$ J(10) [**-5**]\nIn all pairs except **NR – GL**, the difference between corresponding letters is -5. In NR – GL, the differences are inconsistent (-7 and -6).",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Sports (Cricket)",
+      "q": "Who won the 'Orange Cap' for scoring the most runs in IPL 2024?",
+      "o": [
+        "Ruturaj Gaikwad",
+        "Travis Head",
+        "Virat Kohli",
+        "Riyan Parag"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Mensuration",
+      "q": "If the radius of the base of a cylinder is halved and its height is doubled, then the volume of the cylinder will:",
+      "o": [
+        "Remain the same",
+        "Become half",
+        "Become double",
+        "Become four times"
+      ],
+      "a": 1,
+      "e": "Formula: $V = \\pi r^2 h$\nNew $r' = r/2$, New $h' = 2h$.\n$V' = \\pi (r/2)^2 (2h)$\n$V' = \\pi \\frac{r^2}{4} \\times 2h = \\frac{1}{2} (\\pi r^2 h)$.\nVolume becomes **Half**.",
+      "e2": "**Step 1: Write original volume formula.**\nVolume $V = \\pi r^2 h$.\n\n**Step 2: Apply changes.**\nNew Radius $r' = \\frac{r}{2}$.\nNew Height $h' = 2h$.\n\n**Step 3: Calculate new volume.**\n$V' = \\pi (r')^2 h'$\n$V' = \\pi \\left(\\frac{r}{2}\\right)^2 (2h)$\n$V' = \\pi \\times \\frac{r^2}{4} \\times 2h$\n$V' = \\frac{1}{2} \\pi r^2 h$.\n\n**Step 4: Compare.**\nNew Volume is half of the original volume.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Algebra",
+      "q": "If $a + b = 5$ and $ab = 6$, find the value of $a^3 + b^3$.",
+      "o": [
+        "35",
+        "125",
+        "90",
+        "65"
+      ],
+      "a": 0,
+      "e": "Formula: $a^3 + b^3 = (a+b)^3 - 3ab(a+b)$.\nSubstitute values:\n$= (5)^3 - 3(6)(5)$\n$= 125 - 90 = \\mathbf{35}$.",
+      "e2": "**Step 1: Identify Formula.**\nWe know $(a+b)^3 = a^3 + b^3 + 3ab(a+b)$.\nSo, $a^3 + b^3 = (a+b)^3 - 3ab(a+b)$.\n\n**Step 2: Substitute.**\n$(5)^3 - 3 \\times 6 \\times 5$.\n$125 - 90$.\n\n**Step 3: Solve.**\n$35$.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Indian Railways",
+      "q": "In which year did the first electric train run in India?",
+      "o": [
+        "1925",
+        "1930",
+        "1953",
+        "1905"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Static GK (Sports)",
+      "q": "The 'Durand Cup' is associated with which sport?",
+      "o": [
+        "Cricket",
+        "Hockey",
+        "Football",
+        "Golf"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Biology (Human Body)",
+      "q": "Which is the largest gland in the human body?",
+      "o": [
+        "Pancreas",
+        "Thyroid",
+        "Liver",
+        "Pituitary"
+      ],
+      "a": 2,
+      "e": "The Liver is the largest gland in the human body. It performs essential functions like bile production, detoxification, and metabolism. The Thyroid is the largest endocrine gland.\n\n[Image of human liver anatomy]\n\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Static GK (Firsts in India)",
+      "q": "Who was the first Indian to travel to space?",
+      "o": [
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Ravish Malhotra"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Mixture and Alligation (Replacement)",
+      "q": "A vessel contains $80 \\text{ liters}$ of milk. $8 \\text{ liters}$ of milk is taken out and replaced by water. This process is repeated one more time. Find the quantity of milk left in the vessel.",
+      "o": [
+        "$64 \\text{ L}$",
+        "$60 \\text{ L}$",
+        "$64.8 \\text{ L}$",
+        "$72 \\text{ L}$"
+      ],
+      "a": 2,
+      "e": "Use the \"Replacement Formula\":\n$\\text{Final} = \\text{Initial} \\left( 1 - \\frac{\\text{Removed}}{\\text{Initial}} \\right)^n$.\nHere $n=2$ (process done twice).\n$F = 80 \\times \\left( 1 - \\frac{8}{80} \\right)^2$.\n$F = 80 \\times \\left( \\frac{9}{10} \\right)^2$.\n$F = 80 \\times \\frac{81}{100} = 0.8 \\times 81 = 64.8 \\text{ L}$.",
+      "e2": "Step-by-Step Method.\nStart: $80 \\text{ L}$.\nStep 1: Remove $8 \\text{ L}$ milk.\nMilk Left $= 72 \\text{ L}$. (Ratio Milk:Water is $72:8 = 9:1$).\nStep 2: Remove $8 \\text{ L}$ of mixture.\nMilk part removed $= \\frac{9}{10} \\times 8 = 7.2 \\text{ L}$.\nMilk Remaining $= 72 - 7.2 = 64.8 \\text{ L}$."
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy (Units and Measurements)",
+      "q": "Kilometre is to Distance as Poundal is to:",
+      "o": [
+        "Acceleration",
+        "Density",
+        "Force",
+        "Momentum"
+      ],
+      "a": 2,
+      "e": "The relationship is **Unit : Physical Quantity**.\nA Kilometre is a unit used to measure Distance.\nSimilarly, a Poundal is a unit used to measure Force (specifically in the FPS system).",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Average",
+      "q": "The average weight of 15 students in a class increases by 1.5 kg when one of the students weighing 40 kg is replaced by a new student. What is the weight of the new student?",
+      "o": [
+        "64.5 kg",
+        "56 kg",
+        "62.5 kg",
+        "60 kg"
+      ],
+      "a": 2,
+      "e": "Total weight increased = $15 \\times 1.5 = 22.5$ kg.\nThis increase is due to the new student.\nNew Weight = Old Weight + Increase\n$= 40 + 22.5 = \\mathbf{62.5}$ kg.",
+      "e2": "**Step 1: Find the total increase.**\nNumber of students = 15.\nIncrease in average = 1.5 kg.\nTotal Increase = $15 \\times 1.5 = 22.5$ kg.\n\n**Step 2: Relate to the new student.**\nThe new student brings in the weight of the old student plus the total extra weight required to raise the average.\nNew Weight = Replaced Weight + Total Increase.\n\n**Step 3: Calculate.**\nNew Weight = $40 + 22.5 = 62.5$ kg.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Data Sufficiency",
+      "q": "Nitu goes to the market with 3 similar sized bags. How much weight can these three bags carry together?\nStatement:\n1. Half of each bag is 1 kg.\n2. The first and second bags are green while the third one is black.",
+      "o": [
+        "Only Statement I sufficient.",
+        "Only Statement II sufficient.",
+        "Either Statement I or II sufficient.",
+        "Both Statement I and II sufficient."
+      ],
+      "a": 0,
+      "e": "To find the total weight capacity, we need numerical data about the bags' capacity.\nFrom Statement 1: \"Half of each bag is 1 kg.\" This implies a full bag holds 2 kg. Since there are 3 bags, the total capacity is $3 \\times 2 = 6$ kg. This is sufficient to answer the question.\nFrom Statement 2: The color of the bags is irrelevant to their weight capacity.\nTherefore, only Statement I is sufficient.\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Mathematical Operations",
+      "q": "If P means ‘÷ ’, R means ‘×’, Q means ‘+’ and S means ‘–’, then 36 P 6 Q 7 R 8 S 11 =",
+      "o": [
+        "45",
+        "51",
+        "52",
+        "62"
+      ],
+      "a": 1,
+      "e": "Replace the letters with their respective mathematical symbols:\nP $\\to \\div$, Q $\\to +$, R $\\to \\times$, S $\\to -$\nThe equation becomes: $36 \\div 6 + 7 \\times 8 - 11$\n1. Division: $36 \\div 6 = 6$\n2. Multiplication: $7 \\times 8 = 56$\n3. Addition and Subtraction: $6 + 56 - 11 = 62 - 11 = \\mathbf{51}$.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Science and Technology",
+      "q": "India celebrates 'National Space Day' on which date (declared to commemorate the success of Chandrayaan-3)?",
+      "o": [
+        "July 14",
+        "August 23",
+        "September 2",
+        "October 10"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "General Science (Biology)",
+      "q": "Which is the longest bone in the human body?",
+      "o": [
+        "Tibia",
+        "Fibula",
+        "Femur",
+        "Humerus"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Natural Disasters",
+      "q": "Which severe cyclonic storm hit the coasts of Odisha and West Bengal in October 2024?",
+      "o": [
+        "Cyclone Remal",
+        "Cyclone Dana",
+        "Cyclone Michaung",
+        "Cyclone Biparjoy"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Direction and Distance",
+      "q": "Town E is to the east of Town F. Town F is to the south of Town G. Town G is to the east of Town H. Town H is to the west of Town I. Town E is to the south-west of Town I. What is the position of Town G with respect to Town I?",
+      "o": [
+        "East",
+        "North",
+        "South",
+        "West"
+      ],
+      "a": 3,
+      "e": "\n1. Let's map relative to **G**.\n2. F is South of G. E is East of F. $\\Rightarrow$ E is **South-East** of G.\n3. H is West of G. I is East of H. This means H, G, and I are on the same horizontal line (latitudinally).\n4. Critical Point: **E is South-West of I**.\n5. Since E is South-East of G but South-West of I, Town I must be to the **East** of Town G.\n6. Therefore, looking back from I, Town G is to the **West**.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Profit and Loss",
+      "q": "A shopkeeper sells an article for ₹880 at a loss of 20%. What is the Cost Price (CP) of the article?",
+      "o": [
+        "₹1100",
+        "₹1000",
+        "₹1200",
+        "₹960"
+      ],
+      "a": 0,
+      "e": "SP = ₹880.\nLoss = 20% $\\Rightarrow$ SP is 80% of CP.\n$80\\% \\text{ of CP} = 880$.\n$CP = \\frac{880}{80} \\times 100 = 11 \\times 100 = \\mathbf{1100}$.",
+      "e2": "**Step 1: Relate SP and CP.**\nSelling Price = Cost Price - Loss.\nSince Loss is 20%, SP is $100\\% - 20\\% = 80\\%$ of CP.\n\n**Step 2: Setup Equation.**\n$0.80 \\times CP = 880$.\n\n**Step 3: Solve for CP.**\n$CP = \\frac{880}{0.80} = 1100$."
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Geometry (Triangles)",
+      "q": "In an isosceles triangle ABC, $AB = AC$ and $\\angle B = 65^\\circ$. Find the measure of $\\angle A$.",
+      "o": [
+        "$65^\\circ$",
+        "$50^\\circ$",
+        "$60^\\circ$",
+        "$70^\\circ$"
+      ],
+      "a": 1,
+      "e": "Since $AB = AC$, angles opposite are equal.\n$\\angle C = \\angle B = 65^\\circ$.\nSum of angles = $180^\\circ$.\n$\\angle A + 65 + 65 = 180$.\n$\\angle A + 130 = 180 \\Rightarrow \\angle A = \\mathbf{50^\\circ}$.",
+      "e2": "\n* Property: Base angles of an isosceles triangle are equal.\n* $\\angle B = \\angle C = 65$.\n* $\\angle A = 180 - (65+65) = 50$.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Mathematical Operations",
+      "q": "What will come in the place of the question mark (?) in the following equation, if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?\n$405 \\div 2 + 369 \\times 9 - 32 = ?$",
+      "o": [
+        "804",
+        "801",
+        "803",
+        "802"
+      ],
+      "a": 1,
+      "e": "Step 1: Interchange signs according to the rule:\n$\\div \\to \\times$\n$+ \\to -$\n$\\times \\to \\div$\n$- \\to +$\nStep 2: Write the new equation:\n$405 \\times 2 - 369 \\div 9 + 32$\nStep 3: Apply BODMAS.\nDivide: $369 \\div 9 = 41$.\nMultiply: $405 \\times 2 = 810$.\nAdd/Sub: $810 - 41 + 32 = 769 + 32 = 801$.",
+      "e2": "Quick check:\n$405 \\times 2 = 810$.\n$369 / 9 = 41$.\nExpression becomes $810 - 41 + 32$.\n$810 - 9 = 801$. (Since $-41 + 32 = -9$).\nResult: 801."
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Series (Letter Triad)",
+      "q": "Select the triad that follows the same pattern as: OL-QN-SU and LI-NK-PR.",
+      "o": [
+        "SO-TR-VY",
+        "RO-TQ-VX",
+        "RO-TQ-VY",
+        "SO-TQ-VY"
+      ],
+      "a": 1,
+      "e": "Analyze the shift between the letters in the groups:\n1. **First Letters:** Increase by +2 steps consistently.\n* Given: O(+2) $\\to$ Q(+2) $\\to$ S.\n* Given: L(+2) $\\to$ N(+2) $\\to$ P.\n* Option 2: R(+2) $\\to$ T(+2) $\\to$ V. (Matches).\n2. **Second Letters:** Increase by +2, then by +7.\n* Given: L(+2) $\\to$ N(+7) $\\to$ U.\n* Given: I(+2) $\\to$ K(+7) $\\to$ R.\n* Option 2: O(+2) $\\to$ Q(+7) $\\to$ X. (Matches).\nAlternative Logic (Within Pairs):\n* 1st & 2nd terms: (1st Letter - 3 = 2nd Letter). Ex: O-3=L, Q-3=N.\n* 3rd term: (1st Letter + 2 = 2nd Letter). Ex: S+2=U.\n* Check Option 2: R-3=O, T-3=Q, V+2=X. Matches perfectly.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Profit and Loss",
+      "q": "A man sells two watches for ₹99 each. On one he gains 10% and on the other he loses 10%. What is the net effect?",
+      "o": [
+        "1% Gain",
+        "1% Loss",
+        "No Gain No Loss",
+        "2% Loss"
+      ],
+      "a": 1,
+      "e": "Shortcut: Always a Loss of $(x^2/100)\\%$.\nLoss $= (10^2)/100 = 100/100 = \\mathbf{1\\%}$ Loss.",
+      "e2": "* When SP is same and Gain% = Loss% = x.\n* Net result is always Loss.\n* Formula: $x^2 / 100$ %.\n* $10 \\times 10 / 100 = 1\\%$."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Chemistry (Chemical Compounds)",
+      "q": "What is the chemical formula of 'Quick Lime'?",
+      "o": [
+        "$Ca(OH)_2$",
+        "$CaCO_3$",
+        "$CaO$",
+        "$CaCl_2$"
+      ],
+      "a": 2,
+      "e": "Quick Lime is Calcium Oxide ($CaO$).\n* $Ca(OH)_2$: Slaked Lime (Calcium Hydroxide)\n* $CaCO_3$: Limestone (Calcium Carbonate)\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Mensuration (Rhombus)",
+      "q": "The perimeter of a rhombus is 40 cm and one of its diagonals is 12 cm. Find the area of the rhombus.",
+      "o": [
+        "96 cm²",
+        "48 cm²",
+        "100 cm²",
+        "80 cm²"
+      ],
+      "a": 0,
+      "e": "\nSide $= 40/4 = 10$ cm.\nDiagonals bisect at $90^\\circ$.\nHalf of $d_1 = 12/2 = 6$.\nUsing Pythagoras in quarter triangle:\n$10^2 = 6^2 + x^2 \\Rightarrow 100 = 36 + x^2$.\n$x^2 = 64 \\Rightarrow x = 8$. So $d_2 = 16$.\nArea $= \\frac{1}{2} d_1 d_2 = \\frac{1}{2} \\times 12 \\times 16 = \\mathbf{96}$.",
+      "e2": "**Step 1: Find the side.**\nPerimeter = 40, so Side = 10.\n\n**Step 2: Find the second diagonal.**\nDiagonals of a rhombus bisect each other at right angles.\nLet diagonals be $d_1$ and $d_2$.\n$\\left(\\frac{d_1}{2}\\right)^2 + \\left(\\frac{d_2}{2}\\right)^2 = \\text{Side}^2$.\n$6^2 + \\left(\\frac{d_2}{2}\\right)^2 = 10^2$.\n$36 + \\text{val}^2 = 100 \\Rightarrow \\text{val}^2 = 64 \\Rightarrow \\text{val} = 8$.\nSo, half diagonal = 8, full diagonal $d_2 = 16$.\n\n**Step 3: Calculate Area.**\nArea = $\\frac{1}{2} \\times d_1 \\times d_2 = 0.5 \\times 12 \\times 16 = 96$ cm²."
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Simple and Compound Interest",
+      "q": "The difference between the Compound Interest (compounded annually) and Simple Interest on a specific sum of money for 2 years at 10% per annum is ₹150. What is the sum?",
+      "o": [
+        "₹12,000",
+        "₹15,000",
+        "₹18,000",
+        "₹10,000"
+      ],
+      "a": 1,
+      "e": "Formula for 2-year difference: $D = P \\times (\\frac{R}{100})^2$\n$150 = P \\times (\\frac{10}{100})^2$\n$150 = P \\times \\frac{1}{100}$\n$P = 150 \\times 100 = \\mathbf{15,000}$",
+      "e2": "**Step 1: Identify Given Values.**\nDifference ($D$) = ₹150\nRate ($R$) = 10%\nTime ($T$) = 2 years\nWe need to find Principal ($P$).\n\n**Step 2: Use the Difference Formula.**\nFor 2 years, the difference between CI and SI is given by:\n$D = P \\left( \\frac{R}{100} \\right)^2$\n\n**Step 3: Substitute and Solve.**\n$150 = P \\left( \\frac{10}{100} \\right)^2$\n$150 = P \\left( \\frac{1}{10} \\right)^2$\n$150 = P \\times \\frac{1}{100}$\n$P = 150 \\times 100$\n$P = 15,000$\n\n**Step 4: Conclusion.**\nThe sum is **₹15,000**."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Chemistry (Chemical Processes)",
+      "q": "Rusting of iron is an example of:",
+      "o": [
+        "Reduction",
+        "Oxidation",
+        "Sublimation",
+        "Evaporation"
+      ],
+      "a": 1,
+      "e": "Rusting is an Oxidation reaction. Iron reacts with oxygen and moisture in the air to form Hydrated Iron (III) Oxide (Rust).\n$$4Fe + 3O_2 + xH_2O \\rightarrow 2Fe_2O_3 \\cdot xH_2O$$\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy (Number Power)",
+      "q": "Find the missing value denoted by ‘?’\n3 : 243 :: 5 : ?",
+      "o": [
+        "625",
+        "465",
+        "3125",
+        "425"
+      ],
+      "a": 2,
+      "e": "Relationship: $n : n^5$.\n1. $3^5 = 3 \\times 3 \\times 3 \\times 3 \\times 3 = 243$.\n2. Apply to 5: $5^5 = 5 \\times 5 \\times 5 \\times 5 \\times 5 = 3125$.\nResult: **3125**.",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy (Antonyms)",
+      "q": "Choose the pair which is related in the same way as the word in the first pair from the given choices.\nSavage : Civilized :: ______ : ______",
+      "o": [
+        "Brutal : Heroic",
+        "Wild : Animal",
+        "Dark : Light",
+        "Illiterate : Book"
+      ],
+      "a": 2,
+      "e": "Relationship: **Antonyms** (Opposites).\n* **Savage** means wild or primitive, which is the opposite of **Civilized** (refined, advanced society).\n* Check Options:\n1. Brutal : Heroic $\\to$ Not exact opposites (Brutal $\\leftrightarrow$ Gentle/Humane).\n2. Wild : Animal $\\to$ Characteristic (Not opposites).\n3. **Dark : Light** $\\to$ Direct opposites. (Matches logic).\n4. Illiterate : Book $\\to$ Relation (One who cannot read books).\nResult: **Dark : Light**.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Geography",
+      "q": "Which Indian state shares the longest international border with Bangladesh?",
+      "o": [
+        "Assam",
+        "Meghalaya",
+        "West Bengal",
+        "Tripura"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Statistics",
+      "q": "Find the median of the following data set: 12, 15, 11, 13, 18, 11, 13, 12, 13.",
+      "o": [
+        "12",
+        "13",
+        "11",
+        "12.5"
+      ],
+      "a": 1,
+      "e": "Order the data: 11, 11, 12, 12, **13**, 13, 13, 15, 18.\nCount ($n$) = 9 (Odd).\nMedian = $((n+1)/2)^{th}$ term = $5^{th}$ term.\nValue = **13**.",
+      "e2": "**Step 1: Arrange in ascending order.**\n11, 11, 12, 12, 13, 13, 13, 15, 18.\n\n**Step 2: Identify middle term.**\nSince there are 9 terms (odd number), the median is the exact middle number.\nThe 5th number is 13.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Logical Sequence",
+      "q": "Arrange the following words in a logical and meaningful order:\n1. Infant\n2. Child\n3. Adult\n4. Adolescent\n5. Old age",
+      "o": [
+        "1, 2, 4, 3, 5",
+        "1, 3, 2, 4, 5",
+        "2, 1, 4, 3, 5",
+        "4, 1, 2, 3, 5"
+      ],
+      "a": 0,
+      "e": "The words represent the chronological stages of human growth:\n1. **Infant** (Birth to ~2 years)\n2. **Child** (Growth phase)\n3. **Adolescent** (Teenage/Puberty)\n4. **Adult** (Maturity)\n5. **Old Age** (Seniority)\nSequence: $1 \\to 2 \\to 4 \\to 3 \\to 5$.\n\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "LCM and HCF",
+      "q": "The HCF of two numbers is 11 and their LCM is 7700. If one of the numbers is 275, find the other number.",
+      "o": [
+        "279",
+        "283",
+        "308",
+        "318"
+      ],
+      "a": 2,
+      "e": "Formula: $\\text{Num1} \\times \\text{Num2} = \\text{HCF} \\times \\text{LCM}$\n$275 \\times x = 11 \\times 7700$\n$x = \\frac{11 \\times 7700}{275} = \\frac{7700}{25} = \\mathbf{308}$.",
+      "e2": "**Step 1: State the relationship.**\nProduct of two numbers = Product of their HCF and LCM.\n$N_1 \\times N_2 = \\text{HCF} \\times \\text{LCM}$.\n\n**Step 2: Substitute values.**\n$275 \\times N_2 = 11 \\times 7700$.\n\n**Step 3: Solve.**\n$N_2 = \\frac{11 \\times 7700}{275}$.\nDivide 275 by 11 $\\rightarrow 25$.\n$N_2 = \\frac{7700}{25}$.\n$N_2 = 308$.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Physics (Units and Measurements)",
+      "q": "What is the SI unit of Electric Charge?",
+      "o": [
+        "Volt",
+        "Ampere",
+        "Coulomb",
+        "Ohm"
+      ],
+      "a": 2,
+      "e": "The SI unit of Electric Charge is the Coulomb (C).\n* Ampere: Electric Current\n* Volt: Potential Difference\n* Ohm: Resistance",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Series (Alphanumeric/Symbol)",
+      "q": "How many such symbols are there each of which is immediately preceded by a number and also immediately followed by a symbol?\nSequence: & 2 6 9 5 7 & € 9 * % £ 7 © 5 3 3 @ 2 © % #",
+      "o": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "a": 1,
+      "e": "Pattern required: **[Number] $\\to$ [Target Symbol] $\\to$ [Symbol]**.\nScan the series:\n1. ... **7 & €** ... $\\to$ Number (7), Symbol (&), Symbol (€). (Match 1)\n2. ... **9 * %** ... $\\to$ Number (9), Symbol (*), Symbol (%). (Match 2)\n3. ... **2 © %** ... $\\to$ Number (2), Symbol (©), Symbol (%). (Match 3)\nTotal matches = 3.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Awards and Honours",
+      "q": "The 'Statue of Social Justice', a 206-feet tall statue of Dr. B.R. Ambedkar, was inaugurated in which city?",
+      "o": [
+        "Hyderabad",
+        "Vijayawada",
+        "Mumbai",
+        "Nagpur"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Trigonometry",
+      "q": "The value of $(\\tan 1^\\circ \\tan 2^\\circ \\tan 3^\\circ \\dots \\tan 89^\\circ)$ is:",
+      "o": [
+        "0",
+        "1",
+        "1/2",
+        "Undefined"
+      ],
+      "a": 1,
+      "e": "Concept: $\\tan \\theta \\times \\tan(90-\\theta) = 1$.\nPairs: $(\\tan 1 \\cdot \\tan 89) = 1$.\n$(\\tan 2 \\cdot \\tan 88) = 1$.\n... up to $\\tan 44 \\cdot \\tan 46 = 1$.\nMiddle term $\\tan 45^\\circ = 1$.\nProduct $= 1 \\times 1 \\dots \\times 1 = \\mathbf{1}$.",
+      "e2": "**Step 1: Identify complementary pairs.**\n$\\tan 89^\\circ = \\cot 1^\\circ = 1/\\tan 1^\\circ$.\nSo $\\tan 1^\\circ \\times \\tan 89^\\circ = 1$.\n\n**Step 2: Pair them up.**\nThe series has 89 terms.\n44 pairs multiply to 1.\nThe middle term is $\\tan 45^\\circ$, which is also 1.\nResult is **1**."
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Series (Symbol-Number)",
+      "q": "How many such numbers are there each of which is immediately preceded by a symbol and also immediately followed by a symbol?\nSequence: 5 $ 6 @ 3 * 6 4 & $ 2 9 5 9 € £ 7 8 # 1 & 2",
+      "o": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "a": 2,
+      "e": "Pattern required: **[Symbol] - [Number] - [Symbol]**.\nScan the series:\n1.  **$ 6 @** $\\to$ Number 6 is flanked by symbols $ and @. (Match)\n2.  **@ 3 *** $\\to$ Number 3 is flanked by symbols @ and *. (Match)\n3.  **# 1 &** $\\to$ Number 1 is flanked by symbols # and &. (Match)\n*Check other potential spots:*\n* ...& $ 2... (2 is followed by 9, a number. Fail).\n* ...£ 7 8... (7 is followed by 8, a number. Fail).\nTotal matches: **3**.",
+      "e2": ""
+    }
+  ]
+}

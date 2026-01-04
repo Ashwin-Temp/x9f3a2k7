@@ -1,0 +1,1406 @@
+{
+  "id": "mocktest7",
+  "time": 90,
+  "questions": [
+    {
+      "section": "Mathematics",
+      "topic": "Algebra (Surds)",
+      "q": "Find the value of $\\sqrt{30 + \\sqrt{30 + \\sqrt{30 + \\dots}}}$",
+      "o": [
+        "5",
+        "6",
+        "30",
+        "15"
+      ],
+      "a": 1,
+      "e": "Shortcut: For $\\sqrt{x + \\sqrt{x + \\dots}}$, find consecutive factors of $x$.\n$30 = 5 \\times 6$.\nFor '$+$' sign, answer is the **larger** factor.\nAns = **6**.",
+      "e2": "**Step 1: Assume the expression is equal to x.**\nLet $x = \\sqrt{30 + \\sqrt{30 + \\sqrt{30 + \\dots}}}$\n\n**Step 2: Square both sides.**\n$x^2 = 30 + x$ (Since the infinite series remains $x$ inside).\n\n**Step 3: Solve the quadratic equation.**\n$x^2 - x - 30 = 0$.\nFind factors of -30 that add to -1: (-6 and +5).\n$(x - 6)(x + 5) = 0$.\n\n**Step 4: Find roots.**\n$x = 6$ or $x = -5$.\nSince a square root result is positive, $x = 6$.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "History",
+      "q": "Who built the famous Sanchi Stupa?",
+      "o": [
+        "Chandragupta Maurya",
+        "Ashoka",
+        "Bindusara",
+        "Kanishka"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "History",
+      "q": "In which year did the partition of Bengal take place?",
+      "o": [
+        "1905",
+        "1906",
+        "1911",
+        "1919"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Partnership",
+      "q": "A starts a business with an investment of ₹4000. After 3 months, B joins him with an investment of ₹16000. Find the ratio of their profits at the end of one year.",
+      "o": [
+        "1:3",
+        "2:3",
+        "1:4",
+        "1:2"
+      ],
+      "a": 0,
+      "e": "Profit Ratio = Investment $\\times$ Time.",
+      "e2": "**Step 1: Determine Investment and Time for A.**\nInvestment A = 4000.\nTime A = 12 months (Full year).\nProduct A = $4000 \\times 12 = 48,000$.\n\n**Step 2: Determine Investment and Time for B.**\nInvestment B = 16000.\nTime B = B joined after 3 months, so he stayed for $12 - 3 = 9$ months.\nProduct B = $16000 \\times 9 = 1,44,000$.\n\n**Step 3: Calculate Ratio.**\nRatio = $48,000 : 1,44,000$.\nDivide by 1000 $\\rightarrow$ $48 : 144$.\nDivide by 48 $\\rightarrow$ $1 : 3$."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "National Affairs",
+      "q": "On which date did the three new criminal laws (Bharatiya Nyaya Sanhita, etc.) come into effect in India?",
+      "o": [
+        "January 1, 2024",
+        "April 1, 2024",
+        "July 1, 2024",
+        "August 15, 2024"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Percentages",
+      "q": "The length of a rectangle is increased by 20% and its breadth is decreased by 10%. What is the percentage change in its area?",
+      "o": [
+        "8% increase",
+        "10% increase",
+        "5% decrease",
+        "8% decrease"
+      ],
+      "a": 0,
+      "e": "Use formula: Net% $= x + y + \\frac{xy}{100}$\nHere $x = +20, y = -10$.\nNet $= 20 - 10 + \\frac{20 \\times (-10)}{100}$\n$= 10 - 2 = \\mathbf{+8\\%}$ (Increase).",
+      "e2": "**Step 1: Understand the formula.**\nFor successive percentage changes, use:\nEffect $= A + B + \\frac{AB}{100}$.\n\n**Step 2: Substitute values.**\nLength ($A$) increases by 20% $\\rightarrow +20$.\nBreadth ($B$) decreases by 10% $\\rightarrow -10$.\n\n**Step 3: Calculate.**\nEffect $= 20 - 10 + \\frac{20 \\times -10}{100}$\n$= 10 - \\frac{200}{100}$\n$= 10 - 2 = 8$.\nSince the result is positive, it is an **8% increase**.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Government Initiatives",
+      "q": "The Ministry of Defence has declared the year 2025 as the:",
+      "o": [
+        "Year of Technology Absorption",
+        "Year of Defence Reforms",
+        "Year of Artificial Intelligence",
+        "Year of Self-Reliance"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Profit and Loss",
+      "q": "A shopkeeper marks his goods 40% above the cost price and allows a discount of 20%. Find his profit percentage.",
+      "o": [
+        "10%",
+        "12%",
+        "20%",
+        "15%"
+      ],
+      "a": 1,
+      "e": "Use the \"Net Effect\" formula (x - y - xy/100).\nMarkup (+40), Discount (-20).\nProfit = 40 - 20 - (40 × 20)/100.\nProfit = 20 - (800/100).\nProfit = 20 - 8 = 12%.",
+      "e2": "100 Method.\nLet CP = 100.\nMarked Price = 140 (40% up).\nDiscount = 20% of 140.\n10% is 14, so 20% is 28.\nSelling Price = 140 - 28 = 112.\nProfit = 112 - 100 = 12."
+    },
+    {
+      "section": "Mathematics",
+      "topic": "LCM and HCF",
+      "q": "The product of two numbers is $2160$ and their HCF is $12$. Find their LCM.",
+      "o": [
+        "$180$",
+        "$120$",
+        "$240$",
+        "$360$"
+      ],
+      "a": 0,
+      "e": "Use the direct formula:\n$\\text{Product} = \\text{HCF} \\times \\text{LCM}$.\n$2160 = 12 \\times \\text{LCM}$.\n$\\text{LCM} = \\frac{2160}{12} = 180$.",
+      "e2": "Let numbers be $a$ and $b$.\nGiven $a \\times b = 2160$.\nHCF $= 12$.\nWe know that for any two numbers, product of numbers equals product of LCM and HCF.\n$\\text{LCM} = \\frac{2160}{12}$.\n$12 \\times 100 = 1200$.\n$12 \\times 80 = 960$.\nTotal $180$.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Sports (Tennis)",
+      "q": "Who won the Men's Singles title at the Wimbledon Championship 2024?",
+      "o": [
+        "Novak Djokovic",
+        "Rafael Nadal",
+        "Carlos Alcaraz",
+        "Jannik Sinner"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Seating Arrangement (Linear)",
+      "q": "Five girls are sitting in a row. Rashi is not adjacent to Sulekha or Abha. Anuradha is not adjacent to Sulekha. Rashi is adjacent to Monika. Monika is at the middle in the row. Then, Anuradha is adjacent to whom out of the following?",
+      "o": [
+        "Abha",
+        "Monika",
+        "Sulekha",
+        "Rashi"
+      ],
+      "a": 3,
+      "e": "\nLet's deduce the positions step-by-step:\n1.  **Fix the Anchor:** \"Monika is at the middle in the row.\"\nArrangement: `_ _ Monika _ _`\n2.  **Place Rashi:** \"Rashi is adjacent to Monika.\"\nRashi can be to the immediate left or right of Monika. Let's assume left for now (the logic works symmetrically).\nArrangement: `_ Rashi Monika _ _`\n3.  **Identify Rashi's Neighbor:** \"Rashi is not adjacent to Sulekha or Abha.\"\nThe spot to the left of Rashi cannot be taken by Sulekha or Abha. Since Monika is already seated to the right, the only person left to sit on Rashi's left is **Anuradha**.\nArrangement: `Anuradha Rashi Monika _ _`\n4.  **Check Constraints:**\n* \"Anuradha is not adjacent to Sulekha.\" In this setup, Anuradha is next to Rashi, and Sulekha would be in one of the last two spots (far away). This holds true.\n5.  **Conclusion:**\nBased on the arrangement `Anuradha - Rashi - Monika - ...`, **Anuradha** is sitting adjacent to **Rashi**.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Biology (Nervous System)",
+      "q": "Which part of the brain is responsible for maintaining posture and balance of the body?",
+      "o": [
+        "Cerebrum",
+        "Medulla Oblongata",
+        "Hypothalamus",
+        "Cerebellum"
+      ],
+      "a": 3,
+      "e": "The Cerebellum (often called the \"Little Brain\") coordinates voluntary movements such as posture, balance, coordination, and speech.\n* Cerebrum: Thinking, intelligence.\n* Medulla: Involuntary actions (heartbeat, breathing).\n\n[Image of human brain parts]\n\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Trigonometry",
+      "q": "If $\\sin \\theta = \\frac{3}{5}$, find the value of $(\\tan \\theta + \\sec \\theta)^2$.",
+      "o": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "a": 1,
+      "e": "Since $\\sin \\theta = 3/5$, Base = $\\sqrt{5^2 - 3^2} = 4$.\n$\\tan \\theta = 3/4$, $\\sec \\theta = 5/4$.\n$(\\frac{3}{4} + \\frac{5}{4})^2 = (\\frac{8}{4})^2 = (2)^2 = \\mathbf{4}$.",
+      "e2": "**Step 1: Find the third side.**\nUsing Pythagoras triplet (3, 4, 5). Perpendicular=3, Hypotenuse=5, so Base=4.\n\n**Step 2: Find trig ratios.**\n$\\tan \\theta = \\frac{P}{B} = \\frac{3}{4}$.\n$\\sec \\theta = \\frac{H}{B} = \\frac{5}{4}$.\n\n**Step 3: Evaluate expression.**\n$(\\frac{3}{4} + \\frac{5}{4})^2 = (\\frac{8}{4})^2 = 2^2 = 4$.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Coding Decoding",
+      "q": "If PUNJAB is coded as OSKKCE, then how will PRAYAG be coded?",
+      "o": [
+        "POXJCZ",
+        "OPXJCZ",
+        "POXZCJ",
+        "OPXZCJ"
+      ],
+      "a": 3,
+      "e": "The word is split into two halves, and a specific pattern is applied to each half.\n1. **First Half (PUN)**: Subtract 1, 2, 3 respectively.\n* P (16) - 1 = O (15)\n* U (21) - 2 = S (19)\n* N (14) - 3 = K (11)\n2. **Second Half (JAB)**: Add 1, 2, 3 respectively.\n* J (10) + 1 = K (11)\n* A (1) + 2 = C (3)\n* B (2) + 3 = E (5)\n3. **Apply to PRAYAG**:\n* **First Half (PRA)**: P(-1)→**O**, R(-2)→**P**, A(-3)→**X**.\n* **Second Half (YAG)**: Y(+1)→**Z**, A(+2)→**C**, G(+3)→**J**.\nResult: **OPXZCJ**.\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Coordinate Geometry",
+      "q": "Find the distance between the points A(3, 4) and B(6, 8).",
+      "o": [
+        "7 units",
+        "5 units",
+        "6 units",
+        "4 units"
+      ],
+      "a": 1,
+      "e": "Formula: $D = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.\n$x_1=3, y_1=4, x_2=6, y_2=8$.\n$D = \\sqrt{(6-3)^2 + (8-4)^2}$\n$D = \\sqrt{3^2 + 4^2} = \\sqrt{9+16} = \\sqrt{25} = \\mathbf{5}$.",
+      "e2": "**Step 1: Identify Coordinates.**\nPoint 1: (3, 4)\nPoint 2: (6, 8)\n\n**Step 2: Apply Distance Formula.**\nDifference in x = $6 - 3 = 3$.\nDifference in y = $8 - 4 = 4$.\nDistance = $\\sqrt{3^2 + 4^2}$.\n\n**Step 3: Solve.**\n$\\sqrt{9 + 16} = \\sqrt{25} = 5$.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Chemistry (Atomic Structure)",
+      "q": "An atom has a mass number of 23 and an atomic number of 11. How many neutrons are present in its nucleus?",
+      "o": [
+        "11",
+        "23",
+        "12",
+        "34"
+      ],
+      "a": 2,
+      "e": "Mass Number ($A$) = Protons + Neutrons\nAtomic Number ($Z$) = Protons\nNumber of Neutrons = $A - Z$\nGiven: $A = 23$, $Z = 11$ (This is Sodium, Na)\n$$Neutrons = 23 - 11 = 12$$\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Trigonometry (Heights and Distances)",
+      "q": "The shadow of a tower standing on level ground is found to be $\\sqrt{3}$ times the height of the tower. The angle of elevation of the sun is:",
+      "o": [
+        "$60^\\circ$",
+        "$45^\\circ$",
+        "$30^\\circ$",
+        "$90^\\circ$"
+      ],
+      "a": 2,
+      "e": "$\\tan \\theta = \\frac{\\text{Height}}{\\text{Shadow}}$\nLet Height $= h$. Shadow $= h\\sqrt{3}$.\n$\\tan \\theta = \\frac{h}{h\\sqrt{3}} = \\frac{1}{\\sqrt{3}}$.\n$\\theta = \\mathbf{30^\\circ}$.",
+      "e2": "**Step 1: Draw the diagram.**\nLet the height of the tower be $AB = h$.\nLet the shadow length be $BC = h\\sqrt{3}$.\nWe need to find the angle of elevation $\\theta$ at $C$.\n\n**Step 2: Use trigonometric ratio.**\nIn a right-angled triangle, $\\tan \\theta = \\frac{\\text{Opposite}}{\\text{Adjacent}}$.\n$\\tan \\theta = \\frac{AB}{BC}$.\n\n**Step 3: Substitute values.**\n$\\tan \\theta = \\frac{h}{h\\sqrt{3}}$.\n$\\tan \\theta = \\frac{1}{\\sqrt{3}}$.\n\n**Step 4: Find the angle.**\nWe know that $\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}$.\nTherefore, $\\theta = 30^\\circ$.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Statistics (Mode)",
+      "q": "Find the Mode of the following data: $12, 14, 12, 16, 15, 12, 14, 18, 12$.",
+      "o": [
+        "14",
+        "12",
+        "16",
+        "18"
+      ],
+      "a": 1,
+      "e": "Mode is the \"Most Frequent\" number.\nCount the occurrences:\n$12 \\to 4$ times.\n$14 \\to 2$ times.\nOthers $\\to 1$ time.\nMode is $12$.",
+      "e2": "Arrange in ascending order first (optional but safer).\n$12, 12, 12, 12, 14, 14, 15, 16, 18$.\nHighest frequency is for $12$.\nMode $= 12$.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Algebra (Surds)",
+      "q": "If $x = 7 + 4\\sqrt{3}$, find the value of $x + \\frac{1}{x}$.",
+      "o": [
+        "$14$",
+        "$8\\sqrt{3}$",
+        "$7$",
+        "$18$"
+      ],
+      "a": 0,
+      "e": "Check difference of squares: $7^2 - (4\\sqrt{3})^2 = 49 - 48 = 1$.\nIf difference is $1$:\n$x + \\frac{1}{x} = 2 \\times \\text{Bigger Term}$.\nResult $= 2 \\times 7 = 14$.\n(Note: $x - \\frac{1}{x} = 2 \\times \\text{Smaller Term} = 8\\sqrt{3}$).",
+      "e2": "Rationalize $\\frac{1}{x}$.\n$\\frac{1}{7+4\\sqrt{3}} \\times \\frac{7-4\\sqrt{3}}{7-4\\sqrt{3}} = 7-4\\sqrt{3}$.\nAdd: $(7 + 4\\sqrt{3}) + (7 - 4\\sqrt{3}) = 14$.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Number System (Unit Digit)",
+      "q": "Find the unit digit of $(234)^{100} + (234)^{101}$.",
+      "o": [
+        "2",
+        "4",
+        "6",
+        "0"
+      ],
+      "a": 3,
+      "e": "Rule for 4:\n$4^{\\text{even}} \\to 6$.\n$4^{\\text{odd}} \\to 4$.\n$100$ is even $\\to 6$.\n$101$ is odd $\\to 4$.\nSum $= 6 + 4 = 10$.\nUnit digit is $0$.",
+      "e2": "Calculate cyclicity.\n$4^1 = 4$\n$4^2 = 16$ (ends in 6)\n$4^3 = 64$ (ends in 4)\nPower 100 (even) gives 6.\nPower 101 (odd) gives 4.\n$6 + 4 = 10 \\implies 0$."
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Trigonometry (Height and Distance)",
+      "q": "The shadow of a tower standing on level ground is found to be $\\sqrt{3}$ times the height of the tower. The angle of elevation of the sun is:",
+      "o": [
+        "$60^\\circ$",
+        "$45^\\circ$",
+        "$30^\\circ$",
+        "$90^\\circ$"
+      ],
+      "a": 2,
+      "e": "Ratio Height : Shadow $= 1 : \\sqrt{3}$.\n$\\tan \\theta = \\frac{1}{\\sqrt{3}}$.\n$\\theta = 30^\\circ$.",
+      "e2": "Let height $= h$.\nShadow $= h\\sqrt{3}$.\n$\\tan \\theta = \\frac{\\text{Height}}{\\text{Shadow}}$.\n$\\tan \\theta = \\frac{h}{h\\sqrt{3}} = \\frac{1}{\\sqrt{3}}$.\nSince $\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}$, angle is $30^\\circ$."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Static GK (Organizations)",
+      "q": "Where is the headquarters of the Indian Space Research Organisation (ISRO) located?",
+      "o": [
+        "Mumbai",
+        "New Delhi",
+        "Chennai",
+        "Bengaluru"
+      ],
+      "a": 3,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Mathematical Operations",
+      "q": "What will come in the place of the question mark (?) in the following equation, if ‘+’ and ‘−‘ are interchanged and ‘×’ and ‘÷’ are interchanged?\n$38 \\div 21 + 436 \\times 4 - 73 = ?$",
+      "o": [
+        "761",
+        "762",
+        "764",
+        "763"
+      ],
+      "a": 1,
+      "e": "Apply the interchanges: $\\div \\to \\times$, $+ \\to -$, $\\times \\to \\div$, $- \\to +$.\nNew Equation: $38 \\times 21 - 436 \\div 4 + 73$\nBODMAS:\n1. Divide: $436 \\div 4 = 109$.\n2. Multiply: $38 \\times 21 = 798$.\n3. Add/Sub: $798 - 109 + 73 = 689 + 73 = \\mathbf{762}$.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "History",
+      "q": "Who is known as the 'Iron Man of India'?",
+      "o": [
+        "Jawaharlal Nehru",
+        "Subhash Chandra Bose",
+        "Sardar Vallabhbhai Patel",
+        "Lal Bahadur Shastri"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Indian Polity",
+      "q": "Who serves as the ex-officio Chairman of the Rajya Sabha?",
+      "o": [
+        "President",
+        "Prime Minister",
+        "Vice President",
+        "Speaker of Lok Sabha"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Physics (Optics)",
+      "q": "What is the focal length of a spherical mirror whose radius of curvature is 30 cm?",
+      "o": [
+        "15 cm",
+        "60 cm",
+        "10 cm",
+        "30 cm"
+      ],
+      "a": 0,
+      "e": "The relationship between focal length () and radius of curvature () is:\n\n\n\nGiven :\n\n\n\n.\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Classification (Odd One Out)",
+      "q": "In each of the following questions four out of five alternatives contain alphabet placed in a particular form. Find the one that does not belong to the group.\n(A) JP10\n(B) MN13\n(C) CX3\n(D) IR9\n(E) GT7",
+      "o": [
+        "(A) JP10",
+        "(B) MN13",
+        "(C) CX3",
+        "(D) IR9"
+      ],
+      "a": 0,
+      "e": "\nIn the given groups, the first letter's rank from the beginning and the second letter's rank from the end are identical and equal to the number given:\n1. **CX3:** C is 3rd from start; X is 3rd from end. Number = 3.\n2. **GT7:** G is 7th from start; T is 7th from end. Number = 7.\n3. **IR9:** I is 9th from start; R is 9th from end. Number = 9.\n4. **MN13:** M is 13th from start; N is 13th from end. Number = 13.\n5. **JP10:** J is 10th from start, but P is **11th** from the end (K is 10th from end).\nThus, **JP10** is the odd one out.",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Arithmetical Operations",
+      "q": "If signs − and x, and numbers 5 and 14 are interchanged, then the value of 5 + 4 ÷ 2 − 8 x 14 is:",
+      "o": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "a": 2,
+      "e": "Interchange signs (– with x) and numbers (5 with 14):\nNew Equation: $14 + 4 \\div 2 \\times 8 - 5$\nApply BODMAS:\n1. Division: $4 \\div 2 = 2$\n2. Multiplication: $2 \\times 8 = 16$\n3. Addition/Subtraction: $14 + 16 - 5 = 30 - 5 = \\mathbf{25}$.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Trigonometry (Values)",
+      "q": "Find the value of $\\sin 60^\\circ \\cos 30^\\circ + \\cos 60^\\circ \\sin 30^\\circ$.",
+      "o": [
+        "$0$",
+        "$1$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{1}{2}$"
+      ],
+      "a": 1,
+      "e": "Use Identity $\\sin(A+B)$.\n$\\sin(60^\\circ + 30^\\circ) = \\sin 90^\\circ = 1$.",
+      "e2": "Substitute values.\n$\\frac{\\sqrt{3}}{2} \\times \\frac{\\sqrt{3}}{2} + \\frac{1}{2} \\times \\frac{1}{2}$.\n$\\frac{3}{4} + \\frac{1}{4} = \\frac{4}{4} = 1$."
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Mensuration (Sphere)",
+      "q": "Find the Total Surface Area of a sphere of radius $7 \\text{ cm}$.",
+      "o": [
+        "$616 \\text{ cm}^2$",
+        "$154 \\text{ cm}^2$",
+        "$308 \\text{ cm}^2$",
+        "$440 \\text{ cm}^2$"
+      ],
+      "a": 0,
+      "e": "Use \"Multiple of 11\" trick (for $\\pi$).\nCheck options divisible by $11$.\n$616 \\div 11 = 56$ (Yes).\n$154 \\div 11 = 14$ (Yes).\nUse formula $4 \\pi r^2$.\n$4 \\times \\frac{22}{7} \\times 49 = 88 \\times 7 = 616$.",
+      "e2": "Formula for TSA of Sphere $= 4 \\pi r^2$.\n$= 4 \\times \\frac{22}{7} \\times 7 \\times 7$.\n$= 4 \\times 22 \\times 7$.\n$= 88 \\times 7 = 616 \\text{ cm}^2$.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Important Appointments (Judiciary)",
+      "q": "Who took oath as the 51st Chief Justice of India (CJI) in November 2024?",
+      "o": [
+        "Justice D.Y. Chandrachud",
+        "Justice B.R. Gavai",
+        "Justice Sanjiv Khanna",
+        "Justice Surya Kant"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "General Science (Chemistry)",
+      "q": "What is the pH value of pure water?",
+      "o": [
+        "0",
+        "7",
+        "14",
+        "5"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Series (Alphanumeric)",
+      "q": "Count symbols that are immediately preceded by a number and immediately followed by a symbol (Number $\\to$ Symbol $\\to$ Symbol).\nSeries: 3 £ & 1 2 © 2 5 $ 9 3 © 9 4 3 % 9 3 # © 6 2",
+      "o": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "a": 0,
+      "e": "Scan for the pattern **[Number - Symbol - Symbol]**:\n1.  **3 £ &** $\\to$ Number (3), Symbol (£), Symbol (&). (Count 1).\n2.  ... 2 © 2 (No - ends with number)\n3.  ... 5 $ 9 (No - ends with number)\n4.  ... 3 © 9 (No - ends with number)\n5.  ... 3 % 9 (No - ends with number)\n6.  **3 # ©** $\\to$ Number (3), Symbol (#), Symbol (©). (Count 2).\nTotal such combinations = 2.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Chemistry (Periodic Table)",
+      "q": "The Modern Periodic Table is based on the increasing order of:",
+      "o": [
+        "Atomic Mass",
+        "Atomic Number",
+        "Neutron Number",
+        "Atomic Size"
+      ],
+      "a": 1,
+      "e": "H.G.J. Moseley showed that the Atomic Number ($Z$) is a more fundamental property than Atomic Mass. Mendeleev's table was based on Atomic Mass.\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Simple Interest",
+      "q": "At what rate percent per annum simple interest will a sum of money double itself in 8 years?",
+      "o": [
+        "12%",
+        "12.5%",
+        "15%",
+        "10%"
+      ],
+      "a": 1,
+      "e": "Formula: $R = \\frac{100(N-1)}{T}$.\nHere $N=2$ (doubles), $T=8$.\n$R = \\frac{100(2-1)}{8} = \\frac{100}{8}$.\n$R = \\mathbf{12.5\\%}$.",
+      "e2": "* Interest earned = Principal (P).\n* Time = 8 years.\n* $P = (P \\times R \\times 8) / 100$.\n* $100 = 8R \\Rightarrow R = 12.5$.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Books and Authors",
+      "q": "Who is the author of the book \"Why Bharat Matters\"?",
+      "o": [
+        "Shashi Tharoor",
+        "Vikram Seth",
+        "S. Jaishankar",
+        "Amitav Ghosh"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Mathematical Operations",
+      "q": "If $\\times$ means +, $\\div$ means -, + means $\\times$ and - means $\\div$, then what will be the value of the following expression?\n$40 \\times 20 \\div 28 - 4 + 2$",
+      "o": [
+        "64",
+        "54",
+        "45",
+        "46"
+      ],
+      "a": 3,
+      "e": "Step 1: Substitute the symbols.\nOriginal: $40 \\times 20 \\div 28 - 4 + 2$\nNew: $40 + 20 - 28 \\div 4 \\times 2$\nStep 2: Apply BODMAS.\n1. **Division**: $28 \\div 4 = 7$.\n$\\to 40 + 20 - 7 \\times 2$\n2. **Multiplication**: $7 \\times 2 = 14$.\n$\\to 40 + 20 - 14$\n3. **Addition/Subtraction**: $60 - 14 = 46$.\nResult: **46**.\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Geography",
+      "q": "Which layer of the atmosphere contains the Ozone layer?",
+      "o": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Physics (Pressure)",
+      "q": "Calculate the pressure exerted by a force of 100 N acting on an area of $2 \\text{ m}^2$.",
+      "o": [
+        "200 Pa",
+        "50 Pa",
+        "100 Pa",
+        "20 Pa"
+      ],
+      "a": 1,
+      "e": "Pressure ($P$) is Force ($F$) per unit Area ($A$).\n$$P = \\frac{F}{A}$$\nGiven: $F = 100 \\text{ N}$, $A = 2 \\text{ m}^2$\n$$P = \\frac{100}{2} = 50 \\text{ Pascal (Pa)}$$\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Number Series (Decimal)",
+      "q": "Select the option that will fill in the blank:\n0.1, 0.9, 0.01, 0.09, ______, 0.009",
+      "o": [
+        "0.0001",
+        "0.1010",
+        "0.01",
+        "0.001"
+      ],
+      "a": 3,
+      "e": "The series follows an alternating pattern between \"Odd\" and \"Even\" positions.\n1. **Odd Positions (1st, 3rd, 5th):**\n$0.1 \\xrightarrow{\\div 10} 0.01 \\xrightarrow{\\div 10} \\mathbf{0.001}$\n2. **Even Positions (2nd, 4th, 6th):**\n$0.9 \\xrightarrow{\\div 10} 0.09 \\xrightarrow{\\div 10} 0.009$\nThe missing term is at the 5th position, which follows the Odd pattern.\nResult: **0.001**.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Chemistry (Non-Metals)",
+      "q": "Which of the following is a non-metal that remains liquid at room temperature?",
+      "o": [
+        "Mercury",
+        "Bromine",
+        "Chlorine",
+        "Gallium"
+      ],
+      "a": 1,
+      "e": "Bromine ($Br$) is the only non-metal that is liquid at room temperature.\n* Mercury ($Hg$): Metal liquid at room temp.\n* Gallium ($Ga$): Metal that melts on the palm (low melting point).\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "q": "Statements:\n1. All cats are animals.\n2. Some animals are dogs.\nConclusions:\nI. Some cats are dogs.\nII. Some dogs are cats.\nIII. No cat is a dog.\nIV. Some animals are cats.\nWhich conclusion(s) logically follow?",
+      "o": [
+        "Only IV",
+        "Only I and II",
+        "Either I or III",
+        "Only II and III"
+      ],
+      "a": 0,
+      "e": "Use Venn Diagram Logic:\n1. **Diagram**: Draw a circle for 'Cats' inside a larger circle for 'Animals'. Draw a circle for 'Dogs' intersecting 'Animals'. The 'Dogs' circle may or may not touch 'Cats'.\n2. **Analyze IV**: \"Some animals are cats\". Since all cats are animals, the part of the Animal circle occupied by Cats proves this is **True**.\n3. **Analyze I, II, III**: There is no direct statement linking Cats and Dogs. They might overlap or they might not. Therefore, we cannot definitely conclude I, II, or III.\n4. **Options**: While I and III form a complementary pair (Either-Or), Option 3 excludes Conclusion IV. Since IV is definitely true, Option 1 is the correct choice.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Number System",
+      "q": "If the number $5432A7$ is divisible by 9, then the digit in place of A is:",
+      "o": [
+        "5",
+        "6",
+        "9",
+        "1"
+      ],
+      "a": 1,
+      "e": "Divisibility rule of 9: Sum of digits must be divisible by 9.\nSum $= 5+4+3+2+A+7 = 21 + A$.\nNext multiple of 9 after 21 is 27.\n$21 + A = 27 \\Rightarrow A = \\mathbf{6}$.",
+      "e2": "**Step 1: Sum the known digits.**\n$5 + 4 + 3 + 2 + 7 = 21$.\n\n**Step 2: Apply Divisibility Rule of 9.**\nFor the entire number to be divisible by 9, $(21 + A)$ must be divisible by 9.\n\n**Step 3: Find A.**\nThe multiples of 9 are 9, 18, 27, 36...\nSince $A$ is a single digit (0-9), the only possible sum is 27.\n$21 + A = 27$.\n$A = 6$.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy (Word)",
+      "q": "Virus : Smallpox :: Bacteria : ?",
+      "o": [
+        "Chickenpox",
+        "Typhoid",
+        "Malaria",
+        "Sleeping Sickness"
+      ],
+      "a": 1,
+      "e": "Relationship: Causative Agent.\nSmallpox is caused by a Virus (Variola).\nSimilarly, Typhoid is caused by Bacteria (Salmonella typhi).\n(Note: Chickenpox is Virus, Malaria is Protozoa).\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Physics (Electricity)",
+      "q": "An electric bulb is connected to a 220 V generator. The current is 0.50 A. What is the power of the bulb?",
+      "o": [
+        "440 W",
+        "220 W",
+        "100 W",
+        "110 W"
+      ],
+      "a": 3,
+      "e": "The formula for Electric Power () is:\n\n\n\nWhere:\n(Voltage)\n(Current)\nCalculation:\n\n\n\nSo, the power of the bulb is 110 Watts.\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Science and Tech (AI)",
+      "q": "Which company launched India's first AI unicorn named 'Krutrim'?",
+      "o": [
+        "Reliance Jio",
+        "TCS",
+        "Ola",
+        "Infosys"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Mensuration (Cube)",
+      "q": "The diagonal of a cube is $6\\sqrt{3} \\text{ cm}$. Find its volume.",
+      "o": [
+        "$216 \\text{ cm}^3$",
+        "$512 \\text{ cm}^3$",
+        "$125 \\text{ cm}^3$",
+        "$343 \\text{ cm}^3$"
+      ],
+      "a": 0,
+      "e": "Formula: Diagonal $= a\\sqrt{3}$.\n$a\\sqrt{3} = 6\\sqrt{3} \\implies a = 6$.\nVolume $= a^3 = 6^3 = 216 \\text{ cm}^3$.",
+      "e2": "Use Pythagoras in 3D.\n$D = \\sqrt{l^2 + b^2 + h^2}$.\nSince it is a cube, $D = \\sqrt{a^2 + a^2 + a^2} = \\sqrt{3a^2} = a\\sqrt{3}$.\nGiven $a\\sqrt{3} = 6\\sqrt{3}$, so Side $= 6$.\nVol $= 6 \\times 6 \\times 6 = 216$.\n\n[Image of cube diagonal formula]\n\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Chemistry (Common Chemicals)",
+      "q": "Which acid is known as the 'King of Chemicals'?",
+      "o": [
+        "Hydrochloric Acid ($HCl$)",
+        "Sulphuric Acid ($H_2SO_4$)",
+        "Nitric Acid ($HNO_3$)",
+        "Acetic Acid ($CH_3COOH$)"
+      ],
+      "a": 1,
+      "e": "Sulphuric Acid ($H_2SO_4$) is called the 'King of Chemicals' because it is used in the manufacturing of a vast number of other chemicals, batteries, and industrial processes.\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Algebra (Quadratic Equations)",
+      "q": "If $\\alpha$ and $\\beta$ are the roots of the equation $x^2 - 5x + 6 = 0$, find the value of $\\alpha^2 + \\beta^2$.",
+      "o": [
+        "13",
+        "12",
+        "25",
+        "19"
+      ],
+      "a": 0,
+      "e": "Sum of roots $(\\alpha+\\beta) = -(-5)/1 = 5$.\nProduct of roots $(\\alpha\\beta) = 6/1 = 6$.\nIdentity: $\\alpha^2 + \\beta^2 = (\\alpha+\\beta)^2 - 2\\alpha\\beta$.\n$= (5)^2 - 2(6) = 25 - 12 = \\mathbf{13}$.",
+      "e2": "**Step 1: Identify Sum and Product.**\nFor $ax^2 + bx + c = 0$:\nSum $\\alpha+\\beta = -b/a = 5$.\nProduct $\\alpha\\beta = c/a = 6$.\n\n**Step 2: Use Algebraic Identity.**\n$(\\alpha+\\beta)^2 = \\alpha^2 + \\beta^2 + 2\\alpha\\beta$.\n$5^2 = \\alpha^2 + \\beta^2 + 2(6)$.\n$25 = \\alpha^2 + \\beta^2 + 12$.\n\n**Step 3: Solve.**\n$\\alpha^2 + \\beta^2 = 25 - 12 = 13$.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Simplification",
+      "q": "Evaluate: $1 + \\frac{1}{1 + \\frac{1}{1 + \\frac{1}{2}}}$",
+      "o": [
+        "5/8",
+        "8/5",
+        "5/3",
+        "3/2"
+      ],
+      "a": 1,
+      "e": "Solve bottom-up:\n1. $1 + 1/2 = 3/2$.\n2. $1 / (3/2) = 2/3$.\n3. $1 + 2/3 = 5/3$.\n4. $1 / (5/3) = 3/5$.\n5. $1 + 3/5 = \\mathbf{8/5}$.",
+      "e2": "**Step 1: Solve the lowest fraction.**\n$1 + \\frac{1}{2} = \\frac{3}{2}$.\n\n**Step 2: Move up.**\nThe term becomes $\\frac{1}{3/2} = \\frac{2}{3}$.\nNow we have $1 + \\frac{2}{3} = \\frac{5}{3}$.\n\n**Step 3: Move up again.**\nThe term becomes $\\frac{1}{5/3} = \\frac{3}{5}$.\nFinally, $1 + \\frac{3}{5}$.\n\n**Step 4: Final Addition.**\n$\\frac{5+3}{5} = \\frac{8}{5}$."
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Direction and Distance",
+      "q": "Sundar starts from point A and drives 12 km towards the east. He then takes a left turn, drives 9 km, turns left and drives 13 km. He then takes a left turn and drives 11 km. He takes a final left turn, drives 1 km and stops at point P. How far (shortest distance) and towards which direction should he drive in order to reach point A again?",
+      "o": [
+        "2 km to the south",
+        "1 km to the north",
+        "2 km to the north",
+        "1 km to the south"
+      ],
+      "a": 2,
+      "e": "\nLet A be at origin (0,0).\n1. 12 km East $\\rightarrow$ (12, 0).\n2. Left (North) 9 km $\\rightarrow$ (12, 9).\n3. Left (West) 13 km $\\rightarrow$ (12 - 13, 9) = (-1, 9).\n4. Left (South) 11 km $\\rightarrow$ (-1, 9 - 11) = (-1, -2).\n5. Left (East) 1 km $\\rightarrow$ (-1 + 1, -2) = (0, -2).\nPoint P is at (0, -2). Point A is at (0, 0).\nTo go from P to A, he must travel **2 km North**.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "General Science (Chemistry)",
+      "q": "What is the chemical name of common salt?",
+      "o": [
+        "Sodium Carbonate",
+        "Sodium Chloride",
+        "Calcium Carbonate",
+        "Potassium Chloride"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Seating Arrangement (Circular)",
+      "q": "Six people A, B, C, D, E and F are sitting around a circular table facing the centre. C sits second to the left of B. E is an immediate neighbour of B. F sits third to the left of E. D sits second to the left of A. Who sits to the immediate right of A?",
+      "o": [
+        "E",
+        "B",
+        "C",
+        "F"
+      ],
+      "a": 2,
+      "e": "Draw the circle (Facing Center $\\to$ Left is Clockwise, Right is Anti-clockwise).\n1. **Fix B & C**: Place B. C is 2nd to the left.\n2. **Place E**: E is B's neighbor. If E is right of B, F (opposite E) would overlap C. So, E is left of B (between B and C).\n3. **Place F**: F is 3rd left of E $\\to$ F sits opposite E.\n4. **Place A & D**: The only spots left fit A such that D is 2nd to his left. A sits next to C.\n5. **Final Order (Clockwise)**: A $\\to$ F $\\to$ D $\\to$ B $\\to$ E $\\to$ C.\n6. **Result**: Immediate right of A is **C**. ```",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Number Series / Set Analogy",
+      "q": "Two sets of numbers are given below. In each set of numbers, certain mathematical operation(s) on the first number results in the second number... Which of the given options follows the same set of operations?\nSet 1: 12 - 13 - 15 - 30\nSet 2: 14 - 15 - 17 - 34",
+      "o": [
+        "3 - 4 - 5 - 10",
+        "4 - 5 - 7 - 10",
+        "9 - 10 - 12 - 24",
+        "1 - 2 - 4 - 16"
+      ],
+      "a": 2,
+      "e": "Analyze the pattern in the example sets:\n1.  **Set 1 (12 - 13 - 15 - 30):**\n* $12 + 1 = 13$\n* $13 + 2 = 15$\n* $15 \\times 2 = 30$\n* Pattern: **+1, +2, ×2**\n\n2.  **Set 2 (14 - 15 - 17 - 34):**\n* $14 + 1 = 15$\n* $15 + 2 = 17$\n* $17 \\times 2 = 34$\n* Pattern: **+1, +2, ×2**\n\n3.  **Check Option 3 (9 - 10 - 12 - 24):**\n* $9 + 1 = 10$\n* $10 + 2 = 12$\n* $12 \\times 2 = 24$\n* This matches the pattern perfectly.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Indian Polity",
+      "q": "Which Article of the Indian Constitution deals with the imposition of 'National Emergency'?",
+      "o": [
+        "Article 352",
+        "Article 356",
+        "Article 360",
+        "Article 370"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Arithmetical Operations",
+      "q": "Interchanging which two signs will make the following equation correct?\n15 + 3 x 9 − 4 ÷ 16 = 57",
+      "o": [
+        "- and +",
+        "- and ÷",
+        "- and x",
+        "+ and ÷"
+      ],
+      "a": 3,
+      "e": "Test Option 4 by interchanging \"+\" and \"÷\":\nNew Equation: $15 \\div 3 \\times 9 - 4 + 16$\nApply BODMAS:\n1. Division: $15 \\div 3 = 5$\n2. Multiplication: $5 \\times 9 = 45$\n3. Addition/Subtraction: $45 - 4 + 16 = 41 + 16 = \\mathbf{57}$.\nSince L.H.S = R.H.S, interchanging + and ÷ is correct.\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy",
+      "q": "Nurse : Ward :: Teacher : ?",
+      "o": [
+        "Student",
+        "Board",
+        "Class",
+        "Lesson"
+      ],
+      "a": 2,
+      "e": "The relationship is **Professional : Place of Work**.\nA Nurse works in a Ward.\nSimilarly, a Teacher works in a Class (or Classroom).\nWhile a teacher interacts with students and lessons, the \"Class\" represents the specific workspace corresponding to the \"Ward.\"",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Chemistry (Acids and Bases)",
+      "q": "Phenolphthalein turns ______ in a basic (alkaline) solution.",
+      "o": [
+        "Colorless",
+        "Red",
+        "Pink",
+        "Blue"
+      ],
+      "a": 2,
+      "e": "Phenolphthalein is a synthetic indicator.\n* In Acidic solution: Colorless\n* In Basic solution: Pink\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "q": "Statement:\nSome beds are rivers.\nAll rivers are mats.\nConclusion:\n1. All mats are rivers.\n2. Some beds are mats.",
+      "o": [
+        "Neither conclusion 1 nor 2 follows",
+        "Either conclusion 1 or 2 follows",
+        "Only conclusion 1 follows",
+        "Only conclusion 2 follows"
+      ],
+      "a": 3,
+      "e": "1. \"All rivers are mats\" does not imply \"All mats are rivers\" (Mat is the outer circle). Conclusion 1 is false.\n2. Since \"Some beds are rivers\" and \"All rivers are mats\", the part of the bed that is a river must also be a mat. Thus, \"Some beds are mats\" is true.\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Biology (Nutrition)",
+      "q": "Which of the following vitamins is water-soluble?",
+      "o": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin K",
+        "Vitamin C"
+      ],
+      "a": 3,
+      "e": "Vitamins B and C are water-soluble. Vitamins A, D, E, and K are fat-soluble. Water-soluble vitamins are not stored in the body and need to be replenished regularly.\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Mixtures and Alligations",
+      "q": "In a mixture of 60 liters, the ratio of milk and water is 2:1. If this ratio is to be 1:2, then the quantity of water to be further added is:",
+      "o": [
+        "20 liters",
+        "30 liters",
+        "40 liters",
+        "60 liters"
+      ],
+      "a": 3,
+      "e": "Initial: Milk = 40L, Water = 20L.\nTarget Ratio 1:2 means Water must be double of Milk.\nTarget Water $= 40 \\times 2 = 80$L.\nAdded Water $= 80 - 20 = \\mathbf{60}$L.",
+      "e2": "**Step 1: Find initial quantities.**\nTotal = 60L. Ratio 2:1.\nMilk = $\\frac{2}{3} \\times 60 = 40$L.\nWater = $\\frac{1}{3} \\times 60 = 20$L.\n\n**Step 2: Analyze Target Ratio.**\nNew Ratio = 1:2 (Milk:Water).\nMilk remains constant at 40L.\nSo, $1 \\text{ part} = 40$L.\nWater ($2 \\text{ parts}$) = $80$L.\n\n**Step 3: Calculate Added Water.**\nRequired - Existing = $80 - 20 = 60$ Liters.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy (Letter)",
+      "q": "JKL is related to KMO in a certain way based on the English alphabetical order. In the same way, PQR is related to QSU. To which of the following is XYZ related?",
+      "o": [
+        "YZA",
+        "FED",
+        "ABC",
+        "YAC"
+      ],
+      "a": 3,
+      "e": "Logic: Increasing shift of $+1, +2, +3$.\n$X + 1 \\to Y$\n$Y + 2 \\to A$ (Cyclic: $Y \\to Z \\to A$)\n$Z + 3 \\to C$ (Cyclic: $Z \\to A \\to B \\to C$)\nResult: **YAC**.",
+      "e2": "Analyze the pattern step-by-step:\nFirst letter moves 1 step forward ($J \\to K$).\nSecond letter moves 2 steps forward ($K \\to M$).\nThird letter moves 3 steps forward ($L \\to O$).\nApplying to XYZ:\n$X \\to Y$.\n$Y \\to A$.\n$Z \\to C$."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Sports (Football)",
+      "q": "Where will the FIFA World Cup 2026 be hosted?",
+      "o": [
+        "Saudi Arabia",
+        "Argentina, Paraguay, and Uruguay",
+        "Canada, Mexico, and the United States",
+        "France and Germany"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Biology (Human Body)",
+      "q": "Which blood group is known as the 'Universal Recipient'?",
+      "o": [
+        "O Negative",
+        "A Positive",
+        "B Positive",
+        "AB Positive"
+      ],
+      "a": 3,
+      "e": "AB Positive blood group individuals can receive blood from any group (A, B, AB, and O) because they have both A and B antigens and no antibodies against them in the plasma. O Negative is the Universal Donor.\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Mathematical Operations",
+      "q": "If ‘+’ means ‘−’, ‘−’ means ‘×’, ‘×’ means ‘÷’ and ‘÷’ means ‘+’, then what will come in place of the question mark (?) in the following equation?\n$32 \\div 14 + 16 - 8 \\times 4 = ?$",
+      "o": [
+        "14",
+        "18",
+        "16",
+        "22"
+      ],
+      "a": 0,
+      "e": "Replace the signs according to the given rules:\n$\\div \\to +$, $+ \\to -$, $- \\to \\times$, $\\times \\to \\div$.\nNew Equation: $32 + 14 - 16 \\times 8 \\div 4$.\nApply BODMAS:\n1. Division: $8 \\div 4 = 2$.\n2. Multiplication: $16 \\times 2 = 32$.\n3. Addition/Subtraction: $32 + 14 - 32 = \\mathbf{14}$.",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy (Alphanumeric)",
+      "q": "MP 14 is related to LS −1 in a certain way. In the same way, NK 5 is related to MN −10. To which of the given options is SW −1 related?",
+      "o": [
+        "TR −18",
+        "VW −20",
+        "VC −13",
+        "RZ −16"
+      ],
+      "a": 3,
+      "e": "Analyze the shift in letters and numbers separately:\n1. **First Letter**: $M(13) \\xrightarrow{-1} L(12)$. $N(14) \\xrightarrow{-1} M(13)$.\nApply to S: $S(19) \\xrightarrow{-1} \\textbf{R}(18)$.\n2. **Second Letter**: $P(16) \\xrightarrow{+3} S(19)$. $K(11) \\xrightarrow{+3} N(14)$.\nApply to W: $W(23) \\xrightarrow{+3} \\textbf{Z}(26)$.\n3. **Number**: $14 \\xrightarrow{-15} -1$. $5 \\xrightarrow{-15} -10$.\nApply to -1: $-1 - 15 = \\mathbf{-16}$.\nResult: **RZ -16**.\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy (Letter-Cluster)",
+      "q": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of :: ?\n# : DTF :: URQ : %",
+      "o": [
+        "# = DTU, % = VWP",
+        "# = DSG, % = VWM",
+        "# = CQG, % = VUP",
+        "# = CPH, % = UPN"
+      ],
+      "a": 2,
+      "e": "Analyze the correct pair (# = CQG, % = VUP) to confirm the pattern:\nLeft Side (# : DTF $\\to$ CQG : DTF):\n1. C $\\xrightarrow{+1}$ D\n2. Q $\\xrightarrow{+3}$ T\n3. G $\\xrightarrow{-1}$ F\nPattern: $+1, +3, -1$.\n\nRight Side (URQ : % $\\to$ URQ : VUP):\n1. U $\\xrightarrow{+1}$ V\n2. R $\\xrightarrow{+3}$ U\n3. Q $\\xrightarrow{-1}$ P\nPattern: $+1, +3, -1$.\nSince the shift pattern ($+1, +3, -1$) is identical for both sides, the values **# = CQG** and **% = VUP** are the correct answer.",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Blood Relation",
+      "q": "Pointing to a man in a photograph, a woman said, \"His brother's father is the only son of my grandfather.\" How is the woman related to the man in the photograph?",
+      "o": [
+        "Mother",
+        "Sister",
+        "Daughter",
+        "Aunt"
+      ],
+      "a": 1,
+      "e": "Break it down backwards:\n1. \"Only son of my grandfather\" $\\to$ Woman's Father.\n2. \"His brother's father\" $\\to$ Man's Father.\n3. Equating both: Man's Father is Woman's Father.\nSince they share the same father, the woman is the **Sister** of the man.",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy (GK/Science)",
+      "q": "Current : Ampere :: Resistance : ?",
+      "o": [
+        "Volt",
+        "Watt",
+        "Ohm",
+        "Joule"
+      ],
+      "a": 2,
+      "e": "Relationship: Quantity : SI Unit.\nThe SI unit of Electric Current is Ampere.\nThe SI unit of Electrical Resistance is Ohm.",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Seating Arrangement (Circular)",
+      "q": "A, B, C, D, E, F, and G are sitting around a circular table facing the centre. Only one person sits between G and E when counted from the right of G. Only one person sits between E and B. Only one person sits between G and F. Only two people sit between C and B. Only one person sits between D and F. How many people sit between A and D when counted from the right of D?",
+      "o": [
+        "One",
+        "Three",
+        "Four",
+        "Two"
+      ],
+      "a": 3,
+      "e": "\nLet's place the people step-by-step (assuming Right is Anti-Clockwise for facing center):\n1. **Place G and E:** \"One person between G and E (counted from right)\".\nArrangement: **G** _ **E** _ _ _ _\n2. **Place B:** \"One person between E and B\".\nGoing left from E lands on G (occupied). So, go right.\nArrangement: G _ E _ **B** _ _\n3. **Place F:** \"One person between G and F\".\nGoing right from G lands on E (occupied). So, go left.\nArrangement: G _ E _ B **F** _\n4. **Place C:** \"Two people between C and B\".\nFrom B, two spots away clockwise lands on G. Two spots anti-clockwise (between G and E) is empty.\nArrangement: G **C** E _ B F _\n5. **Place D:** \"One person between D and F\".\nFrom F, one spot away clockwise is B. One spot anti-clockwise (between E and B) is empty.\nArrangement: G C E **D** B F _\n6. **Place A:** Only one spot left.\nFinal Arrangement (Clockwise/Right): **G $\\to$ C $\\to$ E $\\to$ D $\\to$ B $\\to$ F $\\to$ A**.\n7. **Count:** From the **right of D** to **A**:\nD $\\to$ B $\\to$ F $\\to$ A.\nPeople between D and A are **B and F**.\nTotal = **2**.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Awards and Honours",
+      "q": "Who among the following received the 'Major Dhyan Chand Khel Ratna Award' 2024?",
+      "o": [
+        "Rohit Sharma",
+        "Manu Bhaker",
+        "Virat Kohli",
+        "Neeraj Chopra"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Arithmetical Operations",
+      "q": "If \"-\" and \"+\" signs as well as \"x\" and \"÷\" are interchanged, then which of the following is the value of 27 − 15 + 84 × 6 ÷ 13 ?",
+      "o": [
+        "43",
+        "260",
+        "-170",
+        "224"
+      ],
+      "a": 3,
+      "e": "Interchange the signs as per the instruction: \"-\" becomes \"+\", \"+\" becomes \"-\", \"x\" becomes \"÷\", and \"÷\" becomes \"x\".\nNew Equation: $27 + 15 - 84 \\div 6 \\times 13$\nApply BODMAS:\n1. Division: $84 \\div 6 = 14$\n2. Multiplication: $14 \\times 13 = 182$\n3. Addition/Subtraction: $27 + 15 - 182 = 42 - 182 = \\mathbf{-140}$ (Note: The source image calculation $27 + 210 - 13 = 224$ assumes a different order or grouping; however, following the standard BODMAS on the swapped expression $27 + 15 - 14 \\times 13$ yields -140. Looking at the source's provided steps: $27 + 15 \\times 14 - 13 = 27 + 210 - 13 = 224$).\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "History",
+      "q": "In which year was the First Battle of Panipat fought?",
+      "o": [
+        "1526",
+        "1556",
+        "1761",
+        "1576"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Average (Error Correction)",
+      "q": "The average marks of 10 students was calculated as 50. Later it was found that a mark 40 was wrongly read as 10. The correct average is:",
+      "o": [
+        "$53$",
+        "$47$",
+        "$52$",
+        "$55$"
+      ],
+      "a": 0,
+      "e": "Use \"Adjustment Method\".\nCorrect ($40$) - Wrong ($10$) $= +30$ (Increase).\nDivide increase by total students ($10$).\nChange per student $= \\frac{30}{10} = +3$.\nNew Average $= 50 + 3 = 53$.",
+      "e2": "Total wrong marks $= 10 \\times 50 = 500$.\nCorrect Total $= 500 - 10 (\\text{wrong}) + 40 (\\text{correct}) = 530$.\nCorrect Average $= \\frac{530}{10} = 53$.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Ratio and Proportion",
+      "q": "A bag contains ₹1, 50p, and 25p coins in the ratio 5:6:8. If the total amount in the bag is ₹240, find the number of 25p coins.",
+      "o": [
+        "192",
+        "120",
+        "144",
+        "160"
+      ],
+      "a": 0,
+      "e": "Value ratio:\n₹1: $5 \\times 1 = 5$.\n50p: $6 \\times 0.5 = 3$.\n25p: $8 \\times 0.25 = 2$.\nTotal Ratio Value $= 5 + 3 + 2 = 10$ units.\n$10 \\text{ units} = 240 \\Rightarrow 1 \\text{ unit} = 24$.\nNumber of 25p coins $= 8 \\text{ units} = 8 \\times 24 = \\mathbf{192}$.",
+      "e2": "**Step 1: Convert coin count to value.**\nRatio of coins = 5 : 6 : 8.\nValues = ₹1, ₹0.5, ₹0.25.\nValue Contribution = $(5 \\times 1) + (6 \\times 0.5) + (8 \\times 0.25)$.\n$= 5 + 3 + 2 = 10x$.\n\n**Step 2: Equate to total amount.**\n$10x = 240$.\n$x = 24$.\n\n**Step 3: Find count of specific coin.**\n25p coins = $8x$.\n$8 \\times 24 = 192$ coins.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Static GK (Dance Forms)",
+      "q": "'Kuchipudi' is a classical dance form of which Indian state?",
+      "o": [
+        "Tamil Nadu",
+        "Kerala",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy",
+      "q": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of ::?\n# : JLH :: IKG : %",
+      "o": [
+        "# = FJH, % = MHU",
+        "# = DEG, % = NIU",
+        "# = EGC, % = NPL",
+        "# = FDG, % = MLG"
+      ],
+      "a": 2,
+      "e": "\nCheck Option 3: # = EGC, % = NPL.\n**Left Pair (EGC : JLH):**\nE (5) $\\xrightarrow{+5}$ J (10)\nG (7) $\\xrightarrow{+5}$ L (12)\nC (3) $\\xrightarrow{+5}$ H (8)\nPattern: **+5, +5, +5**.\n\n**Right Pair (IKG : NPL):**\nI (9) $\\xrightarrow{+5}$ N (14)\nK (11) $\\xrightarrow{+5}$ P (16)\nG (7) $\\xrightarrow{+5}$ L (12)\nPattern: **+5, +5, +5**.\nSince the patterns are identical, Option 3 is correct.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Important Appointments",
+      "q": "Who is the current Chief Election Commissioner (CEC) of India (as of 2025)?",
+      "o": [
+        "Rajiv Kumar",
+        "Gyanesh Kumar",
+        "Sukhbir Singh Sandhu",
+        "T.N. Seshan"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Boats and Streams",
+      "q": "A man can row upstream at 8 kmph and downstream at 12 kmph. Find the speed of the current.",
+      "o": [
+        "4 kmph",
+        "2 kmph",
+        "10 kmph",
+        "5 kmph"
+      ],
+      "a": 1,
+      "e": "Speed of Current $y = \\frac{D - U}{2}$.\n$y = \\frac{12 - 8}{2} = \\frac{4}{2} = \\mathbf{2}$ kmph.",
+      "e2": "**Step 1: Identify Speeds.**\nDownstream Speed ($D$) = 12 kmph.\nUpstream Speed ($U$) = 8 kmph.\n\n**Step 2: Use Formula.**\nSpeed of Current = $\\frac{D - U}{2}$.\n$= \\frac{12 - 8}{2} = 2$ kmph."
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Algebra (Power 4)",
+      "q": "If $x + \\frac{1}{x} = 3$, find the value of $x^4 + \\frac{1}{x^4}$.",
+      "o": [
+        "$47$",
+        "$49$",
+        "$81$",
+        "$27$"
+      ],
+      "a": 0,
+      "e": "Use \"Square-Square\" Trick.\nStep 1: Square ($k^2 - 2$).\n$3^2 - 2 = 9 - 2 = 7$ (This is $x^2 + \\frac{1}{x^2}$).\nStep 2: Square result again ($7^2 - 2$).\n$49 - 2 = 47$.",
+      "e2": "Squaring twice.\n$(x + \\frac{1}{x})^2 = 3^2 \\implies x^2 + \\frac{1}{x^2} = 7$.\n$(x^2 + \\frac{1}{x^2})^2 = 7^2 \\implies x^4 + \\frac{1}{x^4} + 2 = 49$.\n$x^4 + \\frac{1}{x^4} = 47$.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Percentage (Comparison)",
+      "q": "If A's income is $20\\%$ less than B's income, then by how much percent is B's income more than A's?",
+      "o": [
+        "$20\\%$",
+        "$15\\%$",
+        "$33.33\\%$",
+        "$25\\%$"
+      ],
+      "a": 3,
+      "e": "Use \"Inverse Rule\".\n$20\\%$ less $= \\frac{1}{5}$ decrease.\nTo go back, increase numerator by denominator difference.\nTrick: $\\frac{R}{100 - R} \\times 100$.\n$\\frac{20}{80} \\times 100 = \\frac{1}{4} \\times 100 = 25\\%$.",
+      "e2": "Let B $= 100$.\nA $= 80$ ($20$ less).\nB is more than A by $20$.\nCompare with A ($80$).\n$\\% = \\frac{20}{80} \\times 100 = 25\\%$.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Coding Decoding",
+      "q": "If \"APPLE\" is coded as \"BQQMF\", how is \"ORANGE\" coded?",
+      "o": [
+        "PSBOHF",
+        "PSBPHF",
+        "PSBOHG",
+        "PSBOIF"
+      ],
+      "a": 0,
+      "e": "Logic: Forward Shift by $+1$.\nA $(+1) \\to$ B\nP $(+1) \\to$ Q\nP $(+1) \\to$ Q\nL $(+1) \\to$ M\nE $(+1) \\to$ F\nApplying to **ORANGE**:\nO $(+1) \\to$ P\nR $(+1) \\to$ S\nA $(+1) \\to$ B\nN $(+1) \\to$ O\nG $(+1) \\to$ H\nE $(+1) \\to$ F\nResult: **PSBOHF**.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Awards (Cinema)",
+      "q": "Who was honored with the Dadasaheb Phalke Award in 2024?",
+      "o": [
+        "Waheeda Rehman",
+        "Mithun Chakraborty",
+        "Amitabh Bachchan",
+        "Rekha"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Simple Interest",
+      "q": "A sum of money becomes 3 times itself in 10 years at a certain rate of Simple Interest. Find the rate of interest per annum.",
+      "o": [
+        "10%",
+        "25%",
+        "20%",
+        "15%"
+      ],
+      "a": 2,
+      "e": "Let Principal $= P$. Amount $= 3P$.\nInterest $= 3P - P = 2P$.\n$SI = \\frac{P \\times R \\times T}{100}$\n$2P = \\frac{P \\times R \\times 10}{100}$\n$2 = \\frac{R}{10} \\Rightarrow R = \\mathbf{20\\%}$.",
+      "e2": "**Step 1: Determine Interest.**\nTo become 3 times itself, the money must earn an interest equal to 2 times the principal (Principal + 2P Interest = 3P Total).\n\n**Step 2: Apply SI Formula.**\n$2P = \\frac{P \\times R \\times 10}{100}$.\nCancel P from both sides.\n$2 = \\frac{R}{10}$.\n\n**Step 3: Solve for R.**\n$R = 20$.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy (Jumbled Letters)",
+      "q": "In the following triads, each group of letters is related to the subsequent one following a certain logic. Select from the given options, the one that follows the same logic.\nBORE - EOBR - ORBE\nRUST - TURS - USRT",
+      "o": [
+        "TORN - NOTR - ROTN",
+        "JUSL - LUJS - USJL",
+        "DOIR - DIOR - RIOD",
+        "CALE - ACLE - EALC"
+      ],
+      "a": 1,
+      "e": "Assign numbers to the first word (1-2-3-4) and trace the positions.\nPattern: **1234** $\\to$ **4213** $\\to$ **2314**\nExample 1: B(1)O(2)R(3)E(4) $\\to$ E(4)O(2)B(1)R(3) $\\to$ O(2)R(3)B(1)E(4).\nExample 2: R(1)U(2)S(3)T(4) $\\to$ T(4)U(2)R(1)S(3) $\\to$ U(2)S(3)R(1)T(4).\nCheck Option 2: **JUSL**\n1.  First shift (4213): L(4) - U(2) - J(1) - S(3) $\\to$ **LUJS**. (Matches).\n2.  Second shift (2314): U(2) - S(3) - J(1) - L(4) $\\to$ **USJL**. (Matches).\nResult: **JUSL - LUJS - USJL**.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Physics (Light - Mirrors)",
+      "q": "An object is placed at the center of curvature ($C$) of a concave mirror. Where will the image be formed?",
+      "o": [
+        "At Focus ($F$)",
+        "Between $F$ and $C$",
+        "At Center of Curvature ($C$)",
+        "Behind the mirror"
+      ],
+      "a": 2,
+      "e": "For a concave mirror, if an object is placed at $C$ (Center of Curvature), the image is formed at $C$. The image is real, inverted, and of the same size as the object.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Sports (Cricket)",
+      "q": "Who won the ICC Men's T20 World Cup 2024?",
+      "o": [
+        "South Africa",
+        "Australia",
+        "India",
+        "England"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Indices and Reports",
+      "q": "What was India's rank in the Global Hunger Index (GHI) 2024?",
+      "o": [
+        "111th",
+        "105th",
+        "94th",
+        "101st"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Number Series (Operations)",
+      "q": "This question is based on the five, three-digit numbers given below.\n(Left) 740 636 787 884 316 (Right)\nWhat will be the resultant if the second digit of the highest number is added to the third digit of the lowest number?",
+      "o": [
+        "14",
+        "17",
+        "13",
+        "15"
+      ],
+      "a": 0,
+      "e": "Step-by-step analysis:\n1. Identify Highest Number: Compare 740, 636, 787, 884, 316. Highest is **884**.\n2. Identify Lowest Number: Lowest is **316**.\n3. Get Digits:\n* Second digit of Highest (8**8**4) $\\to$ **8**.\n* Third digit of Lowest (31**6**) $\\to$ **6**.\n4. Add them: $8 + 6 = 14$.",
+      "e2": "Quick Visual Check:\nHighest starts with 8 $\\to$ 884 $\\to$ Middle digit is 8.\nLowest starts with 3 $\\to$ 316 $\\to$ Last digit is 6.\nSum = 8 + 6 = 14."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Sports (Tennis)",
+      "q": "Who won the Women's Singles title at the US Open 2024?",
+      "o": [
+        "Iga Swiatek",
+        "Aryna Sabalenka",
+        "Coco Gauff",
+        "Jessica Pegula"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Chemistry (Compounds)",
+      "q": "'Dry Ice' is the solid form of which gas?",
+      "o": [
+        "Nitrogen",
+        "Oxygen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "a": 2,
+      "e": "Solid Carbon Dioxide ($CO_2$) is called Dry Ice. It sublimates (turns directly from solid to gas) at $-78.5^\\circ$C and is used as a cooling agent.\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Geometry (Triangles)",
+      "q": "In $\\Delta ABC$, if $AB = 6$ cm, $AC = 8$ cm, and $BC = 10$ cm, then the measure of $\\angle A$ is:",
+      "o": [
+        "$45^\\circ$",
+        "$60^\\circ$",
+        "$90^\\circ$",
+        "$30^\\circ$"
+      ],
+      "a": 2,
+      "e": "Check for Pythagoras triplet:\n$6^2 + 8^2 = 36 + 64 = 100$.\n$10^2 = 100$.\nSince $AB^2 + AC^2 = BC^2$, the triangle is right-angled at A.\n$\\angle A = \\mathbf{90^\\circ}$.",
+      "e2": "\n**Step 1: Check sides.**\nSides are 6, 8, 10.\nDivide by 2 $\\rightarrow$ 3, 4, 5.\n(3, 4, 5) is a standard Pythagorean triplet.\n\n**Step 2: Identify Hypotenuse.**\nThe longest side is BC (10).\nThe right angle is always opposite the hypotenuse.\n\n**Step 3: Conclusion.**\nAngle opposite to BC is $\\angle A$.\nTherefore, $\\angle A = 90^\\circ$."
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Puzzle (Age Comparison)",
+      "q": "E is older than C. D is older than C but younger than E. A is younger than B and C. C is older than B. Who is the youngest?",
+      "o": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": 0,
+      "e": "Arrange relationships step-by-step using '>' (older):\n1. E > C\n2. D > C but D < E $\\implies$ E > D > C\n3. C > B\n4. A < B (A is younger than B and C) $\\implies$ B > A\nCombine the chain: E > D > C > B > A.\nThe person at the end (Youngest) is **A**.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Awards (National Film Awards)",
+      "q": "Which film won the 'Best Feature Film' award at the 70th National Film Awards announced in 2024?",
+      "o": [
+        "Kantara",
+        "Aattam",
+        "Brahmastra",
+        "RRR"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy (General Knowledge)",
+      "q": "Select the option that is related to the third term in the same way as the second term is related to the first term.\nUttar Pradesh : Lucknow :: Madhya Pradesh : ?",
+      "o": [
+        "Bhopal",
+        "Gwalior",
+        "Indore",
+        "Jabalpur"
+      ],
+      "a": 0,
+      "e": "Relationship: **State : Capital City**.\n* **Lucknow** is the capital of **Uttar Pradesh**.\n* The capital of **Madhya Pradesh** is **Bhopal**.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Economics",
+      "q": "Who signs the One Rupee note in India?",
+      "o": [
+        "RBI Governor",
+        "Finance Minister",
+        "Finance Secretary",
+        "Prime Minister"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Indices and Reports",
+      "q": "Which country topped the 'World Happiness Report 2024' for the seventh consecutive year?",
+      "o": [
+        "Finland",
+        "Denmark",
+        "Iceland",
+        "Sweden"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Percentage (Election)",
+      "q": "In an election between two candidates, the winner got $55\\%$ of the total votes and won by a margin of $600$ votes. Find the total number of votes.",
+      "o": [
+        "$4000$",
+        "$5000$",
+        "$6000$",
+        "$3000$"
+      ],
+      "a": 2,
+      "e": "Use \"Gap Percentage\".\nWinner $= 55\\%$, Loser $= 45\\%$.\nGap $= 55\\% - 45\\% = 10\\%$.\nGiven Gap $= 600$ votes.\n$10\\% = 600$.\nTotal ($100\\%$) $= 600 \\times 10 = 6000$.",
+      "e2": "Let Total Votes $= x$.\nWinner $= 0.55x$, Loser $= 0.45x$.\n$0.55x - 0.45x = 600$.\n$0.10x = 600$.\n$x = 6000$.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Geometry (Circle)",
+      "q": "Two circles of radii $5 \\text{ cm}$ and $3 \\text{ cm}$ touch each other externally. What is the distance between their centers?",
+      "o": [
+        "$2 \\text{ cm}$",
+        "$8 \\text{ cm}$",
+        "$15 \\text{ cm}$",
+        "$4 \\text{ cm}$"
+      ],
+      "a": 1,
+      "e": "Concept: Touching Externally $\\implies$ Distance Adds.\n$D = R_1 + R_2$.\n$D = 5 + 3 = 8 \\text{ cm}$.",
+      "e2": "If they touched internally, distance would be difference.\nHere, External touch.\nDraw line joining centers passing through touch point.\nLength is sum of radii.\n$5 + 3 = 8$.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Mensuration (Cuboid)",
+      "q": "The length, breadth, and height of a room are $6 \\text{ m}$, $3 \\text{ m}$, and $2 \\text{ m}$. Find the length of the longest pole that can be placed in the room.",
+      "o": [
+        "$9 \\text{ m}$",
+        "$5 \\text{ m}$",
+        "$7 \\text{ m}$",
+        "$8 \\text{ m}$"
+      ],
+      "a": 2,
+      "e": "Use Formula: Diagonal $= \\sqrt{l^2 + b^2 + h^2}$.\n$D = \\sqrt{6^2 + 3^2 + 2^2}$.\n$D = \\sqrt{36 + 9 + 4}$.\n$D = \\sqrt{49} = 7 \\text{ m}$.",
+      "e2": "Calculate base diagonal first.\nBase $d = \\sqrt{36+9} = \\sqrt{45}$.\nRoom $D = \\sqrt{(\\sqrt{45})^2 + 2^2} = \\sqrt{45+4} = 7$.\n"
+    }
+  ]
+}

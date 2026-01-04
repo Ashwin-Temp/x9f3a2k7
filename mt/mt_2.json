@@ -1,0 +1,1406 @@
+{
+  "id": "mocktest2",
+  "time": 90,
+  "questions": [
+    {
+      "section": "Mathematics",
+      "topic": "Geometry (Polygons)",
+      "q": "Each interior angle of a regular polygon is $144^\\circ$. The number of sides of the polygon is:",
+      "o": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "a": 2,
+      "e": "Interior + Exterior = $180^\\circ$.\nExt Angle $= 180 - 144 = 36^\\circ$.\nNumber of sides $n = 360 / \\text{Ext Angle}$.\n$n = 360 / 36 = \\mathbf{10}$.",
+      "e2": "**Step 1: Find Exterior Angle.**\nSum of linear pair is $180^\\circ$.\nExt = $180 - 144 = 36^\\circ$.\n\n**Step 2: Use Formula.**\nSum of all exterior angles is always $360^\\circ$.\n$n = \\frac{360}{36} = 10$.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Geometry (Triangles)",
+      "q": "In an isosceles triangle ABC, $AB = AC$ and $\\angle B = 65^\\circ$. Find the measure of $\\angle A$.",
+      "o": [
+        "$65^\\circ$",
+        "$50^\\circ$",
+        "$60^\\circ$",
+        "$70^\\circ$"
+      ],
+      "a": 1,
+      "e": "Since $AB = AC$, angles opposite are equal.\n$\\angle C = \\angle B = 65^\\circ$.\nSum of angles = $180^\\circ$.\n$\\angle A + 65 + 65 = 180$.\n$\\angle A + 130 = 180 \\Rightarrow \\angle A = \\mathbf{50^\\circ}$.",
+      "e2": "\n* Property: Base angles of an isosceles triangle are equal.\n* $\\angle B = \\angle C = 65$.\n* $\\angle A = 180 - (65+65) = 50$.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Simplification",
+      "q": "Evaluate: $1 + \\frac{1}{1 + \\frac{1}{1 + \\frac{1}{2}}}$",
+      "o": [
+        "5/8",
+        "8/5",
+        "5/3",
+        "3/2"
+      ],
+      "a": 1,
+      "e": "Solve bottom-up:\n1. $1 + 1/2 = 3/2$.\n2. $1 / (3/2) = 2/3$.\n3. $1 + 2/3 = 5/3$.\n4. $1 / (5/3) = 3/5$.\n5. $1 + 3/5 = \\mathbf{8/5}$.",
+      "e2": "**Step 1: Solve the lowest fraction.**\n$1 + \\frac{1}{2} = \\frac{3}{2}$.\n\n**Step 2: Move up.**\nThe term becomes $\\frac{1}{3/2} = \\frac{2}{3}$.\nNow we have $1 + \\frac{2}{3} = \\frac{5}{3}$.\n\n**Step 3: Move up again.**\nThe term becomes $\\frac{1}{5/3} = \\frac{3}{5}$.\nFinally, $1 + \\frac{3}{5}$.\n\n**Step 4: Final Addition.**\n$\\frac{5+3}{5} = \\frac{8}{5}$."
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Average (Consecutive Numbers)",
+      "q": "The average of $5$ consecutive odd numbers is $27$. Find the product of the first and the last number.",
+      "o": [
+        "$725$",
+        "$713$",
+        "$700$",
+        "$621$"
+      ],
+      "a": 1,
+      "e": "Concept: Average is the Middle Number.\nNumbers: $23, 25, \\mathbf{27}, 29, 31$.\nFirst $= 23$, Last $= 31$.\nProduct $= 23 \\times 31$.\nUnit digit $3 \\times 1 = 3$. (Check options ending in 3).\nAnswer $= 713$.",
+      "e2": "Let numbers be $x, x+2, x+4, x+6, x+8$.\nAverage $= x+4$.\n$x+4 = 27 \\implies x = 23$.\nLast $= 23+8 = 31$.\nProduct $= 23 \\times 31 = 713$.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Algebra",
+      "q": "If $a^3 + b^3 = 72$ and $ab = 8$, find the value of $a + b$.",
+      "o": [
+        "5",
+        "6",
+        "8",
+        "4"
+      ],
+      "a": 1,
+      "e": "Use \"Hit and Trial\" (Value Putting).\nFind factors of $ab = 8$.\nPairs: $(8, 1)$ or $(4, 2)$.\nCheck $(4, 2)$:\n$4^3 + 2^3 = 64 + 8 = 72$. (Matches!)\nSo, $a+b = 4+2 = 6$.",
+      "e2": "Use Formula $(a+b)^3 = a^3 + b^3 + 3ab(a+b)$.\nLet $x = a+b$.\n$x^3 = 72 + 3(8)(x)$.\n$x^3 - 24x - 72 = 0$.\nSolve for $x$. (Trial with 6).\n$216 - 144 - 72 = 0$.\nSo $x = 6$.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Physics (Work and Energy)",
+      "q": "An object of mass 10 kg is accelerated from an initial velocity of $2 \\text{ m/s}$ to a final velocity of $4 \\text{ m/s}$. Calculate the work done on the object.",
+      "o": [
+        "20 J",
+        "100 J",
+        "60 J",
+        "80 J"
+      ],
+      "a": 2,
+      "e": "Work done is equal to the change in Kinetic Energy (Work-Energy Theorem).\n$$W = \\Delta K.E. = \\frac{1}{2}m(v^2 - u^2)$$\nGiven: $m=10$, $u=2$, $v=4$\n$$W = \\frac{1}{2} \\times 10 \\times (4^2 - 2^2)$$\n$$W = 5 \\times (16 - 4) = 5 \\times 12 = 60 \\text{ J}$$\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Mathematical Operations",
+      "q": "What will come in the place of the question mark (?) in the following equation, if ‘+’ and ‘−‘ are interchanged and ‘×’ and ‘÷’ are interchanged?\n$38 \\div 21 + 436 \\times 4 - 73 = ?$",
+      "o": [
+        "761",
+        "762",
+        "764",
+        "763"
+      ],
+      "a": 1,
+      "e": "Apply the interchanges: $\\div \\to \\times$, $+ \\to -$, $\\times \\to \\div$, $- \\to +$.\nNew Equation: $38 \\times 21 - 436 \\div 4 + 73$\nBODMAS:\n1. Divide: $436 \\div 4 = 109$.\n2. Multiply: $38 \\times 21 = 798$.\n3. Add/Sub: $798 - 109 + 73 = 689 + 73 = \\mathbf{762}$.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Algebra",
+      "q": "If $x + \\frac{1}{x} = 6$, find the value of $x^2 + \\frac{1}{x^2}$.",
+      "o": [
+        "36",
+        "32",
+        "34",
+        "38"
+      ],
+      "a": 2,
+      "e": "Square both sides of given eq:\n$(x + 1/x)^2 = 6^2$.\n$x^2 + 1/x^2 + 2 = 36$.\n$x^2 + 1/x^2 = 36 - 2 = \\mathbf{34}$.",
+      "e2": "* Shortcut: If $x + 1/x = a$, then $x^2 + 1/x^2 = a^2 - 2$.\n* Here $a = 6$.\n* Ans: $36 - 2 = 34$."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Biology (Circulatory System)",
+      "q": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+      "o": [
+        "Pulmonary Artery",
+        "Pulmonary Vein",
+        "Aorta",
+        "Vena Cava"
+      ],
+      "a": 1,
+      "e": "Generally, veins carry deoxygenated blood and arteries carry oxygenated blood. However, the Pulmonary Vein is an exception; it carries oxygen-rich blood from the lungs to the Left Atrium of the heart.\n\n[Image of human heart blood flow]\n\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Static GK (World)",
+      "q": "What is the capital city of Russia?",
+      "o": [
+        "St. Petersburg",
+        "Moscow",
+        "Kiev",
+        "Vladivostok"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Profit and Loss",
+      "q": "A man sells two watches for ₹99 each. On one he gains 10% and on the other he loses 10%. What is the net effect?",
+      "o": [
+        "1% Gain",
+        "1% Loss",
+        "No Gain No Loss",
+        "2% Loss"
+      ],
+      "a": 1,
+      "e": "Shortcut: Always a Loss of $(x^2/100)\\%$.\nLoss $= (10^2)/100 = 100/100 = \\mathbf{1\\%}$ Loss.",
+      "e2": "* When SP is same and Gain% = Loss% = x.\n* Net result is always Loss.\n* Formula: $x^2 / 100$ %.\n* $10 \\times 10 / 100 = 1\\%$."
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Profit and Loss (Free Items)",
+      "q": "A shopkeeper offers a \"Buy 3, Get 2 Free\" scheme. What is the net percentage discount?",
+      "o": [
+        "$66.66\\%$",
+        "$40\\%$",
+        "$50\\%$",
+        "$20\\%$"
+      ],
+      "a": 1,
+      "e": "Use the \"Free / Total\" trick.\nDiscount $\\% = \\frac{\\text{Free Items}}{\\text{Total Items}} \\times 100$.\nTotal items = $3 (\\text{paid}) + 2 (\\text{free}) = 5$.\nDiscount $= \\frac{2}{5} \\times 100 = 40\\%$.",
+      "e2": "Let Price of 1 item = $₹10$.\nTotal MP of 5 items = $₹50$.\nCustomer pays for 3 items = $₹30$.\nDiscount = $50 - 30 = ₹20$.\n$\\% D = \\frac{20}{50} \\times 100 = 40\\%$.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "q": "In a certain code language,\nA + B means ‘A is the mother of B’\nA – B means ‘A is the brother of B’\nA × B means ‘A is the wife of B’ and\nA ÷ B means ‘A is the father of B’.\nHow is M related to Q if ‘M + N ÷ O – P × Q’?",
+      "o": [
+        "Wife's father's sister",
+        "Wife's mother's mother",
+        "Wife's mother's sister",
+        "Wife's father's mother"
+      ],
+      "a": 3,
+      "e": "Decode the expression ‘M + N ÷ O – P × Q’ from right to left:\n1. **P × Q:** P is the **Wife** of Q (Q is Male).\n2. **O – P:** O is the **Brother** of P.\n3. **N ÷ O:** N is the **Father** of O (and therefore Father of P).\n4. **M + N:** M is the **Mother** of N.\n**Chain:** Q $\\rightarrow$ Wife (P) $\\rightarrow$ Father (N) $\\rightarrow$ Mother (M).\nSo, M is the **Wife's father's mother**.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Simple Interest",
+      "q": "At what rate percent per annum simple interest will a sum of money double itself in 8 years?",
+      "o": [
+        "12%",
+        "12.5%",
+        "15%",
+        "10%"
+      ],
+      "a": 1,
+      "e": "Formula: $R = \\frac{100(N-1)}{T}$.\nHere $N=2$ (doubles), $T=8$.\n$R = \\frac{100(2-1)}{8} = \\frac{100}{8}$.\n$R = \\mathbf{12.5\\%}$.",
+      "e2": "* Interest earned = Principal (P).\n* Time = 8 years.\n* $P = (P \\times R \\times 8) / 100$.\n* $100 = 8R \\Rightarrow R = 12.5$.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Physics (Light - Refraction)",
+      "q": "Stars appear to twinkle due to:",
+      "o": [
+        "Reflection of light",
+        "Dispersion of light",
+        "Atmospheric Refraction",
+        "Scattering of light"
+      ],
+      "a": 2,
+      "e": "Twinkling is caused by the atmospheric refraction of starlight. As light passes through different layers of the atmosphere with varying densities, its path constantly changes, making the star's position and brightness appear to fluctuate.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Physics (Motion)",
+      "q": "A car starts from rest and accelerates uniformly at $2 \\text{ m/s}^2$ for 10 seconds. What is the final velocity of the car?",
+      "o": [
+        "20 m/s",
+        "5 m/s",
+        "100 m/s",
+        "12 m/s"
+      ],
+      "a": 0,
+      "e": "Using the first equation of motion:\n$$v = u + at$$\nGiven: $u = 0$ (starts from rest), $a = 2 \\text{ m/s}^2$, $t = 10 \\text{ s}$\n$$v = 0 + (2 \\times 10) = 20 \\text{ m/s}$$\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Classification (Odd One Out)",
+      "q": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT belong to that group?",
+      "o": [
+        "RX – MS",
+        "NR – GL",
+        "MF – HA",
+        "IO – DJ"
+      ],
+      "a": 1,
+      "e": "\nCheck the difference between the letters in each pair:\n1.  **RX – MS:** R(18) $\\to$ M(13) [**-5**]; X(24) $\\to$ S(19) [**-5**]\n2.  **NR – GL:** N(14) $\\to$ G(7) [**-7**]; R(18) $\\to$ L(12) [**-6**]\n3.  **MF – HA:** M(13) $\\to$ H(8) [**-5**]; F(6) $\\to$ A(1) [**-5**]\n4.  **IO – DJ:** I(9) $\\to$ D(4) [**-5**]; O(15) $\\to$ J(10) [**-5**]\nIn all pairs except **NR – GL**, the difference between corresponding letters is -5. In NR – GL, the differences are inconsistent (-7 and -6).",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Government Schemes (Tribal)",
+      "q": "The 'PM-JANMAN' mission, launched recently, focuses on the development of which group?",
+      "o": [
+        "Senior Citizens",
+        "Particularly Vulnerable Tribal Groups (PVTGs)",
+        "Street Vendors",
+        "MSME Sector"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Biology (Tissues)",
+      "q": "Which tissue connects bone to muscle?",
+      "o": [
+        "Ligament",
+        "Cartilage",
+        "Tendon",
+        "Areolar"
+      ],
+      "a": 2,
+      "e": "Tendons connect muscles to bones.\n* Ligaments: Connect bone to bone.\n\n[Image of tendon vs ligament structure]\n\n* Cartilage: Flexible connective tissue (e.g., ear, nose).\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Sports (Football)",
+      "q": "Where will the FIFA World Cup 2026 be hosted?",
+      "o": [
+        "Saudi Arabia",
+        "Argentina, Paraguay, and Uruguay",
+        "Canada, Mexico, and the United States",
+        "France and Germany"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Computer Knowledge",
+      "q": "1 Gigabyte (GB) is equal to how many Megabytes (MB)?",
+      "o": [
+        "1000 MB",
+        "1024 MB",
+        "500 MB",
+        "2048 MB"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Percentages",
+      "q": "The length of a rectangle is increased by 20% and its breadth is decreased by 10%. What is the percentage change in its area?",
+      "o": [
+        "8% increase",
+        "10% increase",
+        "5% decrease",
+        "8% decrease"
+      ],
+      "a": 0,
+      "e": "Use formula: Net% $= x + y + \\frac{xy}{100}$\nHere $x = +20, y = -10$.\nNet $= 20 - 10 + \\frac{20 \\times (-10)}{100}$\n$= 10 - 2 = \\mathbf{+8\\%}$ (Increase).",
+      "e2": "**Step 1: Understand the formula.**\nFor successive percentage changes, use:\nEffect $= A + B + \\frac{AB}{100}$.\n\n**Step 2: Substitute values.**\nLength ($A$) increases by 20% $\\rightarrow +20$.\nBreadth ($B$) decreases by 10% $\\rightarrow -10$.\n\n**Step 3: Calculate.**\nEffect $= 20 - 10 + \\frac{20 \\times -10}{100}$\n$= 10 - \\frac{200}{100}$\n$= 10 - 2 = 8$.\nSince the result is positive, it is an **8% increase**.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Data Sufficiency",
+      "q": "Nitu goes to the market with 3 similar sized bags. How much weight can these three bags carry together?\nStatement:\n1. Half of each bag is 1 kg.\n2. The first and second bags are green while the third one is black.",
+      "o": [
+        "Only Statement I sufficient.",
+        "Only Statement II sufficient.",
+        "Either Statement I or II sufficient.",
+        "Both Statement I and II sufficient."
+      ],
+      "a": 0,
+      "e": "To find the total weight capacity, we need numerical data about the bags' capacity.\nFrom Statement 1: \"Half of each bag is 1 kg.\" This implies a full bag holds 2 kg. Since there are 3 bags, the total capacity is $3 \\times 2 = 6$ kg. This is sufficient to answer the question.\nFrom Statement 2: The color of the bags is irrelevant to their weight capacity.\nTherefore, only Statement I is sufficient.\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Time and Work",
+      "q": "A can do 50% of a job in 16 days, B can do 1/4th of the job in 24 days. In how many days can they do 3/4th of the job working together?",
+      "o": [
+        "24",
+        "9",
+        "18",
+        "21"
+      ],
+      "a": 2,
+      "e": "Time for Full Work:\nA = $16 \\times 2 = 32$ days.\nB = $24 \\times 4 = 96$ days.\nLCM (Total Work) = 96.\nEff: A = 3, B = 1. Total = 4.\nTime for Full = $96/4 = 24$ days.\nTime for 3/4th = $24 \\times (3/4) = \\mathbf{18}$ days.",
+      "e2": "* Get full time first.\n* A: 50% in 16 $\\rightarrow$ 100% in 32.\n* B: 25% in 24 $\\rightarrow$ 100% in 96.\n* Combined rate: $1/32 + 1/96 = 4/96 = 1/24$.\n* Work required: 3/4.\n* Time: $(3/4) \\times 24 = 18$.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Series (Alphanumeric)",
+      "q": "Count symbols that are immediately preceded by a number and immediately followed by a symbol (Number $\\to$ Symbol $\\to$ Symbol).\nSeries: 3 £ & 1 2 © 2 5 $ 9 3 © 9 4 3 % 9 3 # © 6 2",
+      "o": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "a": 0,
+      "e": "Scan for the pattern **[Number - Symbol - Symbol]**:\n1.  **3 £ &** $\\to$ Number (3), Symbol (£), Symbol (&). (Count 1).\n2.  ... 2 © 2 (No - ends with number)\n3.  ... 5 $ 9 (No - ends with number)\n4.  ... 3 © 9 (No - ends with number)\n5.  ... 3 % 9 (No - ends with number)\n6.  **3 # ©** $\\to$ Number (3), Symbol (#), Symbol (©). (Count 2).\nTotal such combinations = 2.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Profit and Loss",
+      "q": "A shopkeeper marks his goods 40% above the cost price and allows a discount of 20%. Find his profit percentage.",
+      "o": [
+        "10%",
+        "12%",
+        "20%",
+        "15%"
+      ],
+      "a": 1,
+      "e": "Use the \"Net Effect\" formula (x - y - xy/100).\nMarkup (+40), Discount (-20).\nProfit = 40 - 20 - (40 × 20)/100.\nProfit = 20 - (800/100).\nProfit = 20 - 8 = 12%.",
+      "e2": "100 Method.\nLet CP = 100.\nMarked Price = 140 (40% up).\nDiscount = 20% of 140.\n10% is 14, so 20% is 28.\nSelling Price = 140 - 28 = 112.\nProfit = 112 - 100 = 12."
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Coordinate Geometry",
+      "q": "Find the distance between the points A(3, 4) and B(6, 8).",
+      "o": [
+        "7 units",
+        "5 units",
+        "6 units",
+        "4 units"
+      ],
+      "a": 1,
+      "e": "Formula: $D = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.\n$x_1=3, y_1=4, x_2=6, y_2=8$.\n$D = \\sqrt{(6-3)^2 + (8-4)^2}$\n$D = \\sqrt{3^2 + 4^2} = \\sqrt{9+16} = \\sqrt{25} = \\mathbf{5}$.",
+      "e2": "**Step 1: Identify Coordinates.**\nPoint 1: (3, 4)\nPoint 2: (6, 8)\n\n**Step 2: Apply Distance Formula.**\nDifference in x = $6 - 3 = 3$.\nDifference in y = $8 - 4 = 4$.\nDistance = $\\sqrt{3^2 + 4^2}$.\n\n**Step 3: Solve.**\n$\\sqrt{9 + 16} = \\sqrt{25} = 5$.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Number Series (Operations)",
+      "q": "This question is based on the five, three-digit numbers given below.\n(Left) 740 636 787 884 316 (Right)\nWhat will be the resultant if the second digit of the highest number is added to the third digit of the lowest number?",
+      "o": [
+        "14",
+        "17",
+        "13",
+        "15"
+      ],
+      "a": 0,
+      "e": "Step-by-step analysis:\n1. Identify Highest Number: Compare 740, 636, 787, 884, 316. Highest is **884**.\n2. Identify Lowest Number: Lowest is **316**.\n3. Get Digits:\n* Second digit of Highest (8**8**4) $\\to$ **8**.\n* Third digit of Lowest (31**6**) $\\to$ **6**.\n4. Add them: $8 + 6 = 14$.",
+      "e2": "Quick Visual Check:\nHighest starts with 8 $\\to$ 884 $\\to$ Middle digit is 8.\nLowest starts with 3 $\\to$ 316 $\\to$ Last digit is 6.\nSum = 8 + 6 = 14."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Defence Appointments",
+      "q": "Who was appointed as the new Chief of the Naval Staff (CNS) of India in April 2024?",
+      "o": [
+        "Admiral R. Hari Kumar",
+        "Admiral Karambir Singh",
+        "Admiral Dinesh K. Tripathi",
+        "Admiral Sunil Lanba"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Geometry (Circle)",
+      "q": "Two circles of radii $5 \\text{ cm}$ and $3 \\text{ cm}$ touch each other externally. What is the distance between their centers?",
+      "o": [
+        "$2 \\text{ cm}$",
+        "$8 \\text{ cm}$",
+        "$15 \\text{ cm}$",
+        "$4 \\text{ cm}$"
+      ],
+      "a": 1,
+      "e": "Concept: Touching Externally $\\implies$ Distance Adds.\n$D = R_1 + R_2$.\n$D = 5 + 3 = 8 \\text{ cm}$.",
+      "e2": "If they touched internally, distance would be difference.\nHere, External touch.\nDraw line joining centers passing through touch point.\nLength is sum of radii.\n$5 + 3 = 8$.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "q": "In a certain code language,\n'A + B' means ‘A is the father of B’\n'A – B' means ‘A is the daughter of B’\n'A x B' means ‘A is the son of B’\n'A ÷ B' means ‘A is the wife of B’\nBased on the above, how is P related to T if ‘P + Q x R – S ÷ T’?",
+      "o": [
+        "Daughter's husband",
+        "Son's wife's brother",
+        "Wife's brother's son",
+        "Daughter's son"
+      ],
+      "a": 0,
+      "e": "\nDecode the expression ‘P + Q x R – S ÷ T’:\n1. **S ÷ T:** S is the **Wife** of T (T is the Husband).\n2. **R – S:** R is the **Daughter** of S (and also the daughter of T).\n3. **Q x R:** Q is the **Son** of R.\n4. **P + Q:** P is the **Father** of Q.\nIf Q is the son of R (female) and P is the father of Q, then **P and R must be husband and wife**.\nSince R is the daughter of T, and P is R's husband, P is **T's daughter's husband**.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Physics (Light)",
+      "q": "Total Internal Reflection (TIR) is the principle behind the working of:",
+      "o": [
+        "Periscope",
+        "Optical Fibers",
+        "Telescope",
+        "Kaleidoscope"
+      ],
+      "a": 1,
+      "e": "Optical fibers transmit light signals over long distances with minimal loss using Total Internal Reflection. For TIR to occur, light must travel from a denser medium to a rarer medium at an angle greater than the critical angle.\n\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Number System (Unit Digit)",
+      "q": "Find the unit digit of $(234)^{100} + (234)^{101}$.",
+      "o": [
+        "2",
+        "4",
+        "6",
+        "0"
+      ],
+      "a": 3,
+      "e": "Rule for 4:\n$4^{\\text{even}} \\to 6$.\n$4^{\\text{odd}} \\to 4$.\n$100$ is even $\\to 6$.\n$101$ is odd $\\to 4$.\nSum $= 6 + 4 = 10$.\nUnit digit is $0$.",
+      "e2": "Calculate cyclicity.\n$4^1 = 4$\n$4^2 = 16$ (ends in 6)\n$4^3 = 64$ (ends in 4)\nPower 100 (even) gives 6.\nPower 101 (odd) gives 4.\n$6 + 4 = 10 \\implies 0$."
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Arithmetical Operations",
+      "q": "If sign \"+\" as well as \"÷\" and \"1\" and \"4\" are interchanged, then which of the following is correct?",
+      "o": [
+        "3 + 4 ÷ 2 = 1",
+        "6 + 1 ÷ 4 = 2",
+        "6 + 2 ÷ 4 = 1",
+        "5 ÷ 2 + 4 = 1"
+      ],
+      "a": 2,
+      "e": "Test Option 3 by interchanging signs (+ with ÷) and numbers (1 with 4):\nOriginal: $6 + 2 \\div 4 = 1$\nInterchanged: $6 \\div 2 + 1 = 4$\n1. Division: $6 \\div 2 = 3$\n2. Addition: $3 + 1 = 4$\nSince $4 = 4$, the equation is correct.\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Biology (Human Anatomy)",
+      "q": "How many chambers are present in the human heart?",
+      "o": [
+        "2",
+        "3",
+        "5",
+        "4"
+      ],
+      "a": 3,
+      "e": "The human heart has 4 chambers: two upper chambers (Atria) and two lower chambers (Ventricles).\n* Fish: 2 chambers\n* Amphibians: 3 chambers\n\n\n[Image of human heart diagram chambers]\n\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Mathematical Operations",
+      "q": "If ‘+’ means ‘−’, ‘−’ means ‘×’, ‘×’ means ‘÷’ and ‘÷’ means ‘+’, then what will come in place of the question mark (?) in the following equation?\n$32 \\div 14 + 16 - 8 \\times 4 = ?$",
+      "o": [
+        "14",
+        "18",
+        "16",
+        "22"
+      ],
+      "a": 0,
+      "e": "Replace the signs according to the given rules:\n$\\div \\to +$, $+ \\to -$, $- \\to \\times$, $\\times \\to \\div$.\nNew Equation: $32 + 14 - 16 \\times 8 \\div 4$.\nApply BODMAS:\n1. Division: $8 \\div 4 = 2$.\n2. Multiplication: $16 \\times 2 = 32$.\n3. Addition/Subtraction: $32 + 14 - 32 = \\mathbf{14}$.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "History",
+      "q": "Who founded the Maurya Empire in ancient India?",
+      "o": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Bimbisara"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "q": "Statements:\n1. All cats are owls.\n2. Some owls are rats.\n3. No rat is bat.\nConclusions:\nI. Some rats are cats.\nII. Some bats can be cats.",
+      "o": [
+        "Only conclusion (I) follows",
+        "Neither conclusion (I) nor conclusion (II) follows",
+        "Only conclusion (II) follows",
+        "Both conclusions (I) and (II) follow"
+      ],
+      "a": 2,
+      "e": "Use Venn Diagram Logic:\n1. **Draw Diagram**:\n* Draw specific Circle **C** (Cats) completely inside Circle **O** (Owls).\n* Draw Circle **R** (Rats) intersecting **O** (Owls). Note: We do not know if R touches C.\n* Draw Circle **B** (Bats) completely separate from **R**.\n2. **Analyze I (Some rats are cats)**:\n* The intersection is between Owls and Rats. There is no definite statement connecting Cats and Rats. They might be separate.\n* Result: **Does not follow**.\n3. **Analyze II (Some bats can be cats)**:\n* This is a **possibility** case (\"can be\").\n* The only restriction is \"No Rat is Bat\".\n* There is no negative statement preventing Bats from touching Cats or Owls.\n* Since it is not forbidden, the possibility exists.\n* Result: **Follows**.\nFinal Answer: Only conclusion II follows.",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "q": "Statement:\nSome beds are rivers.\nAll rivers are mats.\nConclusion:\n1. All mats are rivers.\n2. Some beds are mats.",
+      "o": [
+        "Neither conclusion 1 nor 2 follows",
+        "Either conclusion 1 or 2 follows",
+        "Only conclusion 1 follows",
+        "Only conclusion 2 follows"
+      ],
+      "a": 3,
+      "e": "1. \"All rivers are mats\" does not imply \"All mats are rivers\" (Mat is the outer circle). Conclusion 1 is false.\n2. Since \"Some beds are rivers\" and \"All rivers are mats\", the part of the bed that is a river must also be a mat. Thus, \"Some beds are mats\" is true.\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "q": "In a certain code language, ‘PACE’ is coded as ‘2468’ and ‘COST’ is coded as ‘1327’. What is the code for ‘C’ in the given code language?",
+      "o": [
+        "6",
+        "1",
+        "7",
+        "2"
+      ],
+      "a": 3,
+      "e": "Compare the two words and their codes to find common letters:\n1. **PACE** = 2, 4, 6, 8\n2. **COST** = 1, 3, 2, 7\nThe only letter common to both words is **'C'**.\nThe only digit common to both codes is **'2'**.\nTherefore, the code for 'C' is **2**.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Time and Work (Fraction)",
+      "q": "A can do $\\frac{1}{2}$ of a work in $5$ days. B can do $\\frac{3}{5}$ of the work in $9$ days. In how many days can they finish the work together?",
+      "o": [
+        "$8$ days",
+        "$10$ days",
+        "$5$ days",
+        "$6$ days"
+      ],
+      "a": 3,
+      "e": "Convert to Full Work first.\nA full $= 5 \\times 2 = 10$ days.\nB full $= 9 \\times \\frac{5}{3} = 15$ days.\nLCM(10, 15) $= 30$.\nEff: $A=3, B=2$. Total $= 5$.\nTime $= \\frac{30}{5} = 6$ days.",
+      "e2": "A's 1 day work $= \\frac{1}{10}$.\nB's 1 day work $= \\frac{1}{15}$.\nTogether $= \\frac{1}{10} + \\frac{1}{15} = \\frac{3+2}{30} = \\frac{5}{30} = \\frac{1}{6}$.\nReciprocal $= 6$ days."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "General Science (Physics)",
+      "q": "Sound waves cannot travel through which of the following?",
+      "o": [
+        "Water",
+        "Steel",
+        "Air",
+        "Vacuum"
+      ],
+      "a": 3,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Indian Polity",
+      "q": "Which Article is called the 'Heart and Soul' of the Indian Constitution by Dr. B.R. Ambedkar?",
+      "o": [
+        "Article 14",
+        "Article 19",
+        "Article 32",
+        "Article 21"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Geography",
+      "q": "The 'Blue Revolution' is related to which of the following?",
+      "o": [
+        "Milk Production",
+        "Oilseed Production",
+        "Fish Production",
+        "Egg Production"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "q": "In a certain code language, if PAINT is coded as 21563 and SHOT is coded as 8503 then TOAST will be coded as.",
+      "o": [
+        "31852",
+        "30183",
+        "30138",
+        "31038"
+      ],
+      "a": 1,
+      "e": "Identify the digit for each letter:\nP=2, A=1, I=5, N=6, T=3\nS=8, H=5, O=0, T=3\nFor the word **TOAST**:\nT=3, O=0, A=1, S=8, T=3.\nSo, TOAST = **30183**.\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "q": "If TRACTOR = 14 and TROLLEY = 14, then SCOOTER = ?",
+      "o": [
+        "24",
+        "14",
+        "28",
+        "30"
+      ],
+      "a": 1,
+      "e": "Count the number of letters in the word and multiply by 2:\nTRACTOR: 7 letters $\\times$ 2 = 14.\nTROLLEY: 7 letters $\\times$ 2 = 14.\nSCOOTER: 7 letters $\\times$ 2 = **14**.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Important Appointments",
+      "q": "Who was appointed as the new Chairman of the Telecom Regulatory Authority of India (TRAI) in early 2024?",
+      "o": [
+        "R.S. Sharma",
+        "Anil Kumar Lahoti",
+        "P.D. Vaghela",
+        "Ajay Kumar Sood"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Trigonometry (Simplification)",
+      "q": "Find the value of $\\sin^2 38^\\circ + \\sin^2 52^\\circ + \\sin^2 30^\\circ - \\tan^2 45^\\circ$.",
+      "o": [
+        "$0.25$",
+        "$0.5$",
+        "$0$",
+        "$1$"
+      ],
+      "a": 0,
+      "e": "Group Complementary Angles.\n$\\sin^2 38^\\circ + \\sin^2 52^\\circ = 1$ (since $38+52=90$).\nValues: $\\sin 30^\\circ = 0.5$, $\\tan 45^\\circ = 1$.\nExp $= 1 + (0.5)^2 - (1)^2$.\nExp $= 1 + 0.25 - 1 = 0.25$.",
+      "e2": "Convert $\\sin^2 52^\\circ$ to $\\cos^2 38^\\circ$.\n$\\sin^2 38^\\circ + \\cos^2 38^\\circ + \\frac{1}{4} - 1$.\n$1 + 0.25 - 1 = 0.25$."
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Trigonometry",
+      "q": "If $\\tan \\theta = \\frac{4}{3}$, find the value of $\\sin \\theta + \\cos \\theta$.",
+      "o": [
+        "$\\frac{7}{5}$",
+        "$\\frac{5}{7}$",
+        "$\\frac{3}{5}$",
+        "$\\frac{4}{5}$"
+      ],
+      "a": 0,
+      "e": "Use the Pythagorean triplet concept.\n$\\tan \\theta = \\frac{Perpendicular}{Base} = \\frac{4}{3}$.\nTriplet $(3, 4, 5) \\implies Hypotenuse = 5$.\n$\\sin \\theta = \\frac{4}{5}, \\cos \\theta = \\frac{3}{5}$.\nSum $= \\frac{4}{5} + \\frac{3}{5} = \\frac{7}{5}$.",
+      "e2": "Calculate $H$ using formula.\n$H = \\sqrt{P^2 + B^2} = \\sqrt{4^2 + 3^2} = \\sqrt{16+9} = \\sqrt{25} = 5$.\n$\\sin \\theta = \\frac{P}{H} = \\frac{4}{5}$.\n$\\cos \\theta = \\frac{B}{H} = \\frac{3}{5}$.\nResult $= \\frac{7}{5}$.\n"
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Calendar",
+      "q": "If 15th August 2023 was a Tuesday, then what day of the week was 26th January 2024?",
+      "o": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Friday"
+      ],
+      "a": 3,
+      "e": "Count the total number of odd days between the two dates:\n1. **August 2023**: Remaining days $= 31 - 15 = 16$.\n2. **September**: 30 days.\n3. **October**: 31 days.\n4. **November**: 30 days.\n5. **December**: 31 days.\n6. **January 2024**: Given date is 26th $\\to$ 26 days.\nTotal Days $= 16 + 30 + 31 + 30 + 31 + 26 = 164$.\nFind odd days: $164 \\div 7 = 23$ weeks with remainder **3**.\nShift forward: Tuesday $+ 3 = $ **Friday**.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Percentage (Passing Marks)",
+      "q": "A student has to secure 35% marks to pass. He gets 80 marks and fails by 60 marks. Find the maximum marks of the exam.",
+      "o": [
+        "300",
+        "400",
+        "500",
+        "200"
+      ],
+      "a": 1,
+      "e": "Use the \"Logic Method\".\nPass Marks = Marks Scored + Failed By.\nPass Marks = 80 + 60 = 140.\nThis 140 marks is equal to 35%.\n35% = 140.\n1% = 140 / 35 = 4.\nTotal (100%) = 4 × 100 = 400.",
+      "e2": "Equation Method.\nLet Maximum Marks = M.\n35% of M = 80 + 60.\n(35 / 100) × M = 140.\nM = (140 × 100) / 35.\nM = 4 × 100 = 400."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Defence Appointments",
+      "q": "Who took charge as the Chief of the Army Staff (COAS) of India in June 2024?",
+      "o": [
+        "General Manoj Pande",
+        "General Upendra Dwivedi",
+        "General Anil Chauhan",
+        "General M.M. Naravane"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Defence Exercises",
+      "q": "The joint military exercise 'MAITREE' is conducted between India and which country?",
+      "o": [
+        "Thailand",
+        "Sri Lanka",
+        "Bangladesh",
+        "Myanmar"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "General Science (Biology)",
+      "q": "Which is the longest bone in the human body?",
+      "o": [
+        "Tibia",
+        "Fibula",
+        "Femur",
+        "Humerus"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Statistics",
+      "q": "Find the median of the following data set: 12, 15, 11, 13, 18, 11, 13, 12, 13.",
+      "o": [
+        "12",
+        "13",
+        "11",
+        "12.5"
+      ],
+      "a": 1,
+      "e": "Order the data: 11, 11, 12, 12, **13**, 13, 13, 15, 18.\nCount ($n$) = 9 (Odd).\nMedian = $((n+1)/2)^{th}$ term = $5^{th}$ term.\nValue = **13**.",
+      "e2": "**Step 1: Arrange in ascending order.**\n11, 11, 12, 12, 13, 13, 13, 15, 18.\n\n**Step 2: Identify middle term.**\nSince there are 9 terms (odd number), the median is the exact middle number.\nThe 5th number is 13.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Mixture and Alligation (Replacement)",
+      "q": "A vessel contains $80 \\text{ liters}$ of milk. $8 \\text{ liters}$ of milk is taken out and replaced by water. This process is repeated one more time. Find the quantity of milk left in the vessel.",
+      "o": [
+        "$64 \\text{ L}$",
+        "$60 \\text{ L}$",
+        "$64.8 \\text{ L}$",
+        "$72 \\text{ L}$"
+      ],
+      "a": 2,
+      "e": "Use the \"Replacement Formula\":\n$\\text{Final} = \\text{Initial} \\left( 1 - \\frac{\\text{Removed}}{\\text{Initial}} \\right)^n$.\nHere $n=2$ (process done twice).\n$F = 80 \\times \\left( 1 - \\frac{8}{80} \\right)^2$.\n$F = 80 \\times \\left( \\frac{9}{10} \\right)^2$.\n$F = 80 \\times \\frac{81}{100} = 0.8 \\times 81 = 64.8 \\text{ L}$.",
+      "e2": "Step-by-Step Method.\nStart: $80 \\text{ L}$.\nStep 1: Remove $8 \\text{ L}$ milk.\nMilk Left $= 72 \\text{ L}$. (Ratio Milk:Water is $72:8 = 9:1$).\nStep 2: Remove $8 \\text{ L}$ of mixture.\nMilk part removed $= \\frac{9}{10} \\times 8 = 7.2 \\text{ L}$.\nMilk Remaining $= 72 - 7.2 = 64.8 \\text{ L}$."
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy (Antonyms)",
+      "q": "Choose the pair which is related in the same way as the word in the first pair from the given choices.\nSavage : Civilized :: ______ : ______",
+      "o": [
+        "Brutal : Heroic",
+        "Wild : Animal",
+        "Dark : Light",
+        "Illiterate : Book"
+      ],
+      "a": 2,
+      "e": "Relationship: **Antonyms** (Opposites).\n* **Savage** means wild or primitive, which is the opposite of **Civilized** (refined, advanced society).\n* Check Options:\n1. Brutal : Heroic $\\to$ Not exact opposites (Brutal $\\leftrightarrow$ Gentle/Humane).\n2. Wild : Animal $\\to$ Characteristic (Not opposites).\n3. **Dark : Light** $\\to$ Direct opposites. (Matches logic).\n4. Illiterate : Book $\\to$ Relation (One who cannot read books).\nResult: **Dark : Light**.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Mensuration",
+      "q": "If the radius of the base of a cylinder is halved and its height is doubled, then the volume of the cylinder will:",
+      "o": [
+        "Remain the same",
+        "Become half",
+        "Become double",
+        "Become four times"
+      ],
+      "a": 1,
+      "e": "Formula: $V = \\pi r^2 h$\nNew $r' = r/2$, New $h' = 2h$.\n$V' = \\pi (r/2)^2 (2h)$\n$V' = \\pi \\frac{r^2}{4} \\times 2h = \\frac{1}{2} (\\pi r^2 h)$.\nVolume becomes **Half**.",
+      "e2": "**Step 1: Write original volume formula.**\nVolume $V = \\pi r^2 h$.\n\n**Step 2: Apply changes.**\nNew Radius $r' = \\frac{r}{2}$.\nNew Height $h' = 2h$.\n\n**Step 3: Calculate new volume.**\n$V' = \\pi (r')^2 h'$\n$V' = \\pi \\left(\\frac{r}{2}\\right)^2 (2h)$\n$V' = \\pi \\times \\frac{r^2}{4} \\times 2h$\n$V' = \\frac{1}{2} \\pi r^2 h$.\n\n**Step 4: Compare.**\nNew Volume is half of the original volume.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Trigonometry (Values)",
+      "q": "Find the value of $\\sin 60^\\circ \\cos 30^\\circ + \\cos 60^\\circ \\sin 30^\\circ$.",
+      "o": [
+        "$0$",
+        "$1$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{1}{2}$"
+      ],
+      "a": 1,
+      "e": "Use Identity $\\sin(A+B)$.\n$\\sin(60^\\circ + 30^\\circ) = \\sin 90^\\circ = 1$.",
+      "e2": "Substitute values.\n$\\frac{\\sqrt{3}}{2} \\times \\frac{\\sqrt{3}}{2} + \\frac{1}{2} \\times \\frac{1}{2}$.\n$\\frac{3}{4} + \\frac{1}{4} = \\frac{4}{4} = 1$."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Sports (Cricket)",
+      "q": "Which country is the host for the ICC Men's Champions Trophy 2025?",
+      "o": [
+        "Sri Lanka",
+        "India",
+        "England",
+        "Pakistan"
+      ],
+      "a": 3,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Geography",
+      "q": "Which soil is most suitable for the cultivation of cotton?",
+      "o": [
+        "Alluvial Soil",
+        "Red Soil",
+        "Black Soil (Regur)",
+        "Laterite Soil"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Government Initiatives",
+      "q": "The Ministry of Defence has declared the year 2025 as the:",
+      "o": [
+        "Year of Technology Absorption",
+        "Year of Defence Reforms",
+        "Year of Artificial Intelligence",
+        "Year of Self-Reliance"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Geography",
+      "q": "Which is the highest waterfall in India?",
+      "o": [
+        "Jog Falls",
+        "Kunchikal Falls",
+        "Dudhsagar Falls",
+        "Athirappilly Falls"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Statement and Conclusion",
+      "q": "Statement:\nRemote drums are pleasant.\nConclusion:\nI. Humans are never fully satisfied in life.\nII. Humans beings tends to see their flaws more seriously and do not consider the possibility that they may have a superior bottom line.",
+      "o": [
+        "Only conclusion II follows.",
+        "Both conclusion I and II follows.",
+        "Both conclusion I and II follows.",
+        "Only conclusion I follows."
+      ],
+      "a": 3,
+      "e": "The statement \"Remote drums are pleasant\" (often translated as \"Distant drums sound sweet\") is a proverb implying that things often appear better from a distance than they actually are, or that people appreciate what they do not have more than what they do.\nThis metaphorical meaning aligns with Conclusion I: \"Humans are never fully satisfied in life\" (they always want the 'distant' thing).\nConclusion II is complex and does not directly follow from the simple metaphorical meaning of the proverb.\nTherefore, only conclusion I follows.",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Analogy (Letter-Cluster)",
+      "q": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of :: ?\n# : DTF :: URQ : %",
+      "o": [
+        "# = DTU, % = VWP",
+        "# = DSG, % = VWM",
+        "# = CQG, % = VUP",
+        "# = CPH, % = UPN"
+      ],
+      "a": 2,
+      "e": "Analyze the correct pair (# = CQG, % = VUP) to confirm the pattern:\nLeft Side (# : DTF $\\to$ CQG : DTF):\n1. C $\\xrightarrow{+1}$ D\n2. Q $\\xrightarrow{+3}$ T\n3. G $\\xrightarrow{-1}$ F\nPattern: $+1, +3, -1$.\n\nRight Side (URQ : % $\\to$ URQ : VUP):\n1. U $\\xrightarrow{+1}$ V\n2. R $\\xrightarrow{+3}$ U\n3. Q $\\xrightarrow{-1}$ P\nPattern: $+1, +3, -1$.\nSince the shift pattern ($+1, +3, -1$) is identical for both sides, the values **# = CQG** and **% = VUP** are the correct answer.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Culture (Temples)",
+      "q": "The famous 'Sun Temple' is located at which place?",
+      "o": [
+        "Puri",
+        "Bhubaneswar",
+        "Konark",
+        "Cuttack"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Indices and Rankings",
+      "q": "What is India's rank in the World Economic Forum's 'Energy Transition Index' 2024?",
+      "o": [
+        "63rd",
+        "67th",
+        "55th",
+        "72nd"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Blood Relation",
+      "q": "Rubi and Juhi are sisters. Krishna is Juhi's father's father. Reshma is the mother of Arvind. Arvind is the father of Rohit, who is the only brother of Rubi. How is Krishna related to Rohit?",
+      "o": [
+        "Mother's brother",
+        "Father's father",
+        "Father",
+        "Mother's father"
+      ],
+      "a": 1,
+      "e": "Use the \"Sibling Link\" shortcut.\n1. Rohit is the brother of Rubi, and Rubi is the sister of Juhi.\n2. So, Rohit, Rubi, and Juhi are all siblings.\n3. Therefore, Juhi's father is also Rohit's father.\n4. Krishna is \"Juhi's father's father\".\n5. Replace \"Juhi\" with \"Rohit\" $\\to$ Krishna is Rohit's father's father.",
+      "e2": "Step-by-Step mapping:\n1. Siblings: Rohit, Rubi, Juhi.\n2. Father: Arvind is the father of Rohit (so he is the father of all three).\n3. Grandfather: Krishna is Juhi's father's father. Since Arvind is the father, Krishna is Arvind's father.\n4. Relation: Krishna is the father of Rohit's father.\nResult: Father's father."
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Mathematical Operations",
+      "q": "If P means ‘÷ ’, R means ‘×’, Q means ‘+’ and S means ‘–’, then 36 P 6 Q 7 R 8 S 11 =",
+      "o": [
+        "45",
+        "51",
+        "52",
+        "62"
+      ],
+      "a": 1,
+      "e": "Replace the letters with their respective mathematical symbols:\nP $\\to \\div$, Q $\\to +$, R $\\to \\times$, S $\\to -$\nThe equation becomes: $36 \\div 6 + 7 \\times 8 - 11$\n1. Division: $36 \\div 6 = 6$\n2. Multiplication: $7 \\times 8 = 56$\n3. Addition and Subtraction: $6 + 56 - 11 = 62 - 11 = \\mathbf{51}$.",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "q": "Statement:\nAll H are G.\nAll V are H.\nSome V are I.\nConclusion:\n(I) At least some G are I.\n(II) All I is likely to be H.",
+      "o": [
+        "Neither conclusion I nor II follows",
+        "Both conclusion I and II follow",
+        "Either conclusion I or II follows",
+        "Only conclusion I follows"
+      ],
+      "a": 1,
+      "e": "1. Since \"Some V are I\" and \"All V are G\" (because V is inside H which is inside G), the part of V that is I is also G. Thus, \"Some G are I\" is definitely true.\n2. \"Likely to be\" indicates a possibility. There is no restriction preventing the circle \"I\" from being drawn completely inside \"H\". Therefore, the possibility exists. Both conclusions follow.\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Chemistry (Common Chemicals)",
+      "q": "Which acid is known as the 'King of Chemicals'?",
+      "o": [
+        "Hydrochloric Acid ($HCl$)",
+        "Sulphuric Acid ($H_2SO_4$)",
+        "Nitric Acid ($HNO_3$)",
+        "Acetic Acid ($CH_3COOH$)"
+      ],
+      "a": 1,
+      "e": "Sulphuric Acid ($H_2SO_4$) is called the 'King of Chemicals' because it is used in the manufacturing of a vast number of other chemicals, batteries, and industrial processes.\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Classification (Odd One Out)",
+      "q": "In each of the following questions four out of five alternatives contain alphabet placed in a particular form. Find the one that does not belong to the group.\n(A) JP10\n(B) MN13\n(C) CX3\n(D) IR9\n(E) GT7",
+      "o": [
+        "(A) JP10",
+        "(B) MN13",
+        "(C) CX3",
+        "(D) IR9"
+      ],
+      "a": 0,
+      "e": "\nIn the given groups, the first letter's rank from the beginning and the second letter's rank from the end are identical and equal to the number given:\n1. **CX3:** C is 3rd from start; X is 3rd from end. Number = 3.\n2. **GT7:** G is 7th from start; T is 7th from end. Number = 7.\n3. **IR9:** I is 9th from start; R is 9th from end. Number = 9.\n4. **MN13:** M is 13th from start; N is 13th from end. Number = 13.\n5. **JP10:** J is 10th from start, but P is **11th** from the end (K is 10th from end).\nThus, **JP10** is the odd one out.",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Alphanumeric Series",
+      "q": "Refer to the following number and symbol series and answer the question that follows.\n(Left) # * £ 3 9 € # % £ 1 % £ 8 8 1 4 9 % 5 8 & 7 (Right)\nHow many such numbers are there each of which is immediately preceded by a symbol and also immediately followed by a symbol?",
+      "o": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "a": 2,
+      "e": "Required Pattern: **Symbol $\\rightarrow$ Number $\\rightarrow$ Symbol**\nScanning the series from left to right:\n1.  ... £ **1** % ... (Preceded by £, Followed by %)\nThere is only **1** such number.",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Percentage (Election)",
+      "q": "In an election between two candidates, the winner got $55\\%$ of the total votes and won by a margin of $600$ votes. Find the total number of votes.",
+      "o": [
+        "$4000$",
+        "$5000$",
+        "$6000$",
+        "$3000$"
+      ],
+      "a": 2,
+      "e": "Use \"Gap Percentage\".\nWinner $= 55\\%$, Loser $= 45\\%$.\nGap $= 55\\% - 45\\% = 10\\%$.\nGiven Gap $= 600$ votes.\n$10\\% = 600$.\nTotal ($100\\%$) $= 600 \\times 10 = 6000$.",
+      "e2": "Let Total Votes $= x$.\nWinner $= 0.55x$, Loser $= 0.45x$.\n$0.55x - 0.45x = 600$.\n$0.10x = 600$.\n$x = 6000$.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Profit and Loss",
+      "q": "A shopkeeper sells an article for ₹880 at a loss of 20%. What is the Cost Price (CP) of the article?",
+      "o": [
+        "₹1100",
+        "₹1000",
+        "₹1200",
+        "₹960"
+      ],
+      "a": 0,
+      "e": "SP = ₹880.\nLoss = 20% $\\Rightarrow$ SP is 80% of CP.\n$80\\% \\text{ of CP} = 880$.\n$CP = \\frac{880}{80} \\times 100 = 11 \\times 100 = \\mathbf{1100}$.",
+      "e2": "**Step 1: Relate SP and CP.**\nSelling Price = Cost Price - Loss.\nSince Loss is 20%, SP is $100\\% - 20\\% = 80\\%$ of CP.\n\n**Step 2: Setup Equation.**\n$0.80 \\times CP = 880$.\n\n**Step 3: Solve for CP.**\n$CP = \\frac{880}{0.80} = 1100$."
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Indian Polity",
+      "q": "Which Constitutional Amendment Act is known as the 'Mini Constitution'?",
+      "o": [
+        "42nd Amendment",
+        "44th Amendment",
+        "73rd Amendment",
+        "86th Amendment"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Statement and Conclusions",
+      "q": "Statement: All drugs have side effects. So, there is always a built-in risk while taking medicines.\nConclusions:\nI. No medicine is without the risk of side effects.\nII. Drugs make things worse than the disease itself.",
+      "o": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Neither I nor II follows",
+        "Both I and II follow"
+      ],
+      "a": 0,
+      "e": "Use \"Keyword Matching\".\nStatement says \"**All** drugs have side effects\".\nConclusion I says \"**No** medicine is **without** risk\" (Double negative = All have risk). This is the exact same meaning.\nConclusion II compares drugs to the **disease** (\"worse than\"). The statement never mentions the disease's severity.\nResult: Only I follows.",
+      "e2": "Logical Venn Diagram.\n1. Set \"Drugs\" is fully inside Set \"Things with Side Effects\".\n2. Conclusion I: Is there any medicine outside \"Side Effects\"? No. (True).\n3. Conclusion II: Is \"Drugs\" > \"Disease\"? No info given. (False)."
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "q": "In a certain code language, if HOUSE is coded as 10-13-23-17-7 then REHEARSE will be coded as ?",
+      "o": [
+        "20-7-10-7-3-20-21-7",
+        "16-3-6-3-25-16-17-3",
+        "20-3-10-3-3-16-21-3",
+        "18-5-8-5-1-18-19-5"
+      ],
+      "a": 2,
+      "e": "Each letter's positional value is increased by 2:\nH(8)+2=10, O(15)+2=17, U(21)+2=23, S(19)+2=21, E(5)+2=7.\nWait, according to the solution provided in the image for REHEARSE:\nR(18)+2=20, E(5)-2=3, H(8)+2=10, E(5)-2=3, A(1)+2=3, R(18)-2=16, S(19)+2=21, E(5)-2=3.\nThe pattern alternates between **+2** and **-2**.\nResult: **20-3-10-3-3-16-21-3**.\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Important Days",
+      "q": "'National Science Day' is celebrated in India on February 28th to commemorate the discovery of:",
+      "o": [
+        "Zero by Aryabhatta",
+        "Structure of Ribosome by Venki Ramakrishnan",
+        "Raman Effect by C.V. Raman",
+        "Wireless transmission by J.C. Bose"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Biology (Human Diseases)",
+      "q": "Typhoid fever is caused by which of the following?",
+      "o": [
+        "Bacteria",
+        "Virus",
+        "Protozoa",
+        "Fungus"
+      ],
+      "a": 0,
+      "e": "Typhoid is a bacterial infection caused by the bacterium *Salmonella typhi*. It is usually spread through contaminated food or water.\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Time and Work",
+      "q": "A is twice as efficient as B. If B can complete a piece of work in 20 days, in how many days can A complete the same work?",
+      "o": [
+        "10 days",
+        "15 days",
+        "40 days",
+        "5 days"
+      ],
+      "a": 0,
+      "e": "Efficiency Ratio A:B = 2:1.\nTime Ratio A:B = 1:2.\nIf B takes 20 days (2 units), A takes 1 unit.\nTime for A = $20/2 = \\mathbf{10}$ days.",
+      "e2": "**Step 1: Understand Efficiency vs Time.**\nEfficiency is inversely proportional to Time.\nIf A is 2 times faster, A takes half the time.\n\n**Step 2: Calculate.**\nTime taken by B = 20 days.\nTime taken by A = $20 / 2 = 10$ days.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Biology (Human Body)",
+      "q": "The hardest substance in the human body is:",
+      "o": [
+        "Skull bone",
+        "Tooth Enamel",
+        "Femur",
+        "Knee cap"
+      ],
+      "a": 1,
+      "e": "Tooth Enamel, the outer covering of the teeth, is the hardest and most highly mineralized substance in the human body.\n\n[Image of tooth anatomy enamel]\n\n",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Problem on Ages",
+      "q": "The ratio of ages of A and B is 4:5. After 5 years, the ratio becomes 5:6. Find the present age of A.",
+      "o": [
+        "20 years",
+        "25 years",
+        "30 years",
+        "16 years"
+      ],
+      "a": 0,
+      "e": "Use the \"Gap Method\".\nPresent: 4 : 5\nFuture: 5 : 6\nGap in parts:\nA goes 4 -> 5 (1 unit).\nB goes 5 -> 6 (1 unit).\nSince gaps are equal (1 unit),\n1 unit = 5 years.\nA's age = 4 units.\nA = 4 × 5 = 20 years.",
+      "e2": "Algebra method.\nLet ages be 4x and 5x.\n(4x + 5) / (5x + 5) = 5/6.\nCross multiply:\n24x + 30 = 25x + 25.\nx = 5.\nA's age = 4x = 4 × 5 = 20.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Indices and Reports",
+      "q": "What is India's rank in the Global Hunger Index (GHI) 2024?",
+      "o": [
+        "105",
+        "111",
+        "94",
+        "101"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Number System (Divisibility)",
+      "q": "Which of the following numbers is divisible by 11?",
+      "o": [
+        "4823718",
+        "8423718",
+        "4832718",
+        "8432718"
+      ],
+      "a": 2,
+      "e": "Rule: Difference between sum of digits at odd places and even places must be 0 or multiple of 11.\nFor 4832718:\nOdd places: $8+7+3+4 = 22$.\nEven places: $1+2+8 = 11$.\nDiff: $22 - 11 = 11$ (Divisible).",
+      "e2": "**Step 1: Apply Divisibility Rule of 11.**\nSum of Odd pos digits - Sum of Even pos digits = 0 or 11k.\n\n**Step 2: Check Option 3 (4832718).**\nOdd pos (from right): $8 + 7 + 3 + 4 = 22$.\nEven pos (from right): $1 + 2 + 8 = 11$.\nDifference = $22 - 11 = 11$.\nSince 11 is divisible by 11, the number is divisible.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Indian Polity",
+      "q": "Which Article of the Indian Constitution deals with the imposition of 'National Emergency'?",
+      "o": [
+        "Article 352",
+        "Article 356",
+        "Article 360",
+        "Article 370"
+      ],
+      "a": 0,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Mensuration (Equilateral Triangle)",
+      "q": "If the side of an equilateral triangle is 8 cm, find its area.",
+      "o": [
+        "$16\\sqrt{3}$ cm²",
+        "$32\\sqrt{3}$ cm²",
+        "$64\\sqrt{3}$ cm²",
+        "$12\\sqrt{3}$ cm²"
+      ],
+      "a": 0,
+      "e": "Formula: Area $= \\frac{\\sqrt{3}}{4} a^2$.\nSide $a = 8$.\nArea $= \\frac{\\sqrt{3}}{4} \\times (8)^2$\n$= \\frac{\\sqrt{3}}{4} \\times 64 = 16\\sqrt{3}$.",
+      "e2": "\n\n[Image of equilateral triangle formula]\n\n**Step 1: Use Area Formula.**\nArea = $\\frac{\\sqrt{3}}{4} \\times (\\text{side})^2$.\n\n**Step 2: Substitute side.**\n$\\frac{\\sqrt{3}}{4} \\times 8 \\times 8$.\n$\\sqrt{3} \\times 2 \\times 8 = 16\\sqrt{3}$.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "International Summits",
+      "q": "Which country hosted the Shanghai Cooperation Organization (SCO) Summit in July 2024?",
+      "o": [
+        "India",
+        "China",
+        "Russia",
+        "Kazakhstan"
+      ],
+      "a": 3,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "q": "Statements:\n1. All cats are animals.\n2. Some animals are dogs.\nConclusions:\nI. Some cats are dogs.\nII. Some dogs are cats.\nIII. No cat is a dog.\nIV. Some animals are cats.\nWhich conclusion(s) logically follow?",
+      "o": [
+        "Only IV",
+        "Only I and II",
+        "Either I or III",
+        "Only II and III"
+      ],
+      "a": 0,
+      "e": "Use Venn Diagram Logic:\n1. **Diagram**: Draw a circle for 'Cats' inside a larger circle for 'Animals'. Draw a circle for 'Dogs' intersecting 'Animals'. The 'Dogs' circle may or may not touch 'Cats'.\n2. **Analyze IV**: \"Some animals are cats\". Since all cats are animals, the part of the Animal circle occupied by Cats proves this is **True**.\n3. **Analyze I, II, III**: There is no direct statement linking Cats and Dogs. They might overlap or they might not. Therefore, we cannot definitely conclude I, II, or III.\n4. **Options**: While I and III form a complementary pair (Either-Or), Option 3 excludes Conclusion IV. Since IV is definitely true, Option 1 is the correct choice.",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Classification (Odd One Out)",
+      "q": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT belong to that group?",
+      "o": [
+        "MQ - UZ",
+        "GJ - PS",
+        "EH - NQ",
+        "JM - SV"
+      ],
+      "a": 0,
+      "e": "\nAnalyze the difference between the letters in each pair:\n1. **MQ - UZ:**\nM (13) $\\xrightarrow{+4}$ Q (17)\nU (21) $\\xrightarrow{+5}$ Z (26)\n(Pattern: +4, +5)\n2. **GJ - PS:**\nG (7) $\\xrightarrow{+3}$ J (10)\nP (16) $\\xrightarrow{+3}$ S (19)\n(Pattern: +3, +3)\n3. **EH - NQ:**\nE (5) $\\xrightarrow{+3}$ H (8)\nN (14) $\\xrightarrow{+3}$ Q (17)\n(Pattern: +3, +3)\n4. **JM - SV:**\nJ (10) $\\xrightarrow{+3}$ M (13)\nS (19) $\\xrightarrow{+3}$ V (22)\n(Pattern: +3, +3)\n\nIn all options except **MQ - UZ**, the difference between the letters is consistently **+3**. In MQ - UZ, the differences are +4 and +5.",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Biology (Human Eye)",
+      "q": "Myopia (Near-sightedness) can be corrected by using which type of lens?",
+      "o": [
+        "Convex Lens",
+        "Concave Lens",
+        "Cylindrical Lens",
+        "Bifocal Lens"
+      ],
+      "a": 1,
+      "e": "In Myopia, a person can see near objects clearly but distant objects appear blurry because the image forms *in front* of the retina. A Concave lens is used to diverge the light rays so they focus *on* the retina.\n\n[Image of myopia correction diagram]\n\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "International Organisations",
+      "q": "Who was appointed as the new Secretary General of NATO (North Atlantic Treaty Organization) in October 2024?",
+      "o": [
+        "Jens Stoltenberg",
+        "Mark Rutte",
+        "Ursula von der Leyen",
+        "Boris Johnson"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Chemistry (Chemical Compounds)",
+      "q": "What is the chemical formula of 'Quick Lime'?",
+      "o": [
+        "$Ca(OH)_2$",
+        "$CaCO_3$",
+        "$CaO$",
+        "$CaCl_2$"
+      ],
+      "a": 2,
+      "e": "Quick Lime is Calcium Oxide ($CaO$).\n* $Ca(OH)_2$: Slaked Lime (Calcium Hydroxide)\n* $CaCO_3$: Limestone (Calcium Carbonate)\n",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Number Series / Set Analogy",
+      "q": "Two sets of numbers are given below. In each set of numbers, certain mathematical operation(s) on the first number results in the second number... Which of the given options follows the same set of operations?\nSet 1: 12 - 13 - 15 - 30\nSet 2: 14 - 15 - 17 - 34",
+      "o": [
+        "3 - 4 - 5 - 10",
+        "4 - 5 - 7 - 10",
+        "9 - 10 - 12 - 24",
+        "1 - 2 - 4 - 16"
+      ],
+      "a": 2,
+      "e": "Analyze the pattern in the example sets:\n1.  **Set 1 (12 - 13 - 15 - 30):**\n* $12 + 1 = 13$\n* $13 + 2 = 15$\n* $15 \\times 2 = 30$\n* Pattern: **+1, +2, ×2**\n\n2.  **Set 2 (14 - 15 - 17 - 34):**\n* $14 + 1 = 15$\n* $15 + 2 = 17$\n* $17 \\times 2 = 34$\n* Pattern: **+1, +2, ×2**\n\n3.  **Check Option 3 (9 - 10 - 12 - 24):**\n* $9 + 1 = 10$\n* $10 + 2 = 12$\n* $12 \\times 2 = 24$\n* This matches the pattern perfectly.",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Number Series (Decimal)",
+      "q": "Select the option that will fill in the blank:\n0.1, 0.9, 0.01, 0.09, ______, 0.009",
+      "o": [
+        "0.0001",
+        "0.1010",
+        "0.01",
+        "0.001"
+      ],
+      "a": 3,
+      "e": "The series follows an alternating pattern between \"Odd\" and \"Even\" positions.\n1. **Odd Positions (1st, 3rd, 5th):**\n$0.1 \\xrightarrow{\\div 10} 0.01 \\xrightarrow{\\div 10} \\mathbf{0.001}$\n2. **Even Positions (2nd, 4th, 6th):**\n$0.9 \\xrightarrow{\\div 10} 0.09 \\xrightarrow{\\div 10} 0.009$\nThe missing term is at the 5th position, which follows the Odd pattern.\nResult: **0.001**.",
+      "e2": ""
+    },
+    {
+      "section": "Reasoning",
+      "topic": "Seating Arrangement (Parallel Rows)",
+      "q": "Study the given information carefully and answer the question that follows.\nIn a boat, people are sitting in two parallel rows...\nRow 1 (South Facing): Mani, Nani, Alex, Puri, Tuli.\nRow 2 (North Facing): Sharma, Atkin, Putin, Neha, Priya.\nKey Clues:\n1. Priya sits 3rd to right of Atkin (Atkin is at one end).\n2. Sharma sits 2nd to left of Priya.\n3. Person facing Sharma sits to immediate right of Nani.\n4. Puri sits 2nd to left of Nani.\n5. Mani is not neighbor of Nani.\n6. Two people between Mani and Alex.\nWho among the following is facing Tuli?",
+      "o": [
+        "Sharma",
+        "Priya",
+        "Neha",
+        "Atkin"
+      ],
+      "a": 0,
+      "e": "Step-by-step arrangement:\n1. **Row 2 (North)**: Atkin is at the extreme left end (to allow space for right). Priya is 3rd to right. Arrangement: `Atkin _ _ Priya _`.\n2. Sharma is 2nd to left of Priya: `Atkin Sharma _ Priya _`.\n3. **Row 1 (South)**: The person facing Sharma (Position 2) is to the immediate right of Nani.\n* *Note:* For South facing, \"Right\" is towards the visual Left. So, Nani is at Position 3. `_ (faces Sharma) Nani _ _`.\n4. Puri sits 2nd to left of Nani. (South \"Left\" is visual Right). So Puri is at Position 5. `_ _ Nani _ Puri`.\n5. Mani is not a neighbor of Nani. Mani cannot be at Pos 2 or 4. Mani must be at Pos 1. `Mani _ Nani _ Puri`.\n6. Two sit between Mani and Alex. Alex is at Pos 4. `Mani _ Nani Alex Puri`.\n7. Remaining spot (Pos 2) is Tuli.\n* **Final Row 1:** Mani, Tuli, Nani, Alex, Puri.\n* **Final Row 2:** Atkin, Sharma, Putin, Priya, Neha.\n* **Result:** Tuli (Pos 2) is facing **Sharma** (Pos 2).\n",
+      "e2": "Visual Diagram (Top = South Facing, Bottom = North Facing)\nRow 1 (S):  Mani   Tuli   Nani   Alex   Puri\n|      |      |      |      |      |      |  \nRow 2 (N):  Atkin  Sharma Putin  Priya  Neha\n\nPair facing Tuli is Sharma.\n"
+    },
+    {
+      "section": "Mathematics",
+      "topic": "Algebra",
+      "q": "If x = 3 + √8, find the value of x + (1/x).",
+      "o": [
+        "4",
+        "6",
+        "9",
+        "8"
+      ],
+      "a": 1,
+      "e": "Use the \"Reciprocal Trick\".\nCheck difference of squares:\n3² - (√8)² = 9 - 8 = 1.\nIf diff is 1, then (1/x) is just the conjugate (3 - √8).\nx + 1/x = (3 + √8) + (3 - √8).\nSum = 3 + 3 = 6.",
+      "e2": "Rationalize the denominator.\n1/x = 1 / (3 + √8).\nMultiply top and bottom by (3 - √8).\nDenominator becomes 3² - (√8)² = 1.\nSo 1/x = 3 - √8.\nAdd them: 3 + √8 + 3 - √8 = 6.\n"
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Chemistry (Non-Metals)",
+      "q": "Which of the following is a non-metal that remains liquid at room temperature?",
+      "o": [
+        "Mercury",
+        "Bromine",
+        "Chlorine",
+        "Gallium"
+      ],
+      "a": 1,
+      "e": "Bromine ($Br$) is the only non-metal that is liquid at room temperature.\n* Mercury ($Hg$): Metal liquid at room temp.\n* Gallium ($Ga$): Metal that melts on the palm (low melting point).\n",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Beauty Pageants",
+      "q": "Who was crowned Miss Universe 2024 at the event held in Mexico?",
+      "o": [
+        "Sheynnis Palacios",
+        "Victoria Kjaer Theilvig (Denmark)",
+        "R'Bonney Gabriel",
+        "Harnaaz Sandhu"
+      ],
+      "a": 1,
+      "e": "",
+      "e2": ""
+    },
+    {
+      "section": "General Awareness",
+      "topic": "Government Schemes",
+      "q": "The 'PM-Surya Ghar: Muft Bijli Yojana' aims to provide free electricity up to how many units per month?",
+      "o": [
+        "100 Units",
+        "200 Units",
+        "300 Units",
+        "400 Units"
+      ],
+      "a": 2,
+      "e": "",
+      "e2": ""
+    }
+  ]
+}
