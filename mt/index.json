@@ -1,45 +1,39 @@
 {
-  "version": 1,
-  "tests": [
-    {
-      "id": "full_mock_en_1",
-      "title": "RRB NTPC: Full Length Mock Test",
-      "questions": 100,
-      "duration": 90,
-      "language": "en",
-      "tags":["Mathematics","Reasoning","GK/GS","Current Affairs"],
-      "phase": "full",
-      "ts": 1766997120000
-    },
-    {
-      "id": "full_mock_hi_1",
-      "title": "RRB NTPC: Full Length हिन्दी Mock Test",
-      "questions": 100,
-      "duration": 90,
-      "language": "hi",
-      "tags":["Mathematics","Reasoning","GK/GS","Current Affairs"],
-      "phase": "full",
-      "ts": 1766997120000
-    },
-    {
-      "id": "full_mock_en_2",
-      "title": "RRB NTPC: Practice Test",
-      "questions": 100,
-      "duration": 90,
-      "language": "en",
-      "phase": "standard",
-      "ts": 1766900000000
-    },
-    {
-      "id": "full_mock_hi_2",
-      "title": "RRB NTPC: Practice Test हिन्दी ",
-      "questions": 100,
-      "duration": 90,
-      "language": "hi",
-      "phase": "standard",
-      "ts": 1766900000000
-    }
-  ]
+  "v": 1,
+
+  "mt_4": {
+    "title": "RRB NTPC • Full Length Mock (Jan 2026 · Week 4)",
+    "q": 100,
+    "d": 90,
+    "l": ["E"],
+    "tags": ["Mathematics", "Reasoning", "GK/GS", "Current Affairs"],
+    "ts": 1769248800000
+  },
+
+  "mt_3": {
+    "title": "RRB NTPC • Full Length Mock (Jan 2026 · Week 3)",
+    "q": 100,
+    "d": 90,
+    "l": ["E"],
+    "tags": ["Mathematics", "Reasoning", "GK/GS", "Current Affairs"],
+    "ts": 1768644000000
+  },
+
+  "mt_2": {
+    "title": "RRB NTPC • Full Length Mock (Jan 2026 · Week 2)",
+    "q": 100,
+    "d": 90,
+    "l": ["E"],
+    "tags": ["Mathematics", "Reasoning", "GK/GS", "Current Affairs"],
+    "ts": 1768039200000
+  },
+
+  "mt_1": {
+    "title": "RRB NTPC • Full Length Mock (Jan 2026 · Week 1)",
+    "q": 100,
+    "d": 90,
+    "l": ["E"],
+    "tags": ["Mathematics", "Reasoning", "GK/GS", "Current Affairs"],
+    "ts": 1767434400000
+  }
 }
-
-
