@@ -54,7 +54,7 @@
     "ti": "RRB Full Mock Test Jan Week 1",
     "q": 100,
     "t": "m",
-    "s": false,
+    "s": true,
     "l": ["hi", "en"],
     "su": ["maths", "reason", "ca", "gk", "gs"],
     "ts": 1768003200000
