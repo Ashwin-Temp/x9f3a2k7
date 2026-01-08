@@ -1,0 +1,1829 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "Mathematics",
+      "t": "Mixture and Alligation (Replacement)",
+      "q": "A vessel contains $80 \\text{ liters}$ of milk. $8 \\text{ liters}$ of milk is taken out and replaced by water. This process is repeated one more time. Find the quantity of milk left in the vessel.",
+      "hq": "एक बर्तन में $80 \\text{ लीटर}$ दूध है। $8 \\text{ लीटर}$ दूध निकाला जाता है और उसके स्थान पर पानी डाल दिया जाता है। यह प्रक्रिया एक बार और दोहराई जाती है। बर्तन में बचे हुए दूध की मात्रा ज्ञात कीजिए।",
+      "o": [
+        "$64 \\text{ L}$",
+        "$60 \\text{ L}$",
+        "$64.8 \\text{ L}$",
+        "$72 \\text{ L}$"
+      ],
+      "a": 2,
+      "e": "Use the \"Replacement Formula\":\n$\\text{Final} = \\text{Initial} \\left( 1 - \\frac{\\text{Removed}}{\\text{Initial}} \\right)^n$.\nHere $n=2$ (process done twice).\n$F = 80 \\times \\left( 1 - \\frac{8}{80} \\right)^2$.\n$F = 80 \\times \\left( \\frac{9}{10} \\right)^2$.\n$F = 80 \\times \\frac{81}{100} = 0.8 \\times 81 = 64.8 \\text{ L}$.",
+      "he": "**\"प्रतिस्थापन सूत्र\" (Replacement Formula) का उपयोग करें:**\n$\\text{अंतिम मात्रा} = \\text{प्रारंभिक मात्रा} \\left( 1 - \\frac{\\text{निकाली गई मात्रा}}{\\text{प्रारंभिक मात्रा}} \\right)^n$\nयहाँ $n=2$ है (प्रक्रिया दो बार की गई)।\n$$F = 80 \\times \\left( 1 - \\frac{8}{80} \\right)^2$$\n$$F = 80 \\times \\left( \\frac{9}{10} \\right)^2$$\n$$F = 80 \\times \\frac{81}{100} = 0.8 \\times 81 = \\mathbf{64.8 \\text{ L}}$$",
+      "e2": "Step-by-Step Method.\nStart: $80 \\text{ L}$.\nStep 1: Remove $8 \\text{ L}$ milk.\nMilk Left $= 72 \\text{ L}$. (Ratio Milk:Water is $72:8 = 9:1$).\nStep 2: Remove $8 \\text{ L}$ of mixture.\nMilk part removed $= \\frac{9}{10} \\times 8 = 7.2 \\text{ L}$.\nMilk Remaining $= 72 - 7.2 = 64.8 \\text{ L}$.",
+      "he2": "**चरण-दर-चरण विधि (Step-by-Step Method):**\nप्रारंभ: $80 \\text{ L}$\nचरण 1: $8 \\text{ L}$ दूध निकाला।\nबचा हुआ दूध $= 72 \\text{ L}$ (दूध:पानी का अनुपात $72:8 = 9:1$ है)।\nचरण 2: $8 \\text{ L}$ मिश्रण निकाला।\nनिकाला गया दूध का हिस्सा $= \\frac{9}{10} \\times 8 = 7.2 \\text{ L}$\nशेष दूध $= 72 - 7.2 = \\mathbf{64.8 \\text{ L}}$"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding",
+      "q": "In a certain code language, if PAINT is coded as 21563 and SHOT is coded as 8503 then TOAST will be coded as.",
+      "hq": "एक निश्चित कूट भाषा में, यदि PAINT को 21563 के रूप में और SHOT को 8503 के रूप में कूटबद्ध किया जाता है, तो TOAST का कूट क्या होगा?",
+      "o": [
+        "31852",
+        "30183",
+        "30138",
+        "31038"
+      ],
+      "a": 1,
+      "e": "Identify the digit for each letter:\nP=2, A=1, I=5, N=6, T=3\nS=8, H=5, O=0, T=3\nFor the word **TOAST**:\nT=3, O=0, A=1, S=8, T=3.\nSo, TOAST = **30183**.\n",
+      "he": "प्रत्येक अक्षर के लिए अंक पहचानें:\nP=2, A=1, I=5, N=6, T=3\nS=8, H=5, O=0, T=3\nशब्द **TOAST** के लिए:\nT=3, O=0, A=1, S=8, T=3\nअतः, TOAST = **30183**।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Books and Authors",
+      "q": "Who is the author of the book \"Why Bharat Matters\"?",
+      "hq": "\"Why Bharat Matters\" पुस्तक के लेखक कौन हैं?",
+      "o": [
+        "Shashi Tharoor",
+        "Vikram Seth",
+        "S. Jaishankar",
+        "Amitav Ghosh"
+      ],
+      "ho": [
+        "शशि थरूर",
+        "विक्रम सेठ",
+        "एस. जयशंकर",
+        "अमिताव घोष"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Reasoning",
+      "t": "Seating Arrangement (Linear)",
+      "q": "Seven people, I, J, K, L, O, P and Q are sitting in a row, facing north. Only two people sit to the right of I. Only two people sit between I and O. Only two people sit between J and P. P sits to the immediate left of I. Q sits to the immediate right of L. Who sits at third position from the left end of the line?",
+      "hq": "सात व्यक्ति, I, J, K, L, O, P और Q एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं। I के दाईं ओर केवल दो व्यक्ति बैठे हैं। I और O के बीच केवल दो व्यक्ति बैठे हैं। J और P के बीच केवल दो व्यक्ति बैठे हैं। P, I के ठीक बाएं बैठा है। Q, L के ठीक दाईं ओर बैठा है। पंक्ति के बाएं छोर से तीसरे स्थान पर कौन बैठा है?",
+      "o": [
+        "I",
+        "O",
+        "Q",
+        "K"
+      ],
+      "a": 3,
+      "e": "Arrange the 7 positions (1 to 7 from Left):\n1. **\"Only two people sit to the right of I\"**: I is at position 5. (Layout: _ _ _ _ I _ _)\n2. **\"Only two people sit between I and O\"**: O must be at position 2. (Layout: _ O _ _ I _ _)\n3. **\"P sits to the immediate left of I\"**: P is at position 4. (Layout: _ O _ P I _ _)\n4. **\"Only two people sit between J and P\"**: P is at 4, so J must be at 1 or 7.\n5. **\"Q sits to the immediate right of L\"**: We need two adjacent empty spots for pair LQ.\n* The only adjacent empty spots are 6 and 7.\n* So, L is at 6 and Q is at 7.\n* This forces J to be at position 1.\n6. **Fill the blank**: The remaining spot (3) is for K.\nFinal Arrangement: **J O K P I L Q**.\nThe person at the 3rd position is **K**.\n",
+      "he": "7 स्थानों को व्यवस्थित करें (बाएं से 1 से 7):\n1. **\"I के दाईं ओर केवल दो व्यक्ति बैठे हैं\"**: I स्थान 5 पर है। (लेआउट: _ _ _ _ I _ _)\n2. **\"I और O के बीच केवल दो व्यक्ति बैठे हैं\"**: O स्थान 2 पर होना चाहिए। (लेआउट: _ O _ _ I _ _)\n3. **\"P, I के ठीक बाएं बैठा है\"**: P स्थान 4 पर है। (लेआउट: _ O _ P I _ _)\n4. **\"J और P के बीच केवल दो व्यक्ति बैठे हैं\"**: P 4 पर है, इसलिए J को 1 या 7 पर होना चाहिए।\n5. **\"Q, L के ठीक दाईं ओर बैठा है\"**: हमें LQ जोड़ी के लिए दो निरंतर खाली स्थानों की आवश्यकता है।\n* केवल 6 और 7 ही निरंतर खाली स्थान हैं।\n* इसलिए, L 6 पर है और Q 7 पर है।\n* यह J को स्थान 1 पर होने के लिए मजबूर करता है।\n6. **रिक्त स्थान भरें**: शेष स्थान (3) K के लिए है।\nअंतिम व्यवस्था: **J O K P I L Q**।\nतीसरे स्थान पर बैठा व्यक्ति **K** है।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Blood Relation (Coded)",
+      "q": "If L + M means 'L is the son of M', L - M means 'L is the husband of M', L × M means 'L is the brother of M' and L ÷ M means 'L is the mother of M', what does A × B ÷ C mean?",
+      "hq": "यदि L + M का अर्थ 'L, M का पुत्र है', L - M का अर्थ 'L, M का पति है', L × M का अर्थ 'L, M का भाई है' और L ÷ M का अर्थ 'L, M की माँ है', तो A × B ÷ C का क्या अर्थ है?",
+      "o": [
+        "A is the maternal uncle of C",
+        "A is the nephew of C",
+        "A is the mother of C",
+        "A is the father of C"
+      ],
+      "ho": [
+        "A, C का मामा है",
+        "A, C का भतीजा/भांजा है",
+        "A, C की माँ है",
+        "A, C का पिता है"
+      ],
+      "a": 0,
+      "e": "Decode the expression A × B ÷ C:\n1. **A × B**: A is the brother of B.\n2. **B ÷ C**: B is the mother of C.\n3. Combine: A is the brother of C's mother.\n4. Brother of mother = Maternal Uncle.\nSo, A is the maternal uncle of C.\n",
+      "he": "व्यंजक A × B ÷ C को डिकोड करें:\n1. **A × B**: A, B का भाई है।\n2. **B ÷ C**: B, C की माँ है।\n3. दोनों को मिलाएं: A, C की माँ का भाई है।\n4. माँ का भाई = मामा।\nतो, A, C का मामा है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Defence Exercises",
+      "q": "The joint military exercise 'MAITREE' is conducted between India and which country?",
+      "hq": "संयुक्त सैन्य अभ्यास 'मैत्री' (MAITREE) भारत और किस देश के बीच आयोजित किया जाता है?",
+      "o": [
+        "Thailand",
+        "Sri Lanka",
+        "Bangladesh",
+        "Myanmar"
+      ],
+      "ho": [
+        "थाईलैंड",
+        "श्रीलंका",
+        "बांग्लादेश",
+        "म्यांमार"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Letter)",
+      "q": "FILM : ADGH :: MILK : ?",
+      "hq": "FILM : ADGH :: MILK : ?",
+      "o": [
+        "ADGF",
+        "HDGE",
+        "HEGF",
+        "HDGF"
+      ],
+      "a": 3,
+      "e": "Logic: $-5$ Shift for each letter.\nF (-5) $\\to$ A\nI (-5) $\\to$ D\nL (-5) $\\to$ G\nM (-5) $\\to$ H\nApply to MILK:\nM (-5) $\\to$ H\nI (-5) $\\to$ D\nL (-5) $\\to$ G\nK (-5) $\\to$ F\nResult: HDGF.\n",
+      "he": "तर्क: प्रत्येक अक्षर के लिए $-5$ की शिफ्ट।\nF (-5) $\\to$ A\nI (-5) $\\to$ D\nL (-5) $\\to$ G\nM (-5) $\\to$ H\nMILK पर लागू करने पर:\nM (-5) $\\to$ H\nI (-5) $\\to$ D\nL (-5) $\\to$ G\nK (-5) $\\to$ F\nपरिणाम: HDGF।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Geometry (Polygons)",
+      "q": "How many diagonals are there in a regular Hexagon (6-sided polygon)?",
+      "hq": "एक नियमित षट्भुज (Hexagon - 6 भुजाओं वाला बहुभुज) में कितने विकर्ण होते हैं?",
+      "o": [
+        "6",
+        "8",
+        "5",
+        "9"
+      ],
+      "a": 3,
+      "e": "**Best Method (Diagonal Formula):**\nNumber of diagonals = $\\frac{n(n-3)}{2}$\n\nHere $n = 6$.\n$$= \\frac{6(6-3)}{2}$$\n$$= \\frac{6 \\times 3}{2} = 9.$$\n",
+      "he": "**सबसे अच्छी विधि (विकर्ण सूत्र):**\n\nविकर्णों की संख्या = $\\frac{n(n-3)}{2}$\n\nयहाँ $n = 6$ है।\n$$= \\frac{6(6-3)}{2}$$\n$$= \\frac{6 \\times 3}{2} = 9।$$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Physics (Sound)",
+      "q": "What is the audible range of sound frequencies for human beings?",
+      "hq": "मनुष्यों के लिए ध्वनि आवृत्तियों की श्रव्य सीमा (audible range) क्या है?",
+      "o": [
+        "20 Hz to 200 Hz",
+        "2 Hz to 2000 Hz",
+        "20 Hz to 20,000 Hz (20 kHz)",
+        "200 Hz to 2000 Hz"
+      ],
+      "ho": [
+        "$20 \\text{ Hz}$ से $200 \\text{ Hz}$",
+        "$2 \\text{ Hz}$ से $2000 \\text{ Hz}$",
+        "$20 \\text{ Hz}$ से $20,000 \\text{ Hz}$ ($20 \\text{ kHz}$)",
+        "$200 \\text{ Hz}$ से $2000 \\text{ Hz}$"
+      ],
+      "a": 2,
+      "e": "Humans can hear sound waves with frequencies between 20 Hz and 20,000 Hz.\n* < 20 Hz: Infrasound\n* > 20,000 Hz: Ultrasound",
+      "he": "मनुष्य $20 \\text{ Hz}$ और $20,000 \\text{ Hz}$ के बीच की आवृत्ति वाली ध्वनि तरंगों को सुन सकते हैं। * < $20 \\text{ Hz}$: इन्फ्रासाउंड (अपश्रव्य) * > $20,000 \\text{ Hz}$: अल्ट्रासाउंड (पराध्वनि)"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Syllogism",
+      "q": "Statement:\nAll students of department 'A' are intelligent.\nMangesh is not intelligent.\nConclusion:\n1) Mangesh is not in the department 'A'\n2) Mangesh is intelligent.",
+      "hq": "कथन:\nविभाग 'A' के सभी छात्र बुद्धिमान हैं।\nमंगेश बुद्धिमान नहीं है।\nनिष्कर्ष:\n1) मंगेश विभाग 'A' में नहीं है\n2) मंगेश बुद्धिमान है।",
+      "o": [
+        "Both conclusion 1 and 2 follow",
+        "Only conclusion 1 follows",
+        "Either conclusion 1 or 2 follows",
+        "Only conclusion 2 follows"
+      ],
+      "ho": [
+        "निष्कर्ष 1 और 2 दोनों अनुसरण करते हैं",
+        "केवल निष्कर्ष 1 अनुसरण करता है",
+        "या तो निष्कर्ष 1 या 2 अनुसरण करता है",
+        "केवल निष्कर्ष 2 अनुसरण करता है"
+      ],
+      "a": 1,
+      "e": "This follows the logic of Modus Tollens:\nIf one is in Dept A, one is Intelligent.\nMangesh is NOT Intelligent.\nTherefore, Mangesh cannot be in Dept A.\nConclusion 1 follows. Conclusion 2 contradicts the statement.\n",
+      "he": "यह 'मॉडस टोलेंस' (Modus Tollens) के तर्क का अनुसरण करता है:\nयदि कोई विभाग A में है, तो वह बुद्धिमान है।\nमंगेश बुद्धिमान नहीं है।\nइसलिए, मंगेश विभाग A में नहीं हो सकता।\nनिष्कर्ष 1 अनुसरण करता है। निष्कर्ष 2 कथन का खंडन करता है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Chemistry (Metals)",
+      "q": "Which metal is kept stored in kerosene oil to prevent accidental fire?",
+      "hq": "आकस्मिक आग को रोकने के लिए किस धातु को केरोसिन तेल (मिट्टी के तेल) में डुबोकर रखा जाता है?",
+      "o": [
+        "Magnesium",
+        "Sodium",
+        "Silver",
+        "Aluminum"
+      ],
+      "ho": [
+        "मैग्नीशियम",
+        "सोडियम",
+        "सिल्वर (चांदी)",
+        "एल्युमीनियम"
+      ],
+      "a": 1,
+      "e": "Sodium (and Potassium) is a highly reactive metal. It reacts vigorously with oxygen and moisture present in the air. To prevent this reaction, it is immersed in kerosene oil.\n",
+      "he": "सोडियम एक अत्यधिक अभिक्रियाशील धातु है। यह हवा में मौजूद ऑक्सीजन और नमी के साथ तेजी से अभिक्रिया करता है। इस अभिक्रिया को रोकने के लिए इसे केरोसिन तेल में डुबोकर रखा जाता है।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Units and Measurements)",
+      "q": "Kilometre is to Distance as Poundal is to:",
+      "hq": "'किलोमीटर' का संबंध 'दूरी' से है, तो 'पाउंडल' (Poundal) का संबंध किससे है?",
+      "o": [
+        "Acceleration",
+        "Density",
+        "Force",
+        "Momentum"
+      ],
+      "ho": [
+        "त्वरण (Acceleration)",
+        "घनत्व (Density)",
+        "बल (Force)",
+        "संवेग (Momentum)"
+      ],
+      "a": 2,
+      "e": "The relationship is **Unit : Physical Quantity**.\nA Kilometre is a unit used to measure Distance.\nSimilarly, a Poundal is a unit used to measure Force (specifically in the FPS system).",
+      "he": "यह संबंध 'इकाई : भौतिक राशि' का है।\nदूरी मापने के लिए किलोमीटर इकाई का उपयोग किया जाता है।\nइसी प्रकार, बल (Force) मापने के लिए पाउंडल इकाई का उपयोग किया जाता है (विशेष रूप से FPS प्रणाली में)।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Beauty Pageants",
+      "q": "Who was crowned Miss Universe 2024 at the event held in Mexico?",
+      "hq": "मेक्सिको में आयोजित कार्यक्रम में मिस यूनिवर्स 2024 का ताज किसे पहनाया गया?",
+      "o": [
+        "Sheynnis Palacios",
+        "Victoria Kjaer Theilvig (Denmark)",
+        "R'Bonney Gabriel",
+        "Harnaaz Sandhu"
+      ],
+      "ho": [
+        "शेन्निस पालासियोस",
+        "विक्टोरिया कजेर थेलविग (डेनमार्क)",
+        "आर'बोनी गेब्रियल",
+        "हरनाज़ संधू"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Power 4)",
+      "q": "If $x + \\frac{1}{x} = 3$, find the value of $x^4 + \\frac{1}{x^4}$.",
+      "hq": "यदि $x + \\frac{1}{x} = 3$ है, तो $x^4 + \\frac{1}{x^4}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "$47$",
+        "$49$",
+        "$81$",
+        "$27$"
+      ],
+      "a": 0,
+      "e": "Use \"Square-Square\" Trick.\nStep 1: Square ($k^2 - 2$).\n$3^2 - 2 = 9 - 2 = 7$ (This is $x^2 + \\frac{1}{x^2}$).\nStep 2: Square result again ($7^2 - 2$).\n$49 - 2 = 47$.",
+      "he": "**\"वर्ग-वर्ग\" (Square-Square) ट्रिक का उपयोग करें:**\nचरण 1: वर्ग करें ($k^2 - 2$)।\n$3^2 - 2 = 9 - 2 = 7$ (यह $x^2 + \\frac{1}{x^2}$ का मान है)।\nचरण 2: परिणाम का फिर से वर्ग करें ($7^2 - 2$)।\n$49 - 2 = \\mathbf{47}$",
+      "e2": "Squaring twice.\n$(x + \\frac{1}{x})^2 = 3^2 \\implies x^2 + \\frac{1}{x^2} = 7$.\n$(x^2 + \\frac{1}{x^2})^2 = 7^2 \\implies x^4 + \\frac{1}{x^4} + 2 = 49$.\n$x^4 + \\frac{1}{x^4} = 47$.\n",
+      "he2": "**दो बार वर्ग करने पर:**\n$$(x + \\frac{1}{x})^2 = 3^2 \\implies x^2 + \\frac{1}{x^2} = 7$$\n$$(x^2 + \\frac{1}{x^2})^2 = 7^2 \\implies x^4 + \\frac{1}{x^4} + 2 = 49$$\n$$x^4 + \\frac{1}{x^4} = \\mathbf{47}$$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Physics (Electricity)",
+      "q": "A current of 0.5 A is drawn by a filament of an electric bulb for 10 minutes. Find the amount of electric charge that flows through the circuit.",
+      "hq": "एक इलेक्ट्रिक बल्ब के फिलामेंट द्वारा 10 मिनट के लिए 0.5 A की धारा ली जाती है। परिपथ से प्रवाहित होने वाले विद्युत आवेश की मात्रा ज्ञात कीजिए।",
+      "o": [
+        "5 C",
+        "300 C",
+        "50 C",
+        "600 C"
+      ],
+      "a": 1,
+      "e": "The formula for Electric Current ($I$) is:\n$$I = \\frac{Q}{t}$$\nTherefore, Charge ($Q$) is:\n$$Q = I \\times t$$\nGiven: $I = 0.5 \\text{ A}$\nTime $t = 10 \\text{ minutes} = 10 \\times 60 = 600 \\text{ seconds}$ (Time must be in seconds).\n$$Q = 0.5 \\times 600 = 300 \\text{ C}$$\n",
+      "he": "विद्युत धारा ($I$) का सूत्र है: $$I = \\frac{Q}{t}$$ इसलिए, आवेश ($Q$) है: $$Q = I \\times t$$ दिया गया है: $I = 0.5 \\text{ A}$ समय $t = 10 \\text{ मिनट} = 10 \\times 60 = 600 \\text{ सेकंड}$ (समय सेकंड में होना चाहिए)। $$Q = 0.5 \\times 600 = 300 \\text{ C}$$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Work (Alternate Days)",
+      "q": "A and B can do a work in $10$ days and $15$ days respectively. If they work on alternate days starting with A, in how many days will the work be finished?",
+      "hq": "A और B किसी कार्य को क्रमशः 10 दिन और 15 दिन में कर सकते हैं। यदि वे A से शुरू करते हुए वैकल्पिक दिनों (alternate days) में कार्य करते हैं, तो कार्य कितने दिनों में पूरा होगा?",
+      "o": [
+        "$10$ days",
+        "$12$ days",
+        "$15$ days",
+        "$12.5$ days"
+      ],
+      "ho": [
+        "10 दिन",
+        "12 दिन",
+        "15 दिन",
+        "12.5 दिन"
+      ],
+      "a": 1,
+      "e": "Use \"Cycle Method\".\nLCM(10, 15) = 30 units (Total Work).\nA's Eff = 3, B's Eff = 2.\n2-Day Cycle (A then B) = $3 + 2 = 5$ units.\nCycles needed $= \\frac{30}{5} = 6$ cycles.\nTotal Days $= 6 \\times 2 = 12$ days.",
+      "he": "**\"चक्र विधि\" (Cycle Method) का उपयोग करें:**\nLCM(10, 15) = 30 यूनिट (कुल कार्य)।\nA की क्षमता = 3, B की क्षमता = 2।\n2-दिन का चक्र (पहले A फिर B) = $3 + 2 = 5$ यूनिट।\nआवश्यक चक्रों की संख्या $= \\frac{30}{5} = 6$ चक्र।\nकुल दिन $= 6 \\times 2 = \\mathbf{12 \\text{ दिन}}$।",
+      "e2": "Day 1: A does 3. Total 3.\nDay 2: B does 2. Total 5.\nDay 3: A does 3. Total 8.\n...\nSince 5 units in 2 days, simply multiply:\n$5 \\times 6 = 30$ units.\n$2 \\times 6 = 12$ days.",
+      "he2": "**क्रमवार गणना:**\nदिन 1: A ने 3 कार्य किया। कुल = 3\nदिन 2: B ने 2 कार्य किया। कुल = 5\nदिन 3: A ने 3 कार्य किया। कुल = 8\n...\nचूँकि 2 दिनों में 5 यूनिट कार्य होता है, तो सीधे गुणा करें:\n$5 \\times 6 = 30$ यूनिट।\n$2 \\times 6 = \\mathbf{12 \\text{ दिन}}$।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Static GK (Dance)",
+      "q": "'Kathakali' is a classical dance form of which state?",
+      "hq": "'कथकली' किस राज्य का एक शास्त्रीय नृत्य रूप है?",
+      "o": [
+        "Karnataka",
+        "Kerala",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "ho": [
+        "कर्नाटक",
+        "केरल",
+        "तमिलनाडु",
+        "आंध्र प्रदेश"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Awareness",
+      "t": "Static GK (Awards)",
+      "q": "Who was the first Indian to receive the Nobel Prize?",
+      "hq": "नोबेल पुरस्कार पाने वाले पहले भारतीय कौन थे?",
+      "o": [
+        "C.V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
+      ],
+      "ho": [
+        "सी.वी. रमन",
+        "मदर टेरेसा",
+        "रवींद्रनाथ टैगोर",
+        "अमर्त्य सेन"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Mathematics",
+      "t": "Geometry (Rhombus)",
+      "q": "The lengths of the diagonals of a rhombus are $16 \\text{ cm}$ and $12 \\text{ cm}$. Find the side of the rhombus.",
+      "hq": "एक समचतुर्भुज (rhombus) के विकर्णों की लंबाई 16 सेमी और 12 सेमी है। समचतुर्भुज की भुजा ज्ञात कीजिए।",
+      "o": [
+        "$10 \\text{ cm}$",
+        "$8 \\text{ cm}$",
+        "$20 \\text{ cm}$",
+        "$14 \\text{ cm}$"
+      ],
+      "ho": [
+        "10 सेमी",
+        "8 सेमी",
+        "20 सेमी",
+        "14 सेमी"
+      ],
+      "a": 0,
+      "e": "Use \"Half-Diagonal Pythagoras\" trick.\nHalves are $8$ and $6$.\nTriplet $(6, 8, 10)$.\nSide $= 10 \\text{ cm}$.",
+      "he": "**\"आधे विकर्ण का पाइथागोरस\" ट्रिक का उपयोग करें:**\nविकर्णों के आधे हिस्से 8 और 6 हैं।\nत्रिक (Triplet) $(6, 8, 10)$ के अनुसार:\nभुजा = **10 सेमी**।",
+      "e2": "Diagonals bisect at $90^\\circ$.\nLet diagonals be $d_1 = 16, d_2 = 12$.\nHalf diagonals are $8$ and $6$.\nSide $a = \\sqrt{8^2 + 6^2}$.\n$a = \\sqrt{64 + 36} = \\sqrt{100} = 10 \\text{ cm}$.\n",
+      "he2": "**समचतुर्भुज के विकर्ण एक-दूसरे को $90^\\circ$ पर समद्विभाजित (bisect) करते हैं।**\nमान लीजिए विकर्ण $d_1 = 16, d_2 = 12$ हैं।\nआधे विकर्ण 8 और 6 होंगे।\nभुजा $a$ के लिए पाइथागोरस प्रमेय:\n$$a = \\sqrt{8^2 + 6^2}$$\n$$a = \\sqrt{64 + 36} = \\sqrt{100} = \\mathbf{10 \\text{ सेमी}}$$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration (Sphere)",
+      "q": "The surface areas of two spheres are in the ratio 4:9. Find the ratio of their volumes.",
+      "hq": "दो गोलों (spheres) के पृष्ठीय क्षेत्रफलों का अनुपात 4:9 है। उनके आयतनों का अनुपात ज्ञात कीजिए।",
+      "o": [
+        "8:27",
+        "2:3",
+        "16:81",
+        "4:9"
+      ],
+      "a": 0,
+      "e": "Area Ratio ($r^2$) = 4:9.\nRadius Ratio ($r$) = $\\sqrt{4}:\\sqrt{9}$ = 2:3.\nVolume Ratio ($r^3$) = $2^3 : 3^3 = \\mathbf{8:27}$.",
+      "he": "**क्षेत्रफल और त्रिज्या का संबंध:**\nक्षेत्रफल का अनुपात ($r^2$) = 4:9.\nत्रिज्या का अनुपात ($r$) = $\\sqrt{4}:\\sqrt{9}$ = 2:3.\n**आयतन का अनुपात:**\nआयतन का अनुपात ($r^3$) = $2^3 : 3^3 = \\mathbf{8:27}$.",
+      "e2": "**Step 1: Relate Area to Radius.**\nSurface Area $\\propto r^2$.\n$\\frac{A_1}{A_2} = \\frac{4}{9} \\Rightarrow \\frac{r_1}{r_2} = \\sqrt{\\frac{4}{9}} = \\frac{2}{3}$.\n\n**Step 2: Relate Radius to Volume.**\nVolume $\\propto r^3$.\nRatio $= \\left(\\frac{2}{3}\\right)^3 = \\frac{8}{27}$.\n",
+      "he2": "**Step-by-Step आसान तरीका:**\n**1. क्षेत्रफल से त्रिज्या निकालें:**\nपृष्ठीय क्षेत्रफल $\\propto r^2$ होता है।\n$\\frac{A_1}{A_2} = \\frac{4}{9} \\Rightarrow \\frac{r_1}{r_2} = \\sqrt{\\frac{4}{9}} = \\frac{2}{3}$\n**2. त्रिज्या से आयतन निकालें:**\nआयतन $\\propto r^3$ होता है।\nआयतन का अनुपात $= \\left(\\frac{2}{3}\\right)^3 = \\frac{8}{27}$\n**निष्कर्ष:**\nआयतनों का अनुपात **8:27** होगा।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Sports (Cricket)",
+      "q": "Which country is scheduled to host the ICC Men's Champions Trophy in 2025?",
+      "hq": "2025 में ICC पुरुष चैंपियंस ट्रॉफी की मेजबानी किस देश के लिए निर्धारित है?",
+      "o": [
+        "India",
+        "Sri Lanka",
+        "Pakistan",
+        "England"
+      ],
+      "ho": [
+        "भारत",
+        "श्रीलंका",
+        "पाकिस्तान",
+        "इंग्लैंड"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Awareness",
+      "t": "Indian Railways",
+      "q": "In which year did the first electric train run in India?",
+      "hq": "भारत में पहली इलेक्ट्रिक ट्रेन किस वर्ष चली थी?",
+      "o": [
+        "1925",
+        "1930",
+        "1953",
+        "1905"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Mathematics",
+      "t": "Simple Interest",
+      "q": "At what rate percent per annum simple interest will a sum of money double itself in 8 years?",
+      "hq": "कोई धनराशि साधारण ब्याज की किस वार्षिक दर प्रतिशत पर 8 वर्षों में स्वयं की दोगुनी हो जाएगी?",
+      "o": [
+        "12%",
+        "12.5%",
+        "15%",
+        "10%"
+      ],
+      "a": 1,
+      "e": "Formula: $R = \\frac{100(N-1)}{T}$.\nHere $N=2$ (doubles), $T=8$.\n$R = \\frac{100(2-1)}{8} = \\frac{100}{8}$.\n$R = \\mathbf{12.5\\%}$.",
+      "he": "**शॉर्टकट सूत्र (Shortcut Formula):**\nदर ($R$) = $\\frac{100(N-1)}{T}$\nयहाँ:\n• $N = 2$ (दोगुनी धनराशि)\n• $T = 8$ वर्ष\n**गणना:**\n$R = \\frac{100(2-1)}{8} = \\frac{100}{8}$\n$R = \\mathbf{12.5\\%}$",
+      "e2": "* Interest earned = Principal (P).\n* Time = 8 years.\n* $P = (P \\times R \\times 8) / 100$.\n* $100 = 8R \\Rightarrow R = 12.5$.\n",
+      "he2": "**Step-by-Step आसान तरीका:**\n* **कॉन्सेप्ट:** यदि पैसा दोगुना हो रहा है, तो इसका मतलब है कि कमाया गया ब्याज (SI) मूलधन (P) के बराबर है।\n* मान लीजिए मूलधन = ₹100, तो ब्याज भी = ₹100.\n* समय = 8 वर्ष\n**साधारण ब्याज का सूत्र लगायें:**\nब्याज = $\\frac{\\text{मूलधन} \\times \\text{दर} \\times \\text{समय}}{100}$\n$100 = \\frac{100 \\times R \\times 8}{100}$\n$100 = 8R \\Rightarrow R = \\frac{100}{8}$\n$R = \\mathbf{12.5\\%}$"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Syllogism",
+      "q": "Statement:\nAll animals are dogs.\nDogs are carnivorous.\nConclusion:\n1. Some animals are not carnivorous.\n2. All animals are carnivorous.\n3. All dogs are animals.",
+      "hq": "कथन:\nसभी जानवर कुत्ते हैं।\nकुत्ते मांसाहारी होते हैं।\nनिष्कर्ष:\n1. कुछ जानवर मांसाहारी नहीं हैं।\n2. सभी जानवर मांसाहारी हैं।\n3. सभी कुत्ते जानवर हैं।",
+      "o": [
+        "Only 3 follows",
+        "None of them follows",
+        "Only 1 follows",
+        "Only 2 follows"
+      ],
+      "ho": [
+        "केवल 3 अनुसरण करता है",
+        "इनमें से कोई भी अनुसरण नहीं करता है",
+        "केवल 1 अनुसरण करता है",
+        "केवल 2 अनुसरण करता है"
+      ],
+      "a": 3,
+      "e": "The logic chain is: Animals $\\rightarrow$ Dogs $\\rightarrow$ Carnivorous.\nThis means all Animals are essentially Carnivorous. Therefore, Conclusion 2 is correct.\nConclusion 1 is false because all animals are carnivorous. Conclusion 3 is false because \"All dogs are animals\" is the reverse of the statement and is not necessarily true.\n",
+      "he": "तर्क श्रृंखला है: जानवर $\\rightarrow$ कुत्ते $\\rightarrow$ मांसाहारी।\nइसका मतलब है कि सभी जानवर अनिवार्य रूप से मांसाहारी हैं। इसलिए, निष्कर्ष 2 सही है।\nनिष्कर्ष 1 गलत है क्योंकि सभी जानवर मांसाहारी हैं। निष्कर्ष 3 गलत है क्योंकि \"सभी कुत्ते जानवर हैं\" कथन का उल्टा है और यह आवश्यक रूप से सत्य नहीं है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Physics (Gravitation)",
+      "q": "If the weight of an object on Earth is 60 N, what will be its weight on the Moon? (Acceleration due to gravity on the Moon is $1/6^{th}$ of Earth).",
+      "hq": "यदि पृथ्वी पर किसी वस्तु का भार $60 \\text{ N}$ है, तो चंद्रमा पर उसका भार क्या होगा? (चंद्रमा पर गुरुत्वाकर्षण के कारण त्वरण पृथ्वी का $1/6$ भाग है)।",
+      "o": [
+        "60 N",
+        "10 N",
+        "360 N",
+        "6 N"
+      ],
+      "a": 1,
+      "e": "Weight on Moon ($W_m$) = $\\frac{1}{6} \\times$ Weight on Earth ($W_e$).\n$$W_m = \\frac{1}{6} \\times 60 \\text{ N} = 10 \\text{ N}$$\nNote: Mass remains constant everywhere, but Weight changes with gravity.\n",
+      "he": "चंद्रमा पर भार ($W_m$) = $\\frac{1}{6} \\times$ पृथ्वी पर भार ($W_e$)। $$W_m = \\frac{1}{6} \\times 60 \\text{ N} = 10 \\text{ N}$$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Simple and Compound Interest",
+      "q": "The difference between the Compound Interest (compounded annually) and Simple Interest on a specific sum of money for 2 years at 10% per annum is ₹150. What is the sum?",
+      "hq": "किसी धनराशि पर 10% वार्षिक ब्याज दर से 2 वर्षों के चक्रवृद्धि ब्याज (वार्षिक संयोजित) और साधारण ब्याज का अंतर ₹150 है। वह धनराशि ज्ञात कीजिए।",
+      "o": [
+        "₹12,000",
+        "₹15,000",
+        "₹18,000",
+        "₹10,000"
+      ],
+      "a": 1,
+      "e": "Formula for 2-year difference: $D = P \\times (\\frac{R}{100})^2$\n$150 = P \\times (\\frac{10}{100})^2$\n$150 = P \\times \\frac{1}{100}$\n$P = 150 \\times 100 = \\mathbf{15,000}$",
+      "he": "**2 साल के अंतर का डायरेक्ट फॉर्मूला (Direct Formula):**\nजब समय 2 वर्ष हो, तो CI और SI का अंतर ($D$) निकालने का सूत्र होता है:\n$$D = P \\times (\\frac{R}{100})^2$$\nयहाँ:\n• $D$ (अंतर) = 150\n• $R$ (दर) = 10%\n• $P$ (मूलधन) = ?\n**Value पुट करें:**\n$150 = P \\times (\\frac{10}{100})^2$\n$150 = P \\times (\\frac{1}{10})^2$\n$150 = P \\times \\frac{1}{100}$\n**Solve करें:**\n$P = 150 \\times 100$\n$P = \\mathbf{15,000}$\nअतः वह धनराशि **₹15,000** है।",
+      "e2": "**Step 1: Identify Given Values.**\nDifference ($D$) = ₹150\nRate ($R$) = 10%\nTime ($T$) = 2 years\nWe need to find Principal ($P$).\n\n**Step 2: Use the Difference Formula.**\nFor 2 years, the difference between CI and SI is given by:\n$D = P \\left( \\frac{R}{100} \\right)^2$\n\n**Step 3: Substitute and Solve.**\n$150 = P \\left( \\frac{10}{100} \\right)^2$\n$150 = P \\left( \\frac{1}{10} \\right)^2$\n$150 = P \\times \\frac{1}{100}$\n$P = 150 \\times 100$\n$P = 15,000$\n\n**Step 4: Conclusion.**\nThe sum is **₹15,000**.",
+      "he2": "**Method 2: प्रतिशत (Percentage) वाला तरीका (बिना फॉर्मूला):**\n1. **Simple Interest (SI):**\n10% की दर से 2 साल का ब्याज = $10 + 10 = \\mathbf{20\\%}$\n2. **Compound Interest (CI):**\nSuccessive method से ($A + B + \\frac{AB}{100}$):\n$10 + 10 + \\frac{10 \\times 10}{100} = 20 + 1 = \\mathbf{21\\%}$\n3. **अंतर (Difference):**\n$CI - SI = 21\\% - 20\\% = \\mathbf{1\\%}$\n4. **Calculation:**\nप्रश्न में अंतर ₹150 दिया है, मतलब:\n$1\\% = 150$\nतो $100\\%$ (मूलधन) = $150 \\times 100 = \\mathbf{15,000}$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "International Organizations",
+      "q": "Which country became the 99th member of the International Solar Alliance (ISA) in 2024?",
+      "hq": "2024 में कौन सा देश अंतर्राष्ट्रीय सौर गठबंधन (ISA) का 99वां सदस्य बना?",
+      "o": [
+        "Spain",
+        "Chile",
+        "Hungary",
+        "Panama"
+      ],
+      "ho": [
+        "स्पेन",
+        "चिली",
+        "हंगरी",
+        "पनामा"
+      ],
+      "a": 0
+    },
+    {
+      "s": "General Awareness",
+      "t": "Physics (Motion)",
+      "q": "A car starts from rest and accelerates uniformly at $2 \\text{ m/s}^2$ for 10 seconds. What is the final velocity of the car?",
+      "hq": "एक कार स्थिर अवस्था से शुरू होती है और 10 सेकंड के लिए $2 \\text{ m/s}^2$ की दर से समान रूप से त्वरित होती है। कार का अंतिम वेग क्या है?",
+      "o": [
+        "20 m/s",
+        "5 m/s",
+        "100 m/s",
+        "12 m/s"
+      ],
+      "a": 0,
+      "e": "Using the first equation of motion:\n$$v = u + at$$\nGiven: $u = 0$ (starts from rest), $a = 2 \\text{ m/s}^2$, $t = 10 \\text{ s}$\n$$v = 0 + (2 \\times 10) = 20 \\text{ m/s}$$\n",
+      "he": "गति के पहले समीकरण का उपयोग करते हुए: $$v = u + at$$ दिया गया है: $u = 0$ (स्थिर अवस्था), $a = 2 \\text{ m/s}^2$, $t = 10 \\text{ s}$ $$v = 0 + (2 \\times 10) = 20 \\text{ m/s}$$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Geography",
+      "q": "Kaziranga National Park is famous for which animal?",
+      "hq": "काजीरंगा राष्ट्रीय उद्यान किस जानवर के लिए प्रसिद्ध है?",
+      "o": [
+        "Asiatic Lion",
+        "Royal Bengal Tiger",
+        "One-horned Rhinoceros",
+        "Elephant"
+      ],
+      "ho": [
+        "एशियाई शेर",
+        "रॉयल बंगाल टाइगर",
+        "एक सींग वाला गैंडा (One-horned Rhinoceros)",
+        "हाथी"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Reasoning",
+      "t": "Seating Arrangement (Linear)",
+      "q": "Five girls are sitting in a row. Rashi is not adjacent to Sulekha or Abha. Anuradha is not adjacent to Sulekha. Rashi is adjacent to Monika. Monika is at the middle in the row. Then, Anuradha is adjacent to whom out of the following?",
+      "hq": "पाँच लड़कियाँ एक पंक्ति में बैठी हैं। राशि, सुलेखा या आभा के बगल में नहीं बैठी है। अनुराधा, सुलेखा के बगल में नहीं है। राशि, मोनिका के बगल में बैठी है। मोनिका पंक्ति के मध्य में है। तो, अनुराधा निम्नलिखित में से किसके बगल में बैठी है?",
+      "o": [
+        "Abha",
+        "Monika",
+        "Sulekha",
+        "Rashi"
+      ],
+      "ho": [
+        "आभा",
+        "मोनिका",
+        "सुलेखा",
+        "राशि"
+      ],
+      "a": 3,
+      "e": "\nLet's deduce the positions step-by-step:\n1.  **Fix the Anchor:** \"Monika is at the middle in the row.\"\nArrangement: `_ _ Monika _ _`\n2.  **Place Rashi:** \"Rashi is adjacent to Monika.\"\nRashi can be to the immediate left or right of Monika. Let's assume left for now (the logic works symmetrically).\nArrangement: `_ Rashi Monika _ _`\n3.  **Identify Rashi's Neighbor:** \"Rashi is not adjacent to Sulekha or Abha.\"\nThe spot to the left of Rashi cannot be taken by Sulekha or Abha. Since Monika is already seated to the right, the only person left to sit on Rashi's left is **Anuradha**.\nArrangement: `Anuradha Rashi Monika _ _`\n4.  **Check Constraints:**\n* \"Anuradha is not adjacent to Sulekha.\" In this setup, Anuradha is next to Rashi, and Sulekha would be in one of the last two spots (far away). This holds true.\n5.  **Conclusion:**\nBased on the arrangement `Anuradha - Rashi - Monika - ...`, **Anuradha** is sitting adjacent to **Rashi**.",
+      "he": "आइए चरण-दर-चरण स्थिति का अनुमान लगाएं:\n1. मुख्य बिंदु तय करें: \"मोनिका पंक्ति के मध्य में है।\"\nव्यवस्था: `_ _ मोनिका _ _`\n2. राशि को बिठाएं: \"राशि, मोनिका के बगल में बैठी है।\"\nराशि मोनिका के ठीक बाईं या दाईं ओर हो सकती है। मान लेते हैं कि वह अभी बाईं ओर है (तर्क दोनों तरफ समान काम करता है)।\nव्यवस्था: `_ राशि मोनिका _ _`\n3. राशि के पड़ोसी की पहचान करें: \"राशि, सुलेखा या आभा के बगल में नहीं बैठी है।\"\nराशि के बाईं ओर का स्थान सुलेखा या आभा द्वारा नहीं लिया जा सकता है। चूंकि मोनिका पहले से ही दाईं ओर बैठी है, इसलिए राशि के बाईं ओर बैठने के लिए केवल अनुराधा बची है।\nव्यवस्था: `अनुराधा राशि मोनिका _ _`\n4. शर्तों की जाँच करें:\n* \"अनुराधा, सुलेखा के बगल में नहीं है।\" इस व्यवस्था में, अनुराधा राशि के बगल में है, और सुलेखा अंतिम दो स्थानों में से एक में होगी (काफी दूर)। यह शर्त पूरी होती है।\n5. निष्कर्ष:\n`अनुराधा - राशि - मोनिका - ...` व्यवस्था के आधार पर, अनुराधा, राशि के बगल में बैठी है।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Series (Letter Triad)",
+      "q": "Select the triad that follows the same pattern as: OL-QN-SU and LI-NK-PR.",
+      "hq": "उस त्रय (triad) का चयन करें जो निम्नलिखित पैटर्न का अनुसरण करता है: OL-QN-SU और LI-NK-PR।",
+      "o": [
+        "SO-TR-VY",
+        "RO-TQ-VX",
+        "RO-TQ-VY",
+        "SO-TQ-VY"
+      ],
+      "a": 1,
+      "e": "Analyze the shift between the letters in the groups:\n1. **First Letters:** Increase by +2 steps consistently.\n* Given: O(+2) $\\to$ Q(+2) $\\to$ S.\n* Given: L(+2) $\\to$ N(+2) $\\to$ P.\n* Option 2: R(+2) $\\to$ T(+2) $\\to$ V. (Matches).\n2. **Second Letters:** Increase by +2, then by +7.\n* Given: L(+2) $\\to$ N(+7) $\\to$ U.\n* Given: I(+2) $\\to$ K(+7) $\\to$ R.\n* Option 2: O(+2) $\\to$ Q(+7) $\\to$ X. (Matches).\nAlternative Logic (Within Pairs):\n* 1st & 2nd terms: (1st Letter - 3 = 2nd Letter). Ex: O-3=L, Q-3=N.\n* 3rd term: (1st Letter + 2 = 2nd Letter). Ex: S+2=U.\n* Check Option 2: R-3=O, T-3=Q, V+2=X. Matches perfectly.",
+      "he": "समूहों में अक्षरों के बीच के बदलाव का विश्लेषण करें:\n1. **पहले अक्षर:** लगातार +2 चरणों की वृद्धि।\n* दिया गया: O(+2) → Q(+2) → S।\n* दिया गया: L(+2) → N(+2) → P।\n* विकल्प 2: R(+2) → T(+2) → V। (मेल खाता है)।\n2. **दूसरे अक्षर:** पहले +2 की वृद्धि, फिर +7 की।\n* दिया गया: L(+2) → N(+7) → U।\n* दिया गया: I(+2) → K(+7) → R।\n* विकल्प 2: O(+2) → Q(+7) → X। (मेल खाता है)।\nवैकल्पिक तर्क (जोड़ियों के भीतर):\n* पहला और दूसरा पद: (पहला अक्षर - 3 = दूसरा अक्षर)। जैसे: O-3=L, Q-3=N।\n* तीसरा पद: (पहला अक्षर + 2 = दूसरा अक्षर)। जैसे: S+2=U।\n* विकल्प 2 की जाँच करें: R-3=O, T-3=Q, V+2=X। पूरी तरह मेल खाता है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Books and Authors",
+      "q": "Who is the author of the book \"Why Bharat Matters\" released in early 2024?",
+      "hq": "2024 की शुरुआत में रिलीज हुई पुस्तक \"Why Bharat Matters\" के लेखक कौन हैं?",
+      "o": [
+        "S. Jaishankar",
+        "Shashi Tharoor",
+        "Vikram Seth",
+        "Amitav Ghosh"
+      ],
+      "ho": [
+        "एस. जयशंकर",
+        "शशि थरूर",
+        "विक्रम सेठ",
+        "अमिताव घोष"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Reasoning",
+      "t": "Seating Arrangement (Circular)",
+      "q": "Six people A, B, C, D, E and F are sitting around a circular table facing the centre. C sits second to the left of B. E is an immediate neighbour of B. F sits third to the left of E. D sits second to the left of A. Who sits to the immediate right of A?",
+      "hq": "छह व्यक्ति A, B, C, D, E और F एक गोल मेज के चारों ओर केंद्र की ओर मुख करके बैठे हैं। C, B के बाएं से दूसरे स्थान पर बैठा है। E, B का निकटतम पड़ोसी है। F, E के बाएं से तीसरे स्थान पर बैठा है। D, A के बाएं से दूसरे स्थान पर बैठा है। A के ठीक दाएं कौन बैठा है?",
+      "o": [
+        "E",
+        "B",
+        "C",
+        "F"
+      ],
+      "a": 2,
+      "e": "Draw the circle (Facing Center $\\to$ Left is Clockwise, Right is Anti-clockwise).\n1. **Fix B & C**: Place B. C is 2nd to the left.\n2. **Place E**: E is B's neighbor. If E is right of B, F (opposite E) would overlap C. So, E is left of B (between B and C).\n3. **Place F**: F is 3rd left of E $\\to$ F sits opposite E.\n4. **Place A & D**: The only spots left fit A such that D is 2nd to his left. A sits next to C.\n5. **Final Order (Clockwise)**: A $\\to$ F $\\to$ D $\\to$ B $\\to$ E $\\to$ C.\n6. **Result**: Immediate right of A is **C**. ```",
+      "he": "घेरा बनाएं (केंद्र की ओर मुख होने पर $\\to$ बायां हिस्सा घड़ी की दिशा में, दायां हिस्सा घड़ी की विपरीत दिशा में होता है)।\n1. **B और C को बिठाएं**: B को रखें। C उसके बाएं से दूसरे स्थान पर है।\n2. **E को बिठाएं**: E, B का पड़ोसी है। यदि E, B के दाएं है, तो F (E के विपरीत) C के ऊपर आ जाएगा। इसलिए, E, B के बाएं (B और C के बीच) बैठा है।\n3. **F को बिठाएं**: F, E के बाएं से तीसरा है $\\to$ F, E के ठीक सामने बैठता है।\n4. **A और D को बिठाएं**: बचे हुए स्थानों में A को इस तरह बिठाएं कि D उसके बाएं से दूसरे स्थान पर आ जाए। A, C के बगल में बैठता है।\n5. **अंतिम क्रम (घड़ी की दिशा में)**: A $\\to$ F $\\to$ D $\\to$ B $\\to$ E $\\to$ C।\n6. **परिणाम**: A के ठीक दाएं **C** बैठा है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Sports (Chess)",
+      "q": "Which Indian chess Grandmaster became the youngest-ever challenger for the World Chess Championship by winning the Candidates Tournament 2024?",
+      "hq": "कौन सा भारतीय शतरंज ग्रैंडमास्टर कैंडिडेट्स टूर्नामेंट 2024 जीतकर विश्व शतरंज चैंपियनशिप के लिए अब तक का सबसे युवा चैलेंजर बना?",
+      "o": [
+        "R. Praggnanandhaa",
+        "Vidit Gujrathi",
+        "D. Gukesh",
+        "Arjun Erigaisi"
+      ],
+      "ho": [
+        "आर. प्रज्ञानंद",
+        "विदित गुजराती",
+        "डी. गुकेश",
+        "अर्जुन एरिगैसी"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations",
+      "q": "If P means ‘÷ ’, R means ‘×’, Q means ‘+’ and S means ‘–’, then 36 P 6 Q 7 R 8 S 11 =",
+      "hq": "यदि P का अर्थ ‘÷’, R का अर्थ ‘×’, Q का अर्थ ‘+’ और S का अर्थ ‘–’ है, तो 36 P 6 Q 7 R 8 S 11 =",
+      "o": [
+        "45",
+        "51",
+        "52",
+        "62"
+      ],
+      "a": 1,
+      "e": "Replace the letters with their respective mathematical symbols:\nP $\\to \\div$, Q $\\to +$, R $\\to \\times$, S $\\to -$\nThe equation becomes: $36 \\div 6 + 7 \\times 8 - 11$\n1. Division: $36 \\div 6 = 6$\n2. Multiplication: $7 \\times 8 = 56$\n3. Addition and Subtraction: $6 + 56 - 11 = 62 - 11 = \\mathbf{51}$.",
+      "he": "अक्षरों को उनके संबंधित गणितीय चिह्नों से बदलें:\nP $\\to \\div$, Q $\\to +$, R $\\to \\times$, S $\\to -$\nसमीकरण बनेगा: $36 \\div 6 + 7 \\times 8 - 11$\n1. भाग: $36 \\div 6 = 6$\n2. गुणा: $7 \\times 8 = 56$\n3. जोड़ और घटाव: $6 + 56 - 11 = 62 - 11 = 51$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Geography",
+      "q": "Which planet is known as the 'Red Planet'?",
+      "hq": "किस ग्रह को 'लाल ग्रह' (Red Planet) के रूप में जाना जाता है?",
+      "o": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "ho": [
+        "शुक्र (Venus)",
+        "मंगल (Mars)",
+        "बृहस्पति (Jupiter)",
+        "शनि (Saturn)"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Awareness",
+      "t": "Indices and Rankings",
+      "q": "What was India's rank in the World Press Freedom Index 2024?",
+      "hq": "विश्व प्रेस स्वतंत्रता सूचकांक 2024 में भारत का स्थान क्या था?",
+      "o": [
+        "140",
+        "150",
+        "159",
+        "161"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration (Cuboid)",
+      "q": "The length, breadth, and height of a room are $6 \\text{ m}$, $3 \\text{ m}$, and $2 \\text{ m}$. Find the length of the longest pole that can be placed in the room.",
+      "hq": "एक कमरे की लंबाई, चौड़ाई और ऊँचाई क्रमशः $6 \\text{ मीटर}$, $3 \\text{ मीटर}$ और $2 \\text{ मीटर}$ है। कमरे में रखे जा सकने वाले सबसे लंबे खंभे (pole) की लंबाई ज्ञात कीजिए।",
+      "o": [
+        "$9 \\text{ m}$",
+        "$5 \\text{ m}$",
+        "$7 \\text{ m}$",
+        "$8 \\text{ m}$"
+      ],
+      "ho": [
+        "$9 \\text{ मीटर}$",
+        "$5 \\text{ मीटर}$",
+        "$7 \\text{ मीटर}$",
+        "$8 \\text{ मीटर}$"
+      ],
+      "a": 2,
+      "e": "Use Formula: Diagonal $= \\sqrt{l^2 + b^2 + h^2}$.\n$D = \\sqrt{6^2 + 3^2 + 2^2}$.\n$D = \\sqrt{36 + 9 + 4}$.\n$D = \\sqrt{49} = 7 \\text{ m}$.",
+      "he": "**सूत्र (Formula) का उपयोग करें:** विकर्ण $= \\sqrt{l^2 + b^2 + h^2}$\n$$D = \\sqrt{6^2 + 3^2 + 2^2}$$\n$$D = \\sqrt{36 + 9 + 4}$$\n$$D = \\sqrt{49} = \\mathbf{7 \\text{ मीटर}}$$",
+      "e2": "Calculate base diagonal first.\nBase $d = \\sqrt{36+9} = \\sqrt{45}$.\nRoom $D = \\sqrt{(\\sqrt{45})^2 + 2^2} = \\sqrt{45+4} = 7$.\n",
+      "he2": "**पहले आधार (base) के विकर्ण की गणना करें:**\nआधार का विकर्ण $d = \\sqrt{36+9} = \\sqrt{45}$\nकमरे का मुख्य विकर्ण $D = \\sqrt{(\\sqrt{45})^2 + 2^2} = \\sqrt{45+4} = \\mathbf{7}$"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations",
+      "q": "If $\\times$ means +, $\\div$ means -, + means $\\times$ and - means $\\div$, then what will be the value of the following expression?\n$40 \\times 20 \\div 28 - 4 + 2$",
+      "hq": "यदि × का अर्थ +, ÷ का अर्थ -, + का अर्थ × और - का अर्थ ÷ है, तो निम्नलिखित व्यंजक का मान क्या होगा?\n40 × 20 ÷ 28 - 4 + 2",
+      "o": [
+        "64",
+        "54",
+        "45",
+        "46"
+      ],
+      "a": 3,
+      "e": "Step 1: Substitute the symbols.\nOriginal: $40 \\times 20 \\div 28 - 4 + 2$\nNew: $40 + 20 - 28 \\div 4 \\times 2$\nStep 2: Apply BODMAS.\n1. **Division**: $28 \\div 4 = 7$.\n$\\to 40 + 20 - 7 \\times 2$\n2. **Multiplication**: $7 \\times 2 = 14$.\n$\\to 40 + 20 - 14$\n3. **Addition/Subtraction**: $60 - 14 = 46$.\nResult: **46**.\n",
+      "he": "चरण 1: चिह्नों को बदलें।\nमूल: 40 × 20 ÷ 28 - 4 + 2\nनया: 40 + 20 - 28 ÷ 4 × 2\nचरण 2: BODMAS लागू करें।\n1. भाग: 28 ÷ 4 = 7.\n→ 40 + 20 - 7 × 2\n2. गुणा: 7 × 2 = 14.\n→ 40 + 20 - 14\n3. जोड़/घटाव: 60 - 14 = 46.\nपरिणाम: 46."
+    },
+    {
+      "s": "General Awareness",
+      "t": "Biology (Nutrition)",
+      "q": "Which of the following vitamins is water-soluble?",
+      "hq": "निम्नलिखित में से कौन सा विटामिन जल में घुलनशील है?",
+      "o": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin K",
+        "Vitamin C"
+      ],
+      "ho": [
+        "विटामिन A",
+        "विटामिन D",
+        "विटामिन K",
+        "विटामिन C"
+      ],
+      "a": 3,
+      "e": "Vitamins B and C are water-soluble. Vitamins A, D, E, and K are fat-soluble. Water-soluble vitamins are not stored in the body and need to be replenished regularly.\n",
+      "he": "विटामिन B और C जल में घुलनशील होते हैं। विटामिन A, D, E और K वसा (fat) में घुलनशील होते हैं। जल में घुलनशील विटामिन शरीर में जमा नहीं होते हैं और इन्हें नियमित रूप से लेने की आवश्यकता होती है।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Arithmetical Operations",
+      "q": "If sign \"+\" as well as \"÷\" and \"1\" and \"4\" are interchanged, then which of the following is correct?",
+      "hq": "यदि चिह्न \"+\" और \"÷\" तथा अंक \"1\" और \"4\" को आपस में बदल दिया जाता है, तो निम्नलिखित में से कौन सा सही है?",
+      "o": [
+        "3 + 4 ÷ 2 = 1",
+        "6 + 1 ÷ 4 = 2",
+        "6 + 2 ÷ 4 = 1",
+        "5 ÷ 2 + 4 = 1"
+      ],
+      "a": 2,
+      "e": "Test Option 3 by interchanging signs (+ with ÷) and numbers (1 with 4):\nOriginal: $6 + 2 \\div 4 = 1$\nInterchanged: $6 \\div 2 + 1 = 4$\n1. Division: $6 \\div 2 = 3$\n2. Addition: $3 + 1 = 4$\nSince $4 = 4$, the equation is correct.\n",
+      "he": "चिह्नों (+ को ÷ के साथ) और अंकों (1 को 4 के साथ) को बदलकर विकल्प 3 का परीक्षण करें:\nमूल: $6 + 2 \\div 4 = 1$\nपरिवर्तित: $6 \\div 2 + 1 = 4$\n1. भाग: $6 \\div 2 = 3$\n2. जोड़: $3 + 1 = 4$\nचूंकि $4 = 4$, समीकरण सही है।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration (Rhombus)",
+      "q": "The perimeter of a rhombus is 40 cm and one of its diagonals is 12 cm. Find the area of the rhombus.",
+      "hq": "एक समचतुर्भुज (Rhombus) की परिमाप (Perimeter) 40 cm है तथा इसकी एक विकर्ण (Diagonal) की लंबाई 12 cm है। समचतुर्भुज का क्षेत्रफल (Area) ज्ञात कीजिए।",
+      "o": [
+        "96 cm²",
+        "48 cm²",
+        "100 cm²",
+        "80 cm²"
+      ],
+      "a": 0,
+      "e": "\nSide $= 40/4 = 10$ cm.\nDiagonals bisect at $90^\\circ$.\nHalf of $d_1 = 12/2 = 6$.\nUsing Pythagoras in quarter triangle:\n$10^2 = 6^2 + x^2 \\Rightarrow 100 = 36 + x^2$.\n$x^2 = 64 \\Rightarrow x = 8$. So $d_2 = 16$.\nArea $= \\frac{1}{2} d_1 d_2 = \\frac{1}{2} \\times 12 \\times 16 = \\mathbf{96}$.",
+      "he": "\nभुजा (Side) $= 40/4 = 10$ cm।\nविकर्ण (Diagonals) 90° पर एक-दूसरे को समद्विभाजित (bisect) करते हैं।\n$d_1$ का आधा $= 12/2 = 6$।\nचतुर्थांश त्रिभुज (quarter triangle) में पाइथागोरस का प्रयोग करें:\n$10^2 = 6^2 + x^2 \\Rightarrow 100 = 36 + x^2$।\n$x^2 = 64 \\Rightarrow x = 8$। अतः $d_2 = 16$।\nक्षेत्रफल (Area) $= \\frac{1}{2} d_1 d_2 = \\frac{1}{2} \\times 12 \\times 16 = \\mathbf{96}$।",
+      "e2": "**Step 1: Find the side.**\nPerimeter = 40, so Side = 10.\n\n**Step 2: Find the second diagonal.**\nDiagonals of a rhombus bisect each other at right angles.\nLet diagonals be $d_1$ and $d_2$.\n$\\left(\\frac{d_1}{2}\\right)^2 + \\left(\\frac{d_2}{2}\\right)^2 = \\text{Side}^2$.\n$6^2 + \\left(\\frac{d_2}{2}\\right)^2 = 10^2$.\n$36 + \\text{val}^2 = 100 \\Rightarrow \\text{val}^2 = 64 \\Rightarrow \\text{val} = 8$.\nSo, half diagonal = 8, full diagonal $d_2 = 16$.\n\n**Step 3: Calculate Area.**\nArea = $\\frac{1}{2} \\times d_1 \\times d_2 = 0.5 \\times 12 \\times 16 = 96$ cm².",
+      "he2": "**Step 1: भुजा निकालें (Find the side).**\nपरिमाप = 40, इसलिए भुजा = 10।\n**Step 2: दूसरा विकर्ण निकालें (Find the second diagonal).**\nसमचतुर्भुज के विकर्ण 90° पर एक-दूसरे को समद्विभाजित करते हैं।\nमान लें विकर्ण $d_1$ और $d_2$ हैं।\n$\\left(\\frac{d_1}{2}\\right)^2 + \\left(\\frac{d_2}{2}\\right)^2 = \\text{Side}^2$।\n$6^2 + \\left(\\frac{d_2}{2}\\right)^2 = 10^2$।\n$36 + \\text{val}^2 = 100 \\Rightarrow \\text{val}^2 = 64 \\Rightarrow \\text{val} = 8$।\nअतः आधा विकर्ण = 8, पूरा विकर्ण $d_2 = 16$।\n**Step 3: क्षेत्रफल निकालें (Calculate Area).**\nArea $= \\frac{1}{2} \\times d_1 \\times d_2 = 0.5 \\times 12 \\times 16 = 96$ cm²।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Arithmetical Operations",
+      "q": "If \"−\" and \"x\" signs as well as \"4\" and \"3\" are interchanged, then which of the value is 2 + 9 ÷ 4 − 3 × 1?",
+      "hq": "यदि \"−\" और \"x\" चिह्नों के साथ-साथ \"4\" और \"3\" को आपस में बदल दिया जाता है, तो 2 + 9 ÷ 4 − 3 × 1 का मान क्या होगा?",
+      "o": [
+        "11",
+        "13",
+        "15",
+        "17"
+      ],
+      "a": 1,
+      "e": "Interchange signs (– with x) and numbers (4 with 3):\nNew Equation: $2 + 9 \\div 3 \\times 4 - 1$\nApply BODMAS:\n1. Division: $9 \\div 3 = 3$\n2. Multiplication: $3 \\times 4 = 12$\n3. Addition/Subtraction: $2 + 12 - 1 = \\mathbf{13}$.\n",
+      "he": "चिह्नों (– को x के साथ) और अंकों (4 को 3 के साथ) को आपस में बदलें:\nनया समीकरण: $2 + 9 \\div 3 \\times 4 - 1$\nBODMAS नियम लागू करने पर:\n1. भाग: $9 \\div 3 = 3$\n2. गुणा: $3 \\times 4 = 12$\n3. जोड़/घटाव: $2 + 12 - 1 = 13$."
+    },
+    {
+      "s": "Reasoning",
+      "t": "Series (Letter-Cluster)",
+      "q": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.\nABF, BCG, CDH, DEI, EFJ, ?",
+      "hq": "दिए गए विकल्पों में से उस अक्षर-समूह का चयन करें जो निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) को प्रतिस्थापित कर सकता है।\nABF, BCG, CDH, DEI, EFJ, ?",
+      "o": [
+        "FGA",
+        "FGC",
+        "FGL",
+        "FGK"
+      ],
+      "a": 3,
+      "e": "Analyze the pattern for each letter position separately:\n1. **First Letter**: $A \\to B \\to C \\to D \\to E \\to$ **F** (Next is F).\n2. **Second Letter**: $B \\to C \\to D \\to E \\to F \\to$ **G** (Next is G).\n3. **Third Letter**: $F \\to G \\to H \\to I \\to J \\to$ **K** (Next is K).\n(Consecutive alphabets +1 shift).\nResult: **FGK**. ```",
+      "he": "प्रत्येक अक्षर के स्थान के पैटर्न का अलग से विश्लेषण करें:\n1. पहला अक्षर: A → B → C → D → E → **F** (अगला F है)।\n2. दूसरा अक्षर: B → C → D → E → F → **G** (अगला G है)।\n3. तीसरा अक्षर: F → G → H → I → J → **K** (अगला K है)।\n(क्रमागत वर्णमाला +1 शिफ्ट)।\nपरिणाम: FGK."
+    },
+    {
+      "s": "Mathematics",
+      "t": "Ratio and Proportion (Compound Ratio)",
+      "q": "If $A:B = 3:4$ and $B:C = 8:9$, find $A:C$.",
+      "hq": "If $A:B = 3:4$ and $B:C = 8:9$, find $A:C$.",
+      "o": [
+        "$1:2$",
+        "$3:2$",
+        "$2:3$",
+        "$1:3$"
+      ],
+      "a": 2,
+      "e": "Multiply First and Last columns.\n$\\frac{A}{C} = \\frac{A}{B} \\times \\frac{B}{C}$.\n$\\frac{A}{C} = \\frac{3}{4} \\times \\frac{8}{9}$.\n$\\frac{A}{C} = \\frac{24}{36} = \\frac{2}{3}$.",
+      "he": "Multiply First and Last columns.\n$\\frac{A}{C} = \\frac{A}{B} \\times \\frac{B}{C}$.\n$\\frac{A}{C} = \\frac{3}{4} \\times \\frac{8}{9}$.\n$\\frac{A}{C} = \\frac{24}{36} = \\frac{2}{3}$.",
+      "e2": "Make $B$ common.\n$A:B = 3:4$ (Multiply by 2 $\\to$ $6:8$).\n$B:C = 8:9$.\nCombined $A:B:C = 6:8:9$.\n$A:C = 6:9 = 2:3$.",
+      "he2": "Make $B$ common.\n$A:B = 3:4$ (Multiply by 2 $\\to$ $6:8$).\n$B:C = 8:9$.\nCombined $A:B:C = 6:8:9$.\n$A:C = 6:9 = 2:3$."
+    },
+    {
+      "s": "General Awareness",
+      "t": "Sports (Football)",
+      "q": "Where will the FIFA World Cup 2026 be hosted?",
+      "hq": "फीफा (FIFA) विश्व कप 2026 की मेजबानी कहाँ की जाएगी?",
+      "o": [
+        "Saudi Arabia",
+        "Argentina, Paraguay, and Uruguay",
+        "Canada, Mexico, and the United States",
+        "France and Germany"
+      ],
+      "ho": [
+        "सऊदी अरब",
+        "अर्जेंटीना, पराग्वे और उरुग्वे",
+        "कनाडा, मैक्सिको और संयुक्त राज्य अमेरिका",
+        "फ्रांस और जर्मनी"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Mathematics",
+      "t": "Average (Consecutive Numbers)",
+      "q": "The average of $5$ consecutive odd numbers is $27$. Find the product of the first and the last number.",
+      "hq": "5 लगातार विषम संख्याओं (consecutive odd numbers) का औसत 27 है। पहली और आखिरी संख्या का गुणनफल ज्ञात कीजिए।",
+      "o": [
+        "$725$",
+        "$713$",
+        "$700$",
+        "$621$"
+      ],
+      "ho": [
+        "725",
+        "713",
+        "700",
+        "621"
+      ],
+      "a": 1,
+      "e": "Concept: Average is the Middle Number.\nNumbers: $23, 25, \\mathbf{27}, 29, 31$.\nFirst $= 23$, Last $= 31$.\nProduct $= 23 \\times 31$.\nUnit digit $3 \\times 1 = 3$. (Check options ending in 3).\nAnswer $= 713$.",
+      "he": "**अवधारणा (Concept):** औसत ही बीच की संख्या होती है।\nसंख्याएँ: 23, 25, **27**, 29, 31\nपहली संख्या $= 23$, आखिरी संख्या $= 31$\nगुणनफल $= 23 \\times 31$\nइकाई का अंक $3 \\times 1 = 3$ (उन विकल्पों की जाँच करें जिनके अंत में 3 है)।\nउत्तर $= \\mathbf{713}$",
+      "e2": "Let numbers be $x, x+2, x+4, x+6, x+8$.\nAverage $= x+4$.\n$x+4 = 27 \\implies x = 23$.\nLast $= 23+8 = 31$.\nProduct $= 23 \\times 31 = 713$.\n",
+      "he2": "**माना संख्याएँ $x, x+2, x+4, x+6, x+8$ हैं:**\nऔसत $= x+4$\n$x+4 = 27 \\implies x = 23$\nआखिरी संख्या $= 23+8 = 31$\nगुणनफल $= 23 \\times 31 = \\mathbf{713}$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra",
+      "q": "If $x + \\frac{1}{x} = 6$, find the value of $x^2 + \\frac{1}{x^2}$.",
+      "hq": "यदि $x + \\frac{1}{x} = 6$ है, तो $x^2 + \\frac{1}{x^2}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "36",
+        "32",
+        "34",
+        "38"
+      ],
+      "a": 2,
+      "e": "Square both sides of given eq:\n$(x + 1/x)^2 = 6^2$.\n$x^2 + 1/x^2 + 2 = 36$.\n$x^2 + 1/x^2 = 36 - 2 = \\mathbf{34}$.",
+      "he": "**दिए गए समीकरण के दोनों पक्षों का वर्ग (Square) करने पर:**\n$(x + 1/x)^2 = 6^2$\n**समीकरण को खोलें:**\n$x^2 + 1/x^2 + 2 = 36$\n**हल करें:**\n$x^2 + 1/x^2 = 36 - 2 = \\mathbf{34}$",
+      "e2": "* Shortcut: If $x + 1/x = a$, then $x^2 + 1/x^2 = a^2 - 2$.\n* Here $a = 6$.\n* Ans: $36 - 2 = 34$.",
+      "he2": "**शॉर्टकट तरीका (Shortcut Method):**\n* यदि $x + 1/x = a$ हो, तो $x^2 + 1/x^2 = a^2 - 2$ होता है।\n* यहाँ $a = 6$ है।\n* उत्तर: $6^2 - 2 = 36 - 2 = \\mathbf{34}$।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Blood Relations",
+      "q": "In a certain code language,\n'A + B' means ‘A is the father of B’\n'A – B' means ‘A is the daughter of B’\n'A x B' means ‘A is the son of B’\n'A ÷ B' means ‘A is the wife of B’\nBased on the above, how is P related to T if ‘P + Q x R – S ÷ T’?",
+      "hq": "एक निश्चित कूट भाषा में,\n'A + B' का अर्थ है ‘A, B का पिता है’\n'A – B' का अर्थ है ‘A, B की बेटी है’\n'A x B' का अर्थ है ‘A, B का बेटा है’\n'A ÷ B' का अर्थ है ‘A, B की पत्नी है’\nउपरोक्त के आधार पर, यदि ‘P + Q x R – S ÷ T’ है, तो P, T से किस प्रकार संबंधित है?",
+      "o": [
+        "Daughter's husband",
+        "Son's wife's brother",
+        "Wife's brother's son",
+        "Daughter's son"
+      ],
+      "ho": [
+        "बेटी का पति",
+        "बेटे की पत्नी का भाई",
+        "पत्नी के भाई का बेटा",
+        "बेटी का बेटा"
+      ],
+      "a": 0,
+      "e": "\nDecode the expression ‘P + Q x R – S ÷ T’:\n1. **S ÷ T:** S is the **Wife** of T (T is the Husband).\n2. **R – S:** R is the **Daughter** of S (and also the daughter of T).\n3. **Q x R:** Q is the **Son** of R.\n4. **P + Q:** P is the **Father** of Q.\nIf Q is the son of R (female) and P is the father of Q, then **P and R must be husband and wife**.\nSince R is the daughter of T, and P is R's husband, P is **T's daughter's husband**.",
+      "he": "व्यंजक ‘P + Q x R – S ÷ T’ को डिकोड करें:\n1. S ÷ T: S, T की पत्नी है (T पति है)।\n2. R – S: R, S की बेटी है (और T की भी बेटी है)।\n3. Q x R: Q, R का बेटा है।\n4. P + Q: P, Q का पिता है।\nयदि Q, R (महिला) का बेटा है और P, Q का पिता है, तो P और R पति-पत्नी होने चाहिए।\nचूंकि R, T की बेटी है और P, R का पति है, इसलिए P, T की बेटी का पति (दामाद) है।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration (Sphere)",
+      "q": "Find the Total Surface Area of a sphere of radius $7 \\text{ cm}$.",
+      "hq": "7 सेमी त्रिज्या वाले एक गोले (sphere) का कुल पृष्ठीय क्षेत्रफल (Total Surface Area) ज्ञात कीजिए।",
+      "o": [
+        "$616 \\text{ cm}^2$",
+        "$154 \\text{ cm}^2$",
+        "$308 \\text{ cm}^2$",
+        "$440 \\text{ cm}^2$"
+      ],
+      "ho": [
+        "$616 \\text{ सेमी}^2$",
+        "$154 \\text{ सेमी}^2$",
+        "$308 \\text{ सेमी}^2$",
+        "$440 \\text{ सेमी}^2$"
+      ],
+      "a": 0,
+      "e": "Use \"Multiple of 11\" trick (for $\\pi$).\nCheck options divisible by $11$.\n$616 \\div 11 = 56$ (Yes).\n$154 \\div 11 = 14$ (Yes).\nUse formula $4 \\pi r^2$.\n$4 \\times \\frac{22}{7} \\times 49 = 88 \\times 7 = 616$.",
+      "he": "**\"11 के गुणज\" (Multiple of 11) ट्रिक का उपयोग करें ($\\pi$ के लिए):**\nउन विकल्पों की जाँच करें जो 11 से विभाज्य हैं।\n$616 \\div 11 = 56$ (हाँ)।\n$154 \\div 11 = 14$ (हाँ)।\nअब सूत्र $4 \\pi r^2$ का उपयोग करें:\n$4 \\times \\frac{22}{7} \\times 49 = 88 \\times 7 = \\mathbf{616}$",
+      "e2": "Formula for TSA of Sphere $= 4 \\pi r^2$.\n$= 4 \\times \\frac{22}{7} \\times 7 \\times 7$.\n$= 4 \\times 22 \\times 7$.\n$= 88 \\times 7 = 616 \\text{ cm}^2$.\n",
+      "he2": "**गोले के कुल पृष्ठीय क्षेत्रफल का सूत्र $= 4 \\pi r^2$**\n$= 4 \\times \\frac{22}{7} \\times 7 \\times 7$\n$= 4 \\times 22 \\times 7$\n$= 88 \\times 7 = \\mathbf{616 \\text{ सेमी}^2}$"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations",
+      "q": "What will come in the place of the question mark (?) in the following equation, if ‘+’ and ‘−‘ are interchanged and ‘×’ and ‘÷’ are interchanged?\n$38 \\div 21 + 436 \\times 4 - 73 = ?$",
+      "hq": "यदि ‘+’ और ‘−’ को आपस में बदल दिया जाए और ‘×’ और ‘÷’ को आपस में बदल दिया जाए, तो निम्नलिखित समीकरण में प्रश्न चिह्न (?) के स्थान पर क्या आएगा?\n$38 \\div 21 + 436 \\times 4 - 73 = ?$",
+      "o": [
+        "761",
+        "762",
+        "764",
+        "763"
+      ],
+      "a": 1,
+      "e": "Apply the interchanges: $\\div \\to \\times$, $+ \\to -$, $\\times \\to \\div$, $- \\to +$.\nNew Equation: $38 \\times 21 - 436 \\div 4 + 73$\nBODMAS:\n1. Divide: $436 \\div 4 = 109$.\n2. Multiply: $38 \\times 21 = 798$.\n3. Add/Sub: $798 - 109 + 73 = 689 + 73 = \\mathbf{762}$.",
+      "he": "चिह्नों को आपस में बदलें:\n$\\div \\to \\times$\n$+ \\to -$\n$\\times \\to \\div$\n$- \\to +$\nनया समीकरण: $38 \\times 21 - 436 \\div 4 + 73$\nBODMAS नियम:\n1. भाग: $436 \\div 4 = 109$\n2. गुणा: $38 \\times 21 = 798$\n3. जोड़/घटाव: $798 - 109 + 73 = 689 + 73 = 762$"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Classification (Odd One Out)",
+      "q": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT belong to that group?",
+      "hq": "अंग्रेजी वर्णमाला क्रम के आधार पर, निम्नलिखित चार अक्षर-समूह युग्मों में से तीन एक निश्चित तरीके से समान हैं और इस प्रकार एक समूह बनाते हैं। कौन सा अक्षर-समूह युग्म उस समूह से संबंधित नहीं है?",
+      "o": [
+        "MQ - UZ",
+        "GJ - PS",
+        "EH - NQ",
+        "JM - SV"
+      ],
+      "a": 0,
+      "e": "\nAnalyze the difference between the letters in each pair:\n1. **MQ - UZ:**\nM (13) $\\xrightarrow{+4}$ Q (17)\nU (21) $\\xrightarrow{+5}$ Z (26)\n(Pattern: +4, +5)\n2. **GJ - PS:**\nG (7) $\\xrightarrow{+3}$ J (10)\nP (16) $\\xrightarrow{+3}$ S (19)\n(Pattern: +3, +3)\n3. **EH - NQ:**\nE (5) $\\xrightarrow{+3}$ H (8)\nN (14) $\\xrightarrow{+3}$ Q (17)\n(Pattern: +3, +3)\n4. **JM - SV:**\nJ (10) $\\xrightarrow{+3}$ M (13)\nS (19) $\\xrightarrow{+3}$ V (22)\n(Pattern: +3, +3)\n\nIn all options except **MQ - UZ**, the difference between the letters is consistently **+3**. In MQ - UZ, the differences are +4 and +5.",
+      "he": "प्रत्येक युग्म के अक्षरों के बीच के अंतर का विश्लेषण करें:\n1. MQ - UZ:\nM (13) $\\xrightarrow{+4}$ Q (17)\nU (21) $\\xrightarrow{+5}$ Z (26)\n(पैटर्न: +4, +5)\n2. GJ - PS:\nG (7) $\\xrightarrow{+3}$ J (10)\nP (16) $\\xrightarrow{+3}$ S (19)\n(पैटर्न: +3, +3)\n3. EH - NQ:\nE (5) $\\xrightarrow{+3}$ H (8)\nN (14) $\\xrightarrow{+3}$ Q (17)\n(पैटर्न: +3, +3)\n4. JM - SV:\nJ (10) $\\xrightarrow{+3}$ M (13)\nS (19) $\\xrightarrow{+3}$ V (22)\n(पैटर्न: +3, +3)\n\nMQ - UZ को छोड़कर सभी विकल्पों में, अक्षरों के बीच का अंतर लगातार +3 है। MQ - UZ में, अंतर +4 और +5 हैं।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Series (Alphanumeric/Symbol)",
+      "q": "How many such symbols are there each of which is immediately preceded by a number and also immediately followed by a symbol?\nSequence: & 2 6 9 5 7 & € 9 * % £ 7 © 5 3 3 @ 2 © % #",
+      "hq": "ऐसे कितने प्रतीक हैं जिनमें से प्रत्येक के ठीक पहले एक संख्या है और ठीक बाद में भी एक प्रतीक है?\nश्रृंखला: & 2 6 9 5 7 & € 9 * % £ 7 © 5 3 3 @ 2 © % #",
+      "o": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "a": 1,
+      "e": "Pattern required: **[Number] $\\to$ [Target Symbol] $\\to$ [Symbol]**.\nScan the series:\n1. ... **7 & €** ... $\\to$ Number (7), Symbol (&), Symbol (€). (Match 1)\n2. ... **9 * %** ... $\\to$ Number (9), Symbol (*), Symbol (%). (Match 2)\n3. ... **2 © %** ... $\\to$ Number (2), Symbol (©), Symbol (%). (Match 3)\nTotal matches = 3.",
+      "he": "आवश्यक पैटर्न: **[संख्या] $\\to$ [लक्षित प्रतीक] $\\to$ [प्रतीक]**।\nश्रृंखला को स्कैन करें:\n1. ... **7 & €** ... $\\to$ संख्या (7), प्रतीक (&), प्रतीक (€)। (मिलान 1)\n2. ... **9 * %** ... $\\to$ संख्या (9), प्रतीक (*), प्रतीक (%)। (मिलान 2)\n3. ... **2 © %** ... $\\to$ संख्या (2), प्रतीक (©), प्रतीक (%)। (मिलान 3)\nकुल मिलान = 3।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Biology (Digestive System)",
+      "q": "Which enzyme is present in saliva that helps in the digestion of starch?",
+      "hq": "लार (saliva) में कौन सा एंजाइम मौजूद होता है जो स्टार्च के पाचन में मदद करता है?",
+      "o": [
+        "Pepsin",
+        "Trypsin",
+        "Amylase (Ptyalin)",
+        "Lipase"
+      ],
+      "ho": [
+        "पेप्सिन",
+        "ट्रिप्सिन",
+        "एमाइलेज (टायलिन)",
+        "लाइपेज"
+      ],
+      "a": 2,
+      "e": "Salivary Amylase (also known as Ptyalin) breaks down starch (complex carbohydrate) into maltose (simple sugar) in the mouth.\n* Pepsin: Stomach (Proteins)\n* Trypsin: Small Intestine (Proteins)\n",
+      "he": "लार एमाइलेज (जिसे टायलिन भी कहा जाता है) मुँह में स्टार्च (जटिल कार्बोहाइड्रेट) को माल्टोज (सरल शर्करा) में तोड़ देता है। * पेप्सिन: आमाशय (प्रोटीन) * ट्रिप्सिन: छोटी आंत (प्रोटीन)"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Word)",
+      "q": "Virus : Smallpox :: Bacteria : ?",
+      "hq": "वायरस : चेचक (Smallpox) :: बैक्टीरिया : ?",
+      "o": [
+        "Chickenpox",
+        "Typhoid",
+        "Malaria",
+        "Sleeping Sickness"
+      ],
+      "ho": [
+        "छोटी माता (Chickenpox)",
+        "टाइफाइड (Typhoid)",
+        "मलेरिया",
+        "निद्रा रोग (Sleeping Sickness)"
+      ],
+      "a": 1,
+      "e": "Relationship: Causative Agent.\nSmallpox is caused by a Virus (Variola).\nSimilarly, Typhoid is caused by Bacteria (Salmonella typhi).\n(Note: Chickenpox is Virus, Malaria is Protozoa).\n",
+      "he": "संबंध: रोगजनक कारक (Causative Agent)।\nचेचक वायरस (वेरियोला) के कारण होता है।\nइसी प्रकार, टाइफाइड बैक्टीरिया (साल्मोनेला टाइफी) के कारण होता है।\n(नोट: छोटी माता वायरस है, मलेरिया प्रोटोजोआ है)।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Statistics (Mode)",
+      "q": "Find the Mode of the following data: $12, 14, 12, 16, 15, 12, 14, 18, 12$.",
+      "hq": "निम्नलिखित डेटा का बहुलक (Mode) ज्ञात कीजिए: $12, 14, 12, 16, 15, 12, 14, 18, 12$",
+      "o": [
+        "14",
+        "12",
+        "16",
+        "18"
+      ],
+      "a": 1,
+      "e": "Mode is the \"Most Frequent\" number.\nCount the occurrences:\n$12 \\to 4$ times.\n$14 \\to 2$ times.\nOthers $\\to 1$ time.\nMode is $12$.",
+      "he": "**बहुलक (Mode)** वह संख्या है जो \"सबसे अधिक बार\" आती है।\n**संख्याओं की आवृत्ति (Occurrences) गिनें:**\n$12 \\to 4$ बार\n$14 \\to 2$ बार\nअन्य संख्याएँ $\\to 1$ बार\nअतः, बहुलक **12** है।",
+      "e2": "Arrange in ascending order first (optional but safer).\n$12, 12, 12, 12, 14, 14, 15, 16, 18$.\nHighest frequency is for $12$.\nMode $= 12$.\n",
+      "he2": "**आरोही क्रम (Ascending order) में व्यवस्थित करें (वैकल्पिक):**\n$12, 12, 12, 12, 14, 14, 15, 16, 18$\nयहाँ सबसे अधिक बार आने वाली संख्या 12 है।\n**बहुलक = 12**"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration (Equilateral Triangle)",
+      "q": "If the side of an equilateral triangle is 8 cm, find its area.",
+      "hq": "यदि एक समबाहु त्रिभुज की भुजा 8 सेमी है, तो इसका क्षेत्रफल ज्ञात कीजिए।",
+      "o": [
+        "$16\\sqrt{3}$ cm²",
+        "$32\\sqrt{3}$ cm²",
+        "$64\\sqrt{3}$ cm²",
+        "$12\\sqrt{3}$ cm²"
+      ],
+      "ho": [
+        "$16\\sqrt{3}$ सेमी²",
+        "$32\\sqrt{3}$ सेमी²",
+        "$64\\sqrt{3}$ सेमी²",
+        "$12\\sqrt{3}$ सेमी²"
+      ],
+      "a": 0,
+      "e": "Formula: Area $= \\frac{\\sqrt{3}}{4} a^2$.\nSide $a = 8$.\nArea $= \\frac{\\sqrt{3}}{4} \\times (8)^2$\n$= \\frac{\\sqrt{3}}{4} \\times 64 = 16\\sqrt{3}$.",
+      "he": "**सूत्र (Formula):**\n$$\\text{क्षेत्रफल} = \\frac{\\sqrt{3}}{4} a^2$$\nयहाँ भुजा $a = 8$ है।\n**गणना:**\n$$\\text{क्षेत्रफल} = \\frac{\\sqrt{3}}{4} \\times (8)^2$$\n$$\\text{क्षेत्रफल} = \\frac{\\sqrt{3}}{4} \\times 64 = \\mathbf{16\\sqrt{3}}$$",
+      "e2": "\n\n[Image of equilateral triangle formula]\n\n**Step 1: Use Area Formula.**\nArea = $\\frac{\\sqrt{3}}{4} \\times (\\text{side})^2$.\n\n**Step 2: Substitute side.**\n$\\frac{\\sqrt{3}}{4} \\times 8 \\times 8$.\n$\\sqrt{3} \\times 2 \\times 8 = 16\\sqrt{3}$.\n",
+      "he2": "**स्टेप 1: क्षेत्रफल के सूत्र का उपयोग करें।**\n$$\\text{क्षेत्रफल} = \\frac{\\sqrt{3}}{4} \\times (\\text{भुजा})^2$$\n**स्टेप 2: भुजा का मान रखें।**\n$$\\frac{\\sqrt{3}}{4} \\times 8 \\times 8$$\n$$\\sqrt{3} \\times 2 \\times 8 = \\mathbf{16\\sqrt{3}}$$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit & Loss (Target Price)",
+      "q": "By selling an article for ₹720, a shopkeeper loses 10%. At what price should he sell it to gain 5%?",
+      "hq": "एक वस्तु को ₹720 में बेचने पर एक दुकानदार को 10% की हानि होती है। 5% का लाभ प्राप्त करने के लिए उसे इसे किस मूल्य पर बेचना चाहिए?",
+      "o": [
+        "₹800",
+        "₹820",
+        "₹840",
+        "₹850"
+      ],
+      "a": 2,
+      "e": "**Best Method (Ratio Method):**\n* 90% of Cost = ₹720 (Loss means 100 - 10)\n* 1% of Cost = $720 / 90 = 8$\n* Target is 5% gain $\\rightarrow$ 105% of Cost.\n* Target Price = $105 \\times 8 = 840$.\n",
+      "he": "**सबसे अच्छी विधि (अनुपात विधि):**\n* लागत का 90% = ₹720 (हानि का अर्थ है 100 - 10)\n* लागत का 1% = $720 / 90 = 8$\n* लक्ष्य 5% लाभ है $\\rightarrow$ लागत का 105%।\n* लक्ष्य मूल्य = $105 \\times 8 = 840$।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Arithmetical Operations",
+      "q": "Interchanging which two signs will make the following equation correct?\n15 + 3 x 9 − 4 ÷ 16 = 57",
+      "hq": "किन दो चिह्नों को आपस में बदलने से निम्नलिखित समीकरण सही हो जाएगा?\n15 + 3 x 9 − 4 ÷ 16 = 57",
+      "o": [
+        "- and +",
+        "- and ÷",
+        "- and x",
+        "+ and ÷"
+      ],
+      "ho": [
+        "- और +",
+        "- और ÷",
+        "- और x",
+        "+ और ÷"
+      ],
+      "a": 3,
+      "e": "Test Option 4 by interchanging \"+\" and \"÷\":\nNew Equation: $15 \\div 3 \\times 9 - 4 + 16$\nApply BODMAS:\n1. Division: $15 \\div 3 = 5$\n2. Multiplication: $5 \\times 9 = 45$\n3. Addition/Subtraction: $45 - 4 + 16 = 41 + 16 = \\mathbf{57}$.\nSince L.H.S = R.H.S, interchanging + and ÷ is correct.\n",
+      "he": "\"+\" और \"÷\" को आपस में बदलकर विकल्प 4 का परीक्षण करें:\nनया समीकरण: $15 \\div 3 \\times 9 - 4 + 16$\nBODMAS नियम लागू करने पर:\n1. भाग: $15 \\div 3 = 5$\n2. गुणा: $5 \\times 9 = 45$\n3. जोड़/घटाव: $45 - 4 + 16 = 41 + 16 = 57$.\nचूंकि L.H.S = R.H.S, इसलिए + और ÷ को बदलना सही है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Physics (Gravitation)",
+      "q": "The value of acceleration due to gravity '$g$' is maximum at:",
+      "hq": "गुरुत्वाकर्षण के कारण त्वरण '$g$' का मान अधिकतम कहाँ होता है?",
+      "o": [
+        "Equator",
+        "Poles",
+        "Center of Earth",
+        "Altitude of 100 km"
+      ],
+      "ho": [
+        "भूमध्य रेखा (Equator)",
+        "ध्रुवों (Poles) पर",
+        "पृथ्वी के केंद्र पर",
+        "100 किमी की ऊंचाई पर"
+      ],
+      "a": 1,
+      "e": "The value of $g$ is maximum at the Poles and minimum at the Equator because the Earth is not a perfect sphere (it is flattened at poles).\n$$g = \\frac{GM}{R^2}$$\nSince Radius ($R$) is smaller at poles, $g$ is larger.\n",
+      "he": "$g$ का मान ध्रुवों पर अधिकतम और भूमध्य रेखा पर न्यूनतम होता है क्योंकि पृथ्वी पूर्ण गोला नहीं है (यह ध्रुवों पर चपटी है)। $$g = \\frac{GM}{R^2}$$ चूंकि ध्रुवों पर त्रिज्या ($R$) छोटी होती है, इसलिए $g$ का मान अधिक होता है।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (GK/Science)",
+      "q": "Current : Ampere :: Resistance : ?",
+      "hq": "धारा (Current) : एम्पियर :: प्रतिरोध (Resistance) : ?",
+      "o": [
+        "Volt",
+        "Watt",
+        "Ohm",
+        "Joule"
+      ],
+      "ho": [
+        "वोल्ट",
+        "वाट",
+        "ओम (Ohm)",
+        "जूल"
+      ],
+      "a": 2,
+      "e": "Relationship: Quantity : SI Unit.\nThe SI unit of Electric Current is Ampere.\nThe SI unit of Electrical Resistance is Ohm.",
+      "he": "संबंध: राशि : SI इकाई।\nविद्युत धारा की SI इकाई एम्पियर है।\nविद्युत प्रतिरोध की SI इकाई ओम (Ohm) है।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Trigonometry (Height and Distance)",
+      "q": "The shadow of a tower standing on level ground is found to be $\\sqrt{3}$ times the height of the tower. The angle of elevation of the sun is:",
+      "hq": "समतल जमीन पर खड़ी एक मीनार (tower) की छाया मीनार की ऊँचाई की $\\sqrt{3}$ गुनी पाई जाती है। सूर्य का उन्नयन कोण (angle of elevation) है:",
+      "o": [
+        "$60^\\circ$",
+        "$45^\\circ$",
+        "$30^\\circ$",
+        "$90^\\circ$"
+      ],
+      "a": 2,
+      "e": "Ratio Height : Shadow $= 1 : \\sqrt{3}$.\n$\\tan \\theta = \\frac{1}{\\sqrt{3}}$.\n$\\theta = 30^\\circ$.",
+      "he": "**ऊँचाई : छाया का अनुपात** $= 1 : \\sqrt{3}$\n$$\\tan \\theta = \\frac{\\text{लम्ब}}{\\text{आधार}} = \\frac{1}{\\sqrt{3}}$$\n$$\\theta = \\mathbf{30^\\circ}$$",
+      "e2": "Let height $= h$.\nShadow $= h\\sqrt{3}$.\n$\\tan \\theta = \\frac{\\text{Height}}{\\text{Shadow}}$.\n$\\tan \\theta = \\frac{h}{h\\sqrt{3}} = \\frac{1}{\\sqrt{3}}$.\nSince $\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}$, angle is $30^\\circ$.",
+      "he2": "**विस्तृत विधि:**\nमान लीजिए मीनार की ऊँचाई $= h$\nतब, छाया की लंबाई $= h\\sqrt{3}$\n$$\\tan \\theta = \\frac{\\text{ऊँचाई}}{\\text{छाया}}$$\n$$\\tan \\theta = \\frac{h}{h\\sqrt{3}} = \\frac{1}{\\sqrt{3}}$$\nचूँकि $\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}$ होता है, इसलिए कोण **30°** है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Culture (Temples)",
+      "q": "The famous 'Sun Temple' is located at which place?",
+      "hq": "प्रसिद्ध 'सूर्य मंदिर' (Sun Temple) किस स्थान पर स्थित है?",
+      "o": [
+        "Puri",
+        "Bhubaneswar",
+        "Konark",
+        "Cuttack"
+      ],
+      "ho": [
+        "पुरी",
+        "भुवनेश्वर",
+        "कोणार्क",
+        "कटक"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Mathematics",
+      "t": "Ratio and Proportion (Coins)",
+      "q": "A bag contains ₹1, 50p, and 25p coins in the ratio 2:3:4. If the total value is ₹180, find the number of 50p coins.",
+      "hq": "एक बैग में ₹1, 50 पैसे और 25 पैसे के सिक्के 2:3:4 के अनुपात में हैं। यदि कुल मूल्य ₹180 है, तो 50 पैसे के सिक्कों की संख्या ज्ञात कीजिए।",
+      "o": [
+        "80",
+        "120",
+        "100",
+        "150"
+      ],
+      "a": 1,
+      "e": "Use the \"Value Unit\" method.\nConvert coin ratio to value:\n2 coins of ₹1 = ₹2.\n3 coins of 50p = ₹1.5.\n4 coins of 25p = ₹1.\nTotal Value unit = 2 + 1.5 + 1 = 4.5 units.\n4.5 units = ₹180.\n1 unit = 180 / 4.5 = 40.\nNumber of 50p coins = 3 (from ratio) × 40 = 120.",
+      "he": "**\"मूल्य इकाई\" (Value Unit) विधि का उपयोग करें:**\nसिक्कों के अनुपात को मूल्य में बदलें:\n₹1 के 2 सिक्के = ₹2\n50 पैसे के 3 सिक्के = ₹1.5\n25 पैसे के 4 सिक्के = ₹1\nकुल मूल्य इकाई = $2 + 1.5 + 1 = 4.5$ यूनिट\n$4.5 \\text{ यूनिट} = ₹180$\n$1 \\text{ यूनिट} = 180 / 4.5 = 40$\n50 पैसे के सिक्कों की संख्या = 3 (अनुपात से) $\\times 40 = \\mathbf{120}$",
+      "e2": "Basic Algebra Method.\nLet coins be 2x, 3x, and 4x.\nValue = (2x × 1) + (3x × 0.50) + (4x × 0.25) = 180.\n2x + 1.5x + 1x = 180.\n4.5x = 180.\nx = 1800 / 45 = 40.\n50p coins = 3x = 3 × 40 = 120.\n",
+      "he2": "**बुनियादी बीजगणित (Algebra) विधि:**\nमान लीजिए सिक्कों की संख्या $2x, 3x$ और $4x$ है।\nकुल मूल्य $= (2x \\times 1) + (3x \\times 0.50) + (4x \\times 0.25) = 180$\n$2x + 1.5x + 1x = 180$\n$4.5x = 180$\n$x = 1800 / 45 = 40$\n50 पैसे के सिक्के $= 3x = 3 \\times 40 = \\mathbf{120}$"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Seating Arrangement (Circular)",
+      "q": "Eight people A, B, C, D, E, F, G and H are sitting around a circular table facing the centre. D is fourth to the right of H and second to the left of B. F is fourth to the right of B. C is fourth to the right of E who is not an immediate neighbour of B or D. A is not an immediate neighbour of D. Who sits to the immediate left of A?",
+      "hq": "आठ व्यक्ति A, B, C, D, E, F, G और H एक गोल मेज के चारों ओर केंद्र की ओर मुख करके बैठे हैं। D, H के दाएं से चौथे और B के बाएं से दूसरे स्थान पर है। F, B के दाएं से चौथे स्थान पर है। C, E के दाएं से चौथे स्थान पर है, जो B या D का निकटतम पड़ोसी नहीं है। A, D का निकटतम पड़ोसी नहीं है। A के ठीक बाएं कौन बैठा है?",
+      "o": [
+        "G",
+        "E",
+        "H",
+        "F"
+      ],
+      "a": 2,
+      "e": "Step-by-step arrangement:\n1. Fix H at position 1.\n2. D is 4th to right of H $\\to$ Place D at 5 (Opposite H).\n3. D is 2nd to left of B $\\to$ B is 2nd to right of D $\\to$ Place B at 7.\n4. F is 4th to right of B $\\to$ Place F at 3 (Opposite B).\n5. E is not neighbour of B (7) or D (5). E cannot be at 6, 8, or 4. E must be at 2.\n6. C is 4th to right of E (2) $\\to$ Place C at 6.\n7. A is not neighbour of D (5). A cannot be at 4. A must be at 8.\n8. Only position 4 is left for G.\nFinal Order (Clockwise): H, E, F, G, D, C, B, A.\nImmediate left of A (Pos 8) is **H** (Pos 1).",
+      "he": "चरण-दर-चरण व्यवस्था:\n1. H को स्थान 1 पर बिठाएं।\n2. D, H के दाएं से चौथे स्थान पर है → D को 5 पर रखें (H के विपरीत)।\n3. D, B के बाएं से दूसरे स्थान पर है → B, D के दाएं से दूसरे स्थान पर है → B को 7 पर रखें।\n4. F, B के दाएं से चौथे स्थान पर है → F को 3 पर रखें (B के विपरीत)।\n5. E, B (7) या D (5) का पड़ोसी नहीं है। E स्थान 6, 8 या 4 पर नहीं हो सकता। E स्थान 2 पर होना चाहिए।\n6. C, E (2) के दाएं से चौथे स्थान पर है → C को 6 पर रखें।\n7. A, D (5) का पड़ोसी नहीं है। A स्थान 4 पर नहीं हो सकता। A स्थान 8 पर होना चाहिए।\n8. G के लिए केवल स्थान 4 बचा है।\nअंतिम क्रम (घड़ी की दिशा में): H, E, F, G, D, C, B, A.\nA (स्थान 8) के ठीक बाएं H (स्थान 1) बैठा है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Indian Polity",
+      "q": "How many Fundamental Rights are currently recognized by the Indian Constitution?",
+      "hq": "भारतीय संविधान द्वारा वर्तमान में कितने मौलिक अधिकार (Fundamental Rights) मान्यता प्राप्त हैं?",
+      "o": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit and Loss",
+      "q": "A shopkeeper marks his goods 40% above the cost price and allows a discount of 20%. Find his profit percentage.",
+      "hq": "एक दुकानदार अपनी वस्तुओं पर क्रय मूल्य से 40% अधिक मूल्य अंकित करता है और 20% की छूट देता है। उसका लाभ प्रतिशत ज्ञात कीजिए।",
+      "o": [
+        "10%",
+        "12%",
+        "20%",
+        "15%"
+      ],
+      "a": 1,
+      "e": "Use the \"Net Effect\" formula (x - y - xy/100).\nMarkup (+40), Discount (-20).\nProfit = 40 - 20 - (40 × 20)/100.\nProfit = 20 - (800/100).\nProfit = 20 - 8 = 12%.",
+      "he": "**\"नेट इफेक्ट\" (Net Effect) सूत्र का उपयोग करें:**\nपरिवर्तन = $x - y - \\frac{xy}{100}$\nयहाँ अंकित मूल्य (Markup) $= +40$ और छूट (Discount) $= -20$ है।\n**गणना:**\nलाभ $= 40 - 20 - \\frac{40 \\times 20}{100}$\nलाभ $= 20 - \\frac{800}{100}$\nलाभ $= 20 - 8 = \\mathbf{12\\%}$",
+      "e2": "100 Method.\nLet CP = 100.\nMarked Price = 140 (40% up).\nDiscount = 20% of 140.\n10% is 14, so 20% is 28.\nSelling Price = 140 - 28 = 112.\nProfit = 112 - 100 = 12.",
+      "he2": "**100 मानकर हल करने की विधि (100 Method):**\n**1. अंकित मूल्य निर्धारित करें:**\nमान लीजिए क्रय मूल्य (CP) = 100\nअंकित मूल्य (MP) = 140 (40% अधिक)\n**2. विक्रय मूल्य की गणना करें:**\nछूट = 140 का 20%\nचूँकि 10% = 14, इसलिए 20% = 28\nविक्रय मूल्य (SP) = $140 - 28 = 112$\n**3. लाभ ज्ञात करें:**\nलाभ = $112 - 100 = \\mathbf{12\\%}$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "History",
+      "q": "Who was the first Mughal Emperor of India?",
+      "hq": "भारत का प्रथम मुगल सम्राट कौन था?",
+      "o": [
+        "Akbar",
+        "Babur",
+        "Humayun",
+        "Aurangzeb"
+      ],
+      "ho": [
+        "अकबर",
+        "बाबर",
+        "हुमायूँ",
+        "औरंगजेब"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Reasoning",
+      "t": "Syllogism",
+      "q": "Statements:\n1. All cats are owls.\n2. Some owls are rats.\n3. No rat is bat.\nConclusions:\nI. Some rats are cats.\nII. Some bats can be cats.",
+      "hq": "कथन:\n1. सभी बिल्लियाँ उल्लू हैं।\n2. कुछ उल्लू चूहे हैं।\n3. कोई चूहा चमगादड़ नहीं है।\nनिष्कर्ष:\nI. कुछ चूहे बिल्लियाँ हैं।\nII. कुछ चमगादड़ बिल्लियाँ हो सकते हैं।",
+      "o": [
+        "Only conclusion (I) follows",
+        "Neither conclusion (I) nor conclusion (II) follows",
+        "Only conclusion (II) follows",
+        "Both conclusions (I) and (II) follow"
+      ],
+      "ho": [
+        "केवल निष्कर्ष (I) अनुसरण करता है",
+        "न तो निष्कर्ष (I) और न ही निष्कर्ष (II) अनुसरण करता है",
+        "केवल निष्कर्ष (II) अनुसरण करता है",
+        "दोनों निष्कर्ष (I) और (II) अनुसरण करते हैं"
+      ],
+      "a": 2,
+      "e": "Use Venn Diagram Logic:\n1. **Draw Diagram**:\n* Draw specific Circle **C** (Cats) completely inside Circle **O** (Owls).\n* Draw Circle **R** (Rats) intersecting **O** (Owls). Note: We do not know if R touches C.\n* Draw Circle **B** (Bats) completely separate from **R**.\n2. **Analyze I (Some rats are cats)**:\n* The intersection is between Owls and Rats. There is no definite statement connecting Cats and Rats. They might be separate.\n* Result: **Does not follow**.\n3. **Analyze II (Some bats can be cats)**:\n* This is a **possibility** case (\"can be\").\n* The only restriction is \"No Rat is Bat\".\n* There is no negative statement preventing Bats from touching Cats or Owls.\n* Since it is not forbidden, the possibility exists.\n* Result: **Follows**.\nFinal Answer: Only conclusion II follows.",
+      "he": "वेन आरेख तर्क का उपयोग करें:\n1. आरेख बनाएं:\n* विशिष्ट घेरा C (बिल्लियाँ) पूरी तरह से घेरा O (उल्लू) के अंदर बनाएं।\n* घेरा R (चूहे) को O (उल्लू) के साथ काटते हुए बनाएं। नोट: हमें यह नहीं पता कि R, C को छूता है या नहीं।\n* घेरा B (चमगादड़) को R से पूरी तरह अलग बनाएं।\n2. I का विश्लेषण (कुछ चूहे बिल्लियाँ हैं):\n* प्रतिच्छेदन उल्लू और चूहों के बीच है। बिल्लियों और चूहों को जोड़ने वाला कोई निश्चित कथन नहीं है। वे अलग हो सकते हैं।\n* परिणाम: अनुसरण नहीं करता है।\n3. II का विश्लेषण (कुछ चमगादड़ बिल्लियाँ हो सकते हैं):\n* यह एक 'संभावना' वाला मामला है (\"हो सकते हैं\")।\n* एकमात्र प्रतिबंध यह है कि \"कोई चूहा चमगादड़ नहीं है\"।\n* ऐसा कोई नकारात्मक कथन नहीं है जो चमगादड़ को बिल्ली या उल्लू को छूने से रोकता हो।\n* चूँकि इसकी मनाही नहीं है, इसलिए संभावना मौजूद है।\n* परिणाम: अनुसरण करता है।\nअंतिम उत्तर: केवल निष्कर्ष II अनुसरण करता है।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Classification (Odd One Out)",
+      "q": "In each of the following questions four out of five alternatives contain alphabet placed in a particular form. Find the one that does not belong to the group.",
+      "hq": "निम्नलिखित प्रत्येक प्रश्न में पाँच में से चार विकल्पों में वर्णमाला को एक विशेष रूप में रखा गया है। वह विकल्प चुनें जो समूह से संबंधित नहीं है।",
+      "o": [
+        "JP10",
+        "MN13",
+        "CX3",
+        "IR9"
+      ],
+      "a": 0,
+      "e": "\nIn the given groups, the first letter's rank from the beginning and the second letter's rank from the end are identical and equal to the number given:\n1. **CX3:** C is 3rd from start; X is 3rd from end. Number = 3.\n2. **GT7:** G is 7th from start; T is 7th from end. Number = 7.\n3. **IR9:** I is 9th from start; R is 9th from end. Number = 9.\n4. **MN13:** M is 13th from start; N is 13th from end. Number = 13.\n5. **JP10:** J is 10th from start, but P is **11th** from the end (K is 10th from end).\nThus, **JP10** is the odd one out.",
+      "he": "दिए गए समूहों में, पहले अक्षर का शुरू से स्थान (Rank) और दूसरे अक्षर का अंत से स्थान समान है, और यह दी गई संख्या के बराबर है:\n1. CX3: C शुरू से तीसरा है; X अंत से तीसरा है। संख्या = 3।\n2. GT7: G शुरू से सातवां है; T अंत से सातवां है। संख्या = 7।\n3. IR9: I शुरू से नौवां है; R अंत से नौवां है। संख्या = 9।\n4. MN13: M शुरू से तेरहवां है; N अंत से तेरहवां है। संख्या = 13।\n5. JP10: J शुरू से दसवां है, लेकिन P अंत से ग्यारहवां (11th) है (अंत से दसवां K होता है)।\nअतः, JP10 विषम है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Indian Polity",
+      "q": "What is the minimum age required to become the President of India?",
+      "hq": "भारत का राष्ट्रपति बनने के लिए आवश्यक न्यूनतम आयु कितनी है?",
+      "o": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "ho": [
+        "25 वर्ष",
+        "30 वर्ष",
+        "35 वर्ष",
+        "40 वर्ष"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Mathematics",
+      "t": "Trigonometry (Values)",
+      "q": "Find the value of $\\sin 60^\\circ \\cos 30^\\circ + \\cos 60^\\circ \\sin 30^\\circ$.",
+      "hq": "$\\sin 60^\\circ \\cos 30^\\circ + \\cos 60^\\circ \\sin 30^\\circ$ का मान ज्ञात कीजिए।",
+      "o": [
+        "$0$",
+        "$1$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{1}{2}$"
+      ],
+      "a": 1,
+      "e": "Use Identity $\\sin(A+B)$.\n$\\sin(60^\\circ + 30^\\circ) = \\sin 90^\\circ = 1$.",
+      "he": "**$\\sin(A+B)$ सर्वसमिका (Identity) का उपयोग करें:**\nयह व्यंजक $\\sin A \\cos B + \\cos A \\sin B$ के रूप में है, जो $\\sin(A+B)$ के बराबर होता है।\n$\\sin(60^\\circ + 30^\\circ) = \\sin 90^\\circ = \\mathbf{1}$",
+      "e2": "Substitute values.\n$\\frac{\\sqrt{3}}{2} \\times \\frac{\\sqrt{3}}{2} + \\frac{1}{2} \\times \\frac{1}{2}$.\n$\\frac{3}{4} + \\frac{1}{4} = \\frac{4}{4} = 1$.",
+      "he2": "**मान रखकर हल करें:**\n$\\sin 60^\\circ = \\frac{\\sqrt{3}}{2}, \\cos 30^\\circ = \\frac{\\sqrt{3}}{2}$\n$\\cos 60^\\circ = \\frac{1}{2}, \\sin 30^\\circ = \\frac{1}{2}$\nसमीकरण:\n$$\\left(\\frac{\\sqrt{3}}{2} \\times \\frac{\\sqrt{3}}{2}\\right) + \\left(\\frac{1}{2} \\times \\frac{1}{2}\\right)$$\n$$\\frac{3}{4} + \\frac{1}{4} = \\frac{4}{4} = \\mathbf{1}$$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Indices and Reports",
+      "q": "Which country topped the 'World Happiness Report 2024' for the seventh consecutive year?",
+      "hq": "लगातार सातवें वर्ष 'वर्ल्ड हैप्पीनेस रिपोर्ट 2024' में कौन सा देश शीर्ष पर रहा?",
+      "o": [
+        "Finland",
+        "Denmark",
+        "Iceland",
+        "Sweden"
+      ],
+      "ho": [
+        "फिनलैंड",
+        "डेनमार्क",
+        "आइसलैंड",
+        "स्वीडन"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration (Cube)",
+      "q": "If the diagonal of a cube is $\\sqrt{12}$ cm, what is its volume?",
+      "hq": "यदि एक घन (cube) का विकर्ण $\\sqrt{12}$ सेमी है, तो इसका आयतन क्या है?",
+      "o": [
+        "8 cm³",
+        "12 cm³",
+        "64 cm³",
+        "27 cm³"
+      ],
+      "ho": [
+        "8 सेमी³",
+        "12 सेमी³",
+        "64 सेमी³",
+        "27 सेमी³"
+      ],
+      "a": 0,
+      "e": "**Best Method (Diagonal Relation):**\n1. Diagonal of cube = $a\\sqrt{3}$.\n2. Given: $a\\sqrt{3} = \\sqrt{12}$.\n$a\\sqrt{3} = \\sqrt{4 \\times 3} = 2\\sqrt{3}$.\nSo, Side ($a$) = 2 cm.\n3. Volume = $a^3 = 2^3 = 8 \\text{ cm}^3$.",
+      "he": "**सबसे अच्छी विधि (विकर्ण संबंध):**\n\n1. घन का विकर्ण = $a\\sqrt{3}$।\n2. दिया गया है: $a\\sqrt{3} = \\sqrt{12}$।\n$a\\sqrt{3} = \\sqrt{4 \\times 3} = 2\\sqrt{3}$।\nइसलिए, भुजा ($a$) = 2 सेमी।\n3. आयतन = $a^3 = 2^3 = 8 \\text{ सेमी}^3$।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Awards (Literature)",
+      "q": "Who was awarded the International Booker Prize 2024 for the novel 'Kairos'?",
+      "hq": "उपन्यास 'कैरोस' (Kairos) के लिए अंतर्राष्ट्रीय बुकर पुरस्कार 2024 से किसे सम्मानित किया गया?",
+      "o": [
+        "Hwang Sok-yong",
+        "Jenny Erpenbeck",
+        "Itamar Vieira Junior",
+        "Ia Genberg"
+      ],
+      "ho": [
+        "ह्वांग सोक-योंग",
+        "जेनी एर्पेनबेक",
+        "इटामर विएरा जूनियर",
+        "इया गेनबर्ग"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations",
+      "q": "What will come in the place of the question mark (?) in the following equation, if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?\n$405 \\div 2 + 369 \\times 9 - 32 = ?$",
+      "hq": "यदि ‘+’ और ‘−’ को आपस में बदल दिया जाए और ‘×’ और ‘÷’ को आपस में बदल दिया जाए, तो निम्नलिखित समीकरण में प्रश्न चिह्न (?) के स्थान पर क्या आएगा?\n$405 \\div 2 + 369 \\times 9 - 32 = ?$",
+      "o": [
+        "804",
+        "801",
+        "803",
+        "802"
+      ],
+      "a": 1,
+      "e": "Step 1: Interchange signs according to the rule:\n$\\div \\to \\times$\n$+ \\to -$\n$\\times \\to \\div$\n$- \\to +$\nStep 2: Write the new equation:\n$405 \\times 2 - 369 \\div 9 + 32$\nStep 3: Apply BODMAS.\nDivide: $369 \\div 9 = 41$.\nMultiply: $405 \\times 2 = 810$.\nAdd/Sub: $810 - 41 + 32 = 769 + 32 = 801$.",
+      "he": "चरण 1: नियम के अनुसार चिह्नों को बदलें:\n$\\div \\to \\times$\n$+ \\to -$\n$\\times \\to \\div$\n$- \\to +$\nचरण 2: नया समीकरण लिखें:\n$405 \\times 2 - 369 \\div 9 + 32$\nचरण 3: BODMAS लागू करें।\nभाग: $369 \\div 9 = 41$।\nगुणा: $405 \\times 2 = 810$।\nजोड़/घटाव: $810 - 41 + 32 = 769 + 32 = 801$।",
+      "e2": "Quick check:\n$405 \\times 2 = 810$.\n$369 / 9 = 41$.\nExpression becomes $810 - 41 + 32$.\n$810 - 9 = 801$. (Since $-41 + 32 = -9$).\nResult: 801.",
+      "he2": "त्वरित जाँच:\n$405 \\times 2 = 810$।\n$369 / 9 = 41$।\nव्यंजक $810 - 41 + 32$ बन जाता है।\n$810 - 9 = 801$। (चूंकि $-41 + 32 = -9$)।\nपरिणाम: 801।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy",
+      "q": "Nurse : Ward :: Teacher : ?",
+      "hq": "नर्स : वार्ड :: शिक्षक : ?",
+      "o": [
+        "Student",
+        "Board",
+        "Class",
+        "Lesson"
+      ],
+      "ho": [
+        "छात्र",
+        "बोर्ड",
+        "कक्षा",
+        "पाठ"
+      ],
+      "a": 2,
+      "e": "The relationship is **Professional : Place of Work**.\nA Nurse works in a Ward.\nSimilarly, a Teacher works in a Class (or Classroom).\nWhile a teacher interacts with students and lessons, the \"Class\" represents the specific workspace corresponding to the \"Ward.\"",
+      "he": "यह संबंध 'पेशेवर : कार्यस्थल' का है।\nएक नर्स वार्ड में काम करती है।\nइसी प्रकार, एक शिक्षक कक्षा (Class) में काम करता है।\nहालांकि शिक्षक छात्रों और पाठों के साथ बातचीत करता है, लेकिन \"कक्षा\" वह विशिष्ट कार्यक्षेत्र है जो \"वार्ड\" के अनुरूप है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Physics (Optics)",
+      "q": "A convex lens has a focal length of 50 cm. Calculate its power in Diopters.",
+      "hq": "एक उत्तल लेंस (convex lens) की फोकस दूरी 50 cm है। डायोप्टर (Diopters) में इसकी शक्ति की गणना करें।",
+      "o": [
+        "+0.5 D",
+        "+2.0 D",
+        "-2.0 D",
+        "+5.0 D"
+      ],
+      "a": 1,
+      "e": "Power of a lens ($P$) is the reciprocal of its focal length ($f$) in meters.\n$$P = \\frac{1}{f \\text{ (in meters)}}$$\nGiven: $f = 50 \\text{ cm} = 0.5 \\text{ m}$\n$$P = \\frac{1}{0.5} = +2.0 \\text{ D}$$\n(Note: Convex lens has positive power).\n",
+      "he": "लेंस की शक्ति ($P$), मीटर में उसकी फोकस दूरी ($f$) का व्युत्क्रम होती है। $$P = \\frac{1}{f \\text{ (मीटर में)}}$$ दिया गया है: $f = 50 \\text{ cm} = 0.5 \\text{ m}$ $$P = \\frac{1}{0.5} = +2.0 \\text{ D}$$ (नोट: उत्तल लेंस की शक्ति धनात्मक होती है)।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration (Semi-Circle)",
+      "q": "Find the perimeter of a semi-circle of radius $14 \\text{ cm}$.",
+      "hq": "14 सेमी त्रिज्या वाले एक अर्धवृत्त (semi-circle) का परिमाप ज्ञात कीजिए।",
+      "o": [
+        "$44 \\text{ cm}$",
+        "$72 \\text{ cm}$",
+        "$36 \\text{ cm}$",
+        "$88 \\text{ cm}$"
+      ],
+      "ho": [
+        "44 सेमी",
+        "72 सेमी",
+        "36 सेमी",
+        "88 सेमी"
+      ],
+      "a": 1,
+      "e": "Use the \"Direct Multiplier\" trick for semi-circle perimeter.\nPerimeter $= \\frac{36}{7} r$.\n$P = \\frac{36}{7} \\times 14 = 36 \\times 2 = 72 \\text{ cm}$.",
+      "he": "**अर्धवृत्त के परिमाप के लिए \"डायरेक्ट मल्टीप्लायर\" (Direct Multiplier) ट्रिक:**\nपरिमाप (Perimeter) $= \\frac{36}{7} r$\n$$P = \\frac{36}{7} \\times 14 = 36 \\times 2 = \\mathbf{72 \\text{ सेमी}}$$",
+      "e2": "Formula: $\\pi r + 2r$ (Curve + Diameter).\n$P = (\\frac{22}{7} \\times 14) + (2 \\times 14)$.\n$P = 44 + 28 = 72 \\text{ cm}$.\n",
+      "he2": "**सूत्र (Formula): $\\pi r + 2r$ (वक्र + व्यास)**\n$$P = \\left(\\frac{22}{7} \\times 14\\right) + (2 \\times 14)$$\n$$P = 44 + 28 = \\mathbf{72 \\text{ सेमी}}$$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Biology (Cell Biology)",
+      "q": "Which organelle is known as the 'Powerhouse of the Cell'?",
+      "hq": "किस कोशिकांग को 'कोशिका का पावरहाउस' कहा जाता है?",
+      "o": [
+        "Ribosome",
+        "Mitochondria",
+        "Nucleus",
+        "Lysosome"
+      ],
+      "ho": [
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया",
+        "केंद्रक",
+        "लाइसोसोम"
+      ],
+      "a": 1,
+      "e": "Mitochondria are called the powerhouse of the cell because they produce energy in the form of ATP (Adenosine Triphosphate) through cellular respiration.\n",
+      "he": "माइटोकॉन्ड्रिया को पावरहाउस कहा जाता है क्योंकि यह ATP के रूप में ऊर्जा बनाता है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Chemistry (Atomic Structure)",
+      "q": "Atoms of the same element having the same atomic number but different mass numbers are called:",
+      "hq": "एक ही तत्व के परमाणु जिनकी परमाणु संख्या समान लेकिन द्रव्यमान संख्या भिन्न होती है, उन्हें क्या कहा जाता है?",
+      "o": [
+        "Isobars",
+        "Isotopes",
+        "Isotones",
+        "Isomers"
+      ],
+      "ho": [
+        "समभारिक (Isobars)",
+        "समस्थानिक (Isotopes)",
+        "आइसोटोन (Isotones)",
+        "समावयवी (Isomers)"
+      ],
+      "a": 1,
+      "e": "Isotopes have the same number of protons (Atomic Number) but different number of neutrons (resulting in different Mass Numbers).\nExample: Carbon-12 and Carbon-14.\n* Isobars: Same mass number, different atomic number.\n",
+      "he": "समस्थानिकों में प्रोटॉन की संख्या (परमाणु संख्या) समान होती है लेकिन न्यूट्रॉन की संख्या भिन्न होती है (जिसके परिणामस्वरूप द्रव्यमान संख्या भिन्न होती है)। उदाहरण: कार्बन-12 और कार्बन-14। * समभारिक: समान द्रव्यमान संख्या, भिन्न परमाणु संख्या।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Compound Interest",
+      "q": "Find the Compound Interest on ₹4000 for 2 years at 5% per annum.",
+      "hq": "₹4000 पर 5% वार्षिक दर से 2 वर्ष का चक्रवृद्धि ब्याज (Compound Interest) ज्ञात कीजिए।",
+      "o": [
+        "₹405",
+        "₹410",
+        "₹420",
+        "₹400"
+      ],
+      "a": 1,
+      "e": "Use the \"2:1 Ratio Method\" for 2 years.\nStep 1: 5% of 4000 = 200.\nStep 2: 5% of 200 = 10.\nStep 3: Apply Ratio 2:1.\nCI = (2 × 200) + (1 × 10).\nCI = 400 + 10.\nCI = ₹410.",
+      "he": "**2 वर्ष के लिए \"2:1 अनुपात विधि\" का उपयोग करें:**\n**स्टेप 1:** 4000 का 5% = 200\n**स्टेप 2:** 200 का 5% = 10\n**स्टेप 3:** 2:1 अनुपात लागू करें।\n$$\\text{CI} = (2 \\times 200) + (1 \\times 10)$$\n$$\\text{CI} = 400 + 10$$\n$$\\text{CI} = \\mathbf{₹410}$$",
+      "e2": "Use the \"Tree Method\" (splitting years).\n1st Year Interest = 5% of 4000 = 200.\n2nd Year Interest = 200 + (Interest on 200).\nInterest on 200 = 5% of 200 = 10.\nTotal CI = 200 (Yr 1) + 200 (Yr 2) + 10 (Interest on Interest).\nTotal = 200 + 200 + 10 = ₹410.\n",
+      "he2": "**\"ट्री मेथड\" (Tree Method) का उपयोग करके:**\n**पहले वर्ष का ब्याज:** 4000 का 5% = 200\n**दूसरे वर्ष का ब्याज:** 200 + (200 पर ब्याज)\n**200 पर ब्याज:** 200 का 5% = 10\n**कुल चक्रवृद्धि ब्याज:**\n$$\\text{कुल CI} = 200 \\text{ (वर्ष 1)} + 200 \\text{ (वर्ष 2)} + 10 \\text{ (ब्याज पर ब्याज)}$$\n$$\\text{कुल} = 200 + 200 + 10 = \\mathbf{₹410}$$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Sports (Tennis)",
+      "q": "Who won the Women's Singles title at the US Open 2024?",
+      "hq": "यूएस ओपन 2024 में महिला एकल का खिताब किसने जीता?",
+      "o": [
+        "Iga Swiatek",
+        "Aryna Sabalenka",
+        "Coco Gauff",
+        "Jessica Pegula"
+      ],
+      "ho": [
+        "इगा स्वियातेक",
+        "आर्यना सबालेंका",
+        "कोको गॉफ",
+        "जेसिका पेगुला"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Reasoning",
+      "t": "Seating Arrangement (Parallel Rows)",
+      "q": "Study the given information carefully and answer the question that follows.\nIn a boat, people are sitting in two parallel rows...\nRow 1 (South Facing): Mani, Nani, Alex, Puri, Tuli.\nRow 2 (North Facing): Sharma, Atkin, Putin, Neha, Priya.\nKey Clues:\n1. Priya sits 3rd to right of Atkin (Atkin is at one end).\n2. Sharma sits 2nd to left of Priya.\n3. Person facing Sharma sits to immediate right of Nani.\n4. Puri sits 2nd to left of Nani.\n5. Mani is not neighbor of Nani.\n6. Two people between Mani and Alex.\nWho among the following is facing Tuli?",
+      "hq": "दी गई जानकारी का ध्यानपूर्वक अध्ययन करें और उसके बाद आने वाले प्रश्न का उत्तर दें।\nएक नाव में, लोग दो समानांतर पंक्तियों में बैठे हैं...\nपंक्ति 1 (दक्षिण की ओर मुख): मणि, नानी, एलेक्स, पुरी, तुली।\nपंक्ति 2 (उत्तर की ओर मुख): शर्मा, एटकिन, पुतिन, नेहा, प्रिया।\nमुख्य सुराग:\n1. प्रिया, एटकिन के दाएं से तीसरे स्थान पर बैठी है (एटकिन एक छोर पर है)।\n2. शर्मा, प्रिया के बाएं से दूसरे स्थान पर बैठा है।\n3. शर्मा की ओर मुख करने वाला व्यक्ति नानी के ठीक दाएं बैठा है।\n4. पुरी, नानी के बाएं से दूसरे स्थान पर बैठा है।\n5. मणि, नानी की पड़ोसी नहीं है।\n6. मणि और एलेक्स के बीच दो लोग बैठे हैं।\nनिम्नलिखित में से किसका मुख तुली की ओर है?",
+      "o": [
+        "Sharma",
+        "Priya",
+        "Neha",
+        "Atkin"
+      ],
+      "ho": [
+        "शर्मा",
+        "प्रिया",
+        "नेहा",
+        "एटकिन"
+      ],
+      "a": 0,
+      "e": "Step-by-step arrangement:\n1. **Row 2 (North)**: Atkin is at the extreme left end (to allow space for right). Priya is 3rd to right. Arrangement: `Atkin _ _ Priya _`.\n2. Sharma is 2nd to left of Priya: `Atkin Sharma _ Priya _`.\n3. **Row 1 (South)**: The person facing Sharma (Position 2) is to the immediate right of Nani.\n* *Note:* For South facing, \"Right\" is towards the visual Left. So, Nani is at Position 3. `_ (faces Sharma) Nani _ _`.\n4. Puri sits 2nd to left of Nani. (South \"Left\" is visual Right). So Puri is at Position 5. `_ _ Nani _ Puri`.\n5. Mani is not a neighbor of Nani. Mani cannot be at Pos 2 or 4. Mani must be at Pos 1. `Mani _ Nani _ Puri`.\n6. Two sit between Mani and Alex. Alex is at Pos 4. `Mani _ Nani Alex Puri`.\n7. Remaining spot (Pos 2) is Tuli.\n* **Final Row 1:** Mani, Tuli, Nani, Alex, Puri.\n* **Final Row 2:** Atkin, Sharma, Putin, Priya, Neha.\n* **Result:** Tuli (Pos 2) is facing **Sharma** (Pos 2).\n",
+      "he": "चरण-दर-चरण व्यवस्था:\n1. **पंक्ति 2 (उत्तर)**: एटकिन बाएं छोर पर है (ताकि दाईं ओर जगह रहे)। प्रिया उसके दाएं तीसरे स्थान पर है। व्यवस्था: `एटकिन _ _ प्रिया _`।\n2. शर्मा, प्रिया के बाएं से दूसरे स्थान पर है: `एटकिन शर्मा _ प्रिया _`।\n3. **पंक्ति 1 (दक्षिण)**: शर्मा (स्थान 2) की ओर मुख करने वाला व्यक्ति नानी के ठीक दाएं बैठा है।\n* *नोट:* दक्षिण की ओर मुख होने पर, \"दायां\" हमारे देखने वाले बाएं की ओर होता है। इसलिए, नानी स्थान 3 पर है। `_ (शर्मा के सामने) नानी _ _`।\n4. पुरी, नानी के बाएं से दूसरे स्थान पर बैठा है। (दक्षिण \"बायां\" हमारे देखने वाले दाएं की ओर है)। इसलिए पुरी स्थान 5 पर है। `_ _ नानी _ पुरी`।\n5. मणि, नानी की पड़ोसी नहीं है। मणि स्थान 2 या 4 पर नहीं हो सकती। मणि स्थान 1 पर होनी चाहिए। `मणि _ नानी _ पुरी`।\n6. मणि और एलेक्स के बीच दो लोग हैं। एलेक्स स्थान 4 पर है। `मणि _ नानी एलेक्स पुरी`।\n7. शेष स्थान (स्थान 2) तुली का है।\n* **अंतिम पंक्ति 1:** मणि, तुली, नानी, एलेक्स, पुरी।\n* **अंतिम पंक्ति 2:** एटकिन, शर्मा, पुतिन, प्रिया, नेहा।\n* **परिणाम:** तुली (स्थान 2) का मुख **शर्मा** (स्थान 2) की ओर है।\n\nविजुअल आरेख (ऊपर = दक्षिण मुखी, नीचे = उत्तर मुखी)\nपंक्ति 1 (द):  मणि    तुली    नानी    एलेक्स    पुरी\n|      |      |      |      |\nपंक्ति 2 (उ):  एटकिन  शर्मा   पुतिन   प्रिया    नेहा\n\nतुली के सामने वाली जोड़ी शर्मा है।",
+      "e2": "Visual Diagram (Top = South Facing, Bottom = North Facing)\nRow 1 (S):  Mani   Tuli   Nani   Alex   Puri\n|      |      |      |      |      |      |  \nRow 2 (N):  Atkin  Sharma Putin  Priya  Neha\n\nPair facing Tuli is Sharma.\n"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Static GK (World)",
+      "q": "What is the capital city of Australia?",
+      "hq": "ऑस्ट्रेलिया की राजधानी कौन सी है?",
+      "o": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "ho": [
+        "सिडनी (Sydney)",
+        "मेलबर्न (Melbourne)",
+        "कैनबरा (Canberra)",
+        "पर्थ (Perth)"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Surds)",
+      "q": "If $x = 7 + 4\\sqrt{3}$, find the value of $x + \\frac{1}{x}$.",
+      "hq": "यदि $x = 7 + 4\\sqrt{3}$ है, तो $x + \\frac{1}{x}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "$14$",
+        "$8\\sqrt{3}$",
+        "$7$",
+        "$18$"
+      ],
+      "a": 0,
+      "e": "Check difference of squares: $7^2 - (4\\sqrt{3})^2 = 49 - 48 = 1$.\nIf difference is $1$:\n$x + \\frac{1}{x} = 2 \\times \\text{Bigger Term}$.\nResult $= 2 \\times 7 = 14$.\n(Note: $x - \\frac{1}{x} = 2 \\times \\text{Smaller Term} = 8\\sqrt{3}$).",
+      "he": "**वर्गों के अंतर की जाँच करें:** $7^2 - (4\\sqrt{3})^2 = 49 - 48 = 1$\nयदि अंतर $1$ है, तो:\n$x + \\frac{1}{x} = 2 \\times \\text{बड़ी संख्या (Bigger Term)}$\n**परिणाम** $= 2 \\times 7 = \\mathbf{14}$\n(नोट: $x - \\frac{1}{x} = 2 \\times \\text{छोटी संख्या} = 8\\sqrt{3}$)",
+      "e2": "Rationalize $\\frac{1}{x}$.\n$\\frac{1}{7+4\\sqrt{3}} \\times \\frac{7-4\\sqrt{3}}{7-4\\sqrt{3}} = 7-4\\sqrt{3}$.\nAdd: $(7 + 4\\sqrt{3}) + (7 - 4\\sqrt{3}) = 14$.\n",
+      "he2": "**$\\frac{1}{x}$ का परिमेयीकरण (Rationalize) करके:**\n$$\\frac{1}{7+4\\sqrt{3}} \\times \\frac{7-4\\sqrt{3}}{7-4\\sqrt{3}} = 7-4\\sqrt{3}$$\n**जोड़ने पर:**\n$$(7 + 4\\sqrt{3}) + (7 - 4\\sqrt{3}) = \\mathbf{14}$$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Physics (Waves)",
+      "q": "A sound wave has a frequency of 2 kHz and a wavelength of 35 cm. Calculate the speed of the wave.",
+      "hq": "एक ध्वनि तरंग की आवृत्ति 2 kHz और तरंगदैर्घ्य (wavelength) 35 cm है। तरंग की गति की गणना करें।",
+      "o": [
+        "700 m/s",
+        "350 m/s",
+        "70 m/s",
+        "1000 m/s"
+      ],
+      "a": 0,
+      "e": "Wave speed ($v$) is the product of frequency ($f$) and wavelength ($\\lambda$).\nGiven: $f = 2 \\text{ kHz} = 2000 \\text{ Hz}$\n$\\lambda = 35 \\text{ cm} = 0.35 \\text{ m}$\n$$v = f \\times \\lambda$$\n$$v = 2000 \\times 0.35 = 700 \\text{ m/s}$$\n",
+      "he": "तरंग की गति ($v$) आवृत्ति ($f$) और तरंगदैर्घ्य ($\\lambda$) का गुणनफल होती है। दिया गया है: $f = 2 \\text{ kHz} = 2000 \\text{ Hz}$ $\\lambda = 35 \\text{ cm} = 0.35 \\text{ m}$ $$v = f \\times \\lambda$$ $$v = 2000 \\times 0.35 = 700 \\text{ m/s}$$"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Data Sufficiency",
+      "q": "Nitu goes to the market with 3 similar sized bags. How much weight can these three bags carry together?\nStatement:\n1. Half of each bag is 1 kg.\n2. The first and second bags are green while the third one is black.",
+      "hq": "नीतू 3 समान आकार के बैग लेकर बाजार जाती है। ये तीनों बैग मिलकर कितना वजन उठा सकते हैं?\nकथन:\n1. प्रत्येक बैग का आधा हिस्सा 1 किलो का है।\n2. पहला और दूसरा बैग हरा है जबकि तीसरा काला है।",
+      "o": [
+        "Only Statement I sufficient.",
+        "Only Statement II sufficient.",
+        "Either Statement I or II sufficient.",
+        "Both Statement I and II sufficient."
+      ],
+      "ho": [
+        "केवल कथन I पर्याप्त है।",
+        "केवल कथन II पर्याप्त है।",
+        "या तो कथन I या II पर्याप्त है।",
+        "कथन I और II दोनों पर्याप्त हैं।"
+      ],
+      "a": 0,
+      "e": "To find the total weight capacity, we need numerical data about the bags' capacity.\nFrom Statement 1: \"Half of each bag is 1 kg.\" This implies a full bag holds 2 kg. Since there are 3 bags, the total capacity is $3 \\times 2 = 6$ kg. This is sufficient to answer the question.\nFrom Statement 2: The color of the bags is irrelevant to their weight capacity.\nTherefore, only Statement I is sufficient.\n",
+      "he": "कुल वजन क्षमता ज्ञात करने के लिए, हमें बैग की क्षमता के बारे में संख्यात्मक डेटा की आवश्यकता है।\nकथन 1 से: \"प्रत्येक बैग का आधा हिस्सा 1 किलो का है।\" इसका तात्पर्य है कि एक पूरा बैग 2 किलो उठा सकता है। चूंकि 3 बैग हैं, इसलिए कुल क्षमता $3 \\times 2 = 6$ किलो है। यह प्रश्न का उत्तर देने के लिए पर्याप्त है।\nकथन 2 से: बैग का रंग उनकी वजन क्षमता के लिए अप्रासंगिक है।\nइसलिए, केवल कथन I पर्याप्त है।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Work",
+      "q": "A is twice as efficient as B. If B can complete a piece of work in 20 days, in how many days can A complete the same work?",
+      "hq": "A की कार्यक्षमता B से दोगुनी है। यदि B किसी कार्य को 20 दिनों में पूरा कर सकता है, तो A उसी कार्य को कितने दिनों में पूरा कर सकता है?",
+      "o": [
+        "10 days",
+        "15 days",
+        "40 days",
+        "5 days"
+      ],
+      "ho": [
+        "10 दिन",
+        "15 दिन",
+        "40 दिन",
+        "5 दिन"
+      ],
+      "a": 0,
+      "e": "Efficiency Ratio A:B = 2:1.\nTime Ratio A:B = 1:2.\nIf B takes 20 days (2 units), A takes 1 unit.\nTime for A = $20/2 = \\mathbf{10}$ days.",
+      "he": "**कार्यक्षमता का अनुपात (Efficiency Ratio):**\nA : B = 2 : 1\n**समय का अनुपात (Time Ratio):**\nचूँकि समय, कार्यक्षमता का उल्टा होता है, इसलिए:\nसमय का अनुपात A : B = 1 : 2\n**गणना:**\nयदि B को 20 दिन लगते हैं (यानी 2 यूनिट = 20 दिन),\nतो A को 1 यूनिट समय लगेगा।\nA का समय = $20 / 2 = \\mathbf{10}$ दिन।",
+      "e2": "**Step 1: Understand Efficiency vs Time.**\nEfficiency is inversely proportional to Time.\nIf A is 2 times faster, A takes half the time.\n\n**Step 2: Calculate.**\nTime taken by B = 20 days.\nTime taken by A = $20 / 2 = 10$ days.\n",
+      "he2": "**Step-by-Step आसान तरीका:**\n**1. कार्यक्षमता बनाम समय को समझें:**\nकार्यक्षमता, समय के व्युत्क्रमानुपाती (inversely proportional) होती है।\nयदि A, B से 2 गुना तेज है, तो A को B से आधा समय लगेगा।\n**2. गणना:**\nB द्वारा लिया गया समय = 20 दिन।\nA द्वारा लिया गया समय = $20 / 2 = \\mathbf{10}$ दिन।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Physics (Electricity - Power)",
+      "q": "An electric bulb is rated 220 V and 100 W. When it is operated on 110 V, the power consumed will be:",
+      "hq": "एक इलेक्ट्रिक बल्ब पर 220 V और 100 W अंकित है। जब इसे 110 V पर चलाया जाता है, तो खपत की गई शक्ति होगी:",
+      "o": [
+        "100 W",
+        "75 W",
+        "25 W",
+        "50 W"
+      ],
+      "a": 2,
+      "e": "First, find the resistance ($R$) of the bulb.\n$$P = \\frac{V^2}{R} \\Rightarrow R = \\frac{V^2}{P} = \\frac{220 \\times 220}{100} = 484 \\ \\Omega$$\nNow, calculate power at $V' = 110 \\text{ V}$.\n$$P' = \\frac{(V')^2}{R} = \\frac{110 \\times 110}{484} = \\frac{12100}{484} = 25 \\text{ W}$$\n(Since voltage is halved, power becomes 1/4th).\n",
+      "he": "पहले, बल्ब का प्रतिरोध ($R$) ज्ञात करें। $$P = \\frac{V^2}{R} \\Rightarrow R = \\frac{V^2}{P} = \\frac{220 \\times 220}{100} = 484 \\ \\Omega$$ अब, $V' = 110 \\text{ V}$ पर शक्ति की गणना करें। $$P' = \\frac{(V')^2}{R} = \\frac{110 \\times 110}{484} = \\frac{12100}{484} = 25 \\text{ W}$$ (चूंकि वोल्टेज आधा हो गया है, इसलिए शक्ति 1/4 हो जाती है)।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Indices and Rankings",
+      "q": "What is India's rank in the World Economic Forum's 'Energy Transition Index' 2024?",
+      "hq": "विश्व आर्थिक मंच के 'ऊर्जा संक्रमण सूचकांक' (Energy Transition Index) 2024 में भारत का रैंक क्या है?",
+      "o": [
+        "63rd",
+        "67th",
+        "55th",
+        "72nd"
+      ],
+      "ho": [
+        "63वां",
+        "67वां",
+        "55वां",
+        "72वां"
+      ],
+      "a": 0
+    },
+    {
+      "s": "General Awareness",
+      "t": "International Affairs (NATO)",
+      "q": "Which country officially became the 32nd member of NATO (North Atlantic Treaty Organization) in March 2024?",
+      "hq": "मार्च 2024 में कौन सा देश आधिकारिक तौर पर नाटो (NATO - उत्तर अटलांटिक संधि संगठन) का 32वां सदस्य बना?",
+      "o": [
+        "Finland",
+        "Ukraine",
+        "Sweden",
+        "Austria"
+      ],
+      "ho": [
+        "फिनलैंड",
+        "यूक्रेन",
+        "स्वीडन",
+        "ऑस्ट्रिया"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Awareness",
+      "t": "History",
+      "q": "The battle of Plassey was fought in which year?",
+      "hq": "प्लासी का युद्ध (Battle of Plassey) किस वर्ष लड़ा गया था?",
+      "o": [
+        "1757",
+        "1764",
+        "1857",
+        "1905"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Surds)",
+      "q": "Find the value of $\\sqrt{30 + \\sqrt{30 + \\sqrt{30 + \\dots}}}$",
+      "hq": "$\\sqrt{30 + \\sqrt{30 + \\sqrt{30 + \\dots}}}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "5",
+        "6",
+        "30",
+        "15"
+      ],
+      "a": 1,
+      "e": "Shortcut: For $\\sqrt{x + \\sqrt{x + \\dots}}$, find consecutive factors of $x$.\n$30 = 5 \\times 6$.\nFor '$+$' sign, answer is the **larger** factor.\nAns = **6**.",
+      "he": "**शॉर्टकट तरीका (Shortcut Method):**\nजब प्रश्न $\\sqrt{x + \\sqrt{x + \\dots}}$ के रूप में हो, तो $x$ के ऐसे दो गुणनखंड (factors) निकालें जिनके बीच का अंतर 1 हो (क्रमागत गुणनखंड)।\nयहाँ $x = 30$ है।\n$30 = 5 \\times 6$.\nचूँकि सीरीज में **'$+$'** का चिन्ह है, इसलिए **बड़ा** वाला गुणनखंड ही उत्तर होगा।\nउत्तर = **6**.",
+      "e2": "**Step 1: Assume the expression is equal to x.**\nLet $x = \\sqrt{30 + \\sqrt{30 + \\sqrt{30 + \\dots}}}$\n\n**Step 2: Square both sides.**\n$x^2 = 30 + x$ (Since the infinite series remains $x$ inside).\n\n**Step 3: Solve the quadratic equation.**\n$x^2 - x - 30 = 0$.\nFind factors of -30 that add to -1: (-6 and +5).\n$(x - 6)(x + 5) = 0$.\n\n**Step 4: Find roots.**\n$x = 6$ or $x = -5$.\nSince a square root result is positive, $x = 6$.\n",
+      "he2": "**Step-by-Step तरीका:**\n**1. मान लीजिए कि पूरी वैल्यू x के बराबर है:**\n$x = \\sqrt{30 + \\sqrt{30 + \\sqrt{30 + \\dots}}}$\n**2. दोनों तरफ वर्ग (Square) करने पर:**\n$x^2 = 30 + x$\n(क्योंकि अनंत सीरीज में से एक पद निकालने पर भी वह $x$ ही रहता है)।\n**3. द्विघात समीकरण (Quadratic Equation) को हल करें:**\n$x^2 - x - 30 = 0$\n-30 के ऐसे गुणनखंड खोजें जिन्हें जोड़ने पर -1 आए: (-6 और +5)।\n$(x - 6)(x + 5) = 0$\n**4. मूल (Roots) ज्ञात करें:**\n$x = 6$ या $x = -5$\nचूँकि वर्गमूल का परिणाम धनात्मक (positive) होता है, इसलिए $x = 6$।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "International Summits",
+      "q": "Which country assumed the Presidency of the G20 for the year 2025?",
+      "hq": "वर्ष 2025 के लिए किस देश ने G20 की अध्यक्षता संभाली?",
+      "o": [
+        "Brazil",
+        "India",
+        "South Africa",
+        "USA"
+      ],
+      "ho": [
+        "ब्राजील",
+        "भारत",
+        "दक्षिण अफ्रीका",
+        "अमेरिका"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Awareness",
+      "t": "Sports (Stadiums)",
+      "q": "Where is the famous 'Eden Gardens' cricket stadium located?",
+      "hq": "प्रसिद्ध 'ईडन गार्डन्स' (Eden Gardens) क्रिकेट स्टेडियम कहाँ स्थित है?",
+      "o": [
+        "Mumbai",
+        "Chennai",
+        "Kolkata",
+        "Kanpur"
+      ],
+      "ho": [
+        "मुंबई",
+        "चेन्नई",
+        "कोलकाता",
+        "कानपुर"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Mathematics",
+      "t": "Trigonometry (Complementary Angles)",
+      "q": "Find the value of $\\sin^2 25^\\circ + \\sin^2 65^\\circ$.",
+      "hq": "$\\sin^2 25^\\circ + \\sin^2 65^\\circ$ का मान ज्ञात कीजिए।",
+      "o": [
+        "$0$",
+        "$1$",
+        "$2$",
+        "$0.5$"
+      ],
+      "a": 1,
+      "e": "Pair Trick: If $A + B = 90^\\circ$, then $\\sin^2 A + \\sin^2 B = 1$.\nHere $25^\\circ + 65^\\circ = 90^\\circ$.\nAnswer $= 1$.",
+      "he": "**जोड़ी ट्रिक (Pair Trick):** यदि $A + B = 90^\\circ$ हो, तो $\\sin^2 A + \\sin^2 B = 1$ होता है।\nयहाँ $25^\\circ + 65^\\circ = 90^\\circ$ है।\nअतः उत्तर $= \\mathbf{1}$।",
+      "e2": "Convert one angle.\n$\\sin 65^\\circ = \\sin(90^\\circ - 25^\\circ) = \\cos 25^\\circ$.\nEquation becomes:\n$\\sin^2 25^\\circ + \\cos^2 25^\\circ$.\nIdentity $\\sin^2 \\theta + \\cos^2 \\theta = 1$.\n",
+      "he2": "**एक कोण को बदलें:**\n$$\\sin 65^\\circ = \\sin(90^\\circ - 25^\\circ) = \\cos 25^\\circ$$\nसमीकरण इस प्रकार होगा:\n$$\\sin^2 25^\\circ + \\cos^2 25^\\circ$$\nत्रिकोणमितीय सर्वसमिका (Identity) $\\sin^2 \\theta + \\cos^2 \\theta = 1$ के अनुसार इसका मान **1** है।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Number System (Unit Digit)",
+      "q": "Find the unit digit of $(234)^{100} + (234)^{101}$.",
+      "hq": "$(234)^{100} + (234)^{101}$ का इकाई अंक (unit digit) ज्ञात कीजिए।",
+      "o": [
+        "2",
+        "4",
+        "6",
+        "0"
+      ],
+      "a": 3,
+      "e": "Rule for 4:\n$4^{\\text{even}} \\to 6$.\n$4^{\\text{odd}} \\to 4$.\n$100$ is even $\\to 6$.\n$101$ is odd $\\to 4$.\nSum $= 6 + 4 = 10$.\nUnit digit is $0$.",
+      "he": "**संख्या 4 के लिए नियम:**\n$4^{\\text{सम (even)}} \\to 6$\n$4^{\\text{विषम (odd)}} \\to 4$\n100 सम है $\\to 6$\n101 विषम है $\\to 4$\nयोग $= 6 + 4 = 10$\nअतः इकाई अंक **0** है।",
+      "e2": "Calculate cyclicity.\n$4^1 = 4$\n$4^2 = 16$ (ends in 6)\n$4^3 = 64$ (ends in 4)\nPower 100 (even) gives 6.\nPower 101 (odd) gives 4.\n$6 + 4 = 10 \\implies 0$.",
+      "he2": "**चक्रीयता (Cyclicity) की गणना:**\n$4^1 = 4$\n$4^2 = 16$ (इकाई अंक 6)\n$4^3 = 64$ (इकाई अंक 4)\nघात 100 (सम) होने पर 6 मिलता है।\nघात 101 (विषम) होने पर 4 मिलता है।\n$6 + 4 = 10 \\implies \\mathbf{0}$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Work",
+      "q": "12 men or 24 boys can do a work in 20 days. In how many days will 24 men and 12 boys together complete the same work?",
+      "hq": "12 पुरुष या 24 लड़के किसी कार्य को 20 दिनों में करते हैं। 24 पुरुष और 12 लड़के मिलकर वही कार्य कितने दिनों में करेंगे?",
+      "o": [
+        "10",
+        "8",
+        "12",
+        "6"
+      ],
+      "a": 1,
+      "e": "Relation: $12M = 24B \\Rightarrow 1M = 2B$.\nTeam: $24M + 12B = 24(2B) + 12B = 60B$.\nTotal Work (in Boys): $24B \\times 20 = 480$.\nTime $= \\frac{480}{60} = \\mathbf{8}$ days.",
+      "he": "संबंध: $12M = 24B \\Rightarrow 1M = 2B$।\nTeam: $24M + 12B = 24(2B) + 12B = 60B$।\nTotal Work (in Boys): $24B \\times 20 = 480$।\nTime $= \\frac{480}{60} = \\mathbf{8}$ दिन।",
+      "e2": "**Step 1: Establish efficiency relationship.**\n\"12 Men or 24 Boys\" means their total output is equal.\n$12 \\text{ Men} = 24 \\text{ Boys} \\Rightarrow 1 \\text{ Man} = 2 \\text{ Boys}$.\n\n**Step 2: Convert everything to one unit (Boys).**\nTarget Team: 24 Men + 12 Boys.\nConvert Men to Boys: $24 \\text{ Men} = 24 \\times 2 = 48 \\text{ Boys}$.\nTotal Team Strength $= 48 \\text{ Boys} + 12 \\text{ Boys} = 60 \\text{ Boys}$.\n\n**Step 3: Calculate Total Work.**\nGiven: 24 Boys take 20 days.\nTotal Work $= 24 \\times 20 = 480$ units.\n\n**Step 4: Calculate Time.**\nDays $= \\frac{\\text{Total Work}}{\\text{New Strength}} = \\frac{480}{60} = 8$ days.",
+      "he2": "**Step 1: दक्षता का संबंध बनाएं।**\n\"12 पुरुष या 24 लड़के\" का अर्थ है कि दोनों की कार्य क्षमता समान है।\n$12 \\text{ पुरुष} = 24 \\text{ लड़के} \\Rightarrow 1 \\text{ पुरुष} = 2 \\text{ लड़के}$।\n**Step 2: सभी को एक इकाई (लड़के) में बदलें।**\nTarget Team: 24 पुरुष + 12 लड़के।\nपुरुषों को लड़कों में बदलें: $24 \\text{ पुरुष} = 24 \\times 2 = 48 \\text{ लड़के}$।\nTotal Team Strength $= 48 \\text{ लड़के} + 12 \\text{ लड़के} = 60 \\text{ लड़के}$।\n**Step 3: कुल कार्य निकालें।**\nदिया गया है: 24 लड़के 20 दिनों में कार्य करते हैं।\nTotal Work $= 24 \\times 20 = 480$ इकाइयाँ।\n**Step 4: समय निकालें।**\nDays $= \\frac{\\text{कुल कार्य}}{\\text{नई क्षमता}} = \\frac{480}{60} = 8$ दिन।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Syllogism",
+      "q": "Statement:\nSome beds are rivers.\nAll rivers are mats.\nConclusion:\n1. All mats are rivers.\n2. Some beds are mats.",
+      "hq": "कथन:\nकुछ बेड नदियाँ हैं।\nसभी नदियाँ मैट (mats) हैं।\nनिष्कर्ष:\n1. सभी मैट नदियाँ हैं।\n2. कुछ बेड मैट हैं।",
+      "o": [
+        "Neither conclusion 1 nor 2 follows",
+        "Either conclusion 1 or 2 follows",
+        "Only conclusion 1 follows",
+        "Only conclusion 2 follows"
+      ],
+      "ho": [
+        "न तो निष्कर्ष 1 और न ही 2 अनुसरण करता है",
+        "या तो निष्कर्ष 1 या 2 अनुसरण करता है",
+        "केवल निष्कर्ष 1 अनुसरण करता है",
+        "केवल निष्कर्ष 2 अनुसरण करता है"
+      ],
+      "a": 3,
+      "e": "1. \"All rivers are mats\" does not imply \"All mats are rivers\" (Mat is the outer circle). Conclusion 1 is false.\n2. Since \"Some beds are rivers\" and \"All rivers are mats\", the part of the bed that is a river must also be a mat. Thus, \"Some beds are mats\" is true.\n",
+      "he": "1. \"सभी नदियाँ मैट हैं\" का मतलब यह नहीं है कि \"सभी मैट नदियाँ हैं\" (मैट बाहरी घेरा है)। निष्कर्ष 1 गलत है।\n2. चूँकि \"कुछ बेड नदियाँ हैं\" और \"सभी नदियाँ मैट हैं\", इसलिए बेड का वह हिस्सा जो नदी है, वह मैट भी होना चाहिए। अतः, \"कुछ बेड मैट हैं\" सत्य है।"
+    }
+  ]
+}

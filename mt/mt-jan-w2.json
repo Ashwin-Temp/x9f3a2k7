@@ -1,0 +1,1846 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "Reasoning",
+      "t": "Statement and Assumption",
+      "q": "Statement: Earlier there were many birds in the bird sanctuary.\nAssumption:\nI. Birds migrate and come to the sanctuary during a particular time period of the year.\nII. There were good water resources in that area.",
+      "hq": "कथन: पहले पक्षी अभयारण्य में बहुत सारे पक्षी थे।\nपूर्वधारणा (Assumption):\nI. पक्षी वर्ष की एक विशेष समयावधि के दौरान प्रवास (migrate) करते हैं और अभयारण्य में आते हैं।\nII. उस क्षेत्र में जल संसाधन अच्छे थे।",
+      "o": [
+        "I and II both are implicit",
+        "Only II is implicit",
+        "Neither I nor II is implicit",
+        "Only I is implicit"
+      ],
+      "ho": [
+        "I और II दोनों अंतर्निहित हैं",
+        "केवल II अंतर्निहित है",
+        "न तो I और न ही II अंतर्निहित है",
+        "केवल I अंतर्निहित है"
+      ],
+      "a": 3,
+      "e": "The word \"Earlier\" in the statement suggests a temporal change. Assumption I explains why there were many birds previously (migration during a specific period), making it a logical link to the statement. Assumption II, while potentially true in reality, cannot be directly inferred or assumed solely from the statement provided. Hence, only I is implicit.\n",
+      "he": "कथन में \"पहले\" शब्द एक समय के साथ आए बदलाव का संकेत देता है। पूर्वधारणा I स्पष्ट करती है कि पहले पक्षी अधिक क्यों थे (एक विशिष्ट अवधि के दौरान प्रवास), जो इसे कथन से तार्किक रूप से जोड़ता है। पूर्वधारणा II, हालांकि वास्तविकता में सही हो सकती है, लेकिन इसे केवल दिए गए कथन से सीधे अनुमानित नहीं किया जा सकता है। इसलिए, केवल I अंतर्निहित है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "International Affairs",
+      "q": "Donald Trump has been elected as the _____ President of the United States in the 2024 elections.",
+      "hq": "डोनाल्ड ट्रंप को 2024 के चुनावों में संयुक्त राज्य अमेरिका के _____ राष्ट्रपति के रूप में चुना गया है।",
+      "o": [
+        "45th",
+        "46th",
+        "47th",
+        "48th"
+      ],
+      "ho": [
+        "45वें",
+        "46वें",
+        "47वें",
+        "48वें"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit and Loss (Equivalent Discount)",
+      "q": "Find the single discount equivalent to two successive discounts of $20\\%$ and $5\\%$.",
+      "hq": "20% और 5% की दो क्रमिक छूट (successive discounts) के बराबर एकल छूट (single discount) ज्ञात कीजिए।",
+      "o": [
+        "$25\\%$",
+        "$23\\%$",
+        "$24.5\\%$",
+        "$24\\%$"
+      ],
+      "ho": [
+        "25%",
+        "23%",
+        "24.5%",
+        "24%"
+      ],
+      "a": 3,
+      "e": "Use Formula: $A + B - \\frac{AB}{100}$.\n$20 + 5 - \\frac{20 \\times 5}{100}$.\n$25 - \\frac{100}{100}$.\n$25 - 1 = 24\\%$.",
+      "he": "**सूत्र का उपयोग करें:** $A + B - \\frac{AB}{100}$\n$$20 + 5 - \\frac{20 \\times 5}{100}$$\n$$25 - \\frac{100}{100}$$\n$$25 - 1 = \\mathbf{24\\%}$$",
+      "e2": "Let MP $= 100$.\nFirst discount $20\\% \\implies 80$.\nSecond discount $5\\%$ on $80$.\n$10\\%$ is $8$, so $5\\%$ is $4$.\nPrice $= 80 - 4 = 76$.\nTotal Discount $= 100 - 76 = 24\\%$.\n",
+      "he2": "**माना अंकित मूल्य (MP) $= 100$ है:**\nपहली छूट $20\\% \\implies 80$ (शेष मूल्य)\nअब $80$ पर $5\\%$ की दूसरी छूट:\n$80$ का $10\\%$ होता है $8$, इसलिए $5\\%$ होगा $4$।\nअंतिम मूल्य $= 80 - 4 = 76$\nकुल छूट $= 100 - 76 = \\mathbf{24\\%}$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time & Work (Together)",
+      "q": "A can do a piece of work in 10 days and B can do the same work in 15 days. If they work together, in how many days will the work be completed?",
+      "hq": "A एक काम को 10 दिनों में कर सकता है और B उसी काम को 15 दिनों में कर सकता है। यदि वे एक साथ काम करते हैं, तो काम कितने दिनों में पूरा होगा?",
+      "o": [
+        "5 days",
+        "6 days",
+        "8 days",
+        "7.5 days"
+      ],
+      "ho": [
+        "5 दिन",
+        "6 दिन",
+        "8 दिन",
+        "7.5 दिन"
+      ],
+      "a": 1,
+      "e": "**Best Method (Product/Sum Formula):**\n$$\\text{Time} = \\frac{A \\times B}{A + B}$$\n\n$$\\text{Time} = \\frac{10 \\times 15}{10 + 15} = \\frac{150}{25} = 6 \\text{ days}.$$\n",
+      "he": "**सबसे अच्छी विधि (गुणनफल/योग सूत्र):**\n$$\\text{समय} = \\frac{A \\times B}{A + B}$$\n\n$$\\text{समय} = \\frac{10 \\times 15}{10 + 15} = \\frac{150}{25} = 6 \\text{ दिन}।$$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "General Science (Biology)",
+      "q": "Which part of the cell is called the 'Powerhouse of the Cell'?",
+      "hq": "कोशिका के किस भाग को 'कोशिका का पावरहाउस' (Powerhouse of the Cell) कहा जाता है?",
+      "o": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Lysosome"
+      ],
+      "ho": [
+        "नाभिक (Nucleus)",
+        "माइटोकॉन्ड्रिया (Mitochondria)",
+        "राइबोसोम (Ribosome)",
+        "लाइसोसोम (Lysosome)"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Awareness",
+      "t": "Physics (Electricity - Heat)",
+      "q": "100 Joules of heat are produced each second in a $4 \\ \\Omega$ resistor. Find the potential difference across the resistor.",
+      "hq": "एक $4 \\ \\Omega$ के प्रतिरोधक में प्रति सेकंड 100 जूल ऊष्मा उत्पन्न होती है। प्रतिरोधक के सिरों पर विभवांतर (Potential Difference) ज्ञात कीजिए।",
+      "o": [
+        "20 V",
+        "400 V",
+        "25 V",
+        "10 V"
+      ],
+      "a": 0,
+      "e": "Heat produced per second is Electric Power ($P$).\nGiven: $P = 100 \\text{ W (J/s)}$, $R = 4 \\ \\Omega$.\nFormula: $P = \\frac{V^2}{R}$\n$$V^2 = P \\times R = 100 \\times 4 = 400$$\n$$V = \\sqrt{400} = 20 \\text{ V}$$\n",
+      "he": "प्रति सेकंड उत्पन्न ऊष्मा विद्युत शक्ति ($P$) कहलाती है। दिया गया है: $P = 100 \\text{ W (J/s)}$, $R = 4 \\ \\Omega$। सूत्र: $P = \\frac{V^2}{R}$ $$V^2 = P \\times R = 100 \\times 4 = 400$$ $$V = \\sqrt{400} = 20 \\text{ V}$$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration (Percentage Change)",
+      "q": "If the side of a square is increased by 20%, find the percentage increase in its Area.",
+      "hq": "यदि एक वर्ग (square) की भुजा में 20% की वृद्धि की जाती है, तो उसके क्षेत्रफल में प्रतिशत वृद्धि ज्ञात कीजिए।",
+      "o": [
+        "40%",
+        "44%",
+        "20%",
+        "36%"
+      ],
+      "a": 1,
+      "e": "Use the \"Successive Percentage\" formula (A + B + AB/100).\nHere A=20, B=20.\nChange = 20 + 20 + (20 × 20)/100.\nChange = 40 + (400/100).\nChange = 40 + 4 = 44%.",
+      "he": "**\"क्रमिक प्रतिशत\" (Successive Percentage) सूत्र का उपयोग करें:**\n$$\\text{परिवर्तन} = A + B + \\frac{AB}{100}$$\nयहाँ $A=20$ और $B=20$ है।\n**गणना:**\n$$\\text{परिवर्तन} = 20 + 20 + \\frac{20 \\times 20}{100}$$\n$$\\text{परिवर्तन} = 40 + \\frac{400}{100}$$\n$$\\text{परिवर्तन} = 40 + 4 = \\mathbf{44\\%}$$",
+      "e2": "Assume side = 10.\nOriginal Area = 10 × 10 = 100.\nNew side = 12 (20% increase).\nNew Area = 12 × 12 = 144.\nIncrease = 144 - 100 = 44.\n% Increase = 44%.\n",
+      "he2": "**वैकल्पिक विधि (मान मानकर):**\n**1. प्रारंभिक स्थिति:**\nमाना भुजा = 10\nमूल क्षेत्रफल = $10 \\times 10 = 100$\n**2. नई स्थिति:**\nनई भुजा = 12 (20% वृद्धि के बाद)\nनया क्षेत्रफल = $12 \\times 12 = 144$\n**3. वृद्धि की गणना:**\nवृद्धि = $144 - 100 = 44$\nप्रतिशत वृद्धि = **44%**"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Chemistry (Periodic Table)",
+      "q": "Which of the following is a Noble Gas?",
+      "hq": "निम्नलिखित में से कौन सी एक उत्कृष्ट गैस (Noble Gas) है?",
+      "o": [
+        "Nitrogen",
+        "Chlorine",
+        "Argon",
+        "Hydrogen"
+      ],
+      "ho": [
+        "नाइट्रोजन",
+        "क्लोरीन",
+        "आर्गन",
+        "हाइड्रोजन"
+      ],
+      "a": 2,
+      "e": "Argon ($Ar$) is a Noble Gas (Group 18). These gases are chemically inert/unreactive.\nOther noble gases: Helium, Neon, Krypton, Xenon, Radon.\n",
+      "he": "आर्गन ($Ar$) एक उत्कृष्ट गैस (समूह 18) है। ये गैसें रासायनिक रूप से निष्क्रिय/अक्रियाशील होती हैं। अन्य उत्कृष्ट गैसें: हीलियम, नियॉन, क्रिप्टन, जेनन, रेडॉन।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit and Loss",
+      "q": "The marked price of an item is 25% above its cost price. If a shopkeeper allows a discount of 10% on the marked price, what is his profit percentage?",
+      "hq": "किसी वस्तु (Item) का अंकित मूल्य (Marked Price) उसके क्रय मूल्य (Cost Price) से 25% अधिक है। यदि दुकानदार (Shopkeeper) अंकित मूल्य पर 10% की छूट (Discount) देता है, तो उसका लाभ प्रतिशत (Profit %) क्या होगा?",
+      "o": [
+        "15%",
+        "10%",
+        "12.5%",
+        "20%"
+      ],
+      "a": 2,
+      "e": "Let CP = 100.\nMP = 125 (25% above).\nDiscount = 10% of 125 = 12.5.\nSP = $125 - 12.5 = 112.5$.\nProfit = $112.5 - 100 = \\mathbf{12.5\\%}$.",
+      "he": "मान लें CP = 100।\nMP = 125 (25% अधिक)।\nDiscount = 125 का 10% = 12.5।\nSP = $125 - 12.5 = 112.5$।\nProfit = $112.5 - 100 = \\mathbf{12.5\\%}$।",
+      "e2": "**Step 1: Assume Cost Price.**\nLet Cost Price (CP) = ₹100.\n\n**Step 2: Calculate Marked Price (MP).**\nMP is 25% more than CP.\nMP = $100 + 25 = 125$.\n\n**Step 3: Apply Discount.**\nDiscount is 10% of MP.\nDiscount = $0.10 \\times 125 = 12.5$.\nSelling Price (SP) = MP - Discount\nSP = $125 - 12.5 = 112.5$.\n\n**Step 4: Calculate Profit.**\nProfit = SP - CP = $112.5 - 100 = 12.5$.\nProfit % = 12.5%.\n",
+      "he2": "**Step 1: क्रय मूल्य मान लें (Assume Cost Price).**\nCost Price (CP) = ₹100 मान लें।\n**Step 2: अंकित मूल्य निकालें (Calculate Marked Price).**\nअंकित मूल्य CP से 25% अधिक है।\nMP = $100 + 25 = 125$।\n**Step 3: छूट लगाएं (Apply Discount).**\nछूट अंकित मूल्य का 10% है।\nDiscount = $0.10 \\times 125 = 12.5$।\nSelling Price (SP) = MP − Discount\nSP = $125 - 12.5 = 112.5$।\n**Step 4: लाभ निकालें (Calculate Profit).**\nProfit = SP − CP = $112.5 - 100 = 12.5$।\nProfit % = 12.5%।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Number Series (Operations)",
+      "q": "This question is based on the five, three-digit numbers given below.\n(Left) 740 636 787 884 316 (Right)\nWhat will be the resultant if the second digit of the highest number is added to the third digit of the lowest number?",
+      "hq": "यह प्रश्न नीचे दी गई पाँच, तीन-अंकीय संख्याओं पर आधारित है।\n(बाएं) 740 636 787 884 316 (दाएं)\nयदि सबसे बड़ी संख्या के दूसरे अंक को सबसे छोटी संख्या के तीसरे अंक में जोड़ा जाए तो परिणाम क्या होगा?",
+      "o": [
+        "14",
+        "17",
+        "13",
+        "15"
+      ],
+      "a": 0,
+      "e": "Step-by-step analysis:\n1. Identify Highest Number: Compare 740, 636, 787, 884, 316. Highest is **884**.\n2. Identify Lowest Number: Lowest is **316**.\n3. Get Digits:\n* Second digit of Highest (8**8**4) $\\to$ **8**.\n* Third digit of Lowest (31**6**) $\\to$ **6**.\n4. Add them: $8 + 6 = 14$.",
+      "he": "चरण-दर-चरण विश्लेषण:\n1. सबसे बड़ी संख्या पहचानें: 740, 636, 787, 884, 316 की तुलना करें। सबसे बड़ी संख्या **884** है।\n2. सबसे छोटी संख्या पहचानें: सबसे छोटी संख्या **316** है।\n3. अंक प्राप्त करें:\n* सबसे बड़ी संख्या का दूसरा अंक (884) $\\to$ **8**।\n* सबसे छोटी संख्या का तीसरा अंक (316) $\\to$ **6**।\n4. उन्हें जोड़ें: $8 + 6 = 14$।\nत्वरित जाँच:\nसबसे बड़ी संख्या 8 से शुरू होती है $\\to$ 884 $\\to$ बीच का अंक 8 है।\nसबसे छोटी संख्या 3 से शुरू होती है $\\to$ 316 $\\to$ अंतिम अंक 6 है।\nयोग = 8 + 6 = 14।",
+      "e2": "Quick Visual Check:\nHighest starts with 8 $\\to$ 884 $\\to$ Middle digit is 8.\nLowest starts with 3 $\\to$ 316 $\\to$ Last digit is 6.\nSum = 8 + 6 = 14."
+    },
+    {
+      "s": "General Awareness",
+      "t": "Chemistry (Mole Concept)",
+      "q": "What is the mass of 1 mole of Water ($H_2O$)?",
+      "hq": "जल ($H_2O$) के 1 मोल का द्रव्यमान कितना होता है?",
+      "o": [
+        "18 g",
+        "10 g",
+        "20 g",
+        "16 g"
+      ],
+      "a": 0,
+      "e": "Atomic masses: $H = 1$, $O = 16$.\nMolecular mass of $H_2O = (2 \\times 1) + 16 = 2 + 16 = 18 \\text{ g/mol}$.\n",
+      "he": "परमाणु द्रव्यमान: $H = 1$, $O = 16$। $H_2O$ का आणविक द्रव्यमान = $(2 \\times 1) + 16 = 2 + 16 = 18 \\text{ g/mol}$।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Indian Railways",
+      "q": "When was the first passenger train run in India (between Bombay and Thane)?",
+      "hq": "भारत में पहली यात्री ट्रेन (बंबई और ठाणे के बीच) कब चली थी?",
+      "o": [
+        "1853",
+        "1854",
+        "1856",
+        "1858"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Reasoning",
+      "t": "Syllogism",
+      "q": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.\nStatements:\nSome guns are bombs.\nSome guns are cargos.\nSome bombs are riffles.\nConclusions:\n(I): Some guns are riffles.\n(II): Some bombs are cargos.",
+      "hq": "दिए गए कथनों और निष्कर्षों को ध्यान से पढ़ें। कथनों में दी गई जानकारी को सत्य मानते हुए, भले ही वह सामान्य रूप से ज्ञात तथ्यों से भिन्न प्रतीत हो, तय करें कि कौन सा/से निष्कर्ष कथनों का तार्किक रूप से अनुसरण करता/करते है/हैं।\nकथन:\nकुछ बंदूकें बम हैं।\nकुछ बंदूकें कार्गो हैं।\nकुछ बम राइफल हैं।\nनिष्कर्ष:\n(I): कुछ बंदूकें राइफल हैं।\n(II): कुछ बम कार्गो हैं।",
+      "o": [
+        "Only conclusion (II) follows.",
+        "Only conclusion (I) follows.",
+        "Both conclusions (I) and (II) follow.",
+        "Neither conclusion (I) nor (II) follows."
+      ],
+      "ho": [
+        "केवल निष्कर्ष (II) अनुसरण करता है।",
+        "केवल निष्कर्ष (I) अनुसरण करता है।",
+        "निष्कर्ष (I) और (II) दोनों अनुसरण करते हैं।",
+        "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है।"
+      ],
+      "a": 3,
+      "e": "\n1. **Analyze Statement 1 & 3:** \"Some guns are bombs\" and \"Some bombs are riffles\". There is a common link (Bombs), but no definite link between Guns and Riffles. The parts of \"Bombs\" that are \"Guns\" might be totally separate from the parts that are \"Riffles\". Thus, Conclusion I does not follow.\n2. **Analyze Statement 1 & 2:** \"Some guns are bombs\" and \"Some guns are cargos\". There is a common link (Guns), but no definite link between Bombs and Cargos. The specific \"Guns\" that are \"Bombs\" may not be the same \"Guns\" that are \"Cargos\". Thus, Conclusion II does not follow.\nSince neither is definitely true, the answer is **Neither conclusion (I) nor (II) follows**.",
+      "he": "1. कथन 1 और 3 का विश्लेषण: \"कुछ बंदूकें बम हैं\" और \"कुछ बम राइफल हैं\"। इनके बीच बम का सामान्य लिंक है, लेकिन बंदूक और राइफल के बीच कोई निश्चित संबंध नहीं है। \"बम\" का वह हिस्सा जो \"बंदूक\" है, \"राइफल\" वाले हिस्से से पूरी तरह अलग हो सकता है। अतः, निष्कर्ष I अनुसरण नहीं करता।\n2. कथन 1 और 2 का विश्लेषण: \"कुछ बंदूकें बम हैं\" और \"कुछ बंदूकें कार्गो हैं\"। इनके बीच बंदूक का सामान्य लिंक है, लेकिन बम और कार्गो के बीच कोई निश्चित संबंध नहीं है। वे \"बंदूकें\" जो \"बम\" हैं, आवश्यक नहीं कि वही \"बंदूकें\" \"कार्गो\" भी हों। अतः, निष्कर्ष II अनुसरण नहीं करता।\nचूँकि कोई भी निश्चित रूप से सत्य नहीं है, उत्तर है: न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Direction and Distance",
+      "q": "Sundar starts from point A and drives 12 km towards the east. He then takes a left turn, drives 9 km, turns left and drives 13 km. He then takes a left turn and drives 11 km. He takes a final left turn, drives 1 km and stops at point P. How far (shortest distance) and towards which direction should he drive in order to reach point A again?",
+      "hq": "सुंदर बिंदु A से शुरू करता है और पूर्व की ओर 12 किमी ड्राइव करता है। फिर वह बाएं मुड़ता है और 9 किमी ड्राइव करता है, फिर बाएं मुड़ता है और 13 किमी ड्राइव करता है। उसके बाद वह फिर से बाएं मुड़ता है और 11 किमी ड्राइव करता है। अंत में वह एक बार फिर बाएं मुड़ता है, 1 किमी ड्राइव करता है और बिंदु P पर रुक जाता है। बिंदु A तक फिर से पहुँचने के लिए उसे कितनी दूर (न्यूनतम दूरी) और किस दिशा में ड्राइव करना चाहिए?",
+      "o": [
+        "2 km to the south",
+        "1 km to the north",
+        "2 km to the north",
+        "1 km to the south"
+      ],
+      "ho": [
+        "2 किमी दक्षिण की ओर",
+        "1 किमी उत्तर की ओर",
+        "2 किमी उत्तर की ओर",
+        "1 किमी दक्षिण की ओर"
+      ],
+      "a": 2,
+      "e": "\nLet A be at origin (0,0).\n1. 12 km East $\\rightarrow$ (12, 0).\n2. Left (North) 9 km $\\rightarrow$ (12, 9).\n3. Left (West) 13 km $\\rightarrow$ (12 - 13, 9) = (-1, 9).\n4. Left (South) 11 km $\\rightarrow$ (-1, 9 - 11) = (-1, -2).\n5. Left (East) 1 km $\\rightarrow$ (-1 + 1, -2) = (0, -2).\nPoint P is at (0, -2). Point A is at (0, 0).\nTo go from P to A, he must travel **2 km North**.",
+      "he": "मान लीजिए बिंदु A मूल बिंदु (0,0) पर है।\n1. 12 किमी पूर्व $\\to$ (12, 0)\n2. बाएं (उत्तर) 9 किमी $\\to$ (12, 9)\n3. बाएं (पश्चिम) 13 किमी $\\to$ (12 - 13, 9) = (-1, 9)\n4. बाएं (दक्षिण) 11 किमी $\\to$ (-1, 9 - 11) = (-1, -2)\n5. बाएं (पूर्व) 1 किमी $\\to$ (-1 + 1, -2) = (0, -2)\nबिंदु P (0, -2) पर है। बिंदु A (0, 0) पर है।\nP से A तक जाने के लिए, उसे **2 किमी उत्तर** की ओर यात्रा करनी होगी।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Series (Alphanumeric)",
+      "q": "Count symbols that are immediately preceded by a number and immediately followed by a symbol (Number $\\to$ Symbol $\\to$ Symbol).\nSeries: 3 £ & 1 2 © 2 5 $ 9 3 © 9 4 3 % 9 3 # © 6 2",
+      "hq": "उन प्रतीकों की गणना करें जिनके ठीक पहले एक संख्या है और ठीक बाद में एक प्रतीक है (संख्या → प्रतीक → प्रतीक)।\nश्रृंखला: 3 £ & 1 2 © 2 5 $ 9 3 © 9 4 3 % 9 3 # © 6 2",
+      "o": [
+        "2",
+        "4",
+        "3",
+        "1"
+      ],
+      "a": 0,
+      "e": "Scan for the pattern **[Number - Symbol - Symbol]**:\n1.  **3 £ &** $\\to$ Number (3), Symbol (£), Symbol (&). (Count 1).\n2.  ... 2 © 2 (No - ends with number)\n3.  ... 5 $ 9 (No - ends with number)\n4.  ... 3 © 9 (No - ends with number)\n5.  ... 3 % 9 (No - ends with number)\n6.  **3 # ©** $\\to$ Number (3), Symbol (#), Symbol (©). (Count 2).\nTotal such combinations = 2.",
+      "he": "**[संख्या - प्रतीक - प्रतीक]** पैटर्न के लिए स्कैन करें:\n1. **3 £ &** → संख्या (3), प्रतीक (£), प्रतीक (&)। (गणना 1)।\n2. ... 2 © 2 (नहीं - संख्या पर समाप्त होता है)\n3. ... 5 $ 9 (नहीं - संख्या पर समाप्त होता है)\n4. ... 3 © 9 (नहीं - संख्या पर समाप्त होता है)\n5. ... 3 % 9 (नहीं - संख्या पर समाप्त होता है)\n6. **3 # ©** → संख्या (3), प्रतीक (#), प्रतीक (©)। (गणना 2)।\nकुल ऐसे संयोजन = 2।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding Decoding",
+      "q": "If \"APPLE\" is coded as \"BQQMF\", how is \"ORANGE\" coded?",
+      "hq": "यदि \"APPLE\" को \"BQQMF\" के रूप में कूटबद्ध किया गया है, तो \"ORANGE\" को कैसे कूटबद्ध किया जाएगा?",
+      "o": [
+        "PSBOHF",
+        "PSBPHF",
+        "PSBOHG",
+        "PSBOIF"
+      ],
+      "a": 0,
+      "e": "Logic: Forward Shift by $+1$.\nA $(+1) \\to$ B\nP $(+1) \\to$ Q\nP $(+1) \\to$ Q\nL $(+1) \\to$ M\nE $(+1) \\to$ F\nApplying to **ORANGE**:\nO $(+1) \\to$ P\nR $(+1) \\to$ S\nA $(+1) \\to$ B\nN $(+1) \\to$ O\nG $(+1) \\to$ H\nE $(+1) \\to$ F\nResult: **PSBOHF**.",
+      "he": "तर्क: प्रत्येक अक्षर में $+1$ की आगे की शिफ्ट।\nA $(+1) \\to$ B\nP $(+1) \\to$ Q\nP $(+1) \\to$ Q\nL $(+1) \\to$ M\nE $(+1) \\to$ F\n**ORANGE** पर लागू करने पर:\nO $(+1) \\to$ P\nR $(+1) \\to$ S\nA $(+1) \\to$ B\nN $(+1) \\to$ O\nG $(+1) \\to$ H\nE $(+1) \\to$ F\nपरिणाम: **PSBOHF**।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Number System (HCF of Fractions)",
+      "q": "Find the HCF of $\\frac{2}{3}, \\frac{8}{9}, \\frac{64}{81}$.",
+      "hq": "$\\frac{2}{3}, \\frac{8}{9}, \\frac{64}{81}$ का महत्तम समापवर्तक (HCF) ज्ञात कीजिए।",
+      "o": [
+        "2/3",
+        "8/81",
+        "2/81",
+        "8/9"
+      ],
+      "a": 2,
+      "e": "**Best Method (Fraction Formula):**\n$$\\text{HCF of Fractions} = \\frac{\\text{HCF of Numerators}}{\\text{LCM of Denominators}}$$\n\n* HCF of Numerators (2, 8, 64) = 2\n* LCM of Denominators (3, 9, 81) = 81\n\nResult = $\\frac{2}{81}$.\n",
+      "he": "**सबसे अच्छी विधि (भिन्नों का सूत्र):**\n$$\\text{भिन्नों का HCF} = \\frac{\\text{अंशों का HCF}}{\\text{हरों का LCM}}$$\n\n* अंशों (2, 8, 64) का HCF = 2\n* हरों (3, 9, 81) का LCM = 81\n\nपरिणाम = $\\frac{2}{81}$।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Odd One Out",
+      "q": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the odd one.",
+      "hq": "चार अक्षर-समूह दिए गए हैं, जिनमें से तीन किसी न किसी रूप में एक समान हैं और एक भिन्न है। विषम का चयन करें।",
+      "o": [
+        "OQS",
+        "JLN",
+        "UWY",
+        "ADG"
+      ],
+      "a": 3,
+      "e": "Analyze the difference between consecutive letters in each cluster.\n1.  **OQS**: O (+2) $\\to$ Q (+2) $\\to$ S. (Pattern: +2, +2)\n2.  **JLN**: J (+2) $\\to$ L (+2) $\\to$ N. (Pattern: +2, +2)\n3.  **UWY**: U (+2) $\\to$ W (+2) $\\to$ Y. (Pattern: +2, +2)\n4.  **ADG**: A (**+3**) $\\to$ D (**+3**) $\\to$ G. (Pattern: +3, +3)\nADG is the odd one out as it follows a different pattern.",
+      "he": "प्रत्येक समूह में क्रमागत अक्षरों के बीच के अंतर का विश्लेषण करें।\n1. OQS: O (+2) → Q (+2) → S. (पैटर्न: +2, +2)\n2. JLN: J (+2) → L (+2) → N. (पैटर्न: +2, +2)\n3. UWY: U (+2) → W (+2) → Y. (पैटर्न: +2, +2)\n4. ADG: A (+3) → D (+3) → G. (पैटर्न: +3, +3)\nADG विषम है क्योंकि यह एक अलग पैटर्न का अनुसरण करता है।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Seating Arrangement",
+      "q": "Seven people, N, O, P, Q, R, S and T, are sitting in a straight line facing north. T is sitting at one of the ends of the line. Only two people are sitting to the left of R. P is sitting to the immediate right of R and immediate left of S. Q is sitting to the immediate left of O. Q does not sit at an extreme end of the line. How many people are sitting between O and N?",
+      "hq": "सात व्यक्ति N, O, P, Q, R, S और T एक सीधी रेखा में उत्तर की ओर मुख करके बैठे हैं। T पंक्ति के किसी एक छोर पर बैठा है। R के बाईं ओर केवल दो व्यक्ति बैठे हैं। P, R के ठीक दाईं ओर और S के ठीक बाईं ओर बैठा है। Q, O के ठीक बाईं ओर बैठा है। Q पंक्ति के किसी अंतिम छोर पर नहीं बैठा है। O और N के बीच कितने व्यक्ति बैठे हैं?",
+      "o": [
+        "Two",
+        "Zero",
+        "Four",
+        "One"
+      ],
+      "ho": [
+        "दो",
+        "शून्य",
+        "चार",
+        "एक"
+      ],
+      "a": 2,
+      "e": "\n1. Total 7 positions: _ _ _ _ _ _ _\n2. \"Only two people are sitting to the left of R\": R is at the 3rd position.\n_ _ R _ _ _ _\n3. \"P is to the immediate right of R and immediate left of S\":\n_ _ R P S _ _\n4. \"T is at one of the ends\": If T is at the right end, the line is _ _ R P S _ T. If T is at the left end, the line is T _ R P S _ _.\n5. \"Q is to the immediate left of O\" and \"Q is not at an extreme end\":\nCase 1: (T at right end) _ Q O R P S T -> Q is 2nd, O is 3rd. But R is already at 3rd. (Invalid)\nCase 2: (T at left end) T Q O R P S N -> Q is 2nd, O is 3rd. But R is 3rd. (Invalid)\nCorrect Placement: The only spot for the Q-O pair where Q is not at an end is positions 6 and 7.\nArrangement: **T N R P S Q O** (T is at left end, N is 2nd, R is 3rd, P is 4th, S is 5th, Q is 6th, O is 7th).\n6. People between O (7th) and N (2nd): R, P, S, Q (**Four** people).",
+      "he": "1. कुल 7 स्थान: _ _ _ _ _ _ _\n2. \"R के बाईं ओर केवल दो व्यक्ति बैठे हैं\": R तीसरे स्थान पर है।\n_ _ R _ _ _ _\n3. \"P, R के ठीक दाईं ओर और S के ठीक बाईं ओर है\":\n_ _ R P S _ _\n4. \"T एक छोर पर है\": यदि T दाएं छोर पर है, तो पंक्ति _ _ R P S _ T होगी। यदि T बाएं छोर पर है, तो पंक्ति T _ R P S _ _ होगी।\n5. \"Q, O के ठीक बाईं ओर है\" और \"Q किसी छोर पर नहीं है\":\nस्थिति 1: (T दाएं छोर पर) _ Q O R P S T -> Q दूसरे और O तीसरे स्थान पर है, लेकिन R पहले से ही तीसरे पर है। (अमान्य)\nस्थिति 2: (T बाएं छोर पर) T Q O R P S N -> Q दूसरे और O तीसरे स्थान पर है, लेकिन R तीसरे पर है। (अमान्य)\nसही व्यवस्था: Q-O जोड़ी के लिए एकमात्र स्थान जहाँ Q छोर पर न हो, वह छठा और सातवां स्थान है।\nक्रम: T N R P S Q O (T बाएं छोर पर, N दूसरे, R तीसरे, P चौथे, S पांचवें, Q छठे और O सातवें स्थान पर है)।\n6. O (7वें) और N (2वें) के बीच के व्यक्ति: R, P, S, Q (कुल चार व्यक्ति)।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Defence Appointments",
+      "q": "Who was appointed as the new Chief of the Naval Staff (CNS) of India in April 2024?",
+      "hq": "अप्रैल 2024 में भारत के नए नौसेना प्रमुख (CNS) के रूप में किसे नियुक्त किया गया?",
+      "o": [
+        "Admiral R. Hari Kumar",
+        "Admiral Karambir Singh",
+        "Admiral Dinesh K. Tripathi",
+        "Admiral Sunil Lanba"
+      ],
+      "ho": [
+        "एडमिरल आर. हरि कुमार",
+        "एडमिरल करमबीर सिंह",
+        "एडमिरल दिनेश के. त्रिपाठी",
+        "एडमिरल सुनील लांबा"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Awareness",
+      "t": "History",
+      "q": "Who was the founder of the 'Arya Samaj'?",
+      "hq": "'आर्य समाज' के संस्थापक कौन थे?",
+      "o": [
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy",
+        "Swami Dayanand Saraswati",
+        "Ishwar Chandra Vidyasagar"
+      ],
+      "ho": [
+        "स्वामी विवेकानंद",
+        "राजा राम मोहन राय",
+        "स्वामी दयानंद सरस्वती",
+        "ईश्वर चंद्र विद्यासागर"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Awareness",
+      "t": "History",
+      "q": "In which year did the 'Dandi March' take place?",
+      "hq": "'दांडी मार्च' (Dandi March) किस वर्ष हुआ था?",
+      "o": [
+        "1920",
+        "1930",
+        "1940",
+        "1942"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit and Loss",
+      "q": "A man sells two watches for ₹99 each. On one he gains 10% and on the other he loses 10%. What is the net effect?",
+      "hq": "एक व्यक्ति दो घड़ियाँ (Watches) ₹99-₹99 में बेचता है। एक घड़ी पर उसे 10% का लाभ (Gain) होता है और दूसरी पर 10% की हानि (Loss)। कुल परिणाम (Net effect) क्या होगा?",
+      "o": [
+        "1% Gain",
+        "1% Loss",
+        "No Gain No Loss",
+        "2% Loss"
+      ],
+      "a": 1,
+      "e": "Shortcut: Always a Loss of $(x^2/100)\\%$.\nLoss $= (10^2)/100 = 100/100 = \\mathbf{1\\%}$ Loss.",
+      "he": "शॉर्टकट तरीका (Shortcut): हमेशा हानि होती है = $(x^2/100)\\%$।\nहानि (Loss) $= (10^2)/100 = 100/100 = \\mathbf{1\\%}$ Loss।",
+      "e2": "* When SP is same and Gain% = Loss% = x.\n* Net result is always Loss.\n* Formula: $x^2 / 100$ %.\n* $10 \\times 10 / 100 = 1\\%$.",
+      "he2": "\n* जब दोनों का विक्रय मूल्य (SP) समान हो और Gain% = Loss% = x हो।\n* तो कुल परिणाम हमेशा हानि (Loss) ही होता है।\n* सूत्र (Formula): $x^2 / 100$ %।\n* $10 \\times 10 / 100 = 1\\%$।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit and Loss",
+      "q": "By selling an article for ₹900, a man gains 20%. Find the Cost Price (CP).",
+      "hq": "किसी वस्तु को ₹900 में बेचने पर, एक व्यक्ति को 20% का लाभ होता है। वस्तु का क्रय मूल्य (CP) ज्ञात कीजिए।",
+      "o": [
+        "₹750",
+        "₹720",
+        "₹800",
+        "₹700"
+      ],
+      "a": 0,
+      "e": "Use the \"Fraction Method\" (Best for mental math).\n20% = 1/5.\nSince it is gain, SP becomes (5 + 1) = 6 units.\n6 units = ₹900.\n1 unit = 900 / 6 = ₹150.\nCP is 5 units.\nCP = 5 × 150 = ₹750.",
+      "he": "**\"फ्रैक्शन मेथड\" (Fraction Method) का उपयोग करें:**\n$20\\% = 1/5$\nचूँकि यह लाभ है, इसलिए विक्रय मूल्य (SP) = $(5 + 1) = 6$ यूनिट होगा।\n$6$ यूनिट = ₹900\n$1$ यूनिट = $900 / 6$ = ₹150\nक्रय मूल्य (CP) $5$ यूनिट है।\n$$\\text{CP} = 5 \\times 150 = \\mathbf{₹750}$$",
+      "e2": "Use the \"100 Method\".\nLet CP = 100%.\nProfit = 20%.\nSP = 120%.\n120% = 900.\n1% = 900 / 120 = 7.5.\nCP (100%) = 7.5 × 100 = ₹750.",
+      "he2": "**\"100 मेथड\" का उपयोग करके:**\nमान लीजिए क्रय मूल्य (CP) = $100\\%$\nलाभ (Profit) = $20\\%$\nविक्रय मूल्य (SP) = $120\\%$\n$$120\\% = 900$$\n$$1\\% = 900 / 120 = 7.5$$\n$$\\text{CP } (100\\%) = 7.5 \\times 100 = \\mathbf{₹750}$$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Government Schemes (Education)",
+      "q": "The 'APAAR ID' recently seen in the news is associated with which sector?",
+      "hq": "हाल ही में समाचारों में देखी गई 'APAAR ID' किस क्षेत्र से संबंधित है?",
+      "o": [
+        "Agriculture",
+        "Education (One Nation, One Student ID)",
+        "MSME",
+        "Defence"
+      ],
+      "ho": [
+        "कृषि",
+        "शिक्षा (वन नेशन, वन स्टूडेंट आईडी)",
+        "MSME",
+        "रक्षा"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration (Cube)",
+      "q": "The diagonal of a cube is $6\\sqrt{3} \\text{ cm}$. Find its volume.",
+      "hq": "एक घन (cube) का विकर्ण $6\\sqrt{3}$ सेमी है। इसका आयतन ज्ञात कीजिए।",
+      "o": [
+        "$216 \\text{ cm}^3$",
+        "$512 \\text{ cm}^3$",
+        "$125 \\text{ cm}^3$",
+        "$343 \\text{ cm}^3$"
+      ],
+      "ho": [
+        "$216 \\text{ सेमी}^3$",
+        "$512 \\text{ सेमी}^3$",
+        "$125 \\text{ सेमी}^3$",
+        "$343 \\text{ सेमी}^3$"
+      ],
+      "a": 0,
+      "e": "Formula: Diagonal $= a\\sqrt{3}$.\n$a\\sqrt{3} = 6\\sqrt{3} \\implies a = 6$.\nVolume $= a^3 = 6^3 = 216 \\text{ cm}^3$.",
+      "he": "**सूत्र (Formula):** विकर्ण $= a\\sqrt{3}$\n$$a\\sqrt{3} = 6\\sqrt{3} \\implies a = 6$$\nआयतन (Volume) $= a^3 = 6^3 = \\mathbf{216 \\text{ सेमी}^3}$",
+      "e2": "Use Pythagoras in 3D.\n$D = \\sqrt{l^2 + b^2 + h^2}$.\nSince it is a cube, $D = \\sqrt{a^2 + a^2 + a^2} = \\sqrt{3a^2} = a\\sqrt{3}$.\nGiven $a\\sqrt{3} = 6\\sqrt{3}$, so Side $= 6$.\nVol $= 6 \\times 6 \\times 6 = 216$.\n\n[Image of cube diagonal formula]\n\n",
+      "he2": "**3D में पाइथागोरस का उपयोग करके:**\n$$D = \\sqrt{l^2 + b^2 + h^2}$$\nचूँकि यह एक घन है, इसलिए $D = \\sqrt{a^2 + a^2 + a^2} = \\sqrt{3a^2} = a\\sqrt{3}$\nदिया गया है $a\\sqrt{3} = 6\\sqrt{3}$, इसलिए भुजा (Side) $= 6$\nआयतन $= 6 \\times 6 \\times 6 = \\mathbf{216}$\n[Image of cube diagonal formula]"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration",
+      "q": "If the radius of the base of a cylinder is halved and its height is doubled, then the volume of the cylinder will:",
+      "hq": "यदि किसी बेलन (cylinder) के आधार की त्रिज्या आधी कर दी जाए और उसकी ऊँचाई दोगुनी कर दी जाए, तो बेलन का आयतन:",
+      "o": [
+        "Remain the same",
+        "Become half",
+        "Become double",
+        "Become four times"
+      ],
+      "ho": [
+        "समान रहेगा",
+        "आधा हो जाएगा",
+        "दोगुना हो जाएगा",
+        "चार गुना हो जाएगा"
+      ],
+      "a": 1,
+      "e": "Formula: $V = \\pi r^2 h$\nNew $r' = r/2$, New $h' = 2h$.\n$V' = \\pi (r/2)^2 (2h)$\n$V' = \\pi \\frac{r^2}{4} \\times 2h = \\frac{1}{2} (\\pi r^2 h)$.\nVolume becomes **Half**.",
+      "he": "**बेलन के आयतन का फॉर्मूला (Formula):**\nआयतन ($V$) = $\\pi r^2 h$\n**बदलाव के बाद की स्थिति:**\n• नई त्रिज्या ($r'$) = $r/2$ (आधी)\n• नई ऊँचाई ($h'$) = $2h$ (दोगुनी)\n**नया आयतन ($V'$):**\n$V' = \\pi (r/2)^2 (2h)$\n$V' = \\pi \\frac{r^2}{4} \\times 2h$\n$V' = \\frac{1}{2} (\\pi r^2 h)$\nअतः, नया आयतन पहले वाले आयतन का **आधा** हो जाएगा।",
+      "e2": "**Step 1: Write original volume formula.**\nVolume $V = \\pi r^2 h$.\n\n**Step 2: Apply changes.**\nNew Radius $r' = \\frac{r}{2}$.\nNew Height $h' = 2h$.\n\n**Step 3: Calculate new volume.**\n$V' = \\pi (r')^2 h'$\n$V' = \\pi \\left(\\frac{r}{2}\\right)^2 (2h)$\n$V' = \\pi \\times \\frac{r^2}{4} \\times 2h$\n$V' = \\frac{1}{2} \\pi r^2 h$.\n\n**Step 4: Compare.**\nNew Volume is half of the original volume.\n",
+      "he2": "**Step-by-Step आसान तरीका:**\n**1. मूल आयतन (Original Volume):**\n$V = \\pi r^2 h$\n**2. नए मान (New Values) रखें:**\nत्रिज्या को आधा ($r \\rightarrow r/2$) और ऊँचाई को दोगुना ($h \\rightarrow 2h$) किया गया है।\n**3. गणना (Calculation):**\nनया आयतन = $\\pi \\times (\\text{त्रिज्या})^2 \\times \\text{ऊँचाई}$\nनया आयतन = $\\pi \\times (\\frac{r}{2})^2 \\times (2h)$\nनया आयतन = $\\pi \\times \\frac{r^2}{4} \\times 2h$\nनया आयतन = $\\frac{2}{4} \\pi r^2 h = \\frac{1}{2} \\pi r^2 h$\n**4. निष्कर्ष (Conclusion):**\nसाफ है कि नया आयतन ($\\frac{1}{2} V$) मूल आयतन का आधा है।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Trigonometry (Heights and Distances)",
+      "q": "The shadow of a tower standing on level ground is found to be $\\sqrt{3}$ times the height of the tower. The angle of elevation of the sun is:",
+      "hq": "समतल जमीन पर खड़ी एक मीनार की छाया, मीनार की ऊँचाई की $\\sqrt{3}$ गुनी पाई जाती है। सूर्य का उन्नयन कोण (angle of elevation) कितना है?",
+      "o": [
+        "$60^\\circ$",
+        "$45^\\circ$",
+        "$30^\\circ$",
+        "$90^\\circ$"
+      ],
+      "a": 2,
+      "e": "$\\tan \\theta = \\frac{\\text{Height}}{\\text{Shadow}}$\nLet Height $= h$. Shadow $= h\\sqrt{3}$.\n$\\tan \\theta = \\frac{h}{h\\sqrt{3}} = \\frac{1}{\\sqrt{3}}$.\n$\\theta = \\mathbf{30^\\circ}$.",
+      "he": "**त्रिकोणमिति का उपयोग (Using Trigonometry):**\n$\\tan \\theta = \\frac{\\text{ऊँचाई}}{\\text{छाया}}$\nमान लीजिए ऊँचाई $= h$ है।\nतो छाया $= h\\sqrt{3}$ होगी।\n$\\tan \\theta = \\frac{h}{h\\sqrt{3}} = \\frac{1}{\\sqrt{3}}$\nचूँकि $\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}$ होता है,\nइसलिए $\\theta = \\mathbf{30^\\circ}$।",
+      "e2": "**Step 1: Draw the diagram.**\nLet the height of the tower be $AB = h$.\nLet the shadow length be $BC = h\\sqrt{3}$.\nWe need to find the angle of elevation $\\theta$ at $C$.\n\n**Step 2: Use trigonometric ratio.**\nIn a right-angled triangle, $\\tan \\theta = \\frac{\\text{Opposite}}{\\text{Adjacent}}$.\n$\\tan \\theta = \\frac{AB}{BC}$.\n\n**Step 3: Substitute values.**\n$\\tan \\theta = \\frac{h}{h\\sqrt{3}}$.\n$\\tan \\theta = \\frac{1}{\\sqrt{3}}$.\n\n**Step 4: Find the angle.**\nWe know that $\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}$.\nTherefore, $\\theta = 30^\\circ$.\n",
+      "he2": "**Step-by-Step तरीका:**\n**1. चित्र को समझें:**\nमान लीजिए मीनार की ऊँचाई $AB = h$ है।\nमीनार की छाया की लंबाई $BC = h\\sqrt{3}$ है।\nहमें बिंदु $C$ पर बनने वाला उन्नयन कोण $\\theta$ ज्ञात करना है।\n**2. त्रिकोणमितीय अनुपात (Trigonometric Ratio):**\nएक समकोण त्रिभुज में, $\\tan \\theta = \\frac{\\text{लम्ब (Opposite)}}{\\text{आधार (Adjacent)}}$\nयहाँ, $\\tan \\theta = \\frac{AB}{BC}$\n**3. मान रखें:**\n$\\tan \\theta = \\frac{h}{h\\sqrt{3}}$\n$\\tan \\theta = \\frac{1}{\\sqrt{3}}$\n**4. कोण ज्ञात करें:**\nहम जानते हैं कि $\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}$ होता है।\nअतः, $\\theta = 30^\\circ$।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Sports",
+      "q": "The term 'Butterfly Stroke' is associated with which sport?",
+      "hq": "'बटरफ्लाई स्ट्रोक' (Butterfly Stroke) शब्द किस खेल से संबंधित है?",
+      "o": [
+        "Tennis",
+        "Swimming",
+        "Cricket",
+        "Wrestling"
+      ],
+      "ho": [
+        "टेनिस",
+        "तैराकी (Swimming)",
+        "क्रिकेट",
+        "कुश्ती"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding",
+      "q": "In a certain code language, if INCLUDE is coded as 4790825 and REVERT is coded as 351536 then how will DRIVER be coded as?",
+      "hq": "एक निश्चित कूट भाषा में, यदि INCLUDE को 4790825 के रूप में और REVERT को 351536 के रूप में कूटबद्ध किया जाता है, तो DRIVER को कैसे कूटबद्ध किया जाएगा?",
+      "o": [
+        "215343",
+        "251343",
+        "234315",
+        "234153"
+      ],
+      "a": 3,
+      "e": "Each letter is assigned a specific digit based on the given examples:\nI=4, N=7, C=9, L=0, U=8, D=2, E=5\nR=3, E=5, V=1, E=5, R=3, T=6\nBy picking the digits for **DRIVER**:\nD=2, R=3, I=4, V=1, E=5, R=3.\nSo, DRIVER = **234153**.\n",
+      "he": "दिए गए उदाहरणों के आधार पर प्रत्येक अक्षर को एक विशिष्ट अंक दिया गया है:\nI=4, N=7, C=9, L=0, U=8, D=2, E=5\nR=3, E=5, V=1, E=5, R=3, T=6\n**DRIVER** के लिए अंकों को चुनने पर:\nD=2, R=3, I=4, V=1, E=5, R=3\nअतः, DRIVER = 234153।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Arithmetical Operations",
+      "q": "If signs − and x, and numbers 5 and 14 are interchanged, then the value of 5 + 4 ÷ 2 − 8 x 14 is:",
+      "hq": "यदि चिह्न − और x, तथा संख्या 5 और 14 को आपस में बदल दिया जाता है, तो 5 + 4 ÷ 2 − 8 x 14 का मान क्या होगा:",
+      "o": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "a": 2,
+      "e": "Interchange signs (– with x) and numbers (5 with 14):\nNew Equation: $14 + 4 \\div 2 \\times 8 - 5$\nApply BODMAS:\n1. Division: $4 \\div 2 = 2$\n2. Multiplication: $2 \\times 8 = 16$\n3. Addition/Subtraction: $14 + 16 - 5 = 30 - 5 = \\mathbf{25}$.",
+      "he": "चिह्नों (– को x के साथ) और संख्याओं (5 को 14 के साथ) को आपस में बदलें:\nनया समीकरण: $14 + 4 \\div 2 \\times 8 - 5$\nBODMAS नियम लागू करने पर:\n1. भाग: $4 \\div 2 = 2$\n2. गुणा: $2 \\times 8 = 16$\n3. जोड़/घटाव: $14 + 16 - 5 = 30 - 5 = 25$"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy",
+      "q": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of ::?\n# : VEC :: BNW : %",
+      "hq": "निम्नलिखित में से कौन सा अक्षर-समूह # और % को प्रतिस्थापित करना चाहिए ताकि :: के बाईं ओर के अक्षर-समूह युग्म के बीच पैटर्न और संबंध वैसा ही हो जैसा :: के दाईं ओर के युग्म के बीच है?\n# : VEC :: BNW : %",
+      "o": [
+        "# = XHA, % = ZKY",
+        "# = ZKY, % = FTS",
+        "# = FTS, % = XHA",
+        "# = DQU, % = XHA"
+      ],
+      "a": 0,
+      "e": "\nLet's check Option 1: # = XHA, % = ZKY.\n**Left Pair (XHA : VEC):**\nX (24) $\\xrightarrow{-2}$ V (22)\nH (8) $\\xrightarrow{-3}$ E (5)\nA (1) $\\xrightarrow{+2}$ C (3)\nPattern: **-2, -3, +2**.\n\n**Right Pair (BNW : ZKY):**\nB (2) $\\xrightarrow{-2}$ Z (26)\nN (14) $\\xrightarrow{-3}$ K (11)\nW (23) $\\xrightarrow{+2}$ Y (25)\nPattern: **-2, -3, +2**.\nSince the pattern matches, Option 1 is correct.",
+      "he": "विकल्प 1 की जांच करते हैं: # = XHA, % = ZKY\n**बायां युग्म (XHA : VEC):**\nX (24) $\\xrightarrow{-2}$ V (22)\nH (8) $\\xrightarrow{-3}$ E (5)\nA (1) $\\xrightarrow{+2}$ C (3)\nपैटर्न: **-2, -3, +2**\n\n**दायां युग्म (BNW : ZKY):**\nB (2) $\\xrightarrow{-2}$ Z (26)\nN (14) $\\xrightarrow{-3}$ K (11)\nW (23) $\\xrightarrow{+2}$ Y (25)\nपैटर्न: **-2, -3, +2**\nचूंकि पैटर्न मेल खाता है, इसलिए विकल्प 1 सही है।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Percentage (Comparison)",
+      "q": "If A's income is $20\\%$ less than B's income, then by how much percent is B's income more than A's?",
+      "hq": "यदि A की आय B की आय से $20\\%$ कम है, तो B की आय A की आय से कितने प्रतिशत अधिक है?",
+      "o": [
+        "$20\\%$",
+        "$15\\%$",
+        "$33.33\\%$",
+        "$25\\%$"
+      ],
+      "a": 3,
+      "e": "Use \"Inverse Rule\".\n$20\\%$ less $= \\frac{1}{5}$ decrease.\nTo go back, increase numerator by denominator difference.\nTrick: $\\frac{R}{100 - R} \\times 100$.\n$\\frac{20}{80} \\times 100 = \\frac{1}{4} \\times 100 = 25\\%$.",
+      "he": "**\"व्युत्क्रम नियम\" (Inverse Rule) का उपयोग करें:**\n$20\\%$ कम $= \\frac{1}{5}$ की कमी।\nवापस जाने के लिए, अंश (numerator) को हर (denominator) के अंतर से बढ़ाएँ।\nट्रिक: $\\frac{R}{100 - R} \\times 100$\n$$\\frac{20}{80} \\times 100 = \\frac{1}{4} \\times 100 = \\mathbf{25\\%}$$",
+      "e2": "Let B $= 100$.\nA $= 80$ ($20$ less).\nB is more than A by $20$.\nCompare with A ($80$).\n$\\% = \\frac{20}{80} \\times 100 = 25\\%$.\n",
+      "he2": "**माना B की आय $= 100$ है:**\nतब A की आय $= 80$ ($20$ कम)\nB, A से $20$ अधिक है।\nअब A ($80$) से तुलना करने पर:\n$$\\% = \\frac{20}{80} \\times 100 = \\mathbf{25\\%}$$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Indian Polity",
+      "q": "Who appoints the Governor of a State in India?",
+      "hq": "भारत में किसी राज्य के राज्यपाल (Governor) की नियुक्ति कौन करता है?",
+      "o": [
+        "Chief Minister",
+        "Prime Minister",
+        "President of India",
+        "Chief Justice"
+      ],
+      "ho": [
+        "मुख्यमंत्री",
+        "प्रधानमंत्री",
+        "भारत के राष्ट्रपति",
+        "मुख्य न्यायाधीश"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Distance (Trains)",
+      "q": "Two trains of lengths 140m and 160m are running in opposite directions at 60 km/hr and 48 km/hr respectively. Time taken to cross each other is:",
+      "hq": "140 मीटर और 160 मीटर लंबाई की दो ट्रेनें क्रमशः 60 किमी/घंटा और 48 किमी/घंटा की गति से विपरीत दिशाओं में चल रही हैं। एक-दूसरे को पार करने में लिया गया समय है:",
+      "o": [
+        "12 sec",
+        "10 sec",
+        "15 sec",
+        "8 sec"
+      ],
+      "ho": [
+        "12 सेकंड",
+        "10 सेकंड",
+        "15 सेकंड",
+        "8 सेकंड"
+      ],
+      "a": 1,
+      "e": "Use \"Relative Speed\" concept.\nOpposite direction = Speed Adds.\nSpeed = 60 + 48 = 108 km/hr.\nConvert to m/s:\n108 × (5/18) = 6 × 5 = 30 m/s.\nTotal Distance = 140 + 160 = 300 m.\nTime = Dist / Speed.\nTime = 300 / 30 = 10 sec.",
+      "he": "**\"सापेक्ष गति\" (Relative Speed) अवधारणा का उपयोग करें:**\nविपरीत दिशा = गतियाँ जुड़ जाती हैं।\nगति = $60 + 48 = 108$ किमी/घंटा।\n**मीटर/सेकंड (m/s) में बदलें:**\n$$108 \\times \\frac{5}{18} = 6 \\times 5 = 30 \\text{ m/s}$$\nकुल दूरी = $140 + 160 = 300$ मीटर।\n**समय की गणना:**\n$$\\text{समय} = \\frac{\\text{दूरी}}{\\text{गति}}$$\n$$\\text{समय} = \\frac{300}{30} = \\mathbf{10} \\text{ सेकंड}$$",
+      "e2": "Convert each speed first? No, adding first is faster.\nSpeed 1 = 60.\nSpeed 2 = 48.\nRelative = 108 km/hr.\n108000 meters in 3600 seconds.\nSpeed = 30 m/s.\nTotal length = 300 m.\nTime = 300 / 30 = 10 sec.\n",
+      "he2": "**वैकल्पिक समझ:**\nगति 1 = 60\nगति 2 = 48\nसापेक्ष गति = 108 किमी/घंटा।\nइसका अर्थ है 3600 सेकंड में 108000 मीटर।\nअतः गति = 30 मीटर/सेकंड।\nकुल लंबाई = 300 मीटर।\n$$\\text{समय} = \\frac{300}{30} = \\mathbf{10} \\text{ सेकंड}$$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Ratio & Proportion (Fourth Proportional)",
+      "q": "Find the fourth proportional to 4, 9, and 12.",
+      "hq": "4, 9 और 12 का चतुर्थानुपाती (fourth proportional) ज्ञात कीजिए।",
+      "o": [
+        "18",
+        "27",
+        "36",
+        "24"
+      ],
+      "a": 1,
+      "e": "**Best Method (Product Rule):**\nProduct of Extremes = Product of Means\nLet the fourth number be $x$.\n$$4 : 9 :: 12 : x$$\n$$4 \\times x = 9 \\times 12$$\n$$4x = 108$$\n$$x = 27.$$\n",
+      "he": "**सबसे अच्छी विधि (गुणनफल नियम):**\nबाह्य पदों का गुणनफल = मध्य पदों का गुणनफल\nमाना चौथी संख्या $x$ है।\n$$4 : 9 :: 12 : x$$\n$$4 \\times x = 9 \\times 12$$\n$$4x = 108$$\n$$x = 27.$$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Work (Efficiency)",
+      "q": "A is twice as efficient as B. If they together can finish a work in $12$ days, in how many days can A alone finish it?",
+      "hq": "A, B से दोगुना कार्यकुशल है। यदि वे दोनों मिलकर किसी कार्य को $12$ दिनों में पूरा कर सकते हैं, तो A अकेला उसे कितने दिनों में पूरा कर सकता है?",
+      "o": [
+        "$18$ days",
+        "$24$ days",
+        "$36$ days",
+        "$15$ days"
+      ],
+      "ho": [
+        "$18$ दिन",
+        "$24$ दिन",
+        "$36$ दिन",
+        "$15$ दिन"
+      ],
+      "a": 0,
+      "e": "Use \"Total Unit\" method.\nEfficiency: $A=2, B=1$. Total $= 3$.\nTotal Work $= \\text{Days} \\times \\text{Eff} = 12 \\times 3 = 36$ units.\nTime for A $= \\frac{36}{2} = 18$ days.",
+      "he": "**\"कुल यूनिट\" (Total Unit) विधि का उपयोग करें:**\nकार्यकुशलता (Efficiency): $A=2, B=1$\nकुल कार्यकुशलता $= 2 + 1 = 3$\nकुल कार्य $= \\text{दिन} \\times \\text{कुल कार्यकुशलता} = 12 \\times 3 = 36$ यूनिट।\nA के लिए समय $= \\frac{36}{2} = \\mathbf{18 \\text{ दिन}}$।",
+      "e2": "Let B take $2x$ days, so A takes $x$ days (since A is twice as fast, he takes half time).\n$\\frac{1}{x} + \\frac{1}{2x} = \\frac{1}{12}$.\n$\\frac{2+1}{2x} = \\frac{1}{12}$.\n$\\frac{3}{2x} = \\frac{1}{12} \\implies 2x = 36 \\implies x = 18$.\n",
+      "he2": "**वैकल्पिक विधि (समय के आधार पर):**\nमान लीजिए B को $2x$ दिन लगते हैं, तो A को $x$ दिन लगेंगे (क्योंकि A दोगुना तेज है, इसलिए वह आधा समय लेगा)।\n$$\\frac{1}{x} + \\frac{1}{2x} = \\frac{1}{12}$$\n$$\\frac{2+1}{2x} = \\frac{1}{12}$$\n$$\\frac{3}{2x} = \\frac{1}{12} \\implies 2x = 36 \\implies x = \\mathbf{18}$$"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Direction Sense",
+      "q": "A person starts walking towards East. After walking 20 meters, he turns to his right and walks 15 meters. Then he turns to his left and walks 10 meters. Again he turns to his right and walks 15 meters. Finally, he turns to his right and walks 20 meters. In which direction is he now from his starting point?",
+      "hq": "एक व्यक्ति पूर्व की ओर चलना शुरू करता है। 20 मीटर चलने के बाद, वह अपने दाएं मुड़ता है और 15 मीटर चलता है। फिर वह अपने बाएं मुड़ता है और 10 मीटर चलता है। फिर से वह अपने दाएं मुड़ता है और 15 मीटर चलता है। अंत में, वह अपने दाएं मुड़ता है और 20 मीटर चलता है। अब वह अपने शुरुआती बिंदु से किस दिशा में है?",
+      "o": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "ho": [
+        "उत्तर",
+        "दक्षिण",
+        "पूर्व",
+        "पश्चिम"
+      ],
+      "a": 1,
+      "e": "Trace the movement using vectors:\n1. East 20m.\n2. Right (South) 15m.\n3. Left (East) 10m.\n4. Right (South) 15m.\n5. Right (West) 20m.\nNet Distance Calculation:\nHorizontal (East-West): $20 + 10 - 20 = 10 \\text{ m}$ (East).\nVertical (North-South): $15 + 15 = 30 \\text{ m}$ (South).\nFinal Position: $30 \\text{ m}$ South and $10 \\text{ m}$ East from start.\nSince \"South-East\" is not an option, the primary direction relative to the start is **South** (due to the larger 30m displacement).",
+      "he": "वेक्टर का उपयोग करके गति का पता लगाएं:\n1. पूर्व 20 मीटर।\n2. दाएं (दक्षिण) 15 मीटर।\n3. बाएं (पूर्व) 10 मीटर।\n4. दाएं (दक्षिण) 15 मीटर।\n5. दाएं (पश्चिम) 20 मीटर।\nकुल दूरी की गणना:\nक्षैतिज (पूर्व-पश्चिम): $20 + 10 - 20 = 10 \\text{ मीटर}$ (पूर्व)।\nऊर्ध्वाधर (उत्तर-दक्षिण): $15 + 15 = 30 \\text{ मीटर}$ (दक्षिण)।\nअंतिम स्थिति: शुरुआत से $30 \\text{ मीटर}$ दक्षिण और $10 \\text{ मीटर}$ पूर्व।\nचूंकि \"दक्षिण-पूर्व\" एक विकल्प नहीं है, इसलिए शुरुआत के सापेक्ष प्राथमिक दिशा **दक्षिण** है (30 मीटर के बड़े विस्थापन के कारण)।",
+      "e2": "Visual check:\nThe person went East, then down (South), then further East, then down (South) again, then came back West.\nHe is significantly \"below\" the starting line ($30 \\text{ m}$ down) compared to his horizontal shift ($10 \\text{ m}$ right).\nAnswer is South."
+    },
+    {
+      "s": "General Awareness",
+      "t": "Static GK (Sports)",
+      "q": "The 'Durand Cup' is associated with which sport?",
+      "hq": "'डूरंड कप' (Durand Cup) किस खेल से संबंधित है?",
+      "o": [
+        "Cricket",
+        "Hockey",
+        "Football",
+        "Golf"
+      ],
+      "ho": [
+        "क्रिकेट",
+        "हॉकी",
+        "फुटबॉल",
+        "गोल्फ"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Awareness",
+      "t": "Biology (Plant Physiology)",
+      "q": "Which metal ion is present at the center of the Chlorophyll molecule?",
+      "hq": "क्लोरोफिल अणु के केंद्र में कौन सा धातु आयन मौजूद होता है?",
+      "o": [
+        "Iron (Fe)",
+        "Calcium (Ca)",
+        "Magnesium (Mg)",
+        "Zinc (Zn)"
+      ],
+      "ho": [
+        "लोहा (Fe)",
+        "कैल्शियम (Ca)",
+        "मैग्नीशियम (Mg)",
+        "जिंक (Zn)"
+      ],
+      "a": 2,
+      "e": "Magnesium ($Mg$) is the central atom in the chlorophyll structure, which is essential for photosynthesis in plants. (Similar to how Iron is central to Hemoglobin in blood).\n",
+      "he": "क्लोरोफिल की संरचना में मैग्नीशियम ($Mg$) केंद्रीय परमाणु है, जो पौधों में प्रकाश संश्लेषण के लिए आवश्यक है। (उसी तरह जैसे रक्त में हीमोग्लोबिन के लिए लोहा केंद्रीय होता है)।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Biology (Excretory System)",
+      "q": "What is the structural and functional unit of the Kidney?",
+      "hq": "वृक्क (Kidney) की संरचनात्मक और कार्यात्मक इकाई क्या है?",
+      "o": [
+        "Neuron",
+        "Alveoli",
+        "Nephron",
+        "Villi"
+      ],
+      "ho": [
+        "न्यूरॉन (Neuron)",
+        "एल्वियोली (Alveoli)",
+        "नेफ्रॉन (Nephron)",
+        "विली (Villi)"
+      ],
+      "a": 2,
+      "e": "The Nephron is the basic filtering unit of the kidney.\n* Neuron: Nervous system\n* Alveoli: Lungs (Respiratory)\n* Villi: Small Intestine\n",
+      "he": "नेफ्रॉन गुर्दे की बुनियादी छानने वाली इकाई है। * न्यूरॉन: तंत्रिका तंत्र * एल्वियोली: फेफड़े (श्वसन तंत्र) * विली: छोटी आंत"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Number Series (Increasing Difference)",
+      "q": "Find the missing number in the series:\n2, 6, 12, 20, 30, ?",
+      "hq": "श्रृंखला में लुप्त संख्या ज्ञात कीजिए:\n2, 6, 12, 20, 30, ?",
+      "o": [
+        "42",
+        "40",
+        "44",
+        "38"
+      ],
+      "a": 0,
+      "e": "The difference between consecutive numbers increases by 2.\n6 - 2 = 4\n12 - 6 = 6\n20 - 12 = 8\n30 - 20 = 10\nNext difference should be 12.\n30 + 12 = 42.\n",
+      "he": "लगातार संख्याओं के बीच का अंतर 2 से बढ़ता है।\n6 - 2 = 4\n12 - 6 = 6\n20 - 12 = 8\n30 - 20 = 10\nअगला अंतर 12 होना चाहिए।\n30 + 12 = 42."
+    },
+    {
+      "s": "General Awareness",
+      "t": "International Summits",
+      "q": "Which city hosted the UN Climate Change Conference (COP29) in November 2024?",
+      "hq": "नवंबर 2024 में किस शहर ने संयुक्त राष्ट्र जलवायु परिवर्तन सम्मेलन (COP29) की मेजबानी की थी?",
+      "o": [
+        "Dubai, UAE",
+        "Baku, Azerbaijan",
+        "Glasgow, UK",
+        "Sharm el-Sheikh, Egypt"
+      ],
+      "ho": [
+        "दुबई, यूएई",
+        "बाकू, अजरबैजान",
+        "ग्लासगो, यूके",
+        "शर्म अल-शेख, मिस्र"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Reasoning",
+      "t": "Syllogism",
+      "q": "Statements:\n1. All cats are animals.\n2. Some animals are dogs.\nConclusions:\nI. Some cats are dogs.\nII. Some dogs are cats.\nIII. No cat is a dog.\nIV. Some animals are cats.\nWhich conclusion(s) logically follow?",
+      "hq": "कथन:\n1. सभी बिल्लियाँ जानवर हैं।\n2. कुछ जानवर कुत्ते हैं।\nनिष्कर्ष:\nI. कुछ बिल्लियाँ कुत्ते हैं।\nII. कुछ कुत्ते बिल्लियाँ हैं।\nIII. कोई बिल्ली कुत्ता नहीं है।\nIV. कुछ जानवर बिल्लियाँ हैं।\nकौन सा/से निष्कर्ष तार्किक रूप से अनुसरण करता/करते है/हैं?",
+      "o": [
+        "Only IV",
+        "Only I and II",
+        "Either I or III",
+        "Only II and III"
+      ],
+      "ho": [
+        "केवल IV",
+        "केवल I और II",
+        "या तो I या III",
+        "केवल II और III"
+      ],
+      "a": 0,
+      "e": "Use Venn Diagram Logic:\n1. **Diagram**: Draw a circle for 'Cats' inside a larger circle for 'Animals'. Draw a circle for 'Dogs' intersecting 'Animals'. The 'Dogs' circle may or may not touch 'Cats'.\n2. **Analyze IV**: \"Some animals are cats\". Since all cats are animals, the part of the Animal circle occupied by Cats proves this is **True**.\n3. **Analyze I, II, III**: There is no direct statement linking Cats and Dogs. They might overlap or they might not. Therefore, we cannot definitely conclude I, II, or III.\n4. **Options**: While I and III form a complementary pair (Either-Or), Option 3 excludes Conclusion IV. Since IV is definitely true, Option 1 is the correct choice.",
+      "he": "वेन आरेख तर्क का प्रयोग करें:\n1. **आरेख**: 'जानवर' के बड़े घेरे के अंदर 'बिल्ली' के लिए एक घेरा बनाएं। 'जानवर' को काटते हुए 'कुत्ते' के लिए एक घेरा बनाएं। 'कुत्ते' का घेरा 'बिल्ली' को छू भी सकता है और नहीं भी।\n2. **IV का विश्लेषण करें**: \"कुछ जानवर बिल्लियाँ हैं\"। चूंकि सभी बिल्लियाँ जानवर हैं, इसलिए बिल्लियों द्वारा घेरा गया जानवर के घेरे का हिस्सा यह साबित करता है कि यह **सत्य** है।\n3. **I, II, III का विश्लेषण करें**: बिल्ली और कुत्ते को जोड़ने वाला कोई सीधा कथन नहीं है। वे एक-दूसरे को काट भी सकते हैं और नहीं भी। इसलिए, हम निश्चित रूप से I, II, या III का निष्कर्ष नहीं निकाल सकते।\n4. **विकल्प**: जबकि I और III एक पूरक जोड़ी (या तो-या) बनाते हैं, विकल्प 3 निष्कर्ष IV को बाहर कर देता है। चूंकि IV निश्चित रूप से सत्य है, इसलिए विकल्प 1 सही विकल्प है।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Number)",
+      "q": "6 : 222 :: 7 : ?",
+      "hq": "6 : 222 :: 7 : ?",
+      "o": [
+        "343",
+        "350",
+        "336",
+        "210"
+      ],
+      "a": 1,
+      "e": "Logic: $n : (n^3 + n)$.\nFor 6: $6^3 + 6 = 216 + 6 = 222$.\nFor 7: $7^3 + 7 = 343 + 7 = 350$.\n",
+      "he": "तर्क: $n : (n^3 + n)$।\n6 के लिए: $6^3 + 6 = 216 + 6 = 222$।\n7 के लिए: $7^3 + 7 = 343 + 7 = 350$।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Culture (Monuments)",
+      "q": "The 'Gateway of India' is located in which city?",
+      "hq": "'गेटवे ऑफ इंडिया' (Gateway of India) किस शहर में स्थित है?",
+      "o": [
+        "New Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "ho": [
+        "नई दिल्ली",
+        "मुंबई",
+        "कोलकाता",
+        "चेन्नई"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Awareness",
+      "t": "Important Appointments",
+      "q": "Who has been appointed as the 52nd Chief Justice of India (CJI)?",
+      "hq": "भारत के 52वें मुख्य न्यायाधीश (CJI) के रूप में किसे नियुक्त किया गया है?",
+      "o": [
+        "Justice D.Y. Chandrachud",
+        "Justice Sanjiv Khanna",
+        "Justice B.R. Gavai",
+        "Justice Surya Kant"
+      ],
+      "ho": [
+        "न्यायमूर्ति डी.वाई. चंद्रचूड़",
+        "न्यायमूर्ति संजीव खन्ना",
+        "न्यायमूर्ति बी.आर. गवई",
+        "न्यायमूर्ति सूर्यकांत"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Jumbled Letters)",
+      "q": "In the following triads, each group of letters is related to the subsequent one following a certain logic. Select from the given options, the one that follows the same logic.\nBORE - EOBR - ORBE\nRUST - TURS - USRT",
+      "hq": "निम्नलिखित त्रय (triads) में, अक्षरों का प्रत्येक समूह एक निश्चित तर्क का पालन करते हुए अगले समूह से संबंधित है। दिए गए विकल्पों में से वह चुनें जो उसी तर्क का पालन करता हो।\nBORE - EOBR - ORBE\nRUST - TURS - USRT",
+      "o": [
+        "TORN - NOTR - ROTN",
+        "JUSL - LUJS - USJL",
+        "DOIR - DIOR - RIOD",
+        "CALE - ACLE - EALC"
+      ],
+      "a": 1,
+      "e": "Assign numbers to the first word (1-2-3-4) and trace the positions.\nPattern: **1234** $\\to$ **4213** $\\to$ **2314**\nExample 1: B(1)O(2)R(3)E(4) $\\to$ E(4)O(2)B(1)R(3) $\\to$ O(2)R(3)B(1)E(4).\nExample 2: R(1)U(2)S(3)T(4) $\\to$ T(4)U(2)R(1)S(3) $\\to$ U(2)S(3)R(1)T(4).\nCheck Option 2: **JUSL**\n1.  First shift (4213): L(4) - U(2) - J(1) - S(3) $\\to$ **LUJS**. (Matches).\n2.  Second shift (2314): U(2) - S(3) - J(1) - L(4) $\\to$ **USJL**. (Matches).\nResult: **JUSL - LUJS - USJL**.",
+      "he": "पहले शब्द (1-2-3-4) को नंबर दें और उनके स्थानों का पता लगाएं।\nपैटर्न: 1234 → 4213 → 2314\nउदाहरण 1: B(1)O(2)R(3)E(4) → E(4)O(2)B(1)R(3) → O(2)R(3)B(1)E(4).\nउदाहरण 2: R(1)U(2)S(3)T(4) → T(4)U(2)R(1)S(3) → U(2)S(3)R(1)T(4).\nविकल्प 2 की जाँच करें: JUSL\n1. पहली शिफ्ट (4213): L(4) - U(2) - J(1) - S(3) → LUJS. (मेल खाता है)।\n2. दूसरी शिफ्ट (2314): U(2) - S(3) - J(1) - L(4) → USJL. (मेल खाता है)।\nपरिणाम: JUSL - LUJS - USJL."
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding Decoding (Number)",
+      "q": "If E = 5, GUN = 42 and ROSE = 57, then what is the value of GATE?",
+      "hq": "यदि E = 5, GUN = 42 और ROSE = 57 है, तो GATE का मान क्या है?",
+      "o": [
+        "23",
+        "32",
+        "33",
+        "35"
+      ],
+      "a": 2,
+      "e": "The logic is the **Sum of Alphabetical Positions**.\n1.  **E** is the 5th letter $\\to$ 5.\n2.  **GUN**: G(7) + U(21) + N(14) $= 42$.\n3.  **ROSE**: R(18) + O(15) + S(19) + E(5) $= 57$.\n4.  **GATE**:\n* G $\\to$ 7\n* A $\\to$ 1\n* T $\\to$ 20\n* E $\\to$ 5\n* Sum $= 7 + 1 + 20 + 5 = 33$.",
+      "he": "इसका तर्क **वर्णमाला के स्थानों का योग** है।\n1. E वर्णमाला का 5वां अक्षर है → 5।\n2. GUN: G(7) + U(21) + N(14) = 42।\n3. ROSE: R(18) + O(15) + S(19) + E(5) = 57।\n4. GATE:\n* G → 7\n* A → 1\n* T → 20\n* E → 5\n* योग = 7 + 1 + 20 + 5 = 33।\nत्वरित जोड़:\nG+A = 8।\nT+E = 25।\n8 + 25 = 33।",
+      "e2": "Quick Add:\nG+A = 8.\nT+E = 25.\n$8 + 25 = 33$."
+    },
+    {
+      "s": "General Awareness",
+      "t": "Geography",
+      "q": "The 'Blue Revolution' is related to which of the following?",
+      "hq": "'नीली क्रांति' (Blue Revolution) निम्नलिखित में से किससे संबंधित है?",
+      "o": [
+        "Milk Production",
+        "Oilseed Production",
+        "Fish Production",
+        "Egg Production"
+      ],
+      "ho": [
+        "दुग्ध उत्पादन",
+        "तिलहन उत्पादन",
+        "मत्स्य उत्पादन (मछली उत्पादन)",
+        "अंडा उत्पादन"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Mathematics",
+      "t": "HCF & LCM (Product Rule)",
+      "q": "The HCF of two numbers is 11 and their LCM is 7700. If one of the numbers is 275, find the other.",
+      "hq": "दो संख्याओं का HCF 11 है और उनका LCM 7700 है। यदि उनमें से एक संख्या 275 है, तो दूसरी संख्या ज्ञात कीजिए।",
+      "o": [
+        "308",
+        "279",
+        "283",
+        "318"
+      ],
+      "a": 0,
+      "e": "**Best Method (Product Formula):**\nProduct of Numbers = HCF × LCM\n$$First \\times Second = 11 \\times 7700$$\n$$275 \\times Second = 84700$$\n$$Second = \\frac{84700}{275} = 308.$$\n",
+      "he": "**सबसे अच्छी विधि (गुणनफल सूत्र):**\nसंख्याओं का गुणनफल = HCF × LCM\n$$\\text{पहली} \\times \\text{दूसरी} = 11 \\times 7700$$\n$$275 \\times \\text{दूसरी} = 84700$$\n$$\\text{दूसरी} = \\frac{84700}{275} = 308।$$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Important Appointments",
+      "q": "Who was appointed as the new Chief of the Naval Staff (CNS) of India in April 2024?",
+      "hq": "अप्रैल 2024 में भारत के नए नौसेना प्रमुख (CNS) के रूप में किसे नियुक्त किया गया?",
+      "o": [
+        "Admiral R. Hari Kumar",
+        "Admiral Dinesh K. Tripathi",
+        "Admiral Karambir Singh",
+        "Admiral Sunil Lanba"
+      ],
+      "ho": [
+        "एडमिरल आर. हरि कुमार",
+        "एडमिरल दिनेश के. त्रिपाठी",
+        "एडमिरल करमबीर सिंह",
+        "एडमिरल सुनील लांबा"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Awareness",
+      "t": "Biology (Circulatory System)",
+      "q": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+      "hq": "कौन सी रक्त वाहिका फेफड़ों से हृदय तक ऑक्सीजन युक्त रक्त ले जाती है?",
+      "o": [
+        "Pulmonary Artery",
+        "Pulmonary Vein",
+        "Aorta",
+        "Vena Cava"
+      ],
+      "ho": [
+        "फुफ्फुस धमनी (Pulmonary Artery)",
+        "फुफ्फुस शिरा (Pulmonary Vein)",
+        "महाधमनी (Aorta)",
+        "महाशिरा (Vena Cava)"
+      ],
+      "a": 1,
+      "e": "Generally, veins carry deoxygenated blood and arteries carry oxygenated blood. However, the Pulmonary Vein is an exception; it carries oxygen-rich blood from the lungs to the Left Atrium of the heart.\n",
+      "he": "आमतौर पर, शिराएं ऑक्सीजन रहित रक्त ले जाती हैं और धमनियां ऑक्सीजन युक्त रक्त ले जाती हैं। हालाँकि, फुफ्फुस शिरा (Pulmonary Vein) एक अपवाद है; यह फेफड़ों से हृदय के बाएं अलिंद (Left Atrium) तक ऑक्सीजन युक्त रक्त ले जाती है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Physics (Energy - Units)",
+      "q": "What is the value of 1 Kilowatt-hour (1 kWh) in Joules?",
+      "hq": "जूल (Joules) में 1 किलोवाट-घंटा (1 kWh) का मान क्या है?",
+      "o": [
+        "$3.6 \\times 10^5$ J",
+        "$3.6 \\times 10^6$ J",
+        "$1000$ J",
+        "$3600$ J"
+      ],
+      "a": 1,
+      "e": "1 kWh is the commercial unit of energy.\n$$1 \\text{ kW} = 1000 \\text{ W}$$\n$$1 \\text{ hour} = 3600 \\text{ seconds}$$\n$$1 \\text{ kWh} = 1000 \\times 3600 = 36,00,000 \\text{ Joules} = 3.6 \\times 10^6 \\text{ J}$$\n",
+      "he": "1 kWh ऊर्जा की व्यावसायिक इकाई है। $$1 \\text{ kW} = 1000 \\text{ W}$$ $$1 \\text{ घंटा} = 3600 \\text{ सेकंड}$$ $$1 \\text{ kWh} = 1000 \\times 3600 = 36,00,00,000 \\text{ जूल} = 3.6 \\times 10^6 \\text{ J}$$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Chemistry (Chemical Reactions)",
+      "q": "The reaction $Zn + CuSO_4 \\rightarrow ZnSO_4 + Cu$ is an example of which type of reaction?",
+      "hq": "अभिक्रिया $Zn + CuSO_4 \\rightarrow ZnSO_4 + Cu$ किस प्रकार की अभिक्रिया का उदाहरण है?",
+      "o": [
+        "Combination Reaction",
+        "Decomposition Reaction",
+        "Displacement Reaction",
+        "Double Displacement Reaction"
+      ],
+      "ho": [
+        "संयोजन अभिक्रिया (Combination Reaction)",
+        "अपघटन अभिक्रिया (Decomposition Reaction)",
+        "विस्थापन अभिक्रिया (Displacement Reaction)",
+        "द्विविस्थापन अभिक्रिया (Double Displacement Reaction)"
+      ],
+      "a": 2,
+      "e": "This is a Displacement Reaction where Zinc ($Zn$), being more reactive than Copper ($Cu$), displaces Copper from Copper Sulphate solution.\n",
+      "he": "यह एक विस्थापन अभिक्रिया है जहाँ जिंक ($Zn$), कॉपर ($Cu$) से अधिक अभिक्रियाशील होने के कारण, कॉपर सल्फेट के घोल से कॉपर को विस्थापित कर देता है।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Blood Relation",
+      "q": "W and X are brothers. S is the son of X and Q. R is married to U and is the brother of Q. T and V are the children of U. P is the mother of Q and Y is the mother of X. How is T related to S?",
+      "hq": "W और X भाई हैं। S, X और Q का पुत्र है। R का विवाह U से हुआ है और वह Q का भाई है। T और V, U की संतान हैं। P, Q की माँ है और Y, X की माँ है। T, S से किस प्रकार संबंधित है?",
+      "o": [
+        "Paternal Uncle",
+        "Mother's brother's son",
+        "Mother's brother",
+        "Father's brother's son"
+      ],
+      "ho": [
+        "चाचा/ताऊ",
+        "ममेरा भाई (Mother's brother's son)",
+        "मामा",
+        "चचेरा भाई (Father's brother's son)"
+      ],
+      "a": 1,
+      "e": "Trace the relationship:\n1. S is the son of Q (Mother).\n2. R is the brother of Q. So, R is S's Maternal Uncle (Mama).\n3. R is married to U. T is the child of U (and R).\n4. Therefore, T is the child of S's Maternal Uncle (R).\n5. The relationship is \"Mother's brother's son\" (Cousin).\n",
+      "he": "संबंधों को ट्रैक करें:\n1. S, Q (माँ) का पुत्र है।\n2. R, Q का भाई है। तो, R, S का मामा है।\n3. R का विवाह U से हुआ है। T, U (और R) की संतान है।\n4. इसलिए, T, S के मामा (R) की संतान है।\n5. यह संबंध \"माँ के भाई का बेटा\" (ममेरा भाई) है।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding",
+      "q": "If TRACTOR = 14 and TROLLEY = 14, then SCOOTER = ?",
+      "hq": "यदि TRACTOR = 14 और TROLLEY = 14, तो SCOOTER = ?",
+      "o": [
+        "24",
+        "14",
+        "28",
+        "30"
+      ],
+      "a": 1,
+      "e": "Count the number of letters in the word and multiply by 2:\nTRACTOR: 7 letters $\\times$ 2 = 14.\nTROLLEY: 7 letters $\\times$ 2 = 14.\nSCOOTER: 7 letters $\\times$ 2 = **14**.",
+      "he": "शब्द के अक्षरों की संख्या गिनें और उसे 2 से गुणा करें:\nTRACTOR: 7 अक्षर $\\times$ 2 = 14.\nTROLLEY: 7 अक्षर $\\times$ 2 = 14.\nSCOOTER: 7 अक्षर $\\times$ 2 = 14."
+    },
+    {
+      "s": "General Awareness",
+      "t": "Static GK (International Organizations)",
+      "q": "Where is the headquarters of the United Nations (UN) located?",
+      "hq": "संयुक्त राष्ट्र (UN) का मुख्यालय कहाँ स्थित है?",
+      "o": [
+        "Geneva",
+        "New York",
+        "Washington D.C.",
+        "Paris"
+      ],
+      "ho": [
+        "जेनेवा",
+        "न्यूयॉर्क",
+        "वाशिंगटन डी.सी.",
+        "पेरिस"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Awareness",
+      "t": "Physics (Waves)",
+      "q": "The frequency of a sound wave is 50 Hz. What is its time period?",
+      "hq": "एक ध्वनि तरंग की आवृत्ति 50 Hz है। इसका आवर्तकाल (time period) क्या है?",
+      "o": [
+        "0.02 s",
+        "0.5 s",
+        "2 s",
+        "0.05 s"
+      ],
+      "a": 0,
+      "e": "Time Period ($T$) is the reciprocal of Frequency ($f$).\n$$T = \\frac{1}{f}$$\nGiven: $f = 50 \\text{ Hz}$\n$$T = \\frac{1}{50} = 0.02 \\text{ s}$$\n",
+      "he": "आवर्तकाल ($T$) आवृत्ति ($f$) का व्युत्क्रम होता है। $$T = \\frac{1}{f}$$ दिया गया है: $f = 50 \\text{ Hz}$ $$T = \\frac{1}{50} = 0.02 \\text{ s}$$"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Statement & Assumption",
+      "q": "Statement:\nA biometric system is a good tool to implement punctuality for employees, ethics is very important for any work place.\nAssumptions:\nI. Only Biometrics cannot punctuate employees.\nII. Work place plays an important role in ethics, discipline and punctuality.",
+      "hq": "कथन:\nकर्मचारियों के लिए समय की पाबंदी लागू करने के लिए बायोमेट्रिक सिस्टम एक अच्छा उपकरण है, किसी भी कार्यस्थल के लिए नैतिकता (ethics) बहुत महत्वपूर्ण है।\nपूर्वधारणा:\nI. केवल बायोमेट्रिक्स कर्मचारियों को समय का पाबंद नहीं बना सकते।\nII. कार्यस्थल नैतिकता, अनुशासन और समय की पाबंदी में महत्वपूर्ण भूमिका निभाता है।",
+      "o": [
+        "Both assumption I and II implicit",
+        "Neither assumption I nor II implicit",
+        "Only assumption II implicit",
+        "Only assumption I implicit"
+      ],
+      "ho": [
+        "पूर्वधारणा I और II दोनों अंतर्निहित हैं",
+        "न तो पूर्वधारणा I और न ही II अंतर्निहित है",
+        "केवल पूर्वधारणा II अंतर्निहित है",
+        "केवल पूर्वधारणा I अंतर्निहित है"
+      ],
+      "a": 2,
+      "e": "The statement links biometrics to punctuality and mentions ethics as important for a workplace.\nAssumption II connects these ideas (workplace, ethics, punctuality) and validates the statement's premise.\nAssumption I is vague/ungrammatical in context (\"punctuate employees\") and doesn't logically follow.",
+      "he": "यह कथन बायोमेट्रिक्स को समय की पाबंदी से जोड़ता है और कार्यस्थल के लिए नैतिकता को महत्वपूर्ण बताता है।\nपूर्वधारणा II इन विचारों (कार्यस्थल, नैतिकता, समय की पाबंदी) को जोड़ती है और कथन के आधार को पुष्ट करती है।\nपूर्वधारणा I संदर्भ में अस्पष्ट है और तार्किक रूप से अनुसरण नहीं करती है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Sports (IPL)",
+      "q": "Which team won the Tata IPL 2024 title?",
+      "hq": "किस टीम ने टाटा IPL 2024 का खिताब जीता?",
+      "o": [
+        "Sunrisers Hyderabad",
+        "Rajasthan Royals",
+        "Kolkata Knight Riders (KKR)",
+        "Chennai Super Kings"
+      ],
+      "ho": [
+        "सनराइजर्स हैदराबाद",
+        "राजस्थान रॉयल्स",
+        "कोलकाता नाइट राइडर्स (KKR)",
+        "चेन्नई सुपर किंग्स"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Awareness",
+      "t": "Literature Awards",
+      "q": "Who were the recipients of the 58th Jnanpith Award (announced in 2024)?",
+      "hq": "58वें ज्ञानपीठ पुरस्कार (2024 में घोषित) के प्राप्तकर्ता कौन थे?",
+      "o": [
+        "Damodar Mauzo",
+        "Gulzar and Jagadguru Rambhadracharya",
+        "Amitav Ghosh",
+        "Krishna Sobti"
+      ],
+      "ho": [
+        "दामोदर मौज़ो",
+        "गुलज़ार और जगद्गुरु रामभद्राचार्य",
+        "अमिताव घोष",
+        "कृष्णा सोबती"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Reasoning",
+      "t": "Statement & Assumption",
+      "q": "Statement/Description:\n\"This place is best for holidays.\" Anita said to her husband Ram.\nAssumptions:\nI. The vacation spot should be cool and happy.\nII. Ram is Anita's husband.",
+      "hq": "कथन/विवरण:\n\"यह जगह छुट्टियों के लिए सबसे अच्छी है।\" अनिता ने अपने पति राम से कहा।\nपूर्वधारणा:\nI. छुट्टियों की जगह शांत और खुशहाल होनी चाहिए।\nII. राम अनिता का पति है।",
+      "o": [
+        "Only assumption II implicit",
+        "Both I and II implicit",
+        "Neither I nor II implicit",
+        "Only assumption I implicit"
+      ],
+      "ho": [
+        "केवल पूर्वधारणा II अंतर्निहित है",
+        "I और II दोनों अंतर्निहित हैं",
+        "न तो I और न ही II अंतर्निहित है",
+        "केवल पूर्वधारणा I अंतर्निहित है"
+      ],
+      "a": 0,
+      "e": "The statement explicitly says \"Anita said to her husband Ram,\" so Assumption II is factually implicit in the text itself.\nAssumption I is subjective; \"best\" doesn't necessarily mean \"cool and happy\" for everyone (it could mean quiet, adventurous, etc.), so it is not definitely implicit.\n",
+      "he": "कथन में स्पष्ट रूप से कहा गया है \"अनिता ने अपने पति राम से कहा,\" इसलिए पूर्वधारणा II पाठ में ही तथ्यात्मक रूप से अंतर्निहित है।\nपूर्वधारणा I व्यक्तिपरक (subjective) है; \"सबसे अच्छी\" का मतलब हर किसी के लिए \"शांत और खुशहाल\" होना जरूरी नहीं है (इसका मतलब शांत, साहसिक आदि भी हो सकता है), इसलिए यह निश्चित रूप से अंतर्निहित नहीं है।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time, Speed & Distance (Late/Early)",
+      "q": "Walking at 3 km/hr, a student reaches school 15 minutes late. Walking at 4 km/hr, he reaches 15 minutes early. Find the distance to the school.",
+      "hq": "3 किमी/घंटा की गति से चलते हुए, एक छात्र 15 मिनट देरी से स्कूल पहुँचता है। 4 किमी/घंटा की गति से चलते हुए, वह 15 मिनट जल्दी पहुँच जाता है। स्कूल की दूरी ज्ञात कीजिए।",
+      "o": [
+        "5 km",
+        "4 km",
+        "6 km",
+        "7 km"
+      ],
+      "ho": [
+        "5 किमी",
+        "4 किमी",
+        "6 किमी",
+        "7 किमी"
+      ],
+      "a": 2,
+      "e": "**Best Method (Direct Formula):**\n$$Distance = \\frac{S1 \\times S2}{S1 - S2} \\times \\text{Total Time Gap}$$\n\n* Gap = 15 min late + 15 min early = 30 min = $\\frac{1}{2}$ hour.\n* $S1 = 3, S2 = 4$.\n\n$$D = \\frac{3 \\times 4}{4 - 3} \\times \\frac{1}{2}$$\n$$D = \\frac{12}{1} \\times 0.5 = 6 \\text{ km}.$$\n",
+      "he": "**सबसे अच्छी विधि (प्रत्यक्ष सूत्र):**\n$$\\text{दूरी} = \\frac{S1 \\times S2}{S1 - S2} \\times \\text{कुल समय अंतराल}$$\n\n* अंतराल = 15 मिनट देरी + 15 मिनट जल्दी = 30 मिनट = $\\frac{1}{2}$ घंटा।\n* $S1 = 3, S2 = 4$।\n\n$$D = \\frac{3 \\times 4}{4 - 3} \\times \\frac{1}{2}$$\n$$D = \\frac{12}{1} \\times 0.5 = 6 \\text{ किमी}।$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time & Work (Efficiency)",
+      "q": "A is twice as good a workman as B and together they finish a piece of work in 14 days. In how many days can A alone finish the work?",
+      "hq": "A, B की तुलना में दोगुना कुशल कामगार है और दोनों मिलकर एक कार्य को 14 दिनों में पूरा करते हैं। A अकेला उस कार्य को कितने दिनों में पूरा कर सकता है?",
+      "o": [
+        "20 days",
+        "22 days",
+        "21 days",
+        "25 days"
+      ],
+      "ho": [
+        "20 दिन",
+        "22 दिन",
+        "21 दिन",
+        "25 दिन"
+      ],
+      "a": 2,
+      "e": "**Best Method (Total Unit Method):**\n1. Efficiency: Let B = 1 unit/day, then A = 2 units/day.\n2. Total Efficiency (A+B) = 3 units/day.\n3. Total Work = Efficiency × Time = $3 \\times 14 = 42$ units.\n4. Time for A alone = $\\frac{\\text{Total Work}}{\\text{A's Efficiency}} = \\frac{42}{2} = 21 \\text{ days}.$\n",
+      "he": "**सबसे अच्छी विधि (कुल इकाई विधि):**\n1. कार्यक्षमता: माना B = 1 इकाई/दिन, तो A = 2 इकाई/दिन।\n2. कुल कार्यक्षमता (A+B) = 3 इकाई/दिन।\n3. कुल कार्य = कार्यक्षमता × समय = $3 \\times 14 = 42$ इकाई।\n4. A के लिए अकेले समय = $\\frac{\\text{कुल कार्य}}{\\text{A की कार्यक्षमता}} = \\frac{42}{2} = 21 \\text{ दिन}।$"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Important Appointments",
+      "q": "Who was re-elected as the Speaker of the 18th Lok Sabha in 2024?",
+      "hq": "2024 में 18वीं लोकसभा के अध्यक्ष (Speaker) के रूप में किसे फिर से चुना गया?",
+      "o": [
+        "Om Birla",
+        "Kodikunnil Suresh",
+        "Jagdeep Dhankhar",
+        "Rajnath Singh"
+      ],
+      "ho": [
+        "ओम बिरला",
+        "कोडीकुन्निल सुरेश",
+        "जगदीप धनखड़",
+        "राजनाथ सिंह"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations (Symbol Substitution)",
+      "q": "If @ means +, # means —, $ means x and * means ÷, then what is the value of 16 @ 4 $ 5 # 72 * 8 =",
+      "hq": "यदि @ का अर्थ +, # का अर्थ —, $ का अर्थ x और * का अर्थ ÷ है, तो 16 @ 4 $ 5 # 72 * 8 का मान क्या है?",
+      "o": [
+        "27",
+        "26",
+        "36",
+        "35"
+      ],
+      "a": 0,
+      "e": "Step 1: Decode the symbols.\n$16 + 4 \\times 5 - 72 \\div 8$\nStep 2: Apply BODMAS rule.\n1. Division: $72 \\div 8 = 9$.\n$\\to 16 + 4 \\times 5 - 9$\n2. Multiplication: $4 \\times 5 = 20$.\n$\\to 16 + 20 - 9$\n3. Addition & Subtraction: $36 - 9 = 27$.\nResult: **27**.",
+      "he": "चरण 1: प्रतीकों को डिकोड करें।\n16 + 4 × 5 - 72 ÷ 8\nचरण 2: BODMAS नियम लागू करें।\n1. भाग (Division): 72 ÷ 8 = 9।\n→ 16 + 4 × 5 - 9\n2. गुणा (Multiplication): 4 × 5 = 20।\n→ 16 + 20 - 9\n3. जोड़ और घटाव: 36 - 9 = 27।\nपरिणाम: 27।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Opposite Letters)",
+      "q": "If C = 24, EYE = 46, then FOX = ?",
+      "hq": "यदि C = 24, EYE = 46 है, तो FOX = ?",
+      "o": [
+        "36",
+        "35",
+        "38",
+        "40"
+      ],
+      "a": 0,
+      "e": "The logic uses the position values of the **Opposite Letters**.\n* C (3) $\\leftrightarrow$ X (24). So C = 24.\n* EYE:\nE $\\leftrightarrow$ V (22)\nY $\\leftrightarrow$ B (2)\nE $\\leftrightarrow$ V (22)\nSum = $22 + 2 + 22 = 46$.\n* FOX:\nF $\\leftrightarrow$ U (21)\nO $\\leftrightarrow$ L (12)\nX $\\leftrightarrow$ C (3)\nSum = $21 + 12 + 3 = 36$.\n",
+      "he": "यह तर्क **विपरीत अक्षरों** (Opposite Letters) के स्थान मानों का उपयोग करता है।\n\n* C (3) $\\leftrightarrow$ X (24). इसलिए C = 24.\n* EYE:\nE $\\leftrightarrow$ V (22)\nY $\\leftrightarrow$ B (2)\nE $\\leftrightarrow$ V (22)\nयोग = $22 + 2 + 22 = 46$.\n* FOX:\nF $\\leftrightarrow$ U (21)\nO $\\leftrightarrow$ L (12)\nX $\\leftrightarrow$ C (3)\nयोग = $21 + 12 + 3 = 36$."
+    },
+    {
+      "s": "Reasoning",
+      "t": "Number Series / Set Analogy",
+      "q": "Two sets of numbers are given below. In each set of numbers, certain mathematical operation(s) on the first number results in the second number... Which of the given options follows the same set of operations?\nSet 1: 12 - 13 - 15 - 30\nSet 2: 14 - 15 - 17 - 34",
+      "hq": "नीचे संख्याओं के दो सेट दिए गए हैं। संख्याओं के प्रत्येक सेट में, पहली संख्या पर कुछ गणितीय संक्रिया (operations) करने के परिणामस्वरूप दूसरी संख्या प्राप्त होती है... दिए गए विकल्पों में से कौन सा विकल्प संक्रियाओं के उसी सेट का अनुसरण करता है?\nसेट 1: 12 - 13 - 15 - 30\nसेट 2: 14 - 15 - 17 - 34",
+      "o": [
+        "3 - 4 - 5 - 10",
+        "4 - 5 - 7 - 10",
+        "9 - 10 - 12 - 24",
+        "1 - 2 - 4 - 16"
+      ],
+      "a": 2,
+      "e": "Analyze the pattern in the example sets:\n1.  **Set 1 (12 - 13 - 15 - 30):**\n* $12 + 1 = 13$\n* $13 + 2 = 15$\n* $15 \\times 2 = 30$\n* Pattern: **+1, +2, ×2**\n\n2.  **Set 2 (14 - 15 - 17 - 34):**\n* $14 + 1 = 15$\n* $15 + 2 = 17$\n* $17 \\times 2 = 34$\n* Pattern: **+1, +2, ×2**\n\n3.  **Check Option 3 (9 - 10 - 12 - 24):**\n* $9 + 1 = 10$\n* $10 + 2 = 12$\n* $12 \\times 2 = 24$\n* This matches the pattern perfectly.",
+      "he": "उदाहरण सेट के पैटर्न का विश्लेषण करें:\n1. सेट 1 (12 - 13 - 15 - 30):\n* $12 + 1 = 13$\n* $13 + 2 = 15$\n* $15 \\times 2 = 30$\n* पैटर्न: +1, +2, ×2\n\n2. सेट 2 (14 - 15 - 17 - 34):\n* $14 + 1 = 15$\n* $15 + 2 = 17$\n* $17 \\times 2 = 34$\n* पैटर्न: +1, +2, ×2\n\n3. विकल्प 3 (9 - 10 - 12 - 24) की जाँच करें:\n* $9 + 1 = 10$\n* $10 + 2 = 12$\n* $12 \\times 2 = 24$\n* यह पैटर्न पूरी तरह से मेल खाता है।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Distance (Pole Crossing)",
+      "q": "A train $200 \\text{ m}$ long is running at a speed of $72 \\text{ km/hr}$. Time taken to cross a pole is:",
+      "hq": "200 मीटर लंबी एक ट्रेन 72 किमी/घंटा की गति से चल रही है। एक खंभे (pole) को पार करने में लगने वाला समय है:",
+      "o": [
+        "$12 \\text{ sec}$",
+        "$15 \\text{ sec}$",
+        "$10 \\text{ sec}$",
+        "$8 \\text{ sec}$"
+      ],
+      "ho": [
+        "12 सेकंड",
+        "15 सेकंड",
+        "10 सेकंड",
+        "8 सेकंड"
+      ],
+      "a": 2,
+      "e": "Convert Speed to m/s first.\n$72 \\times \\frac{5}{18} = 4 \\times 5 = 20 \\text{ m/s}$.\nTime $= \\frac{\\text{Length}}{\\text{Speed}} = \\frac{200}{20} = 10 \\text{ sec}$.",
+      "he": "**सबसे पहले गति को मी/से (m/s) में बदलें:**\n$$72 \\times \\frac{5}{18} = 4 \\times 5 = 20 \\text{ मी/से}$$\nसमय $= \\frac{\\text{लंबाई}}{\\text{गति}} = \\frac{200}{20} = \\mathbf{10 \\text{ सेकंड}}$",
+      "e2": "Speed $= 72 \\text{ km/hr}$.\nDist $= 0.2 \\text{ km}$.\nTime $= 0.2 / 72 \\text{ hr}$.\nConvert to seconds:\n$\\frac{0.2}{72} \\times 3600 = 0.2 \\times 50 = 10 \\text{ sec}$.",
+      "he2": "**वैकल्पिक विधि (किमी में):**\nगति $= 72 \\text{ किमी/घंटा}$\nदूरी $= 0.2 \\text{ किमी}$\nसमय $= \\frac{0.2}{72} \\text{ घंटा}$\nसेकंड में बदलने के लिए:\n$$\\frac{0.2}{72} \\times 3600 = 0.2 \\times 50 = \\mathbf{10 \\text{ सेकंड}}$$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Percentage (Election)",
+      "q": "In an election between two candidates, the winner got $55\\%$ of the total votes and won by a margin of $600$ votes. Find the total number of votes.",
+      "hq": "दो उम्मीदवारों के बीच एक चुनाव में, विजेता को कुल मतों का $55\\%$ प्राप्त हुआ और वह $600$ मतों के अंतर से जीत गया। कुल मतों की संख्या ज्ञात कीजिए।",
+      "o": [
+        "$4000$",
+        "$5000$",
+        "$6000$",
+        "$3000$"
+      ],
+      "a": 2,
+      "e": "Use \"Gap Percentage\".\nWinner $= 55\\%$, Loser $= 45\\%$.\nGap $= 55\\% - 45\\% = 10\\%$.\nGiven Gap $= 600$ votes.\n$10\\% = 600$.\nTotal ($100\\%$) $= 600 \\times 10 = 6000$.",
+      "he": "**\"प्रतिशत अंतर\" (Gap Percentage) विधि का उपयोग करें:**\nविजेता $= 55\\%$, हारने वाला $= 45\\%$\nअंतर (Gap) $= 55\\% - 45\\% = 10\\%$\nदिया गया अंतर $= 600$ मत\nयदि $10\\% = 600$ है,\nतो कुल ($100\\%$) $= 600 \\times 10 = \\mathbf{6000}$",
+      "e2": "Let Total Votes $= x$.\nWinner $= 0.55x$, Loser $= 0.45x$.\n$0.55x - 0.45x = 600$.\n$0.10x = 600$.\n$x = 6000$.\n",
+      "he2": "**माना कुल मत $= x$ हैं:**\nविजेता $= 0.55x$, हारने वाला $= 0.45x$\n$$0.55x - 0.45x = 600$$\n$$0.10x = 600$$\n$$x = \\mathbf{6000}$$"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding Decoding",
+      "q": "If PUNJAB is coded as OSKKCE, then how will PRAYAG be coded?",
+      "hq": "यदि PUNJAB को OSKKCE के रूप में कूटबद्ध किया जाता है, तो PRAYAG को कैसे कूटबद्ध किया जाएगा?",
+      "o": [
+        "POXJCZ",
+        "OPXJCZ",
+        "POXZCJ",
+        "OPXZCJ"
+      ],
+      "a": 3,
+      "e": "The word is split into two halves, and a specific pattern is applied to each half.\n1. **First Half (PUN)**: Subtract 1, 2, 3 respectively.\n* P (16) - 1 = O (15)\n* U (21) - 2 = S (19)\n* N (14) - 3 = K (11)\n2. **Second Half (JAB)**: Add 1, 2, 3 respectively.\n* J (10) + 1 = K (11)\n* A (1) + 2 = C (3)\n* B (2) + 3 = E (5)\n3. **Apply to PRAYAG**:\n* **First Half (PRA)**: P(-1)→**O**, R(-2)→**P**, A(-3)→**X**.\n* **Second Half (YAG)**: Y(+1)→**Z**, A(+2)→**C**, G(+3)→**J**.\nResult: **OPXZCJ**.\n",
+      "he": "शब्द को दो हिस्सों में विभाजित किया गया है, और प्रत्येक आधे हिस्से पर एक विशिष्ट पैटर्न लागू किया गया है।\n1. **पहला आधा हिस्सा (PUN)**: क्रमशः 1, 2, 3 घटाएं।\n* P (16) - 1 = O (15)\n* U (21) - 2 = S (19)\n* N (14) - 3 = K (11)\n2. **दूसरा आधा हिस्सा (JAB)**: क्रमशः 1, 2, 3 जोड़ें।\n* J (10) + 1 = K (11)\n* A (1) + 2 = C (3)\n* B (2) + 3 = E (5)\n3. **PRAYAG पर लागू करें**:\n* **पहला आधा हिस्सा (PRA)**: P(-1)→**O**, R(-2)→**P**, A(-3)→**X**।\n* **दूसरा आधा हिस्सा (YAG)**: Y(+1)→**Z**, A(+2)→**C**, G(+3)→**J**।\nपरिणाम: **OPXZCJ**।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Percentages",
+      "q": "The length of a rectangle is increased by 20% and its breadth is decreased by 10%. What is the percentage change in its area?",
+      "hq": "एक आयत की लंबाई में 20% की वृद्धि की जाती है और उसकी चौड़ाई में 10% की कमी की जाती है। इसके क्षेत्रफल में होने वाला प्रतिशत परिवर्तन क्या है?",
+      "o": [
+        "8% increase",
+        "10% increase",
+        "5% decrease",
+        "8% decrease"
+      ],
+      "ho": [
+        "8% की वृद्धि",
+        "10% की वृद्धि",
+        "5% की कमी",
+        "8% की कमी"
+      ],
+      "a": 0,
+      "e": "Use formula: Net% $= x + y + \\frac{xy}{100}$\nHere $x = +20, y = -10$.\nNet $= 20 - 10 + \\frac{20 \\times (-10)}{100}$\n$= 10 - 2 = \\mathbf{+8\\%}$ (Increase).",
+      "he": "**सूत्र (Formula) का उपयोग करें:**\nकुल परिवर्तन% $= x + y + \\frac{xy}{100}$\nयहाँ $x = +20$ (वृद्धि) और $y = -10$ (कमी) है।\n**गणना:**\nकुल परिवर्तन $= 20 - 10 + \\frac{20 \\times (-10)}{100}$\n$= 10 - 2 = \\mathbf{+8\\%}$\nचूँकि उत्तर धनात्मक (positive) है, इसलिए क्षेत्रफल में **8% की वृद्धि** होगी।",
+      "e2": "**Step 1: Understand the formula.**\nFor successive percentage changes, use:\nEffect $= A + B + \\frac{AB}{100}$.\n\n**Step 2: Substitute values.**\nLength ($A$) increases by 20% $\\rightarrow +20$.\nBreadth ($B$) decreases by 10% $\\rightarrow -10$.\n\n**Step 3: Calculate.**\nEffect $= 20 - 10 + \\frac{20 \\times -10}{100}$\n$= 10 - \\frac{200}{100}$\n$= 10 - 2 = 8$.\nSince the result is positive, it is an **8% increase**.\n",
+      "he2": "**Step-by-Step आसान तरीका:**\n**1. कॉन्सेप्ट को समझें:**\nजब भी दो क्रमिक (successive) बदलाव हों, तो हम इस सूत्र का उपयोग करते हैं:\nप्रभाव $= A + B + \\frac{AB}{100}$\n**2. मान (Values) रखें:**\n• लंबाई ($A$) में 20% वृद्धि $\\rightarrow +20$\n• चौड़ाई ($B$) में 10% कमी $\\rightarrow -10$\n**3. हल करें:**\nप्रभाव $= 20 - 10 + \\frac{20 \\times -10}{100}$\n$= 10 - \\frac{200}{100}$\n$= 10 - 2 = 8$\n**4. निष्कर्ष:**\nपरिणाम +8 आया है, जिसका अर्थ है **8% की वृद्धि**।"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Blood Relations",
+      "q": "In a certain code language,\nA + B means ‘A is the mother of B’\nA – B means ‘A is the brother of B’\nA × B means ‘A is the wife of B’ and\nA ÷ B means ‘A is the father of B’.\nHow is M related to Q if ‘M + N ÷ O – P × Q’?",
+      "hq": "एक निश्चित कूट भाषा में, A + B का अर्थ है ‘A, B की माता है’, A – B का अर्थ है ‘A, B का भाई है’, A × B का अर्थ है ‘A, B की पत्नी है’ और A ÷ B का अर्थ है ‘A, B का पिता है’। यदि ‘M + N ÷ O – P × Q’ है, तो M, Q से किस प्रकार संबंधित है?",
+      "o": [
+        "Wife's father's sister",
+        "Wife's mother's mother",
+        "Wife's mother's sister",
+        "Wife's father's mother"
+      ],
+      "ho": [
+        "पत्नी के पिता की बहन",
+        "पत्नी की माता की माता",
+        "पत्नी की माता की बहन",
+        "पत्नी के पिता की माता"
+      ],
+      "a": 3,
+      "e": "Decode the expression ‘M + N ÷ O – P × Q’ from right to left:\n1. **P × Q:** P is the **Wife** of Q (Q is Male).\n2. **O – P:** O is the **Brother** of P.\n3. **N ÷ O:** N is the **Father** of O (and therefore Father of P).\n4. **M + N:** M is the **Mother** of N.\n**Chain:** Q $\\rightarrow$ Wife (P) $\\rightarrow$ Father (N) $\\rightarrow$ Mother (M).\nSo, M is the **Wife's father's mother**.",
+      "he": "व्यंजक ‘M + N ÷ O – P × Q’ का विश्लेषण:\n1. P × Q: P, Q की पत्नी है।\n2. O – P: O, P का भाई है।\n3. N ÷ O: N, O का पिता है (अतः N, P का भी पिता है)।\n4. M + N: M, N की माता है।\nसंबंध श्रृंखला: Q → पत्नी (P) → पिता (N) → माता (M)।\nअतः, M, Q की पत्नी के पिता की माता है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Static GK (Firsts in India)",
+      "q": "Who was the first Indian to travel to space?",
+      "hq": "अंतरिक्ष में यात्रा करने वाले पहले भारतीय कौन थे?",
+      "o": [
+        "Kalpana Chawla",
+        "Rakesh Sharma",
+        "Sunita Williams",
+        "Ravish Malhotra"
+      ],
+      "ho": [
+        "कल्पना चावला",
+        "राकेश शर्मा",
+        "सुनीता विलियम्स",
+        "रवीश मल्होत्रा"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Reasoning",
+      "t": "Statement & Assumption",
+      "q": "Statement:\nThis detergent cleans better than other detergents.\nAssumptions:\nI. Other detergents are also available in the market.\nII. There are no other detergents, which clean better.",
+      "hq": "कथन:\nयह डिटर्जेंट अन्य डिटर्जेंट की तुलना में बेहतर सफाई करता है।\nपूर्वधारणा:\nI. बाजार में अन्य डिटर्जेंट भी उपलब्ध हैं।\nII. ऐसा कोई अन्य डिटर्जेंट नहीं है, जो इससे बेहतर सफाई करता हो।",
+      "o": [
+        "Only assumption I implicit",
+        "Neither I nor II implicit",
+        "Only assumption II implicit",
+        "Both I and II implicit"
+      ],
+      "ho": [
+        "केवल पूर्वधारणा I अंतर्निहित है",
+        "न तो I और न ही II अंतर्निहित है",
+        "केवल पूर्वधारणा II अंतर्निहित है",
+        "I और II दोनों अंतर्निहित हैं"
+      ],
+      "a": 3,
+      "e": "If a comparison is made (\"better than other detergents\"), it implies:\n1. There *are* other detergents to compare with (Assumption I).\n2. Since this one is \"better,\" implies others are worse, or none are better than this one (Assumption II).\nBoth are implicit in the comparative claim.\n",
+      "he": "यदि कोई तुलना की जाती है (\"अन्य डिटर्जेंट की तुलना में बेहतर\"), तो इसका तात्पर्य है:\n1. तुलना करने के लिए बाजार में अन्य डिटर्जेंट मौजूद हैं (पूर्वधारणा I)।\n2. चूंकि यह \"बेहतर\" है, इसका तात्पर्य है कि अन्य इसके मुकाबले कम प्रभावी हैं, या कोई भी इससे बेहतर नहीं है (पूर्वधारणा II)।\nतुलनात्मक दावे में ये दोनों अंतर्निहित हैं।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time, Speed and Distance (Stoppage Time)",
+      "q": "Excluding stoppages, the speed of a bus is $54 \\text{ km/hr}$ and including stoppages, it is $45 \\text{ km/hr}$. For how many minutes does the bus stop per hour?",
+      "hq": "स्टॉपेज (stoppages) को छोड़कर, एक बस की गति 54 किमी/घंटा है और स्टॉपेज सहित यह 45 किमी/घंटा है। बस प्रति घंटे कितने मिनट रुकती है?",
+      "o": [
+        "$9 \\text{ min}$",
+        "$10 \\text{ min}$",
+        "$12 \\text{ min}$",
+        "$20 \\text{ min}$"
+      ],
+      "ho": [
+        "9 मिनट",
+        "10 मिनट",
+        "12 मिनट",
+        "20 मिनट"
+      ],
+      "a": 1,
+      "e": "Use the \"Difference/Fast\" trick.\nTime $= \\frac{\\text{Fast Speed} - \\text{Slow Speed}}{\\text{Fast Speed}} \\times 60$.\nTime $= \\frac{54 - 45}{54} \\times 60$.\nTime $= \\frac{9}{54} \\times 60 = \\frac{1}{6} \\times 60 = 10 \\text{ min}$.",
+      "he": "**\"अंतर/तेज़\" (Difference/Fast) ट्रिक का उपयोग करें:**\n$$\\text{समय} = \\frac{\\text{तेज़ गति} - \\text{धीमी गति}}{\\text{तेज़ गति}} \\times 60$$\n$$\\text{समय} = \\frac{54 - 45}{54} \\times 60$$\n$$\\text{समय} = \\frac{9}{54} \\times 60 = \\frac{1}{6} \\times 60 = \\mathbf{10 \\text{ मिनट}}$$",
+      "e2": "In 1 hour, without stops, it travels $54 \\text{ km}$.\nWith stops, it travels only $45 \\text{ km}$.\nShortfall is $9 \\text{ km}$.\nTime taken to cover $9 \\text{ km}$ at original speed ($54 \\text{ km/hr}$):\n$t = \\frac{9}{54} \\text{ hr} = \\frac{1}{6} \\text{ hr}$.\n$\\frac{1}{6} \\times 60 = 10 \\text{ min}$.\n",
+      "he2": "**तर्क विधि:**\n1 घंटे में, बिना रुके, बस 54 किमी की दूरी तय करती है।\nरुकने के साथ, यह केवल 45 किमी की दूरी तय कर पाती है।\nदूरी में कमी = 9 किमी।\nमूल गति (54 किमी/घंटा) पर 9 किमी की दूरी तय करने में लगने वाला समय ही बस का रुकने का समय है:\n$$t = \\frac{9}{54} \\text{ घंटे} = \\frac{1}{6} \\text{ घंटे}$$\n$$\\frac{1}{6} \\times 60 = \\mathbf{10 \\text{ मिनट}}$$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Geometry (Polygons)",
+      "q": "Each interior angle of a regular polygon is $144^\\circ$. The number of sides of the polygon is:",
+      "hq": "एक सम बहुभुज (regular polygon) का प्रत्येक आंतरिक कोण $144^\\circ$ है। बहुभुज की भुजाओं की संख्या ज्ञात कीजिए:",
+      "o": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "a": 2,
+      "e": "Interior + Exterior = $180^\\circ$.\nExt Angle $= 180 - 144 = 36^\\circ$.\nNumber of sides $n = 360 / \\text{Ext Angle}$.\n$n = 360 / 36 = \\mathbf{10}$.",
+      "he": "**कॉन्सेप्ट (Concept):**\nआंतरिक कोण + बाह्य कोण = $180^\\circ$ (रैखिक युग्म)\nबाह्य कोण (Ext Angle) $= 180 - 144 = 36^\\circ$\n**भुजाओं की संख्या (n) का सूत्र:**\n$n = 360 / \\text{बाह्य कोण}$\n$n = 360 / 36 = \\mathbf{10}$",
+      "e2": "**Step 1: Find Exterior Angle.**\nSum of linear pair is $180^\\circ$.\nExt = $180 - 144 = 36^\\circ$.\n\n**Step 2: Use Formula.**\nSum of all exterior angles is always $360^\\circ$.\n$n = \\frac{360}{36} = 10$.\n",
+      "he2": "**Step-by-Step आसान तरीका:**\n**1. बाह्य कोण ज्ञात करें:**\nएक सीधी रेखा पर आंतरिक और बाह्य कोणों का योग $180^\\circ$ होता है।\nबाह्य कोण = $180 - 144 = 36^\\circ$\n**2. सूत्र का उपयोग करें:**\nकिसी भी बहुभुज के सभी बाह्य कोणों का योग हमेशा $360^\\circ$ होता है।\nभुजाओं की संख्या ($n$) = $\\frac{360}{36} = 10$."
+    },
+    {
+      "s": "General Awareness",
+      "t": "Biology (Nervous System)",
+      "q": "Which part of the human brain controls involuntary actions like heartbeat, breathing, and blood pressure?",
+      "hq": "मानव मस्तिष्क का कौन सा भाग दिल की धड़कन, श्वास और रक्तचाप जैसी अनैच्छिक क्रियाओं को नियंत्रित करता है?",
+      "o": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla Oblongata",
+        "Thalamus"
+      ],
+      "ho": [
+        "सेरेब्रम (प्रमस्तिष्क)",
+        "सेरेबेलम (अनुमस्तिष्क)",
+        "मेडुला ओबलोंगाटा",
+        "थैलेमस"
+      ],
+      "a": 2,
+      "e": "The Medulla Oblongata (part of the brainstem) controls involuntary functions (autonomic activities) necessary for survival.\n",
+      "he": "मेडुला ओबलोंगाटा (मस्तिष्क स्तंभ का हिस्सा) जीवित रहने के लिए आवश्यक अनैच्छिक कार्यों (स्वायत्त गतिविधियों) को नियंत्रित करता है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Awards and Honours",
+      "q": "The 'Statue of Social Justice', a 206-feet tall statue of Dr. B.R. Ambedkar, was inaugurated in which city?",
+      "hq": "डॉ. बी.आर. अंबेडकर की 206 फीट ऊंची प्रतिमा 'स्टैच्यू ऑफ सोशल जस्टिस' का उद्घाटन किस शहर में किया गया?",
+      "o": [
+        "Hyderabad",
+        "Vijayawada",
+        "Mumbai",
+        "Nagpur"
+      ],
+      "ho": [
+        "हैदराबाद",
+        "विजयवाड़ा",
+        "मुंबई",
+        "नागपुर"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Awareness",
+      "t": "Sports (Olympics)",
+      "q": "Which country will host the 2028 Summer Olympic Games?",
+      "hq": "2028 ग्रीष्मकालीन ओलंपिक खेलों की मेजबानी कौन सा देश करेगा?",
+      "o": [
+        "France (Paris)",
+        "USA (Los Angeles)",
+        "Australia (Brisbane)",
+        "Japan (Tokyo)"
+      ],
+      "ho": [
+        "फ्रांस (पेरिस)",
+        "अमेरिका (लॉस एंजिल्स)",
+        "ऑस्ट्रेलिया (ब्रिस्बेन)",
+        "जापान (टोक्यो)"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Awareness",
+      "t": "Physics (Work and Energy)",
+      "q": "A force of 20 N is applied on an object, displacing it by 5 meters in the direction of the force. Calculate the work done.",
+      "hq": "एक वस्तु पर 20 N का बल लगाया जाता है, जिससे वह बल की दिशा में 5 मीटर विस्थापित हो जाती है। किए गए कार्य की गणना करें।",
+      "o": [
+        "100 Joules",
+        "10 Joules",
+        "4 Joules",
+        "25 Joules"
+      ],
+      "ho": [
+        "100 जूल",
+        "10 जूल",
+        "4 जूल",
+        "25 जूल"
+      ],
+      "a": 0,
+      "e": "The formula for Work Done () is given by:\n\n\n\nWhere:\n(Force)\n(Displacement)\nSubstituting the values:\n\n\n\nThus, the work done is 100 Joules.\n",
+      "he": "किए गए कार्य का सूत्र है: W = F × d जहाँ: F = 20 N d = 5 m W = 20 × 5 = 100 J अतः, किया गया कार्य 100 जूल है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Biology (Human Diseases)",
+      "q": "Typhoid fever is caused by which of the following?",
+      "hq": "टाइफाइड बुखार किसके कारण होता है?",
+      "o": [
+        "Bacteria",
+        "Virus",
+        "Protozoa",
+        "Fungus"
+      ],
+      "ho": [
+        "बैक्टीरिया (जीवाणु)",
+        "वायरस (विषाणु)",
+        "प्रोटोजोआ",
+        "कवक"
+      ],
+      "a": 0,
+      "e": "Typhoid is a bacterial infection caused by the bacterium *Salmonella typhi*. It is usually spread through contaminated food or water.\n",
+      "he": "टाइफाइड 'साल्मोनेला टाइफी' नामक बैक्टीरिया के कारण होता है।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Compound Interest (Multiples)",
+      "q": "A sum of money becomes $8$ times itself in $3$ years at Compound Interest. Find the rate of interest per annum.",
+      "hq": "कोई धनराशि चक्रवृद्धि ब्याज पर $3$ वर्षों में स्वयं की $8$ गुना हो जाती है। वार्षिक ब्याज दर ज्ञात कीजिए।",
+      "o": [
+        "$50\\%$",
+        "$100\\%$",
+        "$25\\%$",
+        "$200\\%$"
+      ],
+      "a": 1,
+      "e": "Use \"Cube Root\" trick for 3 years.\nGrowth factor = $8$.\nRoot: $\\sqrt[3]{8} = 2$.\nThis means money doubles ($1 \\to 2$) every year.\nInterest = $2 - 1 = 1$.\nRate $= \\frac{1}{1} \\times 100 = 100\\%$.",
+      "he": "**3 वर्षों के लिए \"घनमूल\" (Cube Root) ट्रिक का उपयोग करें:**\nवृद्धि कारक (Growth factor) $= 8$\nघनमूल निकालें: $\\sqrt[3]{8} = 2$\nइसका अर्थ है कि पैसा हर साल दोगुना ($1 \\to 2$) हो रहा है।\nब्याज $= 2 - 1 = 1$\nदर $= \\frac{1}{1} \\times 100 = \\mathbf{100\\%}$",
+      "e2": "Formula $A = P(1 + \\frac{R}{100})^T$.\n$8P = P(1 + \\frac{R}{100})^3$.\n$8 = (1 + \\frac{R}{100})^3$.\nTake cube root: $2 = 1 + \\frac{R}{100}$.\n$1 = \\frac{R}{100} \\implies R = 100\\%$.\n",
+      "he2": "**सूत्र $A = P(1 + \\frac{R}{100})^T$ का उपयोग करके:**\n$$8P = P(1 + \\frac{R}{100})^3$$\n$$8 = (1 + \\frac{R}{100})^3$$\nघनमूल लेने पर: $$2 = 1 + \\frac{R}{100}$$\n$$1 = \\frac{R}{100} \\implies R = \\mathbf{100\\%}$$"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding",
+      "q": "In a certain code language, if HOUSE is coded as 10-13-23-17-7 then REHEARSE will be coded as ?",
+      "hq": "एक निश्चित कूट भाषा में, यदि HOUSE को 10-17-23-21-7 के रूप में कूटबद्ध किया जाता है, तो REHEARSE का कूट क्या होगा?",
+      "o": [
+        "20-7-10-7-3-20-21-7",
+        "16-3-6-3-25-16-17-3",
+        "20-3-10-3-3-16-21-3",
+        "18-5-8-5-1-18-19-5"
+      ],
+      "a": 2,
+      "e": "Each letter's positional value is increased by 2:\nH(8)+2=10, O(15)+2=17, U(21)+2=23, S(19)+2=21, E(5)+2=7.\nWait, according to the solution provided in the image for REHEARSE:\nR(18)+2=20, E(5)-2=3, H(8)+2=10, E(5)-2=3, A(1)+2=3, R(18)-2=16, S(19)+2=21, E(5)-2=3.\nThe pattern alternates between **+2** and **-2**.\nResult: **20-3-10-3-3-16-21-3**.\n",
+      "he": "प्रत्येक अक्षर के वर्णमाला क्रम के मान को बदला गया है:\nH(8)+2=10, O(15)+2=17, U(21)+2=23, S(19)+2=21, E(5)+2=7\nREHEARSE के लिए पैटर्न **+2** और **-2** के बीच वैकल्पिक रूप से बदलता है:\nR(18)+2=20\nE(5)-2=3\nH(8)+2=10\nE(5)-2=3\nA(1)+2=3\nR(18)-2=16\nS(19)+2=21\nE(5)-2=3\nपरिणाम: **20-3-10-3-3-16-21-3**।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Sports (Cricket)",
+      "q": "Who won the 'Orange Cap' for scoring the most runs in IPL 2024?",
+      "hq": "IPL 2024 में सर्वाधिक रन बनाने के लिए 'ऑरेंज कैप' (Orange Cap) किसने जीती?",
+      "o": [
+        "Ruturaj Gaikwad",
+        "Travis Head",
+        "Virat Kohli",
+        "Riyan Parag"
+      ],
+      "ho": [
+        "ऋतुराज गायकवाड़",
+        "ट्रैविस हेड",
+        "विराट कोहली",
+        "रियान पराग"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Mathematics",
+      "t": "Boats and Streams",
+      "q": "A man can row $15 \\text{ km/hr}$ in still water and the speed of the current is $3 \\text{ km/hr}$. Find the time taken to travel $72 \\text{ km}$ downstream and return.",
+      "hq": "एक व्यक्ति शांत जल में 15 किमी/घंटा की गति से नाव चला सकता है और धारा की गति 3 किमी/घंटा है। धारा के अनुकूल (downstream) 72 किमी जाने और वापस आने में लगने वाला समय ज्ञात कीजिए।",
+      "o": [
+        "$8 \\text{ hours}$",
+        "$10 \\text{ hours}$",
+        "$12 \\text{ hours}$",
+        "$9 \\text{ hours}$"
+      ],
+      "ho": [
+        "8 घंटे",
+        "10 घंटे",
+        "12 घंटे",
+        "9 घंटे"
+      ],
+      "a": 1,
+      "e": "Calculate Down and Up speeds.\nDown $= 15 + 3 = 18 \\text{ km/hr}$.\nUp $= 15 - 3 = 12 \\text{ km/hr}$.\nTime $= \\frac{72}{18} + \\frac{72}{12}$.\nTime $= 4 + 6 = 10 \\text{ hours}$.",
+      "he": "**अनुकूल और प्रतिकूल गति की गणना करें:**\nअनुकूल (Down) $= 15 + 3 = 18 \\text{ किमी/घंटा}$\nप्रतिकूल (Up) $= 15 - 3 = 12 \\text{ किमी/घंटा}$\nकुल समय $= \\frac{72}{18} + \\frac{72}{12}$\nकुल समय $= 4 + 6 = \\mathbf{10 \\text{ घंटे}}$",
+      "e2": "Total Time formula $= \\frac{\\text{Distance}}{\\text{Speed}}$.\n$T = T_{down} + T_{up}$.\n$T = \\frac{D}{B+S} + \\frac{D}{B-S}$.\n$T = \\frac{72}{18} + \\frac{72}{12} = 4 + 6 = 10$.\n",
+      "he2": "**कुल समय का सूत्र $= \\frac{\\text{दूरी}}{\\text{गति}}$**\n$$T = T_{\\text{अनुकूल}} + T_{\\text{प्रतिकूल}}$$\n$$T = \\frac{D}{B+S} + \\frac{D}{B-S}$$\n$$T = \\frac{72}{18} + \\frac{72}{12} = 4 + 6 = \\mathbf{10}$$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Trigonometry",
+      "q": "Evaluate the value of: $\\sin^2 60^\\circ + \\cos^2 30^\\circ + \\cot 45^\\circ$.",
+      "hq": "निम्नलिखित का मान ज्ञात कीजिए: $\\sin^2 60^\\circ + \\cos^2 30^\\circ + \\cot 45^\\circ$।",
+      "o": [
+        "2",
+        "2.5",
+        "1.5",
+        "3"
+      ],
+      "a": 1,
+      "e": "Values: $\\sin 60 = \\frac{\\sqrt{3}}{2}$, $\\cos 30 = \\frac{\\sqrt{3}}{2}$, \n$\\cot 45 = 1$.\nSq: $\\frac{3}{4} + \\frac{3}{4} + 1 = \\frac{6}{4} + 1$\n$= 1.5 + 1 = \\mathbf{2.5}$.",
+      "he": "मान:\n$$\\sin 60 = \\frac{\\sqrt{3}}{2}$$\n$$\\cos 30 = \\frac{\\sqrt{3}}{2}$$\n$$\\cot 45 = 1$$\nSq:\n$$\\frac{3}{4} + \\frac{3}{4} + 1 = \\frac{6}{4} + 1$$\n$$= 1.5 + 1 = \\mathbf{2.5}$$",
+      "e2": "**Step 1: Recall trigonometric values.**\n$\\sin 60^\\circ = \\frac{\\sqrt{3}}{2}$\n$\\cos 30^\\circ = \\frac{\\sqrt{3}}{2}$\n$\\cot 45^\\circ = 1$\n\n**Step 2: Square the values.**\n$\\sin^2 60^\\circ = \\left(\\frac{\\sqrt{3}}{2}\\right)^2 = \\frac{3}{4}$.\n$\\cos^2 30^\\circ = \\left(\\frac{\\sqrt{3}}{2}\\right)^2 = \\frac{3}{4}$.\n\n**Step 3: Add them up.**\nSum $= \\frac{3}{4} + \\frac{3}{4} + 1$.\n$= \\frac{6}{4} + 1 = \\frac{3}{2} + 1 = 1.5 + 1 = 2.5$.\n",
+      "he2": "**Step 1: त्रिकोणमितीय मान याद करें।**\n$$\\sin 60^\\circ = \\frac{\\sqrt{3}}{2}$$\n$$\\cos 30^\\circ = \\frac{\\sqrt{3}}{2}$$\n$$\\cot 45^\\circ = 1$$\n**Step 2: मानों का वर्ग करें।**\n$$\\sin^2 60^\\circ = \\left(\\frac{\\sqrt{3}}{2}\\right)^2 = \\frac{3}{4}$$\n$$\\cos^2 30^\\circ = \\left(\\frac{\\sqrt{3}}{2}\\right)^2 = \\frac{3}{4}$$\n**Step 3: सभी को जोड़ें।**\n$$योग = \\frac{3}{4} + \\frac{3}{4} + 1$$\n$$= \\frac{6}{4} + 1 = \\frac{3}{2} + 1 = 1.5 + 1 = 2.5$$"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Number Set Analogy",
+      "q": "Which of the given options follows the same set of operations as in the given sets (5 - 6 - 10 - 20) and (12 - 13 - 17 - 34)?",
+      "hq": "दिए गए विकल्पों में से कौन सा विकल्प दिए गए सेट (5 - 6 - 10 - 20) और (12 - 13 - 17 - 34) के समान संक्रियाओं के सेट का अनुसरण करता है?",
+      "o": [
+        "17 - 18 - 22 - 44",
+        "15 - 16 - 20 - 30",
+        "7 - 8 - 12 - 26",
+        "23 - 24 - 28 - 54"
+      ],
+      "a": 0,
+      "e": "Analyze the mathematical operations between consecutive terms:\nSet 1: $5 \\xrightarrow{+1} 6 \\xrightarrow{+4} 10 \\xrightarrow{\\times 2} 20$.\nSet 2: $12 \\xrightarrow{+1} 13 \\xrightarrow{+4} 17 \\xrightarrow{\\times 2} 34$.\nLogic: **+1, +4, ×2**.\nCheck Option 1:\n1. $17 + 1 = 18$\n2. $18 + 4 = 22$\n3. $22 \\times 2 = 44$\nThis matches the logic perfectly.\n",
+      "he": "लगातार पदों के बीच गणितीय संक्रियाओं का विश्लेषण करें:\nसेट 1: $5 \\xrightarrow{+1} 6 \\xrightarrow{+4} 10 \\xrightarrow{\\times 2} 20$.\nसेट 2: $12 \\xrightarrow{+1} 13 \\xrightarrow{+4} 17 \\xrightarrow{\\times 2} 34$.\nतर्क: **+1, +4, ×2**।\nविकल्प 1 की जाँच करें:\n1. $17 + 1 = 18$\n2. $18 + 4 = 22$\n3. $22 \\times 2 = 44$\nयह तर्क पूरी तरह मेल खाता है।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Economics",
+      "q": "The 'Planning Commission' of India was replaced by which body in 2015?",
+      "hq": "भारत के 'योजना आयोग' (Planning Commission) को 2015 में किस निकाय द्वारा प्रतिस्थापित किया गया था?",
+      "o": [
+        "Finance Commission",
+        "NITI Aayog",
+        "GST Council",
+        "National Development Council"
+      ],
+      "ho": [
+        "वित्त आयोग",
+        "नीति आयोग (NITI Aayog)",
+        "जीएसटी परिषद",
+        "राष्ट्रीय विकास परिषद"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Awareness",
+      "t": "Biology (Nervous System)",
+      "q": "Which part of the brain is responsible for maintaining posture and balance of the body?",
+      "hq": "मस्तिष्क का कौन सा भाग शरीर की मुद्रा (posture) और संतुलन बनाए रखने के लिए जिम्मेदार है?",
+      "o": [
+        "Cerebrum",
+        "Medulla Oblongata",
+        "Hypothalamus",
+        "Cerebellum"
+      ],
+      "ho": [
+        "सेरेब्रम (प्रमस्तिष्क)",
+        "मेडुला ओबलोंगाटा",
+        "हाइपोथैलेमस",
+        "सेरेबेलम (अनुमस्तिष्क)"
+      ],
+      "a": 3,
+      "e": "The Cerebellum (often called the \"Little Brain\") coordinates voluntary movements such as posture, balance, coordination, and speech.\n* Cerebrum: Thinking, intelligence.\n* Medulla: Involuntary actions (heartbeat, breathing).\n\n",
+      "he": "सेरेबेलम (जिसे अक्सर \"छोटा मस्तिष्क\" कहा जाता है) मुद्रा, संतुलन, समन्वय और भाषण जैसी स्वैच्छिक गतिविधियों का समन्वय करता है। * सेरेब्रम: विचार, बुद्धिमत्ता। * मेडुला: अनैच्छिक क्रियाएं (दिल की धड़कन, श्वास)।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Square Formula)",
+      "q": "If $x + \\frac{1}{x} = 4$, then find the value of $x^2 + \\frac{1}{x^2}$.",
+      "hq": "यदि $x + \\frac{1}{x} = 4$, तो $x^2 + \\frac{1}{x^2}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "14",
+        "16",
+        "12",
+        "18"
+      ],
+      "a": 0,
+      "e": "**Best Method (Square Short-cut):**\nIf $x + \\frac{1}{x} = k$, then $x^2 + \\frac{1}{x^2} = k^2 - 2$.\n\nHere, $k = 4$.\nValue = $4^2 - 2$\nValue = $16 - 2 = 14$.\n",
+      "he": "**सबसे अच्छी विधि (वर्ग शॉर्ट-कट):**\nयदि $x + \\frac{1}{x} = k$, तो $x^2 + \\frac{1}{x^2} = k^2 - 2$ होता है।\n\nयहाँ, $k = 4$ है।\nमान = $4^2 - 2$\nमान = $16 - 2 = 14$।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "Sports (Cricket)",
+      "q": "Who won the ICC Men's T20 World Cup 2024?",
+      "hq": "ICC पुरुष T20 विश्व कप 2024 किसने जीता?",
+      "o": [
+        "South Africa",
+        "Australia",
+        "India",
+        "England"
+      ],
+      "ho": [
+        "दक्षिण अफ्रीका",
+        "ऑस्ट्रेलिया",
+        "भारत",
+        "इंग्लैंड"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time Speed Distance",
+      "q": "A thief is spotted by a policeman from a distance of 200 meters. When the policeman starts the chase, the thief also starts running. If the speed of the thief is 10 km/h and that of the policeman is 11 km/h, how far would the thief have run before he is overtaken?",
+      "hq": "एक चोर (Thief) को एक पुलिसकर्मी (Policeman) 200 मीटर की दूरी से देखता है। जब पुलिसकर्मी पीछा करना शुरू करता है, तभी चोर भी दौड़ना शुरू करता है। यदि चोर की गति 10 km/h और पुलिसकर्मी की गति 11 km/h है, तो पकड़े जाने से पहले चोर कितनी दूरी दौड़ेगा?",
+      "o": [
+        "1 km",
+        "2 km",
+        "3 km",
+        "1.5 km"
+      ],
+      "a": 1,
+      "e": "Relative Speed $= 11 - 10 = 1$ km/h.\nDistance gap $= 200$ m $= 0.2$ km.\nTime to catch $= \\frac{0.2}{1} = 0.2$ hours.\nDistance run by thief $= \\text{Speed} \\times \\text{Time}$\n$= 10 \\times 0.2 = \\mathbf{2}$ km.",
+      "he": "सापेक्ष गति (Relative Speed) $= 11 - 10 = 1$ km/h।\nदूरी का अंतर (Distance gap) $= 200$ m $= 0.2$ km।\nपकड़ने में लगा समय (Time to catch) $= \\frac{0.2}{1} = 0.2$ घंटे।\nचोर द्वारा तय दूरी $= \\text{गति} \\times \\text{समय}$\n$= 10 \\times 0.2 = \\mathbf{2}$ km।",
+      "e2": "**Step 1: Find Relative Speed.**\nSince they run in the same direction:\n$S_{rel} = 11 - 10 = 1$ km/h.\n\n**Step 2: Calculate Time.**\nGap = 200m = 0.2km.\nTime = $\\frac{\\text{Distance}}{\\text{Speed}} = \\frac{0.2}{1} = 0.2$ hours.\n\n**Step 3: Calculate Distance for Thief.**\nDistance = $10 \\text{ km/h} \\times 0.2 \\text{ h} = 2$ km.\n",
+      "he2": "**Step 1: सापेक्ष गति निकालें (Find Relative Speed).**\nक्योंकि दोनों एक ही दिशा में दौड़ रहे हैं:\n$S_{rel} = 11 - 10 = 1$ km/h।\n**Step 2: समय निकालें (Calculate Time).**\nअंतर = 200 m = 0.2 km।\nसमय = $\\frac{\\text{दूरी}}{\\text{गति}} = \\frac{0.2}{1} = 0.2$ घंटे।\n**Step 3: चोर द्वारा तय दूरी निकालें (Calculate Distance for Thief).**\nदूरी = $10 \\text{ km/h} \\times 0.2 \\text{ h} = 2$ km।"
+    },
+    {
+      "s": "General Awareness",
+      "t": "International Summits",
+      "q": "Which country hosted the Shanghai Cooperation Organization (SCO) Summit in July 2024?",
+      "hq": "जुलाई 2024 में किस देश ने शंघाई सहयोग संगठन (SCO) शिखर सम्मेलन की मेजबानी की?",
+      "o": [
+        "India",
+        "China",
+        "Russia",
+        "Kazakhstan"
+      ],
+      "ho": [
+        "भारत",
+        "चीन",
+        "रूस",
+        "कजाकिस्तान"
+      ],
+      "a": 3
+    },
+    {
+      "s": "General Awareness",
+      "t": "Important Days/Themes",
+      "q": "What was the theme of 'World Environment Day' 2024 (hosted by Saudi Arabia)?",
+      "hq": "'विश्व पर्यावरण दिवस' 2024 (सऊदी अरब द्वारा आयोजित) का विषय (Theme) क्या था?",
+      "o": [
+        "Beat Plastic Pollution",
+        "Land Restoration, Desertification and Drought Resilience",
+        "Ecosystem Restoration",
+        "Only One Earth"
+      ],
+      "ho": [
+        "प्लास्टिक प्रदूषण को मात दें",
+        "भूमि बहाली, मरुस्थलीकरण और सूखा लचीलापन (Land Restoration, Desertification and Drought Resilience)",
+        "पारिस्थितिकी तंत्र की बहाली",
+        "केवल एक पृथ्वी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration (Volume Ratio)",
+      "q": "A cylinder and a cone have the same base radius and the same height. The ratio of the volume of the cylinder to that of the cone is:",
+      "hq": "एक बेलन (cylinder) और एक शंकु (cone) की आधार त्रिज्या और ऊँचाई समान है। बेलन के आयतन का शंकु के आयतन से अनुपात क्या है?",
+      "o": [
+        "$1:3$",
+        "$2:1$",
+        "$3:1$",
+        "$1:2$"
+      ],
+      "a": 2,
+      "e": "Use Formula Ratio.\n$V_{cyl} = \\pi r^2 h$.\n$V_{cone} = \\frac{1}{3} \\pi r^2 h$.\nRatio $= 1 : \\frac{1}{3} = 3 : 1$.",
+      "he": "**सूत्र अनुपात (Formula Ratio) का उपयोग करें:**\n$V_{\\text{बेलन}} = \\pi r^2 h$\n$V_{\\text{शंकु}} = \\frac{1}{3} \\pi r^2 h$\nअनुपात $= 1 : \\frac{1}{3} = \\mathbf{3 : 1}$",
+      "e2": "Since Base Area ($B$) and Height ($h$) are same.\nCylinder Volume $= B \\times h$.\nCone Volume $= \\frac{1}{3} \\times B \\times h$.\nClearly, Cylinder is $3$ times the Cone.\n",
+      "he2": "**चूँकि आधार क्षेत्रफल ($B$) और ऊँचाई ($h$) समान हैं:**\nबेलन का आयतन $= B \\times h$\nशंकु का आयतन $= \\frac{1}{3} \\times B \\times h$\nस्पष्ट है कि बेलन का आयतन, शंकु के आयतन का **3 गुना** है।"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Statistics (Mean)",
+      "q": "What is the mean of the first 10 multiples of 7?",
+      "hq": "7 के पहले 10 गुणजों (multiples) का माध्य (mean) क्या है?",
+      "o": [
+        "35",
+        "38.5",
+        "40",
+        "37.5"
+      ],
+      "a": 1,
+      "e": "Multiples: 7, 14... 70.\nSum $= 7 \\times (1+2+..+10) = 7 \\times 55$.\nMean $= (7 \\times 55) / 10 = 385 / 10 = \\mathbf{38.5}$.",
+      "he": "**गुणज (Multiples):** 7, 14, 21, ..., 70.\n**योग (Sum):**\nयोग = $7 \\times (1 + 2 + 3 + \\dots + 10)$\nयोग = $7 \\times 55$ (चूँकि 1 से 10 तक का योग 55 होता है)\n**माध्य (Mean):**\nमाध्य = कुल योग / कुल संख्या\nमाध्य = $(7 \\times 55) / 10$\nमाध्य = $385 / 10 = \\mathbf{38.5}$",
+      "e2": "* Mean of AP = (First + Last) / 2.\n* First term = 7.\n* Last term = 70.\n* Mean = (7 + 70) / 2 = 77 / 2 = 38.5.\n",
+      "he2": "**शॉर्टकट तरीका (AP Method):**\n* जब संख्याएँ एक समांतर श्रेणी (AP) में हों, तो:\n**माध्य = (पहला पद + अंतिम पद) / 2**\n* पहला पद (7 का पहला गुणज) = 7\n* अंतिम पद (7 का 10वाँ गुणज) = 70\n**गणना:**\nमाध्य = $(7 + 70) / 2$\nमाध्य = $77 / 2 = \\mathbf{38.5}$"
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra",
+      "q": "If x = 3 + √8, find the value of x + (1/x).",
+      "hq": "यदि $x = 3 + \\sqrt{8}$ है, तो $x + (1/x)$ का मान ज्ञात कीजिए।",
+      "o": [
+        "4",
+        "6",
+        "9",
+        "8"
+      ],
+      "a": 1,
+      "e": "Use the \"Reciprocal Trick\".\nCheck difference of squares:\n3² - (√8)² = 9 - 8 = 1.\nIf diff is 1, then (1/x) is just the conjugate (3 - √8).\nx + 1/x = (3 + √8) + (3 - √8).\nSum = 3 + 3 = 6.",
+      "he": "**\"व्युत्क्रम ट्रिक\" (Reciprocal Trick) का उपयोग करें:**\nवर्गों के अंतर की जाँच करें:\n$3^2 - (\\sqrt{8})^2 = 9 - 8 = 1$\nयदि अंतर 1 है, तो $(1/x)$ केवल इसका संयुग्मी (conjugate) होगा, जो कि $(3 - \\sqrt{8})$ है।\n**गणना:**\n$x + 1/x = (3 + \\sqrt{8}) + (3 - \\sqrt{8})$\n$$\\text{योग} = 3 + 3 = \\mathbf{6}$$",
+      "e2": "Rationalize the denominator.\n1/x = 1 / (3 + √8).\nMultiply top and bottom by (3 - √8).\nDenominator becomes 3² - (√8)² = 1.\nSo 1/x = 3 - √8.\nAdd them: 3 + √8 + 3 - √8 = 6.\n",
+      "he2": "**हर का परिमेयीकरण (Rationalize the denominator):**\n$1/x = 1 / (3 + \\sqrt{8})$\nअंश और हर को $(3 - \\sqrt{8})$ से गुणा करें।\nहर बन जाता है: $3^2 - (\\sqrt{8})^2 = 1$\nअतः, $1/x = 3 - \\sqrt{8}$\n**जोड़ने पर:**\n$$3 + \\sqrt{8} + 3 - \\sqrt{8} = \\mathbf{6}$$"
+    },
+    {
+      "s": "Reasoning",
+      "t": "Number Series",
+      "q": "Select the number from among the given options that can replace the question mark (?) in the following series.\n156, 182, 210, ?",
+      "hq": "दिए गए विकल्पों में से वह संख्या चुनें जो निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) को प्रतिस्थापित कर सके।\n156, 182, 210, ?",
+      "o": [
+        "240",
+        "236",
+        "202",
+        "210"
+      ],
+      "a": 0,
+      "e": "Logic 1: Difference Method.\nCalculate the difference between consecutive terms:\n1. $182 - 156 = 26$\n2. $210 - 182 = 28$\nThe difference increases by 2. Next difference should be $30$.\nNext Term $= 210 + 30 = 240$.\n",
+      "he": "तर्क 1: अंतर विधि (Difference Method)।\nलगातार पदों के बीच अंतर की गणना करें:\n1. 182 - 156 = 26\n2. 210 - 182 = 28\nअंतर में 2 की वृद्धि हो रही है। अगला अंतर 30 होना चाहिए।\nअगला पद = 210 + 30 = 240।\n\nतर्क 2: क्रमिक पूर्णांकों का गुणनफल (Product of Consecutive Integers)।\nपद क्रमिक संख्याओं (n × (n+1)) के गुणनफल हैं:\n1. 12 × 13 = 156\n2. 13 × 14 = 182\n3. 14 × 15 = 210\nअगला: 15 × 16 = 240।",
+      "e2": "Logic 2: Product of Consecutive Integers.\nThe terms are products of sequential numbers ($n \\times (n+1)$):\n1. $12 \\times 13 = 156$\n2. $13 \\times 14 = 182$\n3. $14 \\times 15 = 210$\nNext: $15 \\times 16 = 240$."
+    }
+  ]
+}
