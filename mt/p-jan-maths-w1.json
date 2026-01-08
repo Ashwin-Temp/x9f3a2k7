@@ -1,0 +1,584 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "Mathematics",
+      "t": "Simple and Compound Interest (Difference)",
+      "q": "The difference between CI and SI on a certain sum for 2 years at 8% per annum is ₹32. What is the sum?",
+      "hq": "एक निश्चित राशि पर 8% प्रति वर्ष की दर से 2 वर्ष के चक्रवृद्धि ब्याज (CI) और साधारण ब्याज (SI) के बीच का अंतर ₹32 है। वह राशि (मूलधन) क्या है?",
+      "o": [
+        "₹5,000",
+        "₹5,200",
+        "₹4,800",
+        "₹6,000"
+      ],
+      "a": 0,
+      "e": "1. Formula for difference (2 years): $D = P (\\frac{R}{100})^2$.\n2. Given $D = 32$, $R = 8$.\n3. Substitute:\n$32 = P (\\frac{8}{100})^2$\n$32 = P (\\frac{64}{10000})$.\n4. Solve for P:\n$P = \\frac{32 \\times 10000}{64}$\n$P = \\frac{10000}{2} = 5000$.\nAnswer is ₹5,000.\n\n[Image of simple vs compound interest graph]\n\n",
+      "he": "1. 2 वर्ष के अंतर के लिए सूत्र: $D = P (\\frac{R}{100})^2$।\n2. यहाँ $D = 32$ और $R = 8$ दिया गया है।\n3. मान रखने पर:\n$32 = P (\\frac{8}{100})^2$\n$32 = P (\\frac{64}{10000})$।\n4. P का मान निकालें:\n$P = \\frac{32 \\times 10000}{64}$\n$P = \\frac{10000}{2} = 5000$।\nउत्तर ₹5,000 है।\n\n\n\n[Image of simple vs compound interest graph]",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration 2D (Path Area)",
+      "q": "A rectangular garden is 100 m long and 80 m wide. A path 5 m wide is built outside around it. What is the area of the path?",
+      "hq": "एक आयताकार बगीचा 100 मीटर लंबा और 80 मीटर चौड़ा है। इसके चारों ओर बाहर की तरफ 5 मीटर चौड़ा रास्ता बनाया गया है। रास्ते का क्षेत्रफल क्या है?",
+      "o": [
+        "1900 m²",
+        "2000 m²",
+        "1800 m²",
+        "1950 m²"
+      ],
+      "ho": [
+        "1900 वर्ग मीटर",
+        "2000 वर्ग मीटर",
+        "1800 वर्ग मीटर",
+        "1950 वर्ग मीटर"
+      ],
+      "a": 0,
+      "e": "1. Inner Dimensions: $L = 100$, $B = 80$.\nInner Area = $100 \\times 80 = 8000$ m².\n2. Outer Dimensions (add 5m on both sides):\n$L' = 100 + 5 + 5 = 110$.\n$B' = 80 + 5 + 5 = 90$.\nOuter Area = $110 \\times 90 = 9900$ m².\n3. Area of Path = Outer Area - Inner Area.\n$9900 - 8000 = 1900$ m².\nAnswer is 1900 m².\n",
+      "he": "1. बगीचे का आयाम: लंबाई = 100, चौड़ाई = 80।\nअंदर का क्षेत्रफल = $100 \\times 80 = 8000$ वर्ग मीटर।\n2. बाहरी आयाम (दोनों तरफ 5-5 मीटर जोड़ें):\nनई लंबाई = $100 + 5 + 5 = 110$।\nनई चौड़ाई = $80 + 5 + 5 = 90$।\nबाहरी क्षेत्रफल = $110 \\times 90 = 9900$ वर्ग मीटर।\n3. रास्ते का क्षेत्रफल = बाहरी क्षेत्रफल - अंदर का क्षेत्रफल।\n$9900 - 8000 = 1900$ वर्ग मीटर।\nउत्तर 1900 वर्ग मीटर है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Trigonometry (Simplification)",
+      "q": "Simplify the expression: $(\\sin A + \\cos A)^2 + (\\sin A - \\cos A)^2$.",
+      "hq": "व्यंजक को सरल कीजिए: $(\\sin A + \\cos A)^2 + (\\sin A - \\cos A)^2$।",
+      "o": [
+        "1",
+        "2",
+        "0",
+        "$2 \\sin^2 A$"
+      ],
+      "a": 1,
+      "e": "1. Expand first term: $\\sin^2 A + \\cos^2 A + 2\\sin A \\cos A$.\n2. Expand second term: $\\sin^2 A + \\cos^2 A - 2\\sin A \\cos A$.\n3. Add them together:\n$(\\sin^2 A + \\cos^2 A) + (\\sin^2 A + \\cos^2 A) + (2\\sin A \\cos A - 2\\sin A \\cos A)$.\n$1 + 1 + 0 = 2$.\nAnswer is 2.\n",
+      "he": "1. पहले पद का विस्तार करें: $\\sin^2 A + \\cos^2 A + 2\\sin A \\cos A$।\n2. दूसरे पद का विस्तार करें: $\\sin^2 A + \\cos^2 A - 2\\sin A \\cos A$।\n3. उन्हें एक साथ जोड़ें:\n$(\\sin^2 A + \\cos^2 A) + (\\sin^2 A + \\cos^2 A) + (2\\sin A \\cos A - 2\\sin A \\cos A)$।\n$1 + 1 + 0 = 2$।\nउत्तर 2 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Number System (Divisibility)",
+      "q": "The expression $4^{61} + 4^{62} + 4^{63} + 4^{64}$ is divisible by which of the following prime numbers?",
+      "hq": "व्यंजक $4^{61} + 4^{62} + 4^{63} + 4^{64}$ निम्नलिखित में से किस अभाज्य संख्या (prime number) से विभाज्य है?",
+      "o": [
+        "3",
+        "11",
+        "13",
+        "17"
+      ],
+      "a": 3,
+      "e": "1. Take $4^{61}$ common from the expression:\n$4^{61} (1 + 4^1 + 4^2 + 4^3)$.\n2. Simplify the bracket:\n$1 + 4 + 16 + 64 = 85$.\n3. The expression is $4^{61} \\times 85$.\n4. Factorize 85: $5 \\times 17$.\nSince 17 is a factor, the number is divisible by 17.\nAnswer is 17.\n",
+      "he": "1. व्यंजक में से $4^{61}$ उभयनिष्ठ (common) लें:\n$4^{61} (1 + 4^1 + 4^2 + 4^3)$।\n2. ब्रैकेट को सरल करें:\n$1 + 4 + 16 + 64 = 85$।\n3. व्यंजक $4^{61} \\times 85$ है।\n4. 85 का गुणनखंड करें: $5 \\times 17$।\nचूंकि 17 एक गुणनखंड है, इसलिए यह संख्या 17 से विभाज्य है।\nउत्तर 17 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Trigonometry (Heights and Distances)",
+      "q": "The shadow of a tower standing on a level ground is found to be 40 m longer when the Sun's altitude is $30^\\circ$ than when it is $60^\\circ$. Find the height of the tower.",
+      "hq": "समतल जमीन पर खड़ी एक मीनार की छाया, सूर्य का उन्नतांश (altitude) $60^\\circ$ होने की तुलना में $30^\\circ$ होने पर 40 मीटर अधिक लंबी पाई जाती है। मीनार की ऊँचाई ज्ञात कीजिए।",
+      "o": [
+        "$20\\sqrt{3}$ m",
+        "$40\\sqrt{3}$ m",
+        "20 m",
+        "30 m"
+      ],
+      "ho": [
+        "$20\\sqrt{3}$ मीटर",
+        "$40\\sqrt{3}$ मीटर",
+        "20 मीटर",
+        "30 मीटर"
+      ],
+      "a": 0,
+      "e": "1. Let height = $h$.\n2. In the $60^\\circ$ triangle: Base $x = \\frac{h}{\\tan 60^\\circ} = \\frac{h}{\\sqrt{3}}$.\n3. In the $30^\\circ$ triangle: Base $x + 40 = \\frac{h}{\\tan 30^\\circ} = h\\sqrt{3}$.\n4. Substitute $x$:\n$\\frac{h}{\\sqrt{3}} + 40 = h\\sqrt{3}$\n$40 = h\\sqrt{3} - \\frac{h}{\\sqrt{3}}$\n$40 = h(\\frac{3-1}{\\sqrt{3}}) = \\frac{2h}{\\sqrt{3}}$\n$40\\sqrt{3} = 2h$\n$h = 20\\sqrt{3}$.\nAnswer is $20\\sqrt{3}$ m.\n",
+      "he": "1. माना ऊँचाई = $h$।\n2. $60^\\circ$ वाले त्रिभुज में: आधार $x = \\frac{h}{\\tan 60^\\circ} = \\frac{h}{\\sqrt{3}}$।\n3. $30^\\circ$ वाले त्रिभुज में: आधार $x + 40 = \\frac{h}{\\tan 30^\\circ} = h\\sqrt{3}$।\n4. $x$ का मान रखें:\n$\\frac{h}{\\sqrt{3}} + 40 = h\\sqrt{3}$\n$40 = h\\sqrt{3} - \\frac{h}{\\sqrt{3}}$\n$40 = h(\\frac{3-1}{\\sqrt{3}}) = \\frac{2h}{\\sqrt{3}}$\n$40\\sqrt{3} = 2h$\n$h = 20\\sqrt{3}$।\nउत्तर $20\\sqrt{3}$ मीटर है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Geometry (Tangents)",
+      "q": "Two circles of radii 8 cm and 3 cm have their centers 13 cm apart. What is the length of the direct common tangent to these circles?",
+      "hq": "8 सेमी और 3 सेमी त्रिज्या वाले दो वृत्तों के केंद्रों के बीच की दूरी 13 सेमी है। इन वृत्तों की उभयनिष्ठ अनुस्पर्श रेखा (direct common tangent) की लंबाई क्या है?",
+      "o": [
+        "10 cm",
+        "11 cm",
+        "12 cm",
+        "13 cm"
+      ],
+      "ho": [
+        "10 सेमी",
+        "11 सेमी",
+        "12 सेमी",
+        "13 सेमी"
+      ],
+      "a": 2,
+      "e": "1. Formula for Direct Common Tangent (DCT):\n$\\text{Length} = \\sqrt{d^2 - (r_1 - r_2)^2}$\nWhere $d$ is the distance between centers.\n2. Substitute values:\n$d = 13, r_1 = 8, r_2 = 3$.\nLength = $\\sqrt{13^2 - (8 - 3)^2}$\nLength = $\\sqrt{169 - 5^2}$\nLength = $\\sqrt{169 - 25} = \\sqrt{144} = 12$ cm.\nAnswer is 12 cm.\n",
+      "he": "1. उभयनिष्ठ अनुस्पर्श रेखा (DCT) का सूत्र:\n$\\text{लंबाई} = \\sqrt{d^2 - (r_1 - r_2)^2}$\nजहाँ $d$ केंद्रों के बीच की दूरी है।\n2. मान रखें:\n$d = 13, r_1 = 8, r_2 = 3$।\nलंबाई = $\\sqrt{13^2 - (8 - 3)^2}$\nलंबाई = $\\sqrt{169 - 5^2}$\nलंबाई = $\\sqrt{169 - 25} = \\sqrt{144} = 12$ सेमी।\nउत्तर 12 सेमी है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Surds and Indices)",
+      "q": "If $x = 3 + 2\\sqrt{2}$, then what is the value of $\\sqrt{x} - \\frac{1}{\\sqrt{x}}$?",
+      "hq": "यदि $x = 3 + 2\\sqrt{2}$ है, तो $\\sqrt{x} - \\frac{1}{\\sqrt{x}}$ का मान क्या होगा?",
+      "o": [
+        "1",
+        "2",
+        "$2\\sqrt{2}$",
+        "3"
+      ],
+      "a": 1,
+      "e": "1. Given $x = 3 + 2\\sqrt{2}$. Note that $3 + 2\\sqrt{2} = (\\sqrt{2} + 1)^2$.\nSo, $\\sqrt{x} = \\sqrt{2} + 1$.\n2. Then $\\frac{1}{\\sqrt{x}} = \\frac{1}{\\sqrt{2} + 1}$.\nRationalize the denominator: $\\frac{1(\\sqrt{2}-1)}{(\\sqrt{2}+1)(\\sqrt{2}-1)} = \\sqrt{2} - 1$.\n3. Calculate $\\sqrt{x} - \\frac{1}{\\sqrt{x}}$:\n$(\\sqrt{2} + 1) - (\\sqrt{2} - 1)$\n$= \\sqrt{2} + 1 - \\sqrt{2} + 1 = 2$.\nAnswer is 2.\n",
+      "he": "1. दिया गया है $x = 3 + 2\\sqrt{2}$। ध्यान दें कि $3 + 2\\sqrt{2} = (\\sqrt{2} + 1)^2$ होता है।\nइसलिए, $\\sqrt{x} = \\sqrt{2} + 1$।\n2. तब $\\frac{1}{\\sqrt{x}} = \\frac{1}{\\sqrt{2} + 1}$ होगा।\nहर का परिमेयकरण (Rationalize) करने पर: $\\frac{1(\\sqrt{2}-1)}{(\\sqrt{2}+1)(\\sqrt{2}-1)} = \\sqrt{2} - 1$।\n3. $\\sqrt{x} - \\frac{1}{\\sqrt{x}}$ की गणना करें:\n$(\\sqrt{2} + 1) - (\\sqrt{2} - 1)$\n$= \\sqrt{2} + 1 - \\sqrt{2} + 1 = 2$।\nउत्तर 2 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit and Loss (Successive Discounts)",
+      "q": "An article is marked at ₹5,000. The shopkeeper offers two successive discounts of 20% and 10%. What is the selling price?",
+      "hq": "एक वस्तु का अंकित मूल्य (Marked Price) ₹5,000 है। दुकानदार 20% और 10% की दो क्रमिक छूट (successive discounts) देता है। विक्रय मूल्य क्या है?",
+      "o": [
+        "₹3,500",
+        "₹3,600",
+        "₹4,000",
+        "₹3,750"
+      ],
+      "a": 1,
+      "e": "1. First discount of 20%:\n$5000 \\times \\frac{80}{100} = 4000$.\n2. Second discount of 10% on ₹4000:\n$4000 \\times \\frac{90}{100} = 3600$.\n(Alternatively: $5000 \\times 0.8 \\times 0.9 = 3600$).\nAnswer is ₹3,600.\n",
+      "he": "1. 20% की पहली छूट:\n$5000 \\times \\frac{80}{100} = 4000$।\n2. ₹4000 पर 10% की दूसरी छूट:\n$4000 \\times \\frac{90}{100} = 3600$।\n(वैकल्पिक रूप से: $5000 \\times 0.8 \\times 0.9 = 3600$)।\nउत्तर ₹3,600 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Ratio and Proportion (Distribution)",
+      "q": "A sum of ₹2,600 is to be divided among A, B, and C in the ratio $\\frac{1}{2} : \\frac{1}{3} : \\frac{1}{4}$. What is C's share?",
+      "hq": "₹2,600 की राशि को A, B और C के बीच $\\frac{1}{2} : \\frac{1}{3} : \\frac{1}{4}$ के अनुपात में विभाजित किया जाना है। C का हिस्सा कितना है?",
+      "o": [
+        "₹800",
+        "₹1,200",
+        "₹600",
+        "₹1,000"
+      ],
+      "a": 2,
+      "e": "1. Convert fractions to integers by multiplying by LCM of denominators (2, 3, 4). LCM = 12.\nRatio = $12(\\frac{1}{2}) : 12(\\frac{1}{3}) : 12(\\frac{1}{4}) = 6 : 4 : 3$.\n2. Total Parts = $6 + 4 + 3 = 13$.\nTotal Amount = 2600.\n1 Part = $\\frac{2600}{13} = 200$.\n3. C's Share (3 parts) = $3 \\times 200 = 600$.\nAnswer is ₹600.\n",
+      "he": "1. हरों (2, 3, 4) के लघुत्तम समापवर्त्य (LCM) से गुणा करके भिन्नों को पूर्णांकों में बदलें। LCM = 12।\nअनुपात = $12(\\frac{1}{2}) : 12(\\frac{1}{3}) : 12(\\frac{1}{4}) = 6 : 4 : 3$।\n2. कुल हिस्से = $6 + 4 + 3 = 13$।\nकुल राशि = 2600।\n1 हिस्सा = $\\frac{2600}{13} = 200$।\n3. C का हिस्सा (3 हिस्से) = $3 \\times 200 = 600$।\nउत्तर ₹600 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Trains (Platform)",
+      "q": "A train 150 meters long crosses a pole in 15 seconds. How much time will it take to cross a platform of length 100 meters?",
+      "hq": "150 मीटर लंबी एक ट्रेन 15 सेकंड में एक खंभे को पार करती है। 100 मीटर लंबे प्लेटफॉर्म को पार करने में इसे कितना समय लगेगा?",
+      "o": [
+        "25 seconds",
+        "30 seconds",
+        "20 seconds",
+        "18 seconds"
+      ],
+      "ho": [
+        "25 सेकंड",
+        "30 सेकंड",
+        "20 सेकंड",
+        "18 सेकंड"
+      ],
+      "a": 0,
+      "e": "1. Speed of train = $\\frac{\\text{Length}}{\\text{Time}} = \\frac{150}{15} = 10 \\text{ m/s}$.\n2. Distance to cross platform = Length of Train + Length of Platform.\n$D = 150 + 100 = 250$ m.\n3. Time = $\\frac{D}{Speed} = \\frac{250}{10} = 25$ seconds.\nAnswer is 25 seconds.\n",
+      "he": "1. ट्रेन की गति = $\\frac{\\text{लंबाई}}{\\text{समय}} = \\frac{150}{15} = 10$ मीटर/सेकंड।\n2. प्लेटफॉर्म पार करने के लिए कुल दूरी = ट्रेन की लंबाई + प्लेटफॉर्म की लंबाई।\n$D = 150 + 100 = 250$ मीटर।\n3. समय = $\\frac{D}{\\text{गति}} = \\frac{250}{10} = 25$ सेकंड।\nउत्तर 25 सेकंड है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Average (Exclusion)",
+      "q": "The average weight of 15 students is 30 kg. If the teacher's weight is also included, the average weight increases by 1 kg. What is the weight of the teacher?",
+      "hq": "15 छात्रों का औसत वजन 30 किग्रा है। यदि शिक्षक का वजन भी शामिल कर लिया जाए, तो औसत वजन 1 किग्रा बढ़ जाता है। शिक्षक का वजन क्या है?",
+      "o": [
+        "45 kg",
+        "46 kg",
+        "31 kg",
+        "40 kg"
+      ],
+      "ho": [
+        "45 किग्रा",
+        "46 किग्रा",
+        "31 किग्रा",
+        "40 किग्रा"
+      ],
+      "a": 1,
+      "e": "1. Total weight of 15 students = $15 \\times 30 = 450$ kg.\n2. New count = 16 people. New Average = 31 kg.\nTotal new weight = $16 \\times 31 = 496$ kg.\n3. Teacher's Weight = $496 - 450 = 46$ kg.\n*(Shortcut: Teacher brings 30kg + 1kg for everyone including himself = $30 + 16(1) = 46$).*\nAnswer is 46 kg.\n",
+      "he": "1. 15 छात्रों का कुल वजन = $15 \\times 30 = 450$ किग्रा।\n2. अब कुल 16 लोग हो गए। नया औसत = 31 किग्रा।\nनया कुल वजन = $16 \\times 31 = 496$ किग्रा।\n3. शिक्षक का वजन = $496 - 450 = 46$ किग्रा।\n*(शॉर्टकट: शिक्षक अपने साथ 30 किग्रा + खुद को मिलाकर सभी 16 लोगों के लिए 1-1 किग्रा एक्स्ट्रा लाया = $30 + 16(1) = 46$)।*\nउत्तर 46 किग्रा है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Cubes)",
+      "q": "If $x - \\frac{1}{x} = 3$, find the value of $x^3 - \\frac{1}{x^3}$.",
+      "hq": "यदि $x - \\frac{1}{x} = 3$ है, तो $x^3 - \\frac{1}{x^3}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "18",
+        "36",
+        "24",
+        "27"
+      ],
+      "a": 1,
+      "e": "1. Identity: $a^3 - b^3 = (a-b)^3 + 3ab(a-b)$.\nHere $a=x, b=1/x$, so $ab=1$.\nExpression = $(x - \\frac{1}{x})^3 + 3(x - \\frac{1}{x})$.\n2. Substitute 3:\n$3^3 + 3(3) = 27 + 9 = 36$.\nAnswer is 36.\n",
+      "he": "1. सर्वसमिका (Identity): $a^3 - b^3 = (a-b)^3 + 3ab(a-b)$।\nयहाँ $a=x, b=1/x$, इसलिए $ab=1$।\nव्यंजक = $(x - \\frac{1}{x})^3 + 3(x - \\frac{1}{x})$।\n2. 3 का मान रखने पर:\n$3^3 + 3(3) = 27 + 9 = 36$।\nउत्तर 36 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time, Speed and Distance (Average Speed)",
+      "q": "A car covers a certain distance at a speed of 60 km/h and returns to the starting point at a speed of 40 km/h. What is the average speed of the car for the whole journey?",
+      "hq": "एक कार 60 किमी/घंटा की गति से एक निश्चित दूरी तय करती है और 40 किमी/घंटा की गति से शुरुआती बिंदु पर वापस आती है। पूरी यात्रा के लिए कार की औसत गति (average speed) क्या है?",
+      "o": [
+        "50 km/h",
+        "48 km/h",
+        "45 km/h",
+        "52 km/h"
+      ],
+      "ho": [
+        "50 किमी/घंटा",
+        "48 किमी/घंटा",
+        "45 किमी/घंटा",
+        "52 किमी/घंटा"
+      ],
+      "a": 1,
+      "e": "1. Formula for Average Speed (Equal Distances) = $\\frac{2xy}{x+y}$.\n2. Here $x = 60$, $y = 40$.\n3. Calculation:\n$\\frac{2 \\times 60 \\times 40}{60 + 40}$\n$= \\frac{4800}{100} = 48$ km/h.\n*(Note: It is NOT $(60+40)/2 = 50$).*\nAnswer is 48 km/h.\n",
+      "he": "1. औसत गति के लिए सूत्र (जब दूरी समान हो) = $\\frac{2xy}{x+y}$।\n2. यहाँ $x = 60$ और $y = 40$ है।\n3. गणना:\n$\\frac{2 \\times 60 \\times 40}{60 + 40}$\n$= \\frac{4800}{100} = 48$ किमी/घंटा।\n*(ध्यान दें: औसत $(60+40)/2 = 50$ नहीं होगा)।*\nउत्तर 48 किमी/घंटा है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Ratio & Proportion (Coins)",
+      "q": "A bag contains ₹1, 50 paise, and 25 paise coins in the ratio 5 : 6 : 8. If the total amount in the bag is ₹240, find the number of 50 paise coins.",
+      "hq": "एक बैग में ₹1, 50 पैसे और 25 पैसे के सिक्के 5 : 6 : 8 के अनुपात में हैं। यदि बैग में कुल राशि ₹240 है, तो 50 पैसे के सिक्कों की संख्या ज्ञात कीजिए।",
+      "o": [
+        "96",
+        "120",
+        "144",
+        "110"
+      ],
+      "a": 2,
+      "e": "**Best Method (Convert Ratio to Value):**\nDon't use 'x' variables blindly. Convert the coin ratio directly into money value.\n\n**Step 1: Calculate value for one set of ratio**\n* 5 coins of ₹1 = ₹5.00\n* 6 coins of 50p (₹0.50) = ₹3.00\n* 8 coins of 25p (₹0.25) = ₹2.00\n* **Total Unit Value** = 5 + 3 + 2 = **₹10**\n\n**Step 2: Find the Multiplier**\n* Actual Total Amount = ₹240\n* Multiplier = Actual Amount / Unit Value = 240 / 10 = **24**\n\n**Step 3: Find Target Coins**\n* Number of 50p coins = Ratio of 50p × Multiplier\n* Coins = 6 × 24 = **144**\n\n**Answer:** 144 coins",
+      "he": "**सबसे अच्छी विधि (अनुपात को मूल्य में बदलें):**\nअंधाधुंध 'x' चर का उपयोग न करें। सिक्कों के अनुपात को सीधे धन के मूल्य में बदलें।\n\n**चरण 1: अनुपात के एक सेट के लिए मूल्य की गणना करें**\n* ₹1 के 5 सिक्के = ₹5.00\n* 50 पैसे (₹0.50) के 6 सिक्के = ₹3.00\n* 25 पैसे (₹0.25) के 8 सिक्के = ₹2.00\n* **कुल यूनिट मूल्य** = 5 + 3 + 2 = **₹10**\n\n**चरण 2: गुणक (Multiplier) ज्ञात करें**\n* वास्तविक कुल राशि = ₹240\n* गुणक = वास्तविक राशि / यूनिट मूल्य = 240 / 10 = **24**\n\n**चरण 3: लक्षित सिक्के ज्ञात करें**\n* 50 पैसे के सिक्कों की संख्या = 50 पैसे का अनुपात × गुणक\n* सिक्के = 6 × 24 = **144**\n\n**उत्तर:** 144 सिक्के",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit and Loss (Difference)",
+      "q": "A shopkeeper sells an article at a loss of 10%. If he had sold it for ₹100 more, he would have earned a profit of 10%. What is the cost price of the article?",
+      "hq": "एक दुकानदार एक वस्तु को 10% की हानि पर बेचता है। यदि उसने इसे ₹100 अधिक में बेचा होता, तो उसे 10% का लाभ होता। वस्तु का क्रय मूल्य (cost price) क्या है?",
+      "o": [
+        "₹400",
+        "₹500",
+        "₹600",
+        "₹450"
+      ],
+      "a": 1,
+      "e": "1. Gap between -10% (Loss) and +10% (Profit) is $10 - (-10) = 20\\%$.\n2. This 20% gap is covered by ₹100.\n$20\\% \\text{ of CP} = 100$.\n3. $1\\% = 5$.\n$100\\% \\text{ (CP)} = 500$.\nAnswer is ₹500.\n",
+      "he": "1. -10% (हानि) और +10% (लाभ) के बीच का अंतर $10 - (-10) = 20\\%$ है।\n2. यह 20% का अंतर ₹100 के बराबर है।\nक्रय मूल्य (CP) का $20\\% = 100$।\n3. $1\\% = 5$।\n$100\\% \\text{ (CP)} = 500$।\nउत्तर ₹500 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mixture (Ratios)",
+      "q": "In a mixture of 60 liters, the ratio of milk and water is 2:1. If this ratio is to be 1:2, then the quantity of water to be further added is:",
+      "hq": "60 लीटर के मिश्रण में दूध और पानी का अनुपात 2:1 है। यदि यह अनुपात 1:2 करना हो, तो और कितनी मात्रा में पानी मिलाया जाना चाहिए?",
+      "o": [
+        "20 liters",
+        "30 liters",
+        "40 liters",
+        "60 liters"
+      ],
+      "ho": [
+        "20 लीटर",
+        "30 लीटर",
+        "40 लीटर",
+        "60 लीटर"
+      ],
+      "a": 3,
+      "e": "1. Initial Quantity:\nMilk = $\\frac{2}{3} \\times 60 = 40$ L.\nWater = $\\frac{1}{3} \\times 60 = 20$ L.\n2. New Ratio = 1:2. Milk quantity remains constant (40 L).\nSo, 1 part = 40 L.\nWater (2 parts) must be $40 \\times 2 = 80$ L.\n3. Water to add = New Water - Old Water.\n$80 - 20 = 60$ L.\nAnswer is 60 liters.\n",
+      "he": "1. प्रारंभिक मात्रा:\nदूध = $\\frac{2}{3} \\times 60 = 40$ लीटर।\nपानी = $\\frac{1}{3} \\times 60 = 20$ लीटर।\n2. नया अनुपात = 1:2। दूध की मात्रा स्थिर रहती है (40 लीटर)।\nअतः, 1 हिस्सा = 40 लीटर।\nपानी (2 हिस्से) $40 \\times 2 = 80$ लीटर होना चाहिए।\n3. मिलाया जाने वाला पानी = नया पानी - पुराना पानी।\n$80 - 20 = 60$ लीटर।\nउत्तर 60 लीटर है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Simple Interest (Multiples)",
+      "q": "A sum of money doubles itself in 8 years at Simple Interest. In how many years will it become 4 times itself?",
+      "hq": "साधारण ब्याज पर कोई राशि 8 वर्षों में दोगुनी हो जाती है। कितने वर्षों में यह स्वयं की 4 गुनी हो जाएगी?",
+      "o": [
+        "32 years",
+        "16 years",
+        "24 years",
+        "12 years"
+      ],
+      "ho": [
+        "32 वर्ष",
+        "16 वर्ष",
+        "24 वर्ष",
+        "12 वर्ष"
+      ],
+      "a": 2,
+      "e": "**Best Method (Concept of 'N-1'):**\nIn SI, principal remains constant. We only calculate time for the *Extra* Interest earned.\n\n* **Doubles (2 times):** Means earning **1** unit of Interest. (Time = 8 years)\n* **4 Times:** Means earning **3** units of Interest ($4 - 1 = 3$).\n\n**Calculation:**\nIf 1 unit Interest takes → 8 years\nThen 3 units Interest takes → $8 \\times 3$ = **24 years**.\n\n*(Note: Don't confuse with Compound Interest where it would be 16 years).*",
+      "he": "**सबसे अच्छी विधि ('N-1' की अवधारणा):**\nसाधारण ब्याज (SI) में, मूलधन स्थिर रहता है। हम केवल अर्जित *अतिरिक्त* ब्याज के समय की गणना करते हैं।\n\n* **दोगुनी (2 गुनी):** इसका अर्थ है **1** यूनिट ब्याज अर्जित करना। (समय = 8 वर्ष)\n* **4 गुनी:** इसका अर्थ है **3** यूनिट ब्याज अर्जित करना ($4 - 1 = 3$)।\n\n**गणना:**\nयदि 1 यूनिट ब्याज में लगते हैं → 8 वर्ष\nतो 3 यूनिट ब्याज में लगेंगे → $8 \\times 3$ = **24 वर्ष**।\n\n*(नोट: इसे चक्रवृद्धि ब्याज के साथ भ्रमित न करें जहाँ यह 16 वर्ष होता)।*",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Average (Temperature)",
+      "q": "The average temperature of Monday, Tuesday and Wednesday was $40^\\circ$C. The average temperature of Tuesday, Wednesday and Thursday was $41^\\circ$C. If the temperature on Thursday was $42^\\circ$C, what was the temperature on Monday?",
+      "hq": "सोमवार, मंगलवार और बुधवार का औसत तापमान $40^\\circ$C था। मंगलवार, बुधवार और गुरुवार का औसत तापमान $41^\\circ$C था। यदि गुरुवार का तापमान $42^\\circ$C था, तो सोमवार का तापमान क्या था?",
+      "o": [
+        "$38^\\circ$C",
+        "$39^\\circ$C",
+        "$40^\\circ$C",
+        "$41^\\circ$C"
+      ],
+      "a": 1,
+      "e": "1. Sum(M+T+W) = $40 \\times 3 = 120$.\n2. Sum(T+W+Th) = $41 \\times 3 = 123$.\n3. Subtract Eq 1 from Eq 2:\n(T+W+Th) - (M+T+W) = $123 - 120$.\n$Th - M = 3$.\n4. Given $Th = 42$.\n$42 - M = 3 \\implies M = 39$.\nAnswer is $39^\\circ$C.\n",
+      "he": "1. योग (सोम+मंगल+बुध) = $40 \\times 3 = 120$.\n2. योग (मंगल+बुध+गुरु) = $41 \\times 3 = 123$.\n3. समीकरण 2 में से समीकरण 1 को घटाएं:\n(मंगल+बुध+गुरु) - (सोम+मंगल+बुध) = $123 - 120$.\nगुरु - सोम = 3.\n4. दिया गया है गुरु = 42.\n$42 - \\text{सोम} = 3 \\implies \\text{सोम} = 39$.\nउत्तर $39^\\circ$C है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Compound Interest",
+      "q": "A sum of money amounts to ₹4,500 in 2 years and ₹6,750 in 4 years at Compound Interest (compounded annually). What is the sum?",
+      "hq": "चक्रवृद्धि ब्याज (वार्षिक रूप से संयोजित) पर एक धनराशि 2 वर्ष में ₹4,500 और 4 वर्ष में ₹6,750 हो जाती है। वह धनराशि (मूलधन) क्या है?",
+      "o": [
+        "₹3,000",
+        "₹3,500",
+        "₹4,000",
+        "₹2,500"
+      ],
+      "a": 0,
+      "e": "1. Let the sum be $P$ and the multiplication factor for 2 years be $x$.\n2. Formula: $A = P(1+r)^t$.\nAfter 2 years: $4500 = P(1+r)^2$.\nAfter 4 years: $6750 = P(1+r)^4$.\n3. Divide equation (2) by (1):\n$\\frac{6750}{4500} = \\frac{P(1+r)^4}{P(1+r)^2} = (1+r)^2$.\n$(1+r)^2 = 1.5$ (or $3/2$).\n4. Substitute $(1+r)^2$ back into the first equation:\n$4500 = P \\times 1.5$\n$P = \\frac{4500}{1.5} = 3000$.\nAnswer is ₹3,000.\n",
+      "he": "1. मान लीजिए मूलधन $P$ है और 2 वर्षों के लिए गुणन कारक (multiplication factor) $x$ है।\n2. सूत्र: $A = P(1+r)^t$।\n2 वर्ष बाद: $4500 = P(1+r)^2$।\n4 वर्ष बाद: $6750 = P(1+r)^4$।\n3. समीकरण (2) को (1) से विभाजित करें:\n$\\frac{6750}{4500} = \\frac{P(1+r)^4}{P(1+r)^2} = (1+r)^2$।\n$(1+r)^2 = 1.5$ (या $3/2$)।\n4. $(1+r)^2$ का मान पहले समीकरण में वापस रखें:\n$4500 = P \\times 1.5$\n$P = \\frac{4500}{1.5} = 3000$।\nउत्तर ₹3,000 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Boats & Streams",
+      "q": "A boat goes 20 km downstream in 2 hours and the same distance upstream in 5 hours. What is the speed of the boat in still water?",
+      "hq": "एक नाव धारा के अनुकूल (downstream) 2 घंटे में 20 किमी जाती है और इतनी ही दूरी धारा के प्रतिकूल (upstream) 5 घंटे में तय करती है। शांत जल में नाव की गति क्या है?",
+      "o": [
+        "7 km/hr",
+        "6 km/hr",
+        "10 km/hr",
+        "4.5 km/hr"
+      ],
+      "ho": [
+        "7 किमी/घंटा",
+        "6 किमी/घंटा",
+        "10 किमी/घंटा",
+        "4.5 किमी/घंटा"
+      ],
+      "a": 0,
+      "e": "**Best Method (Halving Formula):**\nCalculate Downstream (D) and Upstream (U) speeds first, then take their average.\n\n1. **Speeds:**\n* Downstream ($D$) = $\\frac{\\text{Distance}}{\\text{Time}} = \\frac{20}{2} = 10 \\text{ km/hr}$.\n* Upstream ($U$) = $\\frac{\\text{Distance}}{\\text{Time}} = \\frac{20}{5} = 4 \\text{ km/hr}$.\n2. **Boat Speed Formula:**\n$$B = \\frac{D + U}{2}$$\n$$B = \\frac{10 + 4}{2} = \\frac{14}{2} = 7 \\text{ km/hr}.$$\n\n(Speed of Stream would be $\\frac{D - U}{2} = 3 \\text{ km/hr}$).",
+      "he": "**सबसे अच्छी विधि (आधा करने का सूत्र):**\nपहले धारा के अनुकूल (D) और प्रतिकूल (U) गतियों की गणना करें, फिर उनका औसत निकालें।\n\n1. **गतियाँ:**\n* धारा के अनुकूल ($D$) = $\\frac{\\text{दूरी}}{\\text{समय}} = \\frac{20}{2} = 10 \\text{ किमी/घंटा}$।\n* धारा के प्रतिकूल ($U$) = $\\frac{\\text{दूरी}}{\\text{समय}} = \\frac{20}{5} = 4 \\text{ किमी/घंटा}$।\n2. **नाव की गति का सूत्र:**\n$$B = \\frac{D + U}{2}$$\n$$B = \\frac{10 + 4}{2} = \\frac{14}{2} = 7 \\text{ किमी/घंटा}$$।\n\n(धारा की गति $\\frac{D - U}{2} = 3 \\text{ किमी/घंटा}$ होगी)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Average (Inclusion)",
+      "q": "The average age of 24 students in a class is 15 years. When the teacher's age is included, the average increases by 1 year. What is the age of the teacher?",
+      "hq": "एक कक्षा में 24 छात्रों की औसत आयु 15 वर्ष है। जब शिक्षक की आयु को शामिल किया जाता है, तो औसत 1 वर्ष बढ़ जाता है। शिक्षक की आयु क्या है?",
+      "o": [
+        "39 years",
+        "40 years",
+        "41 years",
+        "38 years"
+      ],
+      "ho": [
+        "39 वर्ष",
+        "40 वर्ष",
+        "41 वर्ष",
+        "38 वर्ष"
+      ],
+      "a": 1,
+      "e": "**Best Method (Direct Formula):**\nTeacher's Age = New Average + (Old Number of People × Increase in Average)\n\n* New Average = 15 + 1 = 16\n* Old Number of People = 24\n* Increase = 1\n\nAge = 16 + (24 × 1)\nAge = 16 + 24 = **40 years**.\n",
+      "he": "**सबसे अच्छी विधि (सीधा सूत्र):**\nशिक्षक की आयु = नया औसत + (लोगों की पुरानी संख्या × औसत में वृद्धि)\n\n* नया औसत = 15 + 1 = 16\n* लोगों की पुरानी संख्या = 24\n* वृद्धि = 1\n\nआयु = 16 + (24 × 1)\nआयु = 16 + 24 = **40 वर्ष**।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Percentages (Less/More)",
+      "q": "If A's salary is 25% more than B's salary, then B's salary is how much percent less than A's salary?",
+      "hq": "यदि A का वेतन B के वेतन से 25% अधिक है, तो B का वेतन A के वेतन से कितने प्रतिशत कम है?",
+      "o": [
+        "25%",
+        "20%",
+        "15%",
+        "33.33%"
+      ],
+      "a": 1,
+      "e": "1. Let B's salary = 100.\nA's salary = 125.\n2. Difference = 25.\n3. To find % less than A, base is A (125).\n$\\frac{25}{125} \\times 100 = \\frac{1}{5} \\times 100 = 20\\%$.\nAnswer is 20%.\n",
+      "he": "1. माना B का वेतन = 100.\nतब A का वेतन = 125.\n2. अंतर = 25.\n3. A से प्रतिशत कमी निकालने के लिए आधार A (125) होगा।\n$\\frac{25}{125} \\times 100 = \\frac{1}{5} \\times 100 = 20\\%$।\nउत्तर 20% है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Number System (Divisibility)",
+      "q": "If the 8-digit number 179x091y is exactly divisible by 88, what is the value of $(5x - 8y)$?",
+      "hq": "यदि 8-अंकीय संख्या 179x091y, 88 से पूर्णतः विभाज्य है, तो $(5x - 8y)$ का मान क्या है?",
+      "o": [
+        "4",
+        "7",
+        "9",
+        "5"
+      ],
+      "a": 0,
+      "e": "1. For a number to be divisible by 88, it must be divisible by both 8 and 11.\n2. **Divisibility by 8**: The last three digits ($91y$) must be divisible by 8.\n$912$ is divisible by 8, so $y = 2$.\n3. **Divisibility by 11**: Difference between sum of odd and even position digits must be 0 or 11.\nSum (Odd pos): $y + 0 + 9 + 1 = 2 + 0 + 9 + 1 = 12$.\nSum (Even pos): $1 + 9 + x + 7 = 17 + x$.\nDifference: $(17 + x) - 12 = 5 + x$.\nFor divisibility, $5 + x = 11 \\implies x = 6$.\n4. Calculate $(5x - 8y)$:\n$5(6) - 8(2) = 30 - 16 = 14$.\n*(Self-Correction: Let's check calculation options. If result is 14 and option isn't there, let me adjust the question to a simpler 72 divisibility or adjust options. Let's re-calculate $91y$. $912/8=114$. Correct. $y=2$.\nAlt $y=6 \\to 916$ not div.\nSum Even (from right): $y(1st) + 9(3rd) + x(5th) + 7(7th) = 2+9+x+7 = 18+x$.\nSum Odd (from right): $1(2nd) + 0(4th) + 9(6th) + 1(8th) = 11$.\nDiff: $(18+x) - 11 = 7+x$.\n$7+x = 11 \\implies x=4$.\nCheck: $5(4) - 8(2) = 20 - 16 = 4$. Option 1 matches.)*\n**Recalculated Answer**: 4.\n",
+      "he": "1. किसी संख्या के 88 से विभाज्य होने के लिए, उसे 8 और 11 दोनों से विभाज्य होना चाहिए।\n2. **8 से विभाज्यता**: अंतिम तीन अंक ($91y$) 8 से विभाज्य होने चाहिए।\n$912$, 8 से विभाज्य है, इसलिए $y = 2$।\n3. **11 से विभाज्यता**: विषम और सम स्थान के अंकों के योग के बीच का अंतर 0 या 11 होना चाहिए।\nयोग (दाएं से विषम स्थान): $y(1st) + 9(3rd) + x(5th) + 7(7th) = 2 + 9 + x + 7 = 18 + x$।\nयोग (दाएं से सम स्थान): $1(2nd) + 0(4th) + 9(6th) + 1(8th) = 11$।\nअंतर: $(18 + x) - 11 = 7 + x$।\nविभाज्यता के लिए, $7 + x = 11 \\implies x = 4$।\n4. $(5x - 8y)$ की गणना करें:\n$5(4) - 8(2) = 20 - 16 = 4$।\nविकल्प 1 मेल खाता है।\n**पुनर्गणना उत्तर**: 4।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Statistics (Median)",
+      "q": "Find the median of the following data set: 12, 5, 8, 15, 20, 10.",
+      "hq": "निम्नलिखित डेटा सेट की माध्यिका (median) ज्ञात कीजिए: 12, 5, 8, 15, 20, 10।",
+      "o": [
+        "10",
+        "12",
+        "11",
+        "11.5"
+      ],
+      "a": 2,
+      "e": "1. Arrange the data in ascending order:\n$5, 8, 10, 12, 15, 20$.\n2. Count the number of terms ($n$): $n = 6$ (Even number).\n3. The median is the average of the two middle terms\n($\\frac{n}{2}$ and $\\frac{n}{2}+1$).\nMiddle terms are the 3rd (10) and 4th (12) numbers.\n4. Median = $\\frac{10 + 12}{2} = \\frac{22}{2} = 11$.\nAnswer is 11.\n",
+      "he": "1. डेटा को आरोही (ascending) क्रम में व्यवस्थित करें:\n$5, 8, 10, 12, 15, 20$।\n2. पदों की संख्या ($n$) गिनें: $n = 6$ (सम संख्या)।\n3. माध्यिका दो मध्य पदों ($\\frac{n}{2}$ और $\\frac{n}{2}+1$) का औसत होती है।\nमध्य पद तीसरे (10) और चौथे (12) नंबर हैं।\n4. माध्यिका = $\\frac{10 + 12}{2} = \\frac{22}{2} = 11$।\nउत्तर 11 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Work (Efficiency)",
+      "q": "A is twice as good a workman as B and together they finish a piece of work in 14 days. In how many days can A alone finish the work?",
+      "hq": "A, B की तुलना में दोगुना कुशल श्रमिक है और वे मिलकर एक कार्य को 14 दिनों में पूरा करते हैं। A अकेला उस कार्य को कितने दिनों में पूरा कर सकता है?",
+      "o": [
+        "21 days",
+        "28 days",
+        "42 days",
+        "30 days"
+      ],
+      "ho": [
+        "21 दिन",
+        "28 दिन",
+        "42 दिन",
+        "30 दिन"
+      ],
+      "a": 0,
+      "e": "1. Let Efficiency of B = 1 unit/day.\nSince A is twice as good, Efficiency of A = 2 units/day.\n2. Combined Efficiency = $1 + 2 = 3$ units/day.\n3. Total Work = Efficiency $\\times$ Time.\nTotal Work $= 3 \\times 14 = 42$ units.\n4. Time taken by A alone = $\\frac{\\text{Total Work}}{\\text{Efficiency of A}}$\n$= \\frac{42}{2} = 21$ days.\nAnswer is 21 days.\n",
+      "he": "1. मान लीजिए B की दक्षता (Efficiency) = 1 इकाई/दिन।\nचूँकि A दोगुना कुशल है, इसलिए A की दक्षता = 2 इकाई/दिन।\n2. संयुक्त दक्षता = 1 + 2 = 3 इकाई/दिन।\n3. कुल कार्य = दक्षता × समय।\nकुल कार्य = 3 × 14 = 42 इकाई।\n4. A द्वारा अकेले लिया गया समय = कुल कार्य / A की दक्षता\n= 42 / 2 = 21 दिन।\nउत्तर 21 दिन है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Percentage (Income Comparison)",
+      "q": "If A's income is 20% less than B's income, then B's income is how much percent more than A's income?",
+      "hq": "यदि A की आय B की आय से 20% कम है, तो B की आय A की आय से कितने प्रतिशत अधिक है?",
+      "o": [
+        "20%",
+        "25%",
+        "30%",
+        "15%"
+      ],
+      "a": 1,
+      "e": "1. Let B's income = 100.\n2. A's income = $100 - 20 = 80$.\n3. B is more than A by $100 - 80 = 20$.\n4. Percentage more = $\\frac{\\text{Difference}}{\\text{A's Income}} \\times 100$.\n$= \\frac{20}{80} \\times 100 = \\frac{1}{4} \\times 100 = 25\\%$.\nAnswer is 25%.\n",
+      "he": "1. माना B की आय = 100.\n2. A की आय = $100 - 20 = 80$.\n3. B, A से $100 - 80 = 20$ अधिक है।\n4. प्रतिशत अधिक = $\\frac{\\text{अंतर}}{\\text{A की आय}} \\times 100$.\n$= \\frac{20}{80} \\times 100 = \\frac{1}{4} \\times 100 = 25\\%$.\nउत्तर 25% है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Average (Correction)",
+      "q": "The average of 50 numbers is 40. It was later found that a number 38 was wrongly read as 83. What is the correct average?",
+      "hq": "50 संख्याओं का औसत 40 है। बाद में यह पाया गया कि एक संख्या 38 को गलती से 83 पढ़ लिया गया था। सही औसत क्या है?",
+      "o": [
+        "39.1",
+        "39.5",
+        "40.9",
+        "38.8"
+      ],
+      "a": 0,
+      "e": "1. Error = Correct - Wrong = $38 - 83 = -45$.\n2. The total sum decreases by 45.\n3. Impact on Average = $\\frac{\\text{Error}}{\\text{Total Count}} = \\frac{-45}{50} = -0.9$.\n4. Correct Average = Old Average - 0.9.\n$40 - 0.9 = 39.1$.\nAnswer is 39.1.\n",
+      "he": "1. त्रुटि (Error) = सही संख्या - गलत संख्या = $38 - 83 = -45$।\n2. कुल योग में 45 की कमी होगी।\n3. औसत पर प्रभाव = $\\frac{\\text{त्रुटि}}{\\text{कुल संख्या}} = \\frac{-45}{50} = -0.9$।\n4. सही औसत = पुराना औसत - 0.9।\n$40 - 0.9 = 39.1$।\nउत्तर 39.1 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Percentage (Area Change)",
+      "q": "If the length of a rectangle is increased by 20% and its breadth is increased by 10%, what is the percentage increase in its area?",
+      "hq": "यदि एक आयत की लंबाई में 20% की वृद्धि की जाती है और उसकी चौड़ाई में 10% की वृद्धि की जाती है, तो उसके क्षेत्रफल में कितने प्रतिशत की वृद्धि होगी?",
+      "o": [
+        "30%",
+        "32%",
+        "28%",
+        "25%"
+      ],
+      "a": 1,
+      "e": "**Best Method (Successive Percentage Formula):**\nInstead of assuming values like 100, use the $A + B + \\frac{AB}{100}$ formula.\n\nHere, $A = 20$ (increase), $B = 10$ (increase).\n$$\\text{Change} = 20 + 10 + \\frac{20 \\times 10}{100}$$\n$$= 30 + \\frac{200}{100}$$\n$$= 30 + 2 = 32\\%$$\n\n**Answer:** 32% increase.",
+      "he": "**सबसे अच्छी विधि (क्रमिक प्रतिशत सूत्र):**\n100 जैसे मानों को मानने के बजाय, $A + B + \\frac{AB}{100}$ सूत्र का उपयोग करें।\n\nयहाँ, $A = 20$ (वृद्धि), $B = 10$ (वृद्धि) है।\n$$\\text{परिवर्तन} = 20 + 10 + \\frac{20 \\times 10}{100}$$\n$$= 30 + \\frac{200}{100}$$\n$$= 30 + 2 = 32\\%$$\n\n**उत्तर:** 32% की वृद्धि।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit and Loss (Article Count)",
+      "q": "The cost price of 15 articles is equal to the selling price of 12 articles. What is the profit percentage?",
+      "hq": "15 वस्तुओं का क्रय मूल्य 12 वस्तुओं के विक्रय मूल्य के बराबर है। लाभ प्रतिशत क्या है?",
+      "o": [
+        "20%",
+        "25%",
+        "15%",
+        "30%"
+      ],
+      "a": 1,
+      "e": "1. Let CP of 1 article = $x$, SP = $y$.\n$15 CP = 12 SP$.\n$\\frac{SP}{CP} = \\frac{15}{12} = \\frac{5}{4}$.\n2. Profit = $5 - 4 = 1$.\n3. Profit % = $\\frac{1}{4} \\times 100 = 25\\%$.\nAnswer is 25%.\n",
+      "he": "1. माना 1 वस्तु का क्रय मूल्य (CP) = $x$, विक्रय मूल्य (SP) = $y$।\n$15 CP = 12 SP$।\n$\\frac{SP}{CP} = \\frac{15}{12} = \\frac{5}{4}$।\n2. लाभ = $5 - 4 = 1$।\n3. लाभ % = $\\frac{1}{4} \\times 100 = 25\\%$।\nउत्तर 25% है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Average (Sports)",
+      "q": "A cricketer has a certain average for 11 innings. In the 12th inning, he scores 90 runs and thereby increases his average by 2 runs. What is his new average?",
+      "hq": "एक क्रिकेटर का 11 पारियों के लिए एक निश्चित औसत है। 12वीं पारी में, वह 90 रन बनाता है और इस तरह अपने औसत में 2 रन की वृद्धि करता है। उसका नया औसत क्या है?",
+      "o": [
+        "66",
+        "68",
+        "70",
+        "64"
+      ],
+      "a": 1,
+      "e": "1. Let old average = $x$. Total runs in 11 innings = $11x$.\n2. New average = $x + 2$. Total runs in 12 innings = $12(x + 2)$.\n3. Equation: Total(12) - Total(11) = 12th Inning Score.\n$12(x + 2) - 11x = 90$.\n$12x + 24 - 11x = 90$.\n$x + 24 = 90$.\n$x = 66$ (Old Average).\n4. New Average = $x + 2 = 66 + 2 = 68$.\nAnswer is 68.",
+      "he": "1. माना पुराना औसत = $x$। 11 पारियों में कुल रन = $11x$।\n2. नया औसत = $x + 2$। 12 पारियों में कुल रन = $12(x + 2)$।\n3. समीकरण: कुल(12) - कुल(11) = 12वीं पारी का स्कोर।\n$12(x + 2) - 11x = 90$।\n$12x + 24 - 11x = 90$।\n$x + 24 = 90$।\n$x = 66$ (पुराना औसत)।\n4. नया औसत = $x + 2 = 66 + 2 = 68$।\nउत्तर 68 है।",
+      "e2": "",
+      "he2": ""
+    }
+  ]
+}

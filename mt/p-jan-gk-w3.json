@@ -1,0 +1,566 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Boundaries)",
+      "q": "The 'McMahon Line' is the boundary line between India and which country?",
+      "hq": "'मैकमोहन रेखा' भारत और किस देश के बीच की सीमा रेखा है?",
+      "o": [
+        "Pakistan",
+        "China",
+        "Afghanistan",
+        "Bangladesh"
+      ],
+      "ho": [
+        "पाकिस्तान",
+        "चीन",
+        "अफगानिस्तान",
+        "बांग्लादेश"
+      ],
+      "a": 1
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "The 'Santosh Trophy' is associated with which sport?",
+      "hq": "'संतोष ट्रॉफी' का संबंध किस खेल से है?",
+      "o": [
+        "Cricket",
+        "Hockey",
+        "Football",
+        "Badminton"
+      ],
+      "ho": [
+        "क्रिकेट",
+        "हॉकी",
+        "फुटबॉल",
+        "बैडमिंटन"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Ancient)",
+      "q": "Who was the founder of the Mauryan Empire?",
+      "hq": "मौर्य साम्राज्य के संस्थापक कौन थे?",
+      "o": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Bimbisara"
+      ],
+      "ho": [
+        "अशोक",
+        "चंद्रगुप्त मौर्य",
+        "बिंदुसार",
+        "बिंबिसार"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Rights)",
+      "q": "Which Article was described by Dr. B.R. Ambedkar as the 'Heart and Soul' of the Constitution?",
+      "hq": "डॉ. बी.आर. अंबेडकर ने किस अनुच्छेद को संविधान का 'हृदय और आत्मा' (Heart and Soul) बताया था?",
+      "o": [
+        "Article 14",
+        "Article 19",
+        "Article 32",
+        "Article 21"
+      ],
+      "ho": [
+        "अनुच्छेद 14",
+        "अनुच्छेद 19",
+        "अनुच्छेद 32",
+        "अनुच्छेद 21"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (International Organizations)",
+      "q": "Where is the headquarters of the South Asian Association for Regional Cooperation (SAARC) located?",
+      "hq": "दक्षिण एशियाई क्षेत्रीय सहयोग संगठन (सार्क - SAARC) का मुख्यालय कहाँ स्थित है?",
+      "o": [
+        "New Delhi",
+        "Dhaka",
+        "Kathmandu",
+        "Colombo"
+      ],
+      "ho": [
+        "नई दिल्ली",
+        "ढाका",
+        "काठमांडू",
+        "कोलंबो"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Titles)",
+      "q": "Who is known as the 'Iron Man of India'?",
+      "hq": "'भारत के लौह पुरुष' (Iron Man of India) के रूप में किसे जाना जाता है?",
+      "o": [
+        "Subhash Chandra Bose",
+        "Sardar Vallabhbhai Patel",
+        "Bhagat Singh",
+        "Lala Lajpat Rai"
+      ],
+      "ho": [
+        "सुभाष चंद्र बोस",
+        "सरदार वल्लभभाई पटेल",
+        "भगत सिंह",
+        "लाला लाजपत राय"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Modern India)",
+      "q": "Who was the first President of the Indian National Congress?",
+      "hq": "भारतीय राष्ट्रीय कांग्रेस के पहले अध्यक्ष कौन थे?",
+      "o": [
+        "A.O. Hume",
+        "W.C. Bonnerjee",
+        "Dadabhai Naoroji",
+        "Badruddin Tyabji"
+      ],
+      "ho": [
+        "ए.ओ. ह्यूम (A.O. Hume)",
+        "डब्ल्यू.सी. बनर्जी (W.C. Bonnerjee)",
+        "दादाभाई नौरोजी (Dadabhai Naoroji)",
+        "बदरुद्दीन तैयबजी (Badruddin Tyabji)"
+      ],
+      "a": 1
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "The Hirakud Dam, one of the longest dams in the world, is built across which river?",
+      "hq": "विश्व के सबसे लंबे बांधों में से एक, हीराकुंड बांध, किस नदी पर बनाया गया है?",
+      "o": [
+        "Godavari",
+        "Mahanadi",
+        "Krishna",
+        "Narmada"
+      ],
+      "ho": [
+        "गोदावरी",
+        "महानदी",
+        "कृष्णा",
+        "नर्मदा"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Lakes)",
+      "q": "Loktak Lake, famous for being the only floating national park in the world, is located in:",
+      "hq": "दुनिया के एकमात्र तैरते हुए राष्ट्रीय उद्यान (floating national park) के लिए प्रसिद्ध लोकतक झील कहाँ स्थित है?",
+      "o": [
+        "Meghalaya",
+        "Manipur",
+        "Tripura",
+        "Sikkim"
+      ],
+      "ho": [
+        "मेघालय",
+        "मणिपुर",
+        "त्रिपुरा",
+        "सिक्किम"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Currencies)",
+      "q": "What is the currency of Japan?",
+      "hq": "जापान की मुद्रा (currency) क्या है?",
+      "o": [
+        "Yuan",
+        "Yen",
+        "Won",
+        "Rand"
+      ],
+      "ho": [
+        "युआन",
+        "येन",
+        "वॉन",
+        "रैंड"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Rivers)",
+      "q": "Which of the following rivers flows from East to West and falls into the Arabian Sea?",
+      "hq": "निम्नलिखित में से कौन सी नदी पूर्व से पश्चिम की ओर बहती है और अरब सागर में गिरती है?",
+      "o": [
+        "Godavari",
+        "Krishna",
+        "Narmada",
+        "Cauvery"
+      ],
+      "ho": [
+        "गोदावरी",
+        "कृष्णा",
+        "नर्मदा",
+        "कावेरी"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Sources)",
+      "q": "The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from which country?",
+      "hq": "भारतीय संविधान में 'राज्य के नीति निर्देशक सिद्धांत' (DPSP) की अवधारणा किस देश से ली गई थी?",
+      "o": [
+        "USA",
+        "Canada",
+        "Ireland",
+        "UK"
+      ],
+      "ho": [
+        "अमेरिका (USA)",
+        "कनाडा",
+        "आयरलैंड",
+        "यूके (UK)"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Delhi Sultanate)",
+      "q": "Who was the founder of the Slave Dynasty (Mamluk Dynasty)?",
+      "hq": "गुलाम वंश (ममलुक वंश) का संस्थापक कौन था?",
+      "o": [
+        "Iltutmish",
+        "Balban",
+        "Qutb-ud-din Aibak",
+        "Alauddin Khilji"
+      ],
+      "ho": [
+        "इल्तुतमिश",
+        "बलवन",
+        "कुतुब-उद-दीन ऐबक",
+        "अलाउद्दीन खिलजी"
+      ],
+      "a": 2
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "Who was the first Indian to receive the Nobel Prize?",
+      "hq": "नोबेल पुरस्कार प्राप्त करने वाले पहले भारतीय कौन थे?",
+      "o": [
+        "C.V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
+      ],
+      "ho": [
+        "सी.वी. रमन",
+        "मदर टेरेसा",
+        "रवींद्रनाथ टैगोर",
+        "अमर्त्य सेन"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Culture (Dance)",
+      "q": "'Kuchipudi' is a classical dance form of which Indian state?",
+      "hq": "'कुचिपुड़ी' किस भारतीय राज्य का शास्त्रीय नृत्य रूप है?",
+      "o": [
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "ho": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "आंध्र प्रदेश"
+      ],
+      "a": 3
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Schedules)",
+      "q": "How many Schedules are there in the Constitution of India currently?",
+      "hq": "वर्तमान में भारत के संविधान में कितनी अनुसूचियाँ (Schedules) हैं?",
+      "o": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Social Reformers)",
+      "q": "Who founded the 'Arya Samaj' in 1875?",
+      "hq": "1875 में 'आर्य समाज' की स्थापना किसने की थी?",
+      "o": [
+        "Raja Ram Mohan Roy",
+        "Swami Vivekananda",
+        "Dayanand Saraswati",
+        "Keshab Chandra Sen"
+      ],
+      "ho": [
+        "राजा राम मोहन राय",
+        "स्वामी विवेकानंद",
+        "दयानंद सरस्वती",
+        "केशव चंद्र सेन"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Modern India)",
+      "q": "The Jallianwala Bagh massacre took place in which year?",
+      "hq": "जलियांवाला बाग हत्याकांड किस वर्ष हुआ था?",
+      "o": [
+        "1917",
+        "1918",
+        "1919",
+        "1920"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Slogans)",
+      "q": "Who gave the slogan \"Swaraj is my birthright and I shall have it\"?",
+      "hq": "\"स्वराज मेरा जन्मसिद्ध अधिकार है और मैं इसे लेकर रहूँगा\" का नारा किसने दिया था?",
+      "o": [
+        "Bhagat Singh",
+        "Bal Gangadhar Tilak",
+        "Subhash Chandra Bose",
+        "Lala Lajpat Rai"
+      ],
+      "ho": [
+        "भगत सिंह",
+        "बाल गंगाधर तिलक",
+        "सुभाष चंद्र बोस",
+        "लाला लाजपत राय"
+      ],
+      "a": 1
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "Who built the famous 'Red Fort' in Delhi?",
+      "hq": "दिल्ली का प्रसिद्ध 'लाल किला' किसने बनवाया था?",
+      "o": [
+        "Akbar",
+        "Jahangir",
+        "Aurangzeb",
+        "Shah Jahan"
+      ],
+      "ho": [
+        "अकबर",
+        "जहांगीर",
+        "औरंगजेब",
+        "शाहजहाँ"
+      ],
+      "a": 3
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "Who was the first Indian woman to win a medal at the Olympic Games?",
+      "hq": "ओलंपिक खेलों में पदक जीतने वाली पहली भारतीय महिला कौन थी?",
+      "o": [
+        "P.T. Usha",
+        "Karnam Malleswari",
+        "Sania Mirza",
+        "Mary Kom"
+      ],
+      "ho": [
+        "पी.टी. उषा",
+        "कर्णम मल्लेश्वरी",
+        "सानिया मिर्जा",
+        "मैरी कॉम"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Ancient)",
+      "q": "Who was the court poet of Harsha and author of 'Harshacharita'?",
+      "hq": "हर्ष के दरबारी कवि और 'हर्षचरित' के लेखक कौन थे?",
+      "o": [
+        "Kalidasa",
+        "Banabhatta",
+        "Harisena",
+        "Ravikirti"
+      ],
+      "ho": [
+        "कालिदास",
+        "बाणभट्ट",
+        "हरिषेण",
+        "रविकीर्ति"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Books and Authors",
+      "q": "Who wrote the famous book \"Train to Pakistan\"?",
+      "hq": "प्रसिद्ध पुस्तक \"ट्रेन टू पाकिस्तान\" (Train to Pakistan) किसने लिखी थी?",
+      "o": [
+        "Ruskin Bond",
+        "R.K. Narayan",
+        "Khushwant Singh",
+        "Mulk Raj Anand"
+      ],
+      "ho": [
+        "रस्किन बॉन्ड",
+        "आर.के. नारायण",
+        "खुशवंत सिंह",
+        "मुल्क राज आनंद"
+      ],
+      "a": 2
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "'Madhubani', a style of folk painting, is popular in which Indian state?",
+      "hq": "'मधुबनी', लोक चित्रकला की एक शैली, भारत के किस राज्य में लोकप्रिय है?",
+      "o": [
+        "Bihar",
+        "Madhya Pradesh",
+        "West Bengal",
+        "Rajasthan"
+      ],
+      "ho": [
+        "बिहार",
+        "मध्य प्रदेश",
+        "पश्चिम बंगाल",
+        "राजस्थान"
+      ],
+      "a": 0
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "Which is the largest freshwater lake in India?",
+      "hq": "भारत की सबसे बड़ी मीठे पानी की झील कौन सी है?",
+      "o": [
+        "Chilika Lake",
+        "Loktak Lake",
+        "Dal Lake",
+        "Wular Lake"
+      ],
+      "ho": [
+        "चिल्का झील",
+        "लोकतक झील",
+        "डल झील",
+        "वुलर झील"
+      ],
+      "a": 3
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Articles)",
+      "q": "Which Article of the Indian Constitution deals with the 'Joint Sitting of both Houses of Parliament'?",
+      "hq": "भारतीय संविधान का कौन सा अनुच्छेद 'संसद के दोनों सदनों की संयुक्त बैठक' (Joint Sitting) से संबंधित है?",
+      "o": [
+        "Article 108",
+        "Article 110",
+        "Article 112",
+        "Article 124"
+      ],
+      "ho": [
+        "अनुच्छेद 108",
+        "अनुच्छेद 110",
+        "अनुच्छेद 112",
+        "अनुच्छेद 124"
+      ],
+      "a": 0
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Soils)",
+      "q": "Which type of soil is most suitable for the cultivation of cotton?",
+      "hq": "कपास (cotton) की खेती के लिए कौन सी मिट्टी सबसे उपयुक्त है?",
+      "o": [
+        "Alluvial Soil",
+        "Red Soil",
+        "Black Soil",
+        "Laterite Soil"
+      ],
+      "ho": [
+        "जलोढ़ मिट्टी (Alluvial Soil)",
+        "लाल मिट्टी (Red Soil)",
+        "काली मिट्टी (Black Soil)",
+        "लेटेराइट मिट्टी (Laterite Soil)"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Culture (Festivals)",
+      "q": "'Pongal' is a harvest festival celebrated primarily in which state?",
+      "hq": "'पोंगल' मुख्य रूप से किस राज्य में मनाया जाने वाला फसल उत्सव (harvest festival) है?",
+      "o": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "ho": [
+        "केरल",
+        "कर्नाटक",
+        "तमिलनाडु",
+        "आंध्र प्रदेश"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Books and Authors)",
+      "q": "Who wrote the famous book \"Discovery of India\"?",
+      "hq": "प्रसिद्ध पुस्तक \"डिस्कवरी ऑफ इंडिया\" (Discovery of India) किसने लिखी थी?",
+      "o": [
+        "Mahatma Gandhi",
+        "Subhash Chandra Bose",
+        "Jawaharlal Nehru",
+        "Rabindranath Tagore"
+      ],
+      "ho": [
+        "महात्मा गांधी",
+        "सुभाष चंद्र बोस",
+        "जवाहरलाल नेहरू",
+        "रवींद्रनाथ टैगोर"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Sikhism)",
+      "q": "Who founded the 'Khalsa Panth' in 1699?",
+      "hq": "1699 में 'खालसा पंथ' की स्थापना किसने की थी?",
+      "o": [
+        "Guru Nanak Dev",
+        "Guru Arjun Dev",
+        "Guru Tegh Bahadur",
+        "Guru Gobind Singh"
+      ],
+      "ho": [
+        "गुरु नानक देव",
+        "गुरु अर्जुन देव",
+        "गुरु तेग बहादुर",
+        "गुरु गोबिंद सिंह"
+      ],
+      "a": 3
+    }
+  ]
+}

@@ -1,0 +1,656 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "General Science",
+      "t": "Chemistry (Alloys)",
+      "q": "Stainless Steel is an alloy of Iron, Carbon, and which other metals?",
+      "hq": "स्टेनलेस स्टील लोहा, कार्बन और किन अन्य धातुओं की एक मिश्र धातु (alloy) है?",
+      "o": [
+        "Copper and Zinc",
+        "Lead and Tin",
+        "Chromium and Nickel",
+        "Aluminum and Magnesium"
+      ],
+      "ho": [
+        "तांबा और जस्ता",
+        "सीसा और टिन",
+        "क्रोमियम और निकल",
+        "एल्युमीनियम और मैग्नीशियम"
+      ],
+      "a": 2,
+      "e": "**Stainless Steel** typically contains Iron, Carbon, **Chromium**, and **Nickel**. Chromium provides resistance to rusting.\n",
+      "he": "**स्टेनलेस स्टील** में आमतौर पर लोहा, कार्बन, **क्रोमियम** और **निकल** होता है। क्रोमियम जंग के प्रति प्रतिरोध प्रदान करता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Heating Effect)",
+      "q": "An electric iron has a resistance of $20 \\Omega$ and takes a current of 5 A. Calculate the heat generated in 30 seconds.",
+      "hq": "एक इलेक्ट्रिक आयरन का प्रतिरोध $20 \\Omega$ है और यह 5 A की धारा लेता है। 30 सेकंड में उत्पन्न ऊष्मा (heat) की गणना करें।",
+      "o": [
+        "15,000 J",
+        "1,500 J",
+        "3,000 J",
+        "300 J"
+      ],
+      "a": 0,
+      "e": "1. Formula: Heat ($H$) = $I^2 R t$.\n2. Given: $I = 5$ A, $R = 20 \\Omega$, $t = 30$ s.\n3. Calculation:\n$H = (5)^2 \\times 20 \\times 30$\n$H = 25 \\times 600 = 15,000$ Joules.\nAnswer is 15,000 J.\n",
+      "he": "1. सूत्र: ऊष्मा ($H$) = $I^2 R t$।\n2. दिया गया है: $I = 5$ A, $R = 20 \\Omega$, $t = 30$ सेकंड।\n3. गणना:\n$H = (5)^2 \\times 20 \\times 30$\n$H = 25 \\times 600 = 15,000$ जूल।\nउत्तर 15,000 J है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Common Salts)",
+      "q": "What is the chemical formula of common table salt?",
+      "hq": "साधारण नमक का रासायनिक सूत्र क्या है?",
+      "o": [
+        "KCl",
+        "NaCl",
+        "NaHCO3",
+        "NaOH"
+      ],
+      "a": 1,
+      "e": "Common table salt is **Sodium Chloride**, represented by the chemical formula **NaCl**.\n",
+      "he": "साधारण नमक **सोडियम क्लोराइड** है, जिसे रासायनिक सूत्र **NaCl** द्वारा दर्शाया जाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Cell Biology)",
+      "q": "In which part of the plant cell does photosynthesis take place?",
+      "hq": "पादप कोशिका (plant cell) के किस भाग में प्रकाश संश्लेषण (photosynthesis) होता है?",
+      "o": [
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome",
+        "Chloroplast"
+      ],
+      "ho": [
+        "माइटोकॉन्ड्रिया",
+        "केंद्रक (Nucleus)",
+        "राइबोसोम",
+        "क्लोरोप्लास्ट (Chloroplast)"
+      ],
+      "a": 3,
+      "e": "**Chloroplasts** contain the green pigment chlorophyll, which captures sunlight to conduct photosynthesis.\n",
+      "he": "**क्लोरोप्लास्ट** में हरा वर्णक क्लोरोफिल होता है, जो प्रकाश संश्लेषण करने के लिए सूर्य के प्रकाश को ग्रहण करता है।\n\n\n\n[Image of a chloroplast in a plant cell]",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Transport in Plants)",
+      "q": "Which tissue in plants is responsible for the transport of water and minerals from roots to the rest of the plant?",
+      "hq": "पौधों में कौन सा ऊतक (tissue) जड़ों से पौधे के बाकी हिस्सों तक पानी और खनिजों के परिवहन के लिए जिम्मेदार है?",
+      "o": [
+        "Phloem",
+        "Xylem",
+        "Parenchyma",
+        "Stomata"
+      ],
+      "ho": [
+        "फ्लोएम (Phloem)",
+        "जाइलम (Xylem)",
+        "पैरेन्काइमा (Parenchyma)",
+        "रंध्र (Stomata)"
+      ],
+      "a": 1,
+      "e": "**Xylem** transports water and minerals upwards from roots. **Phloem** transports food (sugars) synthesized in leaves to other parts.\n\n[Image of xylem and phloem structure]\n\n",
+      "he": "**जाइलम** जड़ों से पानी और खनिजों को ऊपर की ओर ले जाता है। **फ्लोएम** पत्तियों में संश्लेषित भोजन (शर्करा) को अन्य भागों तक पहुँचाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Blood Groups)",
+      "q": "Which blood group is considered the 'Universal Recipient' (can receive blood from any group)?",
+      "hq": "किस रक्त समूह को 'यूनिवर्सल रिसिपिएंट' (सर्वग्राही) माना जाता है?",
+      "o": [
+        "O Negative",
+        "AB Positive",
+        "B Positive",
+        "A Positive"
+      ],
+      "ho": [
+        "O नेगेटिव",
+        "AB पॉजिटिव",
+        "B पॉजिटिव",
+        "A पॉजिटिव"
+      ],
+      "a": 1,
+      "e": "**AB Positive (AB+)** is the Universal Recipient because it has both A and B antigens and no antibodies against A or B in the plasma.\n",
+      "he": "**AB पॉजिटिव (AB+)** सर्वग्राही है क्योंकि इसमें A और B दोनों एंटीजन होते हैं और प्लाज्मा में A या B के खिलाफ कोई एंटीबॉडी नहीं होती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Instruments)",
+      "q": "Which instrument is used to measure Atmospheric Pressure?",
+      "hq": "वायुमंडलीय दाब (Atmospheric Pressure) मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+      "o": [
+        "Thermometer",
+        "Barometer",
+        "Lactometer",
+        "Hygrometer"
+      ],
+      "ho": [
+        "थर्मामीटर",
+        "बैरोमीटर",
+        "लैक्टोमीटर",
+        "हाइग्रोमीटर"
+      ],
+      "a": 1,
+      "e": "A **Barometer** measures atmospheric pressure. (Lactometer: Purity of milk; Hygrometer: Humidity).\n",
+      "he": "**बैरोमीटर** वायुमंडलीय दाब को मापता है। (लैक्टोमीटर: दूध की शुद्धता; हाइग्रोमीटर: आर्द्रता)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (pH)",
+      "q": "What is the normal pH value of human blood?",
+      "hq": "मानव रक्त का सामान्य pH मान क्या है?",
+      "o": [
+        "7.4",
+        "6.5",
+        "8.2",
+        "7.0"
+      ],
+      "a": 0,
+      "e": "Human blood is slightly alkaline with a normal pH range of **7.35 to 7.45**.\n",
+      "he": "मानव रक्त थोड़ा क्षारीय (alkaline) होता है जिसका सामान्य pH स्तर **7.35 से 7.45** के बीच होता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Glands)",
+      "q": "Which gland is known as the 'Master Gland' of the human body?",
+      "hq": "किस ग्रंथि को मानव शरीर की 'मास्टर ग्रंथि' के रूप में जाना जाता है?",
+      "o": [
+        "Thyroid Gland",
+        "Adrenal Gland",
+        "Pancreas",
+        "Pituitary Gland"
+      ],
+      "ho": [
+        "थायराइड ग्रंथि",
+        "एड्रिनल ग्रंथि",
+        "अग्न्याशय (Pancreas)",
+        "पीयूष ग्रंथि (Pituitary Gland)"
+      ],
+      "a": 3,
+      "e": "The **Pituitary Gland** is called the Master Gland because it controls the functions of many other endocrine glands.\n",
+      "he": "**पीयूष ग्रंथि** को मास्टर ग्रंथि कहा जाता है क्योंकि यह कई अन्य अंतःस्रावी ग्रंथियों के कार्यों को नियंत्रित करती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Hardest Substance)",
+      "q": "Which of the following is the hardest natural substance known on Earth?",
+      "hq": "निम्नलिखित में से कौन सा पृथ्वी पर ज्ञात सबसे कठोर प्राकृतिक पदार्थ है?",
+      "o": [
+        "Platinum",
+        "Iron",
+        "Graphite",
+        "Diamond"
+      ],
+      "ho": [
+        "प्लेटिनम",
+        "लोहा",
+        "ग्रेफाइट",
+        "हीरा"
+      ],
+      "a": 3,
+      "e": "**Diamond** (an allotrope of Carbon) is the hardest known natural substance due to its strong covalent bonding.\n",
+      "he": "**हीरा (Diamond)** (कार्बन का एक अपरूप) अपने मजबूत सहसंयोजक बंध (covalent bonding) के कारण ज्ञात सबसे कठोर प्राकृतिक पदार्थ है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Motion)",
+      "q": "A car starts from rest and accelerates uniformly to a speed of 20 m/s in 10 seconds. What is the distance covered by the car during this time?",
+      "hq": "एक कार स्थिर अवस्था से शुरू होती है और 10 सेकंड में 20 मीटर/सेकंड की गति तक समान रूप से त्वरित होती है। इस दौरान कार द्वारा तय की गई दूरी क्या है?",
+      "o": [
+        "200 m",
+        "100 m",
+        "50 m",
+        "150 m"
+      ],
+      "ho": [
+        "200 मीटर",
+        "100 मीटर",
+        "50 मीटर",
+        "150 मीटर"
+      ],
+      "a": 1,
+      "e": "1. Find acceleration ($a$): $a = \\frac{v - u}{t} = \\frac{20 - 0}{10} = 2$ m/s².\n2. Find distance ($s$) using 2nd equation of motion: $s = ut + \\frac{1}{2}at^2$.\n3. Substitute: $s = (0 \\times 10) + \\frac{1}{2} \\times 2 \\times (10)^2$.\n$s = 0 + 100 = 100$ m.\nAnswer is 100 m.\n",
+      "he": "1. त्वरण ($a$) ज्ञात करें: $a = \\frac{v - u}{t} = \\frac{20 - 0}{10} = 2$ मीटर/सेकंड²।\n2. गति के दूसरे समीकरण का उपयोग करके दूरी ($s$) ज्ञात करें: $s = ut + \\frac{1}{2}at^2$।\n3. मान रखने पर: $s = (0 \\times 10) + \\frac{1}{2} \\times 2 \\times (10)^2$।\n$s = 0 + 100 = 100$ मीटर।\nउत्तर 100 मीटर है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Energy)",
+      "q": "An object of mass 2 kg is moving with a velocity of 10 m/s. What is the kinetic energy of the object?",
+      "hq": "2 किग्रा द्रव्यमान की एक वस्तु 10 मीटर/सेकंड के वेग से गति कर रही है। वस्तु की गतिज ऊर्जा क्या है?",
+      "o": [
+        "20 J",
+        "200 J",
+        "100 J",
+        "50 J"
+      ],
+      "a": 2,
+      "e": "1. Formula: $KE = \\frac{1}{2} mv^2$.\n2. Given: $m = 2$ kg, $v = 10$ m/s.\n3. Calculation: $KE = \\frac{1}{2} \\times 2 \\times 100 = 100$ Joules.\nAnswer is 100 J.\n",
+      "he": "1. सूत्र: $KE = \\frac{1}{2} mv^2$।\n2. दिया गया है: $m = 2$ किग्रा, $v = 10$ मीटर/सेकंड।\n3. गणना: $KE = \\frac{1}{2} \\times 2 \\times 100 = 100$ जूल।\nउत्तर 100 J है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Human Body)",
+      "q": "Which organ in the human body is responsible for the filtration of blood?",
+      "hq": "मानव शरीर में कौन सा अंग रक्त के निस्यंदन (filtration) के लिए जिम्मेदार है?",
+      "o": [
+        "Heart",
+        "Liver",
+        "Kidney",
+        "Lungs"
+      ],
+      "ho": [
+        "हृदय",
+        "यकृत",
+        "वृक्क (Kidney)",
+        "फेफड़े"
+      ],
+      "a": 2,
+      "e": "The **Kidneys** filter waste products, excess water, and impurities from the blood, which are stored in the bladder and later expelled as urine.\n",
+      "he": "**वृक्क (Kidneys)** रक्त से अपशिष्ट उत्पादों, अतिरिक्त पानी और अशुद्धियों को छानते हैं, जो मूत्राशय में जमा होते हैं और बाद में मूत्र के रूप में बाहर निकाल दिए जाते हैं।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Human Body)",
+      "q": "Which gland in the human body is often referred to as the 'Master Gland'?",
+      "hq": "मानव शरीर की किस ग्रंथि को अक्सर 'मास्टर ग्रंथि' कहा जाता है?",
+      "o": [
+        "Thyroid",
+        "Adrenal",
+        "Pituitary",
+        "Pancreas"
+      ],
+      "ho": [
+        "थायराइड",
+        "एड्रिनल",
+        "पीयूष ग्रंथि (Pituitary)",
+        "अग्नाशय (Pancreas)"
+      ],
+      "a": 2,
+      "e": "The **Pituitary gland** is called the 'Master Gland' because it releases hormones that control and regulate the functions of many other endocrine glands in the body.\n\n[Image of pituitary gland location]\n\n",
+      "he": "**पीयूष ग्रंथि (Pituitary gland)** को 'मास्टर ग्रंथि' कहा जाता है क्योंकि यह ऐसे हार्मोन छोड़ती है जो शरीर की कई अन्य अंतःस्रावी ग्रंथियों के कार्यों को नियंत्रित और विनियमित करते हैं।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Cell Biology)",
+      "q": "Which organelle is known as the 'Powerhouse of the Cell'?",
+      "hq": "किस कोशिकांग (organelle) को 'कोशिका का पावरहाउस' कहा जाता है?",
+      "o": [
+        "Nucleus",
+        "Ribosome",
+        "Mitochondria",
+        "Lysosome"
+      ],
+      "ho": [
+        "केंद्रक",
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया",
+        "लाइसोसोम"
+      ],
+      "a": 2,
+      "e": "**Mitochondria** are called the powerhouses of the cell because they produce energy in the form of ATP (Adenosine Triphosphate) through cellular respiration.\n\n[Image of mitochondria structure]\n\n",
+      "he": "**माइटोकॉन्ड्रिया** को कोशिका का पावरहाउस कहा जाता है क्योंकि वे कोशिकीय श्वसन के माध्यम से एटीपी (एडेनोसिन ट्राइफॉस्फेट) के रूप में ऊर्जा उत्पन्न करते हैं।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Anatomy)",
+      "q": "Which is the largest internal organ (gland) in the human body?",
+      "hq": "मानव शरीर का सबसे बड़ा आंतरिक अंग (ग्रंथि) कौन सा है?",
+      "o": [
+        "Liver",
+        "Lungs",
+        "Heart",
+        "Pancreas"
+      ],
+      "ho": [
+        "यकृत (Liver)",
+        "फेफड़े",
+        "हृदय",
+        "अग्नाशय (Pancreas)"
+      ],
+      "a": 0,
+      "e": "The **Liver** is the largest internal organ and gland in the human body. The skin is the largest organ overall (external).\n",
+      "he": "**यकृत** मानव शरीर का सबसे बड़ा आंतरिक अंग और ग्रंथि है। त्वचा कुल मिलाकर सबसे बड़ा अंग (बाहरी) है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Blood)",
+      "q": "What is the average lifespan of Red Blood Cells (RBCs) in the human body?",
+      "hq": "मानव शरीर में लाल रक्त कोशिकाओं (RBCs) का औसत जीवनकाल कितना होता है?",
+      "o": [
+        "30 days",
+        "60 days",
+        "120 days",
+        "365 days"
+      ],
+      "ho": [
+        "30 दिन",
+        "60 दिन",
+        "120 दिन",
+        "365 दिन"
+      ],
+      "a": 2,
+      "e": "The average lifespan of a Red Blood Cell is approximately **120 days**. After this, they are destroyed in the spleen (graveyard of RBCs).\n",
+      "he": "लाल रक्त कोशिका का औसत जीवनकाल लगभग **120 दिन** होता है। इसके बाद, वे प्लीहा (RBC का कब्रिस्तान) में नष्ट हो जाती हैं।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Force)",
+      "q": "A force of 20 N produces an acceleration of $4 \\text{ m/s}^2$ in a body. What is the mass of the body?",
+      "hq": "20 N का बल एक पिंड में $4 \\text{ मीटर/सेकंड}^2$ का त्वरण (acceleration) उत्पन्न करता है। पिंड का द्रव्यमान क्या है?",
+      "o": [
+        "80 kg",
+        "5 kg",
+        "0.2 kg",
+        "50 kg"
+      ],
+      "ho": [
+        "80 किग्रा",
+        "5 किग्रा",
+        "0.2 किग्रा",
+        "50 किग्रा"
+      ],
+      "a": 1,
+      "e": "1. Formula: Force ($F$) = Mass ($m$) $\\times$ Acceleration ($a$) $\\Rightarrow m = F/a$.\n2. Given: $F = 20$ N, $a = 4$ m/s².\n3. Calculation: $m = \\frac{20}{4} = 5$ kg.\nAnswer is 5 kg.\n",
+      "he": "1. सूत्र: बल ($F$) = द्रव्यमान ($m$) $\\times$ त्वरण ($a$) $\\Rightarrow m = F/a$।\n2. दिया गया है: $F = 20$ N, $a = 4$ मीटर/सेकंड²।\n3. गणना: $m = \\frac{20}{4} = 5$ किग्रा।\nउत्तर 5 किग्रा है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Compounds)",
+      "q": "'Plaster of Paris' is obtained by heating:",
+      "hq": "'प्लास्टर ऑफ पेरिस' किसे गर्म करके प्राप्त किया जाता है?",
+      "o": [
+        "Gypsum",
+        "Limestone",
+        "Graphite",
+        "Cement"
+      ],
+      "ho": [
+        "जिप्सम",
+        "चूना पत्थर",
+        "ग्रेफाइट",
+        "सीमेंट"
+      ],
+      "a": 0,
+      "e": "Plaster of Paris ($CaSO_4 \\cdot \\frac{1}{2}H_2O$) is obtained by heating **Gypsum** ($CaSO_4 \\cdot 2H_2O$) to 373 K, causing it to lose water molecules.\n",
+      "he": "प्लास्टर ऑफ पेरिस ($CaSO_4 \\cdot \\frac{1}{2}H_2O$) **जिप्सम** ($CaSO_4 \\cdot 2H_2O$) को 373 K तक गर्म करके प्राप्त किया जाता है, जिससे यह पानी के अणुओं को खो देता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Laws of Motion)",
+      "q": "The working principle of a 'Rocket' is based on:",
+      "hq": "'रॉकेट' का कार्य सिद्धांत किस पर आधारित है?",
+      "o": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Archimedes' Principle"
+      ],
+      "ho": [
+        "न्यूटन का प्रथम नियम",
+        "न्यूटन का द्वितीय नियम",
+        "न्यूटन का तृतीय नियम",
+        "आर्किमिडीज का सिद्धांत"
+      ],
+      "a": 2,
+      "e": "Rocket propulsion is based on **Newton's Third Law of Motion** (Every action has an equal and opposite reaction) and the Law of Conservation of Momentum.\n",
+      "he": "रॉकेट का प्रणोदन (propulsion) **न्यूटन के गति के तीसरे नियम** (प्रत्येक क्रिया की समान और विपरीत प्रतिक्रिया होती है) और संवेग संरक्षण के नियम पर आधारित है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Excretory System)",
+      "q": "The basic functional unit of the human kidney is called:",
+      "hq": "मानव वृक्क (kidney) की बुनियादी कार्यात्मक इकाई को क्या कहा जाता है?",
+      "o": [
+        "Nephron",
+        "Neuron",
+        "Alveoli",
+        "Villi"
+      ],
+      "ho": [
+        "नेफ्रॉन (Nephron)",
+        "न्यूरॉन (Neuron)",
+        "एल्वियोली (Alveoli)",
+        "विली (Villi)"
+      ],
+      "a": 0,
+      "e": "The **Nephron** is the structural and functional unit of the kidney responsible for filtering blood. (Neuron is for the brain/nerves).\n",
+      "he": "**नेफ्रॉन** वृक्क की संरचनात्मक और कार्यात्मक इकाई है जो रक्त को छानने के लिए जिम्मेदार होती है। (न्यूरॉन मस्तिष्क/तंत्रिकाओं के लिए होता है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Sound)",
+      "q": "If the frequency of a sound wave is 50 Hz, what is its time period?",
+      "hq": "यदि किसी ध्वनि तरंग की आवृत्ति (frequency) 50 Hz है, तो उसका आवर्तकाल (time period) क्या है?",
+      "o": [
+        "0.02 s",
+        "0.05 s",
+        "0.2 s",
+        "2.0 s"
+      ],
+      "a": 0,
+      "e": "1. Formula: Time Period ($T$) = $\\frac{1}{\\text{Frequency}(f)}$.\n2. Given: $f = 50$ Hz.\n3. Calculation:\n$T = \\frac{1}{50} = 0.02$ seconds.\nAnswer is 0.02 s.\n",
+      "he": "1. सूत्र: आवर्तकाल ($T$) = $\\frac{1}{\\text{आवृत्ति}(f)}$।\n2. दिया गया है: $f = 50$ Hz।\n3. गणना:\n$T = \\frac{1}{50} = 0.02$ सेकंड।\nउत्तर 0.02 s है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Gases)",
+      "q": "Which gas typically has the smell of 'rotten eggs'?",
+      "hq": "किस गैस में आमतौर पर 'सड़े हुए अंडे' जैसी गंध आती है?",
+      "o": [
+        "Nitrogen Dioxide",
+        "Carbon Monoxide",
+        "Hydrogen Sulphide",
+        "Sulphur Dioxide"
+      ],
+      "ho": [
+        "नाइट्रोजन डाइऑक्साइड",
+        "कार्बन मोनोऑक्साइड",
+        "हाइड्रोजन सल्फाइड ($H_2S$)",
+        "सल्फर डाइऑक्साइड"
+      ],
+      "a": 2,
+      "e": "**Hydrogen Sulphide ($H_2S$)** is a colorless gas with the characteristic foul odor of rotten eggs.\n",
+      "he": "**हाइड्रोजन सल्फाइड ($H_2S$)** एक रंगहीन गैस है जिसमें सड़े हुए अंडों जैसी विशिष्ट दुर्गंध आती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Botany)",
+      "q": "Which gas is taken in by plants during photosynthesis?",
+      "hq": "प्रकाश संश्लेषण (photosynthesis) के दौरान पौधों द्वारा कौन सी गैस ग्रहण की जाती है?",
+      "o": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "ho": [
+        "ऑक्सीजन",
+        "नाइट्रोजन",
+        "कार्बन डाइऑक्साइड",
+        "हाइड्रोजन"
+      ],
+      "a": 2,
+      "e": "Plants absorb **Carbon Dioxide ($CO_2$)** from the air and water from the soil to produce glucose and release Oxygen during photosynthesis.\n",
+      "he": "पौधे प्रकाश संश्लेषण के दौरान हवा से **कार्बन डाइऑक्साइड ($CO_2$)** और मिट्टी से पानी सोखते हैं ताकि ग्लूकोज बना सकें और ऑक्सीजन छोड़ सकें।\n\n\n\n[Image of the photosynthesis process in a plant]",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Power Consumption)",
+      "q": "An electric bulb of 100 Watts is used for 5 hours daily. How many 'units' (kWh) of energy are consumed in one day?",
+      "hq": "100 वाट का एक इलेक्ट्रिक बल्ब प्रतिदिन 5 घंटे उपयोग किया जाता है। एक दिन में कितनी 'यूनिट' (kWh) ऊर्जा की खपत होती है?",
+      "o": [
+        "5 Units",
+        "1 Unit",
+        "0.5 Units",
+        "50 Units"
+      ],
+      "ho": [
+        "5 यूनिट",
+        "1 यूनिट",
+        "0.5 यूनिट",
+        "50 यूनिट"
+      ],
+      "a": 2,
+      "e": "1. Formula: Energy (kWh) = $\\frac{\\text{Power (W)} \\times \\text{Time (h)}}{1000}$.\n2. Calculation: $E = \\frac{100 \\times 5}{1000} = \\frac{500}{1000} = 0.5$ kWh (Units).\nAnswer is 0.5 Units.\n",
+      "he": "1. सूत्र: ऊर्जा (kWh) = $\\frac{\\text{शक्ति (W)} \\times \\text{समय (h)}}{1000}$।\n2. गणना: $E = \\frac{100 \\times 5}{1000} = \\frac{500}{1000} = 0.5$ kWh (यूनिट)।\nउत्तर 0.5 यूनिट है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Compounds)",
+      "q": "What is the chemical formula of 'Bleaching Powder'?",
+      "hq": "'ब्लीचिंग पाउडर' का रासायनिक सूत्र क्या है?",
+      "o": [
+        "$Ca(OH)_2$",
+        "$CaCl_2$",
+        "$CaOCl_2$",
+        "$CaCO_3$"
+      ],
+      "a": 2,
+      "e": "Bleaching Powder is chemically known as **Calcium Oxychloride**. Its formula is **$CaOCl_2$**. It is produced by the action of chlorine on dry slaked lime.\n",
+      "he": "ब्लीचिंग पाउडर को रासायनिक रूप से **कैल्शियम ऑक्सीक्लोराइड** के रूप में जाना जाता है। इसका सूत्र **$CaOCl_2$** है। यह सूखे बुझे हुए चूने पर क्लोरीन की क्रिया द्वारा निर्मित होता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Common Names)",
+      "q": "'Caustic Soda' is the common name for which chemical compound?",
+      "hq": "'कास्टिक सोडा' किस रासायनिक यौगिक का सामान्य नाम है?",
+      "o": [
+        "Sodium Hydroxide (NaOH)",
+        "Calcium Hydroxide (Ca(OH)2)",
+        "Potassium Hydroxide (KOH)",
+        "Magnesium Hydroxide (Mg(OH)2)"
+      ],
+      "ho": [
+        "सोडियम हाइड्रोक्साइड (NaOH)",
+        "कैल्शियम हाइड्रोक्साइड (Ca(OH)2)",
+        "पोटेशियम हाइड्रोक्साइड (KOH)",
+        "मैग्नीशियम हाइड्रोक्साइड (Mg(OH)2)"
+      ],
+      "a": 0,
+      "e": "**Sodium Hydroxide (NaOH)** is commonly known as Caustic Soda. It is a strong base used in soap and paper manufacturing.\n",
+      "he": "**सोडियम हाइड्रोक्साइड (NaOH)** को आमतौर पर कास्टिक सोडा के रूप में जाना जाता है। यह साबुन और कागज निर्माण में उपयोग किया जाने वाला एक मजबूत क्षार (base) है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Work and Energy)",
+      "q": "An object of mass 10 kg is moving with a velocity of 5 m/s. What is the Kinetic Energy possessed by the object?",
+      "hq": "10 किग्रा द्रव्यमान (mass) की एक वस्तु 5 मीटर/सेकंड के वेग से गति कर रही है। वस्तु में कितनी गतिज ऊर्जा (Kinetic Energy) होगी?",
+      "o": [
+        "250 J",
+        "125 J",
+        "50 J",
+        "25 J"
+      ],
+      "a": 1,
+      "e": "1. Formula: $KE = \\frac{1}{2} mv^2$.\n2. Given: Mass ($m$) = 10 kg, Velocity ($v$) = 5 m/s.\n3. Calculation:\n$KE = \\frac{1}{2} \\times 10 \\times (5)^2$\n$KE = 5 \\times 25 = 125$ Joules.\nAnswer is 125 J.\n",
+      "he": "1. सूत्र: $KE = \\frac{1}{2} mv^2$।\n2. दिया गया है: द्रव्यमान ($m$) = 10 किग्रा, वेग ($v$) = 5 मीटर/सेकंड।\n3. गणना:\n$KE = \\frac{1}{2} \\times 10 \\times (5)^2$\n$KE = 5 \\times 25 = 125$ जूल।\nउत्तर 125 J है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Ores)",
+      "q": "Bauxite is an ore of which metal?",
+      "hq": "बॉक्साइट (Bauxite) किस धातु का अयस्क (ore) है?",
+      "o": [
+        "Iron",
+        "Copper",
+        "Silver",
+        "Aluminum"
+      ],
+      "ho": [
+        "लोहा",
+        "तांबा",
+        "चांदी",
+        "एल्युमीनियम"
+      ],
+      "a": 3,
+      "e": "**Bauxite** is the primary ore from which **Aluminum** is extracted. (Hematite is an ore of Iron).\n",
+      "he": "**बॉक्साइट** प्राथमिक अयस्क है जिससे **एल्युमीनियम** निकाला जाता है। (हेमेटाइट लोहे का अयस्क है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Metals)",
+      "q": "Which ore is the primary source of Mercury?",
+      "hq": "कौन सा अयस्क पारे (Mercury) का मुख्य स्रोत है?",
+      "o": [
+        "Bauxite",
+        "Hematite",
+        "Galena",
+        "Cinnabar"
+      ],
+      "ho": [
+        "बॉक्साइट",
+        "हेमेटाइट",
+        "गैलेना",
+        "सिनेबार (Cinnabar)"
+      ],
+      "a": 3,
+      "e": "**Cinnabar** (Mercury Sulphide, HgS) is the most common ore from which Mercury is refined.",
+      "he": "**सिनेबार** (मर्करी सल्फाइड, HgS) सबसे आम अयस्क है जिससे पारा परिष्कृत किया जाता है।",
+      "e2": "",
+      "he2": ""
+    }
+  ]
+}

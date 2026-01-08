@@ -1,0 +1,586 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "Current Affairs",
+      "t": "Space (ISRO)",
+      "q": "What is the name of India's first human spaceflight mission scheduled for launch?",
+      "hq": "प्रक्षेपण के लिए निर्धारित भारत के पहले मानव अंतरिक्ष उड़ान मिशन का नाम क्या है?",
+      "o": [
+        "Aditya-L1",
+        "Chandrayaan-4",
+        "Gaganyaan",
+        "Shukrayaan-1"
+      ],
+      "ho": [
+        "आदित्य-L1",
+        "चंद्रयान-4",
+        "गगनयान",
+        "शुक्रयान-1"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Politics (States)",
+      "q": "Who was sworn in as the Chief Minister of Jharkhand for the fourth time in November 2024?",
+      "hq": "नवंबर 2024 में चौथी बार झारखंड के मुख्यमंत्री के रूप में किसने शपथ ली?",
+      "o": [
+        "Champai Soren",
+        "Babulal Marandi",
+        "Arjun Munda",
+        "Hemant Soren"
+      ],
+      "ho": [
+        "चंपई सोरेन",
+        "बाबूलाल मरांडी",
+        "अर्जुन मुंडा",
+        "हेमंत सोरेन"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Olympics)",
+      "q": "Who became the first Indian athlete in independent India to win two medals in a single edition of the Olympics (Paris 2024)?",
+      "hq": "स्वतंत्र भारत में एक ही ओलंपिक (पेरिस 2024) में दो पदक जीतने वाले पहले भारतीय एथलीट कौन बने?",
+      "o": [
+        "Neeraj Chopra",
+        "Manu Bhaker",
+        "P.V. Sindhu",
+        "Sarabjot Singh"
+      ],
+      "ho": [
+        "नीरज चोपड़ा",
+        "मनु भाकर",
+        "पी.वी. सिंधु",
+        "सरबजोत सिंह"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Summits (G7)",
+      "q": "The G7 Summit 2024 was hosted by which country?",
+      "hq": "G7 शिखर सम्मेलन 2024 की मेजबानी किस देश ने की थी?",
+      "o": [
+        "Japan",
+        "Italy",
+        "Canada",
+        "Germany"
+      ],
+      "ho": [
+        "जापान",
+        "इटली",
+        "कनाडा",
+        "जर्मनी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Index and Rankings",
+      "q": "Which city was ranked as the 'Cleanest City' in India for the 7th consecutive time in the Swachh Survekshan Awards?",
+      "hq": "स्वच्छ सर्वेक्षण पुरस्कारों में किस शहर को लगातार 7वीं बार भारत का 'सबसे स्वच्छ शहर' घोषित किया गया?",
+      "o": [
+        "Surat",
+        "Navi Mumbai",
+        "Indore",
+        "Bhopal"
+      ],
+      "ho": [
+        "सूरत",
+        "नवी मुंबई",
+        "इंदौर",
+        "भोपाल"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "International Events",
+      "q": "Sheikh Hasina resigned as the Prime Minister of which country in August 2024 following massive protests?",
+      "hq": "बड़े पैमाने पर विरोध प्रदर्शनों के बाद अगस्त 2024 में शेख हसीना ने किस देश के प्रधानमंत्री पद से इस्तीफा दे दिया था?",
+      "o": [
+        "Pakistan",
+        "Sri Lanka",
+        "Bangladesh",
+        "Nepal"
+      ],
+      "ho": [
+        "पाकिस्तान",
+        "श्रीलंका",
+        "बांग्लादेश",
+        "नेपाल"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Tennis)",
+      "q": "Who won the Men's Singles title at the French Open (Roland Garros) 2024?",
+      "hq": "फ्रेंच ओपन (रोलां गैरो) 2024 में पुरुष एकल का खिताब किसने जीता?",
+      "o": [
+        "Alexander Zverev",
+        "Novak Djokovic",
+        "Carlos Alcaraz",
+        "Rafael Nadal"
+      ],
+      "ho": [
+        "अलेक्जेंडर ज्वेरेव",
+        "नोवाक जोकोविच",
+        "कार्लोस अल्कराज",
+        "राफेल नडाल"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Olympics)",
+      "q": "Where will the Summer Olympic Games 2028 be held?",
+      "hq": "ग्रीष्मकालीन ओलंपिक खेल 2028 कहाँ आयोजित किए जाएंगे?",
+      "o": [
+        "Paris",
+        "Brisbane",
+        "Los Angeles",
+        "Tokyo"
+      ],
+      "ho": [
+        "पेरिस",
+        "ब्रिस्बेन",
+        "लॉस एंजिल्स",
+        "टोक्यो"
+      ],
+      "a": 2,
+      "e": "The **2028 Summer Olympics** (LA28) are scheduled to be held in **Los Angeles**, USA. (Brisbane will host in 2032).",
+      "he": "**2028 ग्रीष्मकालीन ओलंपिक** (LA28) **लॉस एंजिल्स**, अमेरिका में आयोजित होने वाले हैं। (ब्रिस्बेन 2032 में मेजबानी करेगा)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Domestic Cricket)",
+      "q": "Which team won the Ranji Trophy 2023-24 title (42nd title)?",
+      "hq": "किस टीम ने रणजी ट्रॉफी 2023-24 का खिताब (42वां खिताब) जीता?",
+      "o": [
+        "Vidarbha",
+        "Madhya Pradesh",
+        "Mumbai",
+        "Saurashtra"
+      ],
+      "ho": [
+        "विदर्भ",
+        "मध्य प्रदेश",
+        "मुंबई",
+        "सौराष्ट्र"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Defense (Technology)",
+      "q": "'Mission Divyastra', conducted by DRDO, was the first flight test of which missile with MIRV technology?",
+      "hq": "DRDO द्वारा संचालित 'मिशन दिव्यास्त्र', MIRV तकनीक वाली किस मिसाइल का पहला उड़ान परीक्षण था?",
+      "o": [
+        "Agni-5",
+        "Prithvi-II",
+        "BrahMos",
+        "Agni-Prime"
+      ],
+      "ho": [
+        "अग्नि-5",
+        "पृथ्वी-II",
+        "ब्रह्मोस",
+        "अग्नि-प्राइम"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Awards & Honours",
+      "q": "Who was honoured with the 54th Dadasaheb Phalke Award?",
+      "hq": "54वें दादा साहब फाल्के पुरस्कार से किसे सम्मानित किया गया?",
+      "o": [
+        "Waheeda Rehman",
+        "Mithun Chakraborty",
+        "Amitabh Bachchan",
+        "Rajinikanth"
+      ],
+      "ho": [
+        "वहीदा रहमान",
+        "मिथुन चक्रवर्ती",
+        "अमिताभ बच्चन",
+        "रजनीकांत"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "National Awards (Cinema)",
+      "q": "Who shared the 'Best Actress' award at the 70th National Film Awards (2024)?",
+      "hq": "70वें राष्ट्रीय फिल्म पुरस्कार (2024) में 'सर्वश्रेष्ठ अभिनेत्री' का पुरस्कार किसने साझा किया?",
+      "o": [
+        "Alia Bhatt and Kriti Sanon",
+        "Nithya Menen and Manasi Parekh",
+        "Deepika Padukone and Kangana Ranaut",
+        "Keerthy Suresh and Sai Pallavi"
+      ],
+      "ho": [
+        "आलिया भट्ट और कृति सेनन",
+        "नित्या मेनन और मानसी पारेख",
+        "दीपिका पादुकोण और कंगना रनौत",
+        "कीर्ति सुरेश और साई पल्लवी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Space (ISRO)",
+      "q": "ISRO recently completed the developmental flight of which small satellite launch vehicle (SSLV-D3) carrying the EOS-08 satellite?",
+      "hq": "ISRO ने हाल ही में EOS-08 उपग्रह को ले जाने वाले किस लघु उपग्रह प्रक्षेपण यान (SSLV-D3) की विकासात्मक उड़ान सफलतापूर्वक पूरी की?",
+      "o": [
+        "PSLV",
+        "GSLV Mk III",
+        "SSLV",
+        "LVM3"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Cricket)",
+      "q": "Which team won the Indian Premier League (IPL) title in 2024?",
+      "hq": "किस टीम ने 2024 में इंडियन प्रीमियर लीग (IPL) का खिताब जीता?",
+      "o": [
+        "Sunrisers Hyderabad",
+        "Chennai Super Kings",
+        "Kolkata Knight Riders",
+        "Mumbai Indians"
+      ],
+      "ho": [
+        "सनराइजर्स हैदराबाद",
+        "चेन्नई सुपर किंग्स",
+        "कोलकाता नाइट राइडर्स",
+        "मुंबई इंडियंस"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Awards (Nobel)",
+      "q": "The Nobel Prize in Literature 2024 was awarded to Han Kang. She belongs to which country?",
+      "hq": "साहित्य का नोबेल पुरस्कार 2024 हान कांग को दिया गया। वह किस देश से संबंधित हैं?",
+      "o": [
+        "China",
+        "Japan",
+        "Vietnam",
+        "South Korea"
+      ],
+      "ho": [
+        "चीन",
+        "जापान",
+        "वियतनाम",
+        "दक्षिण कोरिया"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Science & Tech",
+      "q": "Researchers from which country launched the world's first wooden satellite, 'LignoSat', into space?",
+      "hq": "किस देश के शोधकर्ताओं ने दुनिया का पहला लकड़ी का उपग्रह, 'लिग्नोसैट' (LignoSat), अंतरिक्ष में लॉन्च किया?",
+      "o": [
+        "USA",
+        "China",
+        "India",
+        "Japan"
+      ],
+      "ho": [
+        "यूएसए",
+        "चीन",
+        "भारत",
+        "जापान"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Defense (Exercises)",
+      "q": "The joint special forces exercise 'Vajra Prahar' is conducted between India and which country?",
+      "hq": "संयुक्त विशेष बल अभ्यास 'वज्र प्रहार' (Vajra Prahar) भारत और किस देश के बीच आयोजित किया जाता है?",
+      "o": [
+        "United Kingdom",
+        "Thailand",
+        "Kyrgyzstan",
+        "USA"
+      ],
+      "ho": [
+        "यूनाइटेड किंगडम",
+        "थायलैंड",
+        "किर्गिस्तान",
+        "अमेरिका (USA)"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Cricket)",
+      "q": "Who emerged as the champions of the ICC Men's T20 World Cup 2024?",
+      "hq": "ICC पुरुष T20 विश्व कप 2024 के विजेता के रूप में कौन उभरा?",
+      "o": [
+        "South Africa",
+        "Australia",
+        "England",
+        "India"
+      ],
+      "ho": [
+        "दक्षिण अफ्रीका",
+        "ऑस्ट्रेलिया",
+        "इंग्लैंड",
+        "भारत"
+      ],
+      "a": 3,
+      "e": "**India** won the ICC Men's T20 World Cup 2024 by defeating South Africa in the final held in Barbados.\n",
+      "he": "**भारत** ने बारबाडोस में आयोजित फाइनल में दक्षिण अफ्रीका को हराकर ICC पुरुष T20 विश्व कप 2024 जीता।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Infrastructure",
+      "q": "'Atal Setu', India's longest sea bridge inaugurated in 2024, connects Mumbai with which city?",
+      "hq": "2024 में उद्घाटन किया गया भारत का सबसे लंबा समुद्री पुल 'अटल सेतु', मुंबई को किस शहर से जोड़ता है?",
+      "o": [
+        "Pune",
+        "Thane",
+        "Alibaug",
+        "Navi Mumbai"
+      ],
+      "ho": [
+        "पुणे",
+        "ठाणे",
+        "अलीबाग",
+        "नवी मुंबई"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Summits (Quad)",
+      "q": "The Quad Leaders' Summit 2024 was hosted by which country?",
+      "hq": "क्वाड (Quad) शिखर सम्मेलन 2024 की मेजबानी किस देश ने की थी?",
+      "o": [
+        "USA",
+        "India",
+        "Japan",
+        "Australia"
+      ],
+      "ho": [
+        "अमेरिका (USA)",
+        "भारत",
+        "जापान",
+        "ऑस्ट्रेलिया"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Science & Tech",
+      "q": "'Param Rudra', which was recently launched by the Prime Minister, is a:",
+      "hq": "'परम रुद्र' (Param Rudra), जिसे हाल ही में प्रधानमंत्री द्वारा लॉन्च किया गया था, एक ______ है:",
+      "o": [
+        "Nuclear Submarine",
+        "Supercomputer",
+        "Anti-Drone System",
+        "Ballistic Missile"
+      ],
+      "ho": [
+        "परमाणु पनडुब्बी",
+        "सुपरकंप्यूटर",
+        "एंटी-ड्रोन सिस्टम",
+        "बैलिस्टिक मिसाइल"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Cinema (Oscars)",
+      "q": "Which Bollywood movie was chosen as India's official entry for the 'Best International Feature Film' category at the Oscars 2025?",
+      "hq": "ऑस्कर 2025 में 'सर्वश्रेष्ठ अंतर्राष्ट्रीय फीचर फिल्म' श्रेणी के लिए भारत की आधिकारिक प्रविष्टि के रूप में किस बॉलीवुड फिल्म को चुना गया?",
+      "o": [
+        "12th Fail",
+        "Laapataa Ladies",
+        "Animal",
+        "Kalki 2898 AD"
+      ],
+      "ho": [
+        "12वीं फेल",
+        "लापता लेडीज",
+        "एनिमल",
+        "कल्कि 2898 एडी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Culture & Festivals",
+      "q": "The 'Mahakumbh Mela' 2025 was organized in which city?",
+      "hq": "'महाकुंभ मेला' 2025 किस शहर में आयोजित किया गया?",
+      "o": [
+        "Haridwar",
+        "Ujjain",
+        "Nashik",
+        "Prayagraj"
+      ],
+      "ho": [
+        "हरिद्वार",
+        "उज्जैन",
+        "नासिक",
+        "प्रयागराज"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Olympics)",
+      "q": "India has officially submitted a 'Letter of Intent' to host the Olympic Games in which year?",
+      "hq": "भारत ने आधिकारिक तौर पर किस वर्ष के ओलंपिक खेलों की मेजबानी के लिए 'लेटर ऑफ इंटेंट' (आशय पत्र) प्रस्तुत किया है?",
+      "o": [
+        "2032",
+        "2036",
+        "2040",
+        "2044"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Awards (Nobel)",
+      "q": "The Nobel Peace Prize 2024 was awarded to which organization?",
+      "hq": "नोबेल शांति पुरस्कार 2024 किस संगठन को दिया गया?",
+      "o": [
+        "World Food Programme",
+        "Nihon Hidankyo",
+        "Narges Mohammadi",
+        "Memorial"
+      ],
+      "ho": [
+        "विश्व खाद्य कार्यक्रम (World Food Programme)",
+        "निहोन हिडांक्यो (Nihon Hidankyo)",
+        "नरगिस मोहम्मदी",
+        "मेमोरियल (Memorial)"
+      ],
+      "a": 1,
+      "e": "The Japanese organization **Nihon Hidankyo** (a grassroots movement of atomic bomb survivors) was awarded the Nobel Peace Prize 2024 for its efforts to achieve a world free of nuclear weapons.\n",
+      "he": "जापानी संगठन **निहोन हिडांक्यो** (परमाणु बम जीवित बचे लोगों का एक जमीनी आंदोलन) को परमाणु हथियारों से मुक्त दुनिया बनाने के प्रयासों के लिए नोबेल शांति पुरस्कार 2024 से सम्मानित किया गया।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Current Affairs",
+      "t": "International Summits (G20)",
+      "q": "Which country held the presidency of the G20 Summit in the year 2025?",
+      "hq": "वर्ष 2025 में G20 शिखर सम्मेलन की अध्यक्षता किस देश ने की थी?",
+      "o": [
+        "Brazil",
+        "USA",
+        "South Africa",
+        "India"
+      ],
+      "ho": [
+        "ब्राजील",
+        "अमेरिका (USA)",
+        "दक्षिण अफ्रीका",
+        "भारत"
+      ],
+      "a": 2,
+      "e": "**South Africa** assumed the G20 Presidency for the year **2025**. (India held it in 2023, Brazil in 2024, and the USA is scheduled for 2026).\n",
+      "he": "**दक्षिण अफ्रीका** ने वर्ष **2025** के लिए G20 की अध्यक्षता ग्रहण की। (भारत ने 2023 में, ब्राजील ने 2024 में इसकी अध्यक्षता की थी, और अमेरिका 2026 के लिए निर्धारित है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Cricket - IPL)",
+      "q": "Who became the most expensive player in IPL history during the IPL 2025 Mega Auction (sold for ₹27 Crore)?",
+      "hq": "IPL 2025 की मेगा नीलामी (Mega Auction) के दौरान IPL इतिहास का सबसे महंगा खिलाड़ी कौन बना (₹27 करोड़ में बिका)?",
+      "o": [
+        "Shreyas Iyer",
+        "Mitchell Starc",
+        "Rishabh Pant",
+        "Venkatesh Iyer"
+      ],
+      "ho": [
+        "श्रेयस अय्यर",
+        "मिचेल स्टार्क",
+        "ऋषभ पंत",
+        "वेंकटेश अय्यर"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Important Days (Themes)",
+      "q": "What was the theme for World Environment Day 2024?",
+      "hq": "विश्व पर्यावरण दिवस 2024 की थीम (विषय) क्या थी?",
+      "o": [
+        "Beat Plastic Pollution",
+        "Land Restoration, Desertification and Drought Resilience",
+        "Ecosystem Restoration",
+        "Only One Earth"
+      ],
+      "ho": [
+        "प्लास्टिक प्रदूषण को मात दें (Beat Plastic Pollution)",
+        "भूमि बहाली, मरुस्थलीकरण और सूखा लचीलापन (Land Restoration, Desertification and Drought Resilience)",
+        "पारिस्थितिकी तंत्र की बहाली (Ecosystem Restoration)",
+        "केवल एक पृथ्वी (Only One Earth)"
+      ],
+      "a": 1,
+      "e": "The theme for World Environment Day 2024 was **\"Land Restoration, Desertification and Drought Resilience\"**. The host country was Saudi Arabia.\n",
+      "he": "विश्व पर्यावरण दिवस 2024 की थीम **\"भूमि बहाली, मरुस्थलीकरण और सूखा लचीलापन\"** थी। इसका मेजबान देश सऊदी अरब था।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Government Schemes",
+      "q": "The 'Mukhyamantri Majhi Ladki Bahin Yojana' was a flagship scheme launched by which state government?",
+      "hq": "'मुख्यमंत्री माझी लाडकी बहिन योजना' किस राज्य सरकार द्वारा शुरू की गई एक प्रमुख योजना थी?",
+      "o": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Chhattisgarh",
+        "Odisha"
+      ],
+      "ho": [
+        "मध्य प्रदेश",
+        "महाराष्ट्र",
+        "छत्तीसगढ़",
+        "ओडिशा"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "International Politics",
+      "q": "Who won the United States Presidential Election held in November 2024?",
+      "hq": "नवंबर 2024 में आयोजित संयुक्त राज्य अमेरिका के राष्ट्रपति चुनाव में किसने जीत हासिल की?",
+      "o": [
+        "Kamala Harris",
+        "Joe Biden",
+        "Donald Trump",
+        "Nikki Haley"
+      ],
+      "ho": [
+        "कमला हैरिस",
+        "जो बाइडेन",
+        "डोनाल्ड ट्रंप",
+        "निक्की हेली"
+      ],
+      "a": 2
+    }
+  ]
+}

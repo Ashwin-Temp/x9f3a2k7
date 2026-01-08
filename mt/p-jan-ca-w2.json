@@ -1,0 +1,566 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "Current Affairs",
+      "t": "Obituary",
+      "q": "Ratan Tata, the legendary industrialist who passed away in October 2024, was the former Chairman of which conglomerate?",
+      "hq": "अक्टूबर 2024 में निधन होने वाले दिग्गज उद्योगपति रतन टाटा किस समूह के पूर्व अध्यक्ष थे?",
+      "o": [
+        "Reliance Industries",
+        "Adani Group",
+        "Tata Sons",
+        "Mahindra & Mahindra"
+      ],
+      "ho": [
+        "रिलायंस इंडस्ट्रीज",
+        "अडानी ग्रुप",
+        "टाटा संस",
+        "महिंद्रा एंड महिंद्रा"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Defense Exercises",
+      "q": "The joint military exercise 'Yudh Abhyas' is conducted between India and which country?",
+      "hq": "संयुक्त सैन्य अभ्यास 'युद्ध अभ्यास' (Yudh Abhyas) भारत और किस देश के बीच आयोजित किया जाता है?",
+      "o": [
+        "UK",
+        "Russia",
+        "Japan",
+        "USA"
+      ],
+      "ho": [
+        "यूके (UK)",
+        "रूस",
+        "जापान",
+        "अमेरिका (USA)"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Index and Rankings",
+      "q": "What was India's rank in the World Press Freedom Index 2024?",
+      "hq": "विश्व प्रेस स्वतंत्रता सूचकांक (World Press Freedom Index) 2024 में भारत का स्थान क्या था?",
+      "o": [
+        "150",
+        "159",
+        "161",
+        "142"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Defense Exercises",
+      "q": "'Exercise Shakti' is a biennial joint military exercise conducted between the armies of India and:",
+      "hq": "'अभ्यास शक्ति' (Exercise Shakti) भारत और ______ की सेनाओं के बीच आयोजित होने वाला एक द्विवार्षिक संयुक्त सैन्य अभ्यास है:",
+      "o": [
+        "USA",
+        "France",
+        "Japan",
+        "Sri Lanka"
+      ],
+      "ho": [
+        "अमेरिका (USA)",
+        "फ्रांस",
+        "जापान",
+        "श्रीलंका"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Chess)",
+      "q": "In the 45th Chess Olympiad held in Budapest (2024), which country created history by winning Gold in both the Open and Women's categories?",
+      "hq": "बुडापेस्ट (2024) में आयोजित 45वें शतरंज ओलंपियाड में किस देश ने ओपन और महिला दोनों श्रेणियों में स्वर्ण जीतकर इतिहास रचा?",
+      "o": [
+        "China",
+        "USA",
+        "Russia",
+        "India"
+      ],
+      "ho": [
+        "चीन",
+        "अमेरिका",
+        "रूस",
+        "भारत"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Important Days",
+      "q": "'Good Governance Day' is observed in India on December 25 to mark the birth anniversary of:",
+      "hq": "भारत में 25 दिसंबर को 'सुशासन दिवस' (Good Governance Day) किसकी जयंती के उपलक्ष्य में मनाया जाता है?",
+      "o": [
+        "Sardar Patel",
+        "Pt. Madan Mohan Malaviya",
+        "Atal Bihari Vajpayee",
+        "Deendayal Upadhyaya"
+      ],
+      "ho": [
+        "सरदार पटेल",
+        "पं. मदन मोहन मालवीय",
+        "अटल बिहारी वाजपेयी",
+        "दीनदयाल उपाध्याय"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Important Days",
+      "q": "'Good Governance Day' is observed in India on December 25th to mark the birth anniversary of which leader?",
+      "hq": "भारत में 25 दिसंबर को किस नेता की जयंती के उपलक्ष्य में 'सुशासन दिवस' (Good Governance Day) मनाया जाता है?",
+      "o": [
+        "Sardar Patel",
+        "Indira Gandhi",
+        "Atal Bihari Vajpayee",
+        "APJ Abdul Kalam"
+      ],
+      "ho": [
+        "सरदार पटेल",
+        "इंदिरा गांधी",
+        "अटल बिहारी वाजपेयी",
+        "एपीजे अब्दुल कलाम"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "International Summits (Biodiversity)",
+      "q": "The UN Biodiversity Conference (COP16) 2024 was held in which city?",
+      "hq": "संयुक्त राष्ट्र जैव विविधता सम्मेलन (COP16) 2024 किस शहर में आयोजित किया गया था?",
+      "o": [
+        "Cali (Colombia)",
+        "Montreal (Canada)",
+        "Kunming (China)",
+        "Baku (Azerbaijan)"
+      ],
+      "ho": [
+        "काली (कोलंबिया)",
+        "मॉन्ट्रियल (कनाडा)",
+        "कुनमिंग (चीन)",
+        "बाकू (अजरबैजान)"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Current Affairs",
+      "t": "International Politics",
+      "q": "Anura Kumara Dissanayake was elected as the President of which neighboring country in 2024?",
+      "hq": "अनुरा कुमारा दिसानायके 2024 में किस पड़ोसी देश के राष्ट्रपति चुने गए?",
+      "o": [
+        "Maldives",
+        "Nepal",
+        "Sri Lanka",
+        "Bhutan"
+      ],
+      "ho": [
+        "मालदीव",
+        "नेपाल",
+        "श्रीलंका",
+        "भूटान"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Politics (States)",
+      "q": "Who was sworn in as the first Chief Minister of the Union Territory of Jammu and Kashmir in October 2024?",
+      "hq": "अक्टूबर 2024 में केंद्र शासित प्रदेश जम्मू-कश्मीर के पहले मुख्यमंत्री के रूप में किसने शपथ ली?",
+      "o": [
+        "Mehbooba Mufti",
+        "Omar Abdullah",
+        "Farooq Abdullah",
+        "Ravinder Raina"
+      ],
+      "ho": [
+        "महबूबा मुफ्ती",
+        "उमर अब्दुल्ला",
+        "फारूक अब्दुल्ला",
+        "रविंद्र रैना"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Defense (Army)",
+      "q": "Who assumed charge as the Chief of the Army Staff (COAS) of India in June 2024?",
+      "hq": "जून 2024 में भारत के थल सेना प्रमुख (COAS) के रूप में किसने कार्यभार संभाला?",
+      "o": [
+        "Upendra Dwivedi",
+        "Manoj Pande",
+        "M.V. Suchindra Kumar",
+        "B.S. Raju"
+      ],
+      "ho": [
+        "उपेंद्र द्विवेदी",
+        "मनोज पांडे",
+        "एम.वी. सुचिंद्र कुमार",
+        "बी.एस. राजू"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Books and Authors",
+      "q": "Who is the author of the book titled 'Why Bharat Matters'?",
+      "hq": "'व्हाई भारत मैटर्स' (Why Bharat Matters) नामक पुस्तक के लेखक कौन हैं?",
+      "o": [
+        "Shashi Tharoor",
+        "S. Jaishankar",
+        "Vikram Sampath",
+        "Chetan Bhagat"
+      ],
+      "ho": [
+        "शशि थरूर",
+        "एस. जयशंकर",
+        "विक्रम संपत",
+        "चेतन भगत"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Beauty Pageants",
+      "q": "Krystyna Pyszkova, who was crowned Miss World 2024, hails from which country?",
+      "hq": "क्रिस्टीना पिस्ज़कोवा, जिन्हें मिस वर्ल्ड 2024 का ताज पहनाया गया, किस देश से संबंधित हैं?",
+      "o": [
+        "Poland",
+        "Czech Republic",
+        "Lebanon",
+        "Puerto Rico"
+      ],
+      "ho": [
+        "पोलैंड",
+        "चेक गणराज्य (Czech Republic)",
+        "लेबनान",
+        "प्यूर्टो रिको"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Appointments (Defense)",
+      "q": "Who is the current Chief of the Naval Staff of India (took charge in April 2024)?",
+      "hq": "भारतीय नौसेना के वर्तमान प्रमुख कौन हैं (जिन्होंने अप्रैल 2024 में कार्यभार संभाला)?",
+      "o": [
+        "R. Hari Kumar",
+        "Dinesh K Tripathi",
+        "V.R. Chaudhari",
+        "Upendra Dwivedi"
+      ],
+      "ho": [
+        "आर. हरि कुमार",
+        "दिनेश के. त्रिपाठी",
+        "वी.आर. चौधरी",
+        "उपेंद्र द्विवेदी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Cricket)",
+      "q": "Which team won the ICC Women's T20 World Cup 2024 (held in UAE)?",
+      "hq": "किस टीम ने ICC महिला T20 विश्व कप 2024 (यूएई में आयोजित) जीता?",
+      "o": [
+        "South Africa",
+        "Australia",
+        "India",
+        "New Zealand"
+      ],
+      "ho": [
+        "दक्षिण अफ्रीका",
+        "ऑस्ट्रेलिया",
+        "भारत",
+        "न्यूजीलैंड"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Awards (Cinema)",
+      "q": "Which film won the 'Best Picture' award at the 96th Academy Awards (Oscars 2024)?",
+      "hq": "96वें अकादमी पुरस्कार (ऑस्कर 2024) में किस फिल्म ने 'सर्वश्रेष्ठ फिल्म' (Best Picture) का पुरस्कार जीता?",
+      "o": [
+        "Barbie",
+        "Poor Things",
+        "Oppenheimer",
+        "Killers of the Flower Moon"
+      ],
+      "ho": [
+        "बार्बी",
+        "पुअर थिंग्स",
+        "ओपेनहाइमर (Oppenheimer)",
+        "किलर्स ऑफ द फ्लावर मून"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Defense (Alliances)",
+      "q": "Which country officially became the 32nd member of NATO in 2024?",
+      "hq": "कौन सा देश 2024 में आधिकारिक तौर पर नाटो (NATO) का 32वां सदस्य बना?",
+      "o": [
+        "Finland",
+        "Ukraine",
+        "Sweden",
+        "Georgia"
+      ],
+      "ho": [
+        "फिनलैंड",
+        "यूक्रेन",
+        "स्वीडन",
+        "जॉर्जिया"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "National Awards (Cinema)",
+      "q": "Who won the Best Actor award at the 70th National Film Awards (announced in 2024) for the movie 'Kantara'?",
+      "hq": "फिल्म 'कांतारा' के लिए 70वें राष्ट्रीय फिल्म पुरस्कार (2024 में घोषित) में सर्वश्रेष्ठ अभिनेता का पुरस्कार किसने जीता?",
+      "o": [
+        "Allu Arjun",
+        "Mammootty",
+        "Rishab Shetty",
+        "Dhanush"
+      ],
+      "ho": [
+        "अल्लू अर्जुन",
+        "ममूटी",
+        "ऋषभ शेट्टी",
+        "धनुष"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Cricket)",
+      "q": "Which two countries will co-host the ICC Men's T20 World Cup 2026?",
+      "hq": "कौन से दो देश ICC पुरुष T20 विश्व कप 2026 की सह-मेजबानी करेंगे?",
+      "o": [
+        "Australia and New Zealand",
+        "India and Sri Lanka",
+        "West Indies and USA",
+        "England and Ireland"
+      ],
+      "ho": [
+        "ऑस्ट्रेलिया और न्यूजीलैंड",
+        "भारत और श्रीलंका",
+        "वेस्टइंडीज और अमेरिका",
+        "इंग्लैंड और आयरलैंड"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Cricket)",
+      "q": "Which team won the second season of the Women's Premier League (WPL) 2024?",
+      "hq": "विमेंस प्रीमियर लीग (WPL) 2024 के दूसरे सीजन का खिताब किस टीम ने जीता?",
+      "o": [
+        "Delhi Capitals",
+        "Mumbai Indians",
+        "UP Warriorz",
+        "Royal Challengers Bangalore"
+      ],
+      "ho": [
+        "दिल्ली कैपिटल्स",
+        "मुंबई इंडियंस",
+        "यूपी वॉरियर्स",
+        "रॉयल चैलेंजर्स बैंगलोर"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Summits (Future)",
+      "q": "The 'Summit of the Future' 2024, organized by the United Nations, was held in:",
+      "hq": "संयुक्त राष्ट्र द्वारा आयोजित 'भविष्य का शिखर सम्मेलन' (Summit of the Future) 2024 कहाँ आयोजित किया गया था?",
+      "o": [
+        "Geneva",
+        "New York",
+        "Paris",
+        "Dubai"
+      ],
+      "ho": [
+        "जेनेवा",
+        "न्यूयॉर्क",
+        "पेरिस",
+        "दुबई"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Cinema (IFFI)",
+      "q": "Which film won the prestigious 'Golden Peacock' award for Best Film at the 55th International Film Festival of India (IFFI) in Goa?",
+      "hq": "गोवा में आयोजित 55वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (IFFI) में किस फिल्म ने सर्वश्रेष्ठ फिल्म के लिए प्रतिष्ठित 'गोल्डन पीकॉक' (स्वर्ण मयूर) पुरस्कार जीता?",
+      "o": [
+        "Kantara",
+        "Toxic",
+        "Endless Borders",
+        "When the Walnuts were Graveyards"
+      ],
+      "ho": [
+        "कांतारा",
+        "टॉक्सिक",
+        "एंडलेस बॉर्डर्स",
+        "व्हेन द वॉलनट्स वर ग्रेवयार्ड्स (When the Walnuts were Graveyards)"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Chess)",
+      "q": "Who created history by becoming the youngest-ever challenger for the World Chess Championship title in 2024?",
+      "hq": "2024 में विश्व शतरंज चैंपियनशिप खिताब के लिए अब तक के सबसे कम उम्र के चैलेंजर (challenger) बनकर किसने इतिहास रचा?",
+      "o": [
+        "R. Praggnanandhaa",
+        "Arjun Erigaisi",
+        "Magnus Carlsen",
+        "D. Gukesh"
+      ],
+      "ho": [
+        "आर. प्रज्ञानानंद",
+        "अर्जुन एरिगैसी",
+        "मैग्नस कार्लसन",
+        "डी. गुकेश"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Cricket)",
+      "q": "Who holds the record for the fastest double century in One Day International (ODI) cricket?",
+      "hq": "एक दिवसीय अंतर्राष्ट्रीय (ODI) क्रिकेट में सबसे तेज दोहरा शतक बनाने का रिकॉर्ड किसके नाम है?",
+      "o": [
+        "Rohit Sharma",
+        "Glenn Maxwell",
+        "Ishan Kishan",
+        "Shubman Gill"
+      ],
+      "ho": [
+        "रोहित शर्मा",
+        "ग्लेन मैक्सवेल",
+        "ईशान किशन",
+        "शुभमन गिल"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Appointments (Railways)",
+      "q": "Who was appointed as the Chairman and CEO of the Railway Board in September 2024?",
+      "hq": "सितंबर 2024 में रेलवे बोर्ड के अध्यक्ष और सीईओ के रूप में किसे नियुक्त किया गया था?",
+      "o": [
+        "Jaya Varma Sinha",
+        "Satish Kumar",
+        "Anil Kumar Lahoti",
+        "V.K. Tripathi"
+      ],
+      "ho": [
+        "जया वर्मा सिन्हा",
+        "सतीश कुमार",
+        "अनिल कुमार लाहोटी",
+        "वी.के. त्रिपाठी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Beauty Pageants",
+      "q": "Who was crowned Miss Universe 2024?",
+      "hq": "मिस यूनिवर्स 2024 का ताज किसे पहनाया गया?",
+      "o": [
+        "Sheynnis Palacios",
+        "Victoria Kjaer Theilvig",
+        "R'Bonney Gabriel",
+        "Harnaaz Sandhu"
+      ],
+      "ho": [
+        "शेन्निस पालासियोस",
+        "विक्टोरिया कजेर थिलविग",
+        "आर'बोनी गेब्रियल",
+        "हरनाज़ संधू"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Awards (Literature)",
+      "q": "The 58th Jnanpith Award was conferred upon which two personalities?",
+      "hq": "58वें ज्ञानपीठ पुरस्कार से किन दो हस्तियों को सम्मानित किया गया?",
+      "o": [
+        "Damodar Mauzo and Nilmani Phookan",
+        "Gulzar and Jagadguru Rambhadracharya",
+        "Amitav Ghosh and Krishna Sobti",
+        "Javed Akhtar and Prasoon Joshi"
+      ],
+      "ho": [
+        "दामोदर मौज़ो और नीलमणि फूकन",
+        "गुलज़ार और जगद्गुरु रामभद्राचार्य",
+        "अमिताव घोष और कृष्णा सोबती",
+        "जावेद अख्तर और प्रसून जोशी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Important Days",
+      "q": "The year 2024 marked the 75th anniversary of the adoption of the Indian Constitution. This day (Nov 26) is celebrated as:",
+      "hq": "वर्ष 2024 में भारतीय संविधान को अपनाने की 75वीं वर्षगांठ मनाई गई। इस दिन (26 नवंबर) को किस रूप में मनाया जाता है?",
+      "o": [
+        "Republic Day",
+        "Independence Day",
+        "Samvidhan Diwas",
+        "Gandhi Jayanti"
+      ],
+      "ho": [
+        "गणतंत्र दिवस",
+        "स्वतंत्रता दिवस",
+        "संविधान दिवस",
+        "गांधी जयंती"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "International Politics",
+      "q": "Donald Trump has been elected as the _______ President of the United States.",
+      "hq": "डोनाल्ड ट्रम्प को संयुक्त राज्य अमेरिका के _______ राष्ट्रपति के रूप में चुना गया है।",
+      "o": [
+        "45th",
+        "46th",
+        "47th",
+        "48th"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Important Days",
+      "q": "'National Space Day' is celebrated in India on which date to commemorate the success of Chandrayaan-3?",
+      "hq": "चंद्रयान-3 की सफलता के उपलक्ष्य में भारत में 'राष्ट्रीय अंतरिक्ष दिवस' किस तारीख को मनाया जाता है?",
+      "o": [
+        "July 14",
+        "August 23",
+        "September 2",
+        "October 10"
+      ],
+      "ho": [
+        "14 जुलाई",
+        "23 अगस्त",
+        "2 सितंबर",
+        "10 अक्टूबर"
+      ],
+      "a": 1
+    }
+  ]
+}

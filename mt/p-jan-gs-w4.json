@@ -1,0 +1,662 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "General Science",
+      "t": "Chemistry (Processes)",
+      "q": "Galvanization is a method of protecting iron from rusting by coating it with a thin layer of:",
+      "hq": "गैल्वनीकरण (Galvanization) लोहे को जंग से बचाने की एक विधि है जिसमें उस पर किसकी एक पतली परत चढ़ाई जाती है?",
+      "o": [
+        "Copper",
+        "Aluminum",
+        "Zinc",
+        "Silver"
+      ],
+      "ho": [
+        "तांबा",
+        "एल्युमीनियम",
+        "जस्ता (Zinc)",
+        "चांदी"
+      ],
+      "a": 2,
+      "e": "**Galvanization** involves coating iron or steel with a layer of **Zinc** to prevent rusting (oxidation).\n",
+      "he": "**गैल्वनीकरण** में लोहे या स्टील को जंग (ऑक्सीकरण) से बचाने के लिए उस पर **जस्ता (Zinc)** की एक परत चढ़ाई जाती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Work)",
+      "q": "A force of 50 N is applied to an object, moving it by a distance of 4 meters in the direction of the force. What is the work done?",
+      "hq": "किसी वस्तु पर 50 N का बल लगाया जाता है, जिससे वह बल की दिशा में 4 मीटर की दूरी तक चलती है। किया गया कार्य क्या है?",
+      "o": [
+        "200 J",
+        "12.5 J",
+        "54 J",
+        "46 J"
+      ],
+      "a": 0,
+      "e": "1. Formula: Work ($W$) = Force ($F$) $\\times$ Distance ($d$).\n2. Calculation: $W = 50 \\times 4 = 200$ Joules.\nAnswer is 200 J.\n",
+      "he": "1. सूत्र: कार्य ($W$) = बल ($F$) $\\times$ दूरी ($d$)।\n2. गणना: $W = 50 \\times 4 = 200$ जूल।\nउत्तर 200 J है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Acids)",
+      "q": "Which acid is present in the sting of an ant or bee?",
+      "hq": "चींटी या मधुमक्खी के डंक में कौन सा अम्ल मौजूद होता है?",
+      "o": [
+        "Acetic Acid",
+        "Formic Acid (Methanoic Acid)",
+        "Citric Acid",
+        "Oxalic Acid"
+      ],
+      "ho": [
+        "एसिटिक अम्ल",
+        "फॉर्मिक अम्ल (मेथानोइक अम्ल)",
+        "साइट्रिक अम्ल",
+        "ऑक्सालिक अम्ल"
+      ],
+      "a": 1,
+      "e": "Ant and bee stings contain **Formic Acid** (also known as Methanoic Acid, HCOOH), which causes pain and irritation. Mild bases like baking soda neutralize it.\n",
+      "he": "चींटी और मधुमक्खी के डंक में **फॉर्मिक अम्ल** (जिसे मेथानोइक अम्ल, HCOOH के रूप में भी जाना जाता है) होता है, जिससे दर्द और जलन होती है। बेकिंग सोडा जैसे हल्के क्षार इसे बेअसर कर देते हैं।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Waves)",
+      "q": "A sound wave has a frequency of 200 Hz and a wavelength of 2 meters. What is the speed of the sound wave?",
+      "hq": "एक ध्वनि तरंग की आवृत्ति (frequency) 200 Hz और तरंगदैर्ध्य (wavelength) 2 मीटर है। ध्वनि तरंग की गति क्या है?",
+      "o": [
+        "100 m/s",
+        "202 m/s",
+        "800 m/s",
+        "400 m/s"
+      ],
+      "ho": [
+        "100 मीटर/सेकंड",
+        "202 मीटर/सेकंड",
+        "800 मीटर/सेकंड",
+        "400 मीटर/सेकंड"
+      ],
+      "a": 3,
+      "e": "1. Formula: Speed ($v$) = Frequency ($f$) $\\times$ Wavelength ($\\lambda$).\n2. Calculation: $v = 200 \\times 2 = 400$ m/s.\nAnswer is 400 m/s.\n",
+      "he": "1. सूत्र: गति ($v$) = आवृत्ति ($f$) $\\times$ तरंगदैर्ध्य ($\\lambda$)।\n2. गणना: $v = 200 \\times 2 = 400$ मीटर/सेकंड।\nउत्तर 400 m/s है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Respiratory System)",
+      "q": "Haemoglobin in the blood is responsible for the transport of:",
+      "hq": "रक्त में हीमोग्लोबिन किसके परिवहन (transport) के लिए जिम्मेदार है?",
+      "o": [
+        "Nutrients",
+        "Oxygen",
+        "Water",
+        "Waste"
+      ],
+      "ho": [
+        "पोषक तत्व",
+        "ऑक्सीजन",
+        "पानी",
+        "अपशिष्ट"
+      ],
+      "a": 1,
+      "e": "**Haemoglobin** binds with oxygen in the lungs and transports it to the tissues of the body as Oxyhaemoglobin.\n",
+      "he": "**हीमोग्लोबिन** फेफड़ों में ऑक्सीजन के साथ जुड़ता है और इसे ऑक्सीहीमोग्लोबिन के रूप में शरीर के ऊतकों तक पहुँचाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Units)",
+      "q": "The S.I. unit of 'Frequency' is:",
+      "hq": "'आवृत्ति' (Frequency) की S.I. इकाई क्या है?",
+      "o": [
+        "Pascal",
+        "Watt",
+        "Joule",
+        "Hertz"
+      ],
+      "ho": [
+        "पास्कल",
+        "वाट",
+        "जूल",
+        "हर्ट्ज़ (Hertz)"
+      ],
+      "a": 3,
+      "e": "The S.I. unit of frequency is **Hertz (Hz)**. (Pascal is for Pressure, Watt for Power, Joule for Energy).",
+      "he": "आवृत्ति की S.I. इकाई **हर्ट्ज़ (Hz)** है। (पास्कल दबाव के लिए, वाट शक्ति के लिए, जूल ऊर्जा के लिए है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Alloys)",
+      "q": "'Brass' is an alloy of which two metals?",
+      "hq": "'पीतल' (Brass) किन दो धातुओं का मिश्र धातु है?",
+      "o": [
+        "Copper and Tin",
+        "Copper and Zinc",
+        "Copper and Nickel",
+        "Copper and Aluminum"
+      ],
+      "ho": [
+        "तांबा और टिन",
+        "तांबा और जस्ता (Zinc)",
+        "तांबा और निकेल",
+        "तांबा और एल्युमिनियम"
+      ],
+      "a": 1,
+      "e": "Brass is an alloy consisting of **Copper and Zinc**. (Bronze is Copper and Tin).\n",
+      "he": "पीतल **तांबा और जस्ता** से बना एक मिश्र धातु है। (कांसा/Bronze तांबा और टिन का मिश्रण है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Light)",
+      "q": "The blue colour of the clear sky is due to:",
+      "hq": "साफ आकाश का नीला रंग किसके कारण होता है?",
+      "o": [
+        "Reflection of light",
+        "Refraction of light",
+        "Dispersion of light",
+        "Scattering of light"
+      ],
+      "ho": [
+        "प्रकाश का परावर्तन (Reflection)",
+        "प्रकाश का अपवर्तन (Refraction)",
+        "प्रकाश का विक्षेपण (Dispersion)",
+        "प्रकाश का प्रकीर्णन (Scattering)"
+      ],
+      "a": 3,
+      "e": "It is due to the **Scattering of light** by atmospheric particles. Blue light is scattered more than other colors because it has a shorter wavelength.\n",
+      "he": "यह वायुमंडलीय कणों द्वारा **प्रकाश के प्रकीर्णन** (Scattering) के कारण होता है। नीला प्रकाश अन्य रंगों की तुलना में अधिक प्रकीर्णित होता है क्योंकि इसकी तरंगदैर्घ्य (wavelength) कम होती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Light)",
+      "q": "The blue colour of the sky is due to which optical phenomenon?",
+      "hq": "आकाश का नीला रंग किस प्रकाशिक घटना (optical phenomenon) के कारण होता है?",
+      "o": [
+        "Reflection",
+        "Refraction",
+        "Dispersion",
+        "Scattering"
+      ],
+      "ho": [
+        "परावर्तन (Reflection)",
+        "अपवर्तन (Refraction)",
+        "विक्षेपण (Dispersion)",
+        "प्रकीर्णन (Scattering)"
+      ],
+      "a": 3,
+      "e": "The **Scattering of light** (Rayleigh scattering) by atmospheric particles causes shorter wavelengths (blue) to scatter more than longer wavelengths (red), making the sky appear blue.",
+      "he": "वायुमंडलीय कणों द्वारा **प्रकाश का प्रकीर्णन** (रेले प्रकीर्णन) छोटी तरंगदैर्ध्य (नीले) को लंबी तरंगदैर्ध्य (लाल) की तुलना में अधिक फैलाता है, जिससे आकाश नीला दिखाई देता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Force and Acceleration)",
+      "q": "What force would be needed to produce an acceleration of 4 m/s² in a ball of mass 6 kg?",
+      "hq": "6 किग्रा द्रव्यमान की गेंद में 4 मीटर/सेकंड² का त्वरण (acceleration) उत्पन्न करने के लिए कितने बल (force) की आवश्यकता होगी?",
+      "o": [
+        "24 N",
+        "10 N",
+        "1.5 N",
+        "20 N"
+      ],
+      "a": 0,
+      "e": "1. Formula: Newton's Second Law $F = m \\times a$.\n2. Given: Mass ($m$) = 6 kg, Acceleration ($a$) = 4 m/s².\n3. Calculation:\n$F = 6 \\times 4 = 24$ Newtons.\nAnswer is 24 N.\n",
+      "he": "1. सूत्र: न्यूटन का दूसरा नियम $F = m \\times a$।\n2. दिया गया है: द्रव्यमान ($m$) = 6 किग्रा, त्वरण ($a$) = 4 मीटर/सेकंड²।\n3. गणना:\n$F = 6 \\times 4 = 24$ न्यूटन।\nउत्तर 24 N है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Diseases)",
+      "q": "Malaria is a disease caused by which of the following pathogens?",
+      "hq": "मलेरिया निम्नलिखित में से किस रोगजनक (pathogen) के कारण होने वाली बीमारी है?",
+      "o": [
+        "Virus",
+        "Bacteria",
+        "Protozoa",
+        "Fungus"
+      ],
+      "ho": [
+        "वायरस",
+        "बैक्टीरिया",
+        "प्रोटोजोआ",
+        "कवक (Fungus)"
+      ],
+      "a": 2,
+      "e": "Malaria is caused by a **Protozoa** (Plasmodium) and is transmitted by the bite of an infected female Anopheles mosquito.\n",
+      "he": "मलेरिया एक **प्रोटोजोआ** (प्लाज्मोडियम) के कारण होता है और यह संक्रमित मादा एनाफिलीज मच्छर के काटने से फैलता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Blood)",
+      "q": "Which blood group is known as the 'Universal Donor'?",
+      "hq": "किस रक्त समूह को 'यूनिवर्सल डोनर' (सर्वदाता) कहा जाता है?",
+      "o": [
+        "Group A",
+        "Group B",
+        "Group AB",
+        "Group O-"
+      ],
+      "ho": [
+        "समूह A",
+        "समूह B",
+        "समूह AB",
+        "समूह O-"
+      ],
+      "a": 3,
+      "e": "Blood Group O- (O Negative) is the Universal Donor because it lacks A, B, and Rh antigens.\n",
+      "he": "रक्त समूह O- (O नेगेटिव) यूनिवर्सल डोनर है क्योंकि इसमें A, B और Rh एंटीजन की कमी होती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Metals)",
+      "q": "Which metal is liquid at room temperature?",
+      "hq": "कौन सी धातु कमरे के तापमान पर तरल (liquid) होती है?",
+      "o": [
+        "Iron",
+        "Aluminum",
+        "Mercury",
+        "Silver"
+      ],
+      "ho": [
+        "लोहा",
+        "एल्युमिनियम",
+        "पारा (Mercury)",
+        "चांदी"
+      ],
+      "a": 2,
+      "e": "Mercury (Hg) is the only metal that remains in a liquid state at room temperature.\n",
+      "he": "पारा (Hg) एकमात्र ऐसी धातु है जो कमरे के तापमान पर तरल अवस्था में रहती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Acids)",
+      "q": "Which acid is naturally secreted in the human stomach to aid digestion?",
+      "hq": "पाचन में सहायता के लिए मानव आमाशय (stomach) में प्राकृतिक रूप से कौन सा अम्ल स्रावित होता है?",
+      "o": [
+        "Sulphuric Acid",
+        "Hydrochloric Acid",
+        "Nitric Acid",
+        "Acetic Acid"
+      ],
+      "ho": [
+        "सल्फ्यूरिक अम्ल",
+        "हाइड्रोक्लोरिक अम्ल (HCl)",
+        "नाइट्रिक अम्ल",
+        "एसिटिक अम्ल"
+      ],
+      "a": 1,
+      "e": "The stomach secretes **Hydrochloric Acid (HCl)**, which helps break down food and kills bacteria.\n",
+      "he": "आमाशय **हाइड्रोक्लोरिक अम्ल (HCl)** स्रावित करता है, जो भोजन को तोड़ने में मदद करता है और बैक्टीरिया को मारता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Energy)",
+      "q": "An object of mass 10 kg is raised to a height of 5 meters above the ground. What is its Potential Energy? (Take $g = 9.8$ m/s²)",
+      "hq": "10 किग्रा द्रव्यमान की एक वस्तु को जमीन से 5 मीटर की ऊँचाई तक उठाया जाता है। इसकी स्थितिज ऊर्जा (Potential Energy) क्या है? (g = 9.8 मीटर/सेकंड² लें)",
+      "o": [
+        "490 J",
+        "50 J",
+        "98 J",
+        "49 J"
+      ],
+      "a": 0,
+      "e": "1. Formula: Potential Energy ($PE$) = $mgh$.\n2. Given: $m = 10$ kg, $g = 9.8$ m/s², $h = 5$ m.\n3. Calculation: $PE = 10 \\times 9.8 \\times 5 = 98 \\times 5 = 490$ Joules.\nAnswer is 490 J.\n",
+      "he": "1. सूत्र: स्थितिज ऊर्जा ($PE$) = $mgh$।\n2. दिया गया है: $m = 10$ किग्रा, $g = 9.8$ मीटर/सेकंड², $h = 5$ मीटर।\n3. गणना: $PE = 10 \\times 9.8 \\times 5 = 98 \\times 5 = 490$ जूल।\nउत्तर 490 J है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Electricity)",
+      "q": "Two resistors of $6 \\Omega$ and $3 \\Omega$ are connected in parallel. What is the equivalent resistance of the circuit?",
+      "hq": "$6 \\Omega$ और $3 \\Omega$ के दो प्रतिरोधक (resistors) समानांतर (parallel) क्रम में जुड़े हुए हैं। सर्किट का समतुल्य प्रतिरोध (equivalent resistance) क्या है?",
+      "o": [
+        "$9 \\Omega$",
+        "$2 \\Omega$",
+        "$4.5 \\Omega$",
+        "$18 \\Omega$"
+      ],
+      "a": 1,
+      "e": "1. Formula for parallel connection: $\\frac{1}{R_{eq}} = \\frac{1}{R_1} + \\frac{1}{R_2}$.\n2. Substitute values: $\\frac{1}{R_{eq}} = \\frac{1}{6} + \\frac{1}{3}$.\n$\\frac{1}{R_{eq}} = \\frac{1 + 2}{6} = \\frac{3}{6} = \\frac{1}{2}$.\n3. $R_{eq} = 2 \\Omega$.\nAnswer is $2 \\Omega$.\n\n[Image of resistors in parallel circuit diagram]\n\n",
+      "he": "1. समानांतर जुड़ाव के लिए सूत्र: $\\frac{1}{R_{eq}} = \\frac{1}{R_1} + \\frac{1}{R_2}$।\n2. मान रखने पर: $\\frac{1}{R_{eq}} = \\frac{1}{6} + \\frac{1}{3}$।\n$\\frac{1}{R_{eq}} = \\frac{1 + 2}{6} = \\frac{3}{6} = \\frac{1}{2}$।\n3. $R_{eq} = 2 \\Omega$।\nउत्तर $2 \\Omega$ है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Sound)",
+      "q": "What is the audible range of sound frequencies for a normal human ear?",
+      "hq": "एक सामान्य मानव कान के लिए ध्वनि आवृत्तियों की श्रव्य सीमा (audible range) क्या है?",
+      "o": [
+        "20 Hz to 20,000 Hz",
+        "10 Hz to 10,000 Hz",
+        "50 Hz to 50,000 Hz",
+        "100 Hz to 100,000 Hz"
+      ],
+      "ho": [
+        "20 Hz से 20,000 Hz",
+        "10 Hz से 10,000 Hz",
+        "50 Hz से 50,000 Hz",
+        "100 Hz से 100,000 Hz"
+      ],
+      "a": 0,
+      "e": "The audible range for humans is from **20 Hz to 20,000 Hz** (20 kHz). Sounds below 20 Hz are Infrasonic; above 20 kHz are Ultrasonic.\n",
+      "he": "मनुष्यों के लिए श्रव्य सीमा **20 Hz से 20,000 Hz** (20 kHz) तक है। 20 Hz से कम की ध्वनियाँ इंफ्रासोनिक हैं; 20 kHz से ऊपर की अल्ट्रासोनिक हैं।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Compounds)",
+      "q": "'Washing Soda' is the common name for:",
+      "hq": "'धोने का सोडा' (Washing Soda) किसका सामान्य नाम है?",
+      "o": [
+        "Sodium Carbonate",
+        "Calcium Carbonate",
+        "Sodium Bicarbonate",
+        "Sodium Hydroxide"
+      ],
+      "ho": [
+        "सोडियम कार्बोनेट",
+        "कैल्शियम कार्बोनेट",
+        "सोडियम बाइकार्बोनेट",
+        "सोडियम हाइड्रोक्साइड"
+      ],
+      "a": 0,
+      "e": "Washing Soda is **Sodium Carbonate** ($Na_2CO_3 \\cdot 10H_2O$). (Baking soda is Sodium Bicarbonate).\n",
+      "he": "धोने का सोडा **सोडियम कार्बोनेट** ($Na_2CO_3 \\cdot 10H_2O$) है। (बेकिंग सोडा सोडियम बाइकार्बोनेट है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Sound)",
+      "q": "Sound waves cannot travel through:",
+      "hq": "ध्वनि तरंगें (Sound waves) किसमें से यात्रा नहीं कर सकतीं?",
+      "o": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Vacuum"
+      ],
+      "ho": [
+        "ठोस (Solid)",
+        "तरल (Liquid)",
+        "गैस (Gas)",
+        "निर्वात (Vacuum)"
+      ],
+      "a": 3,
+      "e": "Sound is a mechanical wave that requires a medium (solid, liquid, or gas) to propagate. It cannot travel through a vacuum.\n",
+      "he": "ध्वनि एक यांत्रिक तरंग (mechanical wave) है जिसे संचरण के लिए माध्यम (ठोस, तरल या गैस) की आवश्यकता होती है। यह निर्वात (Vacuum) से यात्रा नहीं कर सकती।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Work and Gravity)",
+      "q": "Calculate the work done in lifting a mass of 20 kg to a height of 2 meters against gravity. (Take $g = 10$ m/s²).",
+      "hq": "20 किग्रा के द्रव्यमान को गुरुत्वाकर्षण के विरुद्ध 2 मीटर की ऊँचाई तक उठाने में किए गए कार्य की गणना करें। ($g = 10$ मीटर/सेकंड² लें)।",
+      "o": [
+        "40 J",
+        "200 J",
+        "400 J",
+        "100 J"
+      ],
+      "a": 2,
+      "e": "1. Formula: Work done against gravity = Potential Energy = $mgh$.\n2. Given: $m = 20$ kg, $g = 10$ m/s², $h = 2$ m.\n3. Calculation: $W = 20 \\times 10 \\times 2 = 400$ Joules.\nAnswer is 400 J.\n",
+      "he": "1. सूत्र: गुरुत्वाकर्षण के विरुद्ध किया गया कार्य = स्थितिज ऊर्जा = $mgh$।\n2. दिया गया है: $m = 20$ किग्रा, $g = 10$ मीटर/सेकंड², $h = 2$ मीटर।\n3. गणना: $W = 20 \\times 10 \\times 2 = 400$ जूल।\nउत्तर 400 J है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Optics)",
+      "q": "The radius of curvature of a spherical mirror is 20 cm. What is its focal length?",
+      "hq": "एक गोलाकार दर्पण की वक्रता त्रिज्या 20 सेमी है। इसकी फोकस दूरी क्या है?",
+      "o": [
+        "40 cm",
+        "5 cm",
+        "10 cm",
+        "20 cm"
+      ],
+      "ho": [
+        "40 सेमी",
+        "5 सेमी",
+        "10 सेमी",
+        "20 सेमी"
+      ],
+      "a": 2,
+      "e": "1. Formula: Focal length ($f$) = $\\frac{\\text{Radius of Curvature}(R)}{2}$.\n2. Given: $R = 20$ cm.\n3. Calculation: $f = \\frac{20}{2} = 10$ cm.\nAnswer is 10 cm.\n",
+      "he": "1. सूत्र: फोकस दूरी ($f$) = $\\frac{\\text{वक्रता त्रिज्या}(R)}{2}$।\n2. दिया गया है: $R = 20$ सेमी।\n3. गणना: $f = \\frac{20}{2} = 10$ सेमी।\nउत्तर 10 सेमी है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Metals)",
+      "q": "Which metal remains in a liquid state at room temperature?",
+      "hq": "कौन सी धातु कमरे के तापमान पर तरल अवस्था में रहती है?",
+      "o": [
+        "Sodium",
+        "Mercury",
+        "Calcium",
+        "Bromine"
+      ],
+      "ho": [
+        "सोडियम",
+        "पारा (Mercury)",
+        "कैल्शियम",
+        "ब्रोमीन"
+      ],
+      "a": 1,
+      "e": "**Mercury (Hg)** is the only metal that is liquid at room temperature. (Note: Bromine is a non-metal that is liquid at room temperature).",
+      "he": "**पारा (Hg)** एकमात्र ऐसी धातु है जो कमरे के तापमान पर तरल होती है। (नोट: ब्रोमीन एक अधातु है जो कमरे के तापमान पर तरल होती है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Optics)",
+      "q": "The power of a lens is +2.0 Diopters. What is its focal length?",
+      "hq": "एक लेंस की शक्ति (power) +2.0 डायोप्टर है। इसकी फोकस दूरी क्या है?",
+      "o": [
+        "20 cm",
+        "50 cm",
+        "100 cm",
+        "25 cm"
+      ],
+      "ho": [
+        "20 सेमी",
+        "50 सेमी",
+        "100 सेमी",
+        "25 सेमी"
+      ],
+      "a": 1,
+      "e": "1. Formula: Power ($P$) = $\\frac{1}{f \\text{ (in meters)}}$ or $f = \\frac{100}{P \\text{ (in cm)}}$.\n2. Given: $P = +2.0$ D.\n3. Calculation:\n$f = \\frac{100}{2} = 50$ cm.\nAnswer is 50 cm.\n",
+      "he": "1. सूत्र: शक्ति ($P$) = $\\frac{1}{f \\text{ (मीटर में)}}$ या $f = \\frac{100}{P \\text{ (सेमी में)}}$।\n2. दिया गया है: $P = +2.0$ D।\n3. गणना:\n$f = \\frac{100}{2} = 50$ सेमी।\nउत्तर 50 सेमी है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Vitamins)",
+      "q": "Night blindness is caused by the deficiency of which vitamin?",
+      "hq": "रतौंधी (Night blindness) किस विटामिन की कमी से होती है?",
+      "o": [
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin A",
+        "Vitamin B1"
+      ],
+      "ho": [
+        "विटामिन C",
+        "विटामिन D",
+        "विटामिन A",
+        "विटामिन B1"
+      ],
+      "a": 2,
+      "e": "**Vitamin A** (Retinol) is essential for maintaining the health of the retina. Its deficiency leads to Nyctalopia (Night Blindness). Vitamin C causes Scurvy, D causes Rickets, B1 causes Beri-Beri.\n",
+      "he": "**विटामिन A** (रेटिनोल) रेटिना के स्वास्थ्य को बनाए रखने के लिए आवश्यक है। इसकी कमी से रतौंधी (Nyctalopia) हो जाती है। विटामिन C की कमी से स्कर्वी, D से रिकेट्स और B1 से बेरी-बेरी होता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Power)",
+      "q": "An electric heater draws a current of 5 A from a 220 V source. What is the power consumed by the heater?",
+      "hq": "एक इलेक्ट्रिक हीटर 220 V के स्रोत से 5 A की धारा लेता है। हीटर द्वारा खपत की गई शक्ति (power) क्या है?",
+      "o": [
+        "1100 W",
+        "225 W",
+        "1000 W",
+        "44 W"
+      ],
+      "a": 0,
+      "e": "1. Formula: Power ($P$) = Voltage ($V$) $\\times$ Current ($I$).\n2. Given: $V = 220$ V, $I = 5$ A.\n3. Calculation: $P = 220 \\times 5 = 1100$ Watts.\nAnswer is 1100 W.\n",
+      "he": "1. सूत्र: शक्ति ($P$) = वोल्टेज ($V$) $\\times$ धारा ($I$)।\n2. दिया गया है: $V = 220$ V, $I = 5$ A।\n3. गणना: $P = 220 \\times 5 = 1100$ वाट।\nउत्तर 1100 W है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Anatomy)",
+      "q": "Which organ in the human body is commonly known as the 'Voice Box'?",
+      "hq": "मानव शरीर के किस अंग को आमतौर पर 'वॉयस बॉक्स' (Voice Box) के रूप में जाना जाता है?",
+      "o": [
+        "Pharynx",
+        "Trachea",
+        "Larynx",
+        "Oesophagus"
+      ],
+      "ho": [
+        "ग्रसनी (Pharynx)",
+        "श्वास नली (Trachea)",
+        "स्वरयंत्र (Larynx)",
+        "ग्रासनली (Oesophagus)"
+      ],
+      "a": 2,
+      "e": "The **Larynx** is the voice box involved in breathing, producing sound, and protecting the trachea against food aspiration.\n",
+      "he": "**स्वरयंत्र (Larynx)** वॉयस बॉक्स है जो सांस लेने, ध्वनि उत्पन्न करने और भोजन की आकांक्षा के विरुद्ध श्वास नली की रक्षा करने में शामिल होता है।\n\n\n\n[Image of the human larynx structure]",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Fuel)",
+      "q": "What is the main constituent of Liquefied Petroleum Gas (LPG)?",
+      "hq": "द्रवीकृत पेट्रोलियम गैस (LPG) का मुख्य घटक क्या है?",
+      "o": [
+        "Methane",
+        "Hydrogen",
+        "Butane",
+        "Acetylene"
+      ],
+      "ho": [
+        "मीथेन",
+        "हाइड्रोजन",
+        "ब्यूटेन",
+        "एसिटिलीन"
+      ],
+      "a": 2,
+      "e": "The main constituents of LPG are **Butane** and Propane. In exams, Butane is often cited as the primary component.",
+      "he": "LPG के मुख्य घटक **ब्यूटेन** और प्रोपेन हैं। परीक्षाओं में अक्सर ब्यूटेन को प्राथमिक घटक के रूप में उद्धृत किया जाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Gases)",
+      "q": "Which gas is commonly known as 'Laughing Gas'?",
+      "hq": "किस गैस को आमतौर पर 'लाफिंग गैस' के रूप में जाना जाता है?",
+      "o": [
+        "Nitric Oxide",
+        "Nitrogen Dioxide",
+        "Nitrous Oxide",
+        "Ammonia"
+      ],
+      "ho": [
+        "नाइट्रिक ऑक्साइड",
+        "नाइट्रोजन डाइऑक्साइड",
+        "नाइट्रस ऑक्साइड",
+        "अमोनिया"
+      ],
+      "a": 2,
+      "e": "**Nitrous Oxide ($N_2O$)** is called Laughing Gas because inhaling it produces a euphoric effect. It is also used as an anesthetic.\n",
+      "he": "**नाइट्रस ऑक्साइड ($N_2O$)** को लाफिंग गैस कहा जाता है क्योंकि इसे सूंघने से उत्साहपूर्ण प्रभाव पैदा होता है। इसका उपयोग एनेस्थेटिक के रूप में भी किया जाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Cell Structure)",
+      "q": "The cell wall of a plant cell is primarily made up of which carbohydrate?",
+      "hq": "पादप कोशिका (plant cell) की कोशिका भित्ति मुख्य रूप से किस कार्बोहाइड्रेट से बनी होती है?",
+      "o": [
+        "Glycogen",
+        "Chitin",
+        "Cellulose",
+        "Starch"
+      ],
+      "ho": [
+        "ग्लाइकोजन",
+        "काइटिन (Chitin)",
+        "सेलुलोज",
+        "स्टार्च"
+      ],
+      "a": 2,
+      "e": "**Cellulose** is a complex carbohydrate that provides structural support and protection to plant cells. (Fungal cell walls are made of Chitin).\n",
+      "he": "**सेलुलोज** एक जटिल कार्बोहाइड्रेट है जो पादप कोशिकाओं को संरचनात्मक सहायता और सुरक्षा प्रदान करता है। (कवक की कोशिका भित्ति काइटिन से बनी होती है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Blood)",
+      "q": "Which component of blood is responsible for fighting infections?",
+      "hq": "रक्त का कौन सा घटक संक्रमण से लड़ने के लिए जिम्मेदार है?",
+      "o": [
+        "Red Blood Cells (RBC)",
+        "Platelets",
+        "White Blood Cells (WBC)",
+        "Plasma"
+      ],
+      "ho": [
+        "लाल रक्त कोशिकाएं (RBC)",
+        "प्लेटलेट्स",
+        "सफेद रक्त कोशिकाएं (WBC)",
+        "प्लाज्मा"
+      ],
+      "a": 2,
+      "e": "**White Blood Cells (WBCs)**, also called leukocytes, are part of the body's immune system and help fight infections and foreign diseases. RBCs carry oxygen, and Platelets help in clotting.\n",
+      "he": "**सफेद रक्त कोशिकाएं (WBCs)**, जिन्हें ल्यूकोसाइट्स भी कहा जाता है, शरीर की प्रतिरक्षा प्रणाली का हिस्सा हैं और संक्रमण तथा बाहरी रोगों से लड़ने में मदद करती हैं। RBC ऑक्सीजन ले जाती हैं और प्लेटलेट्स रक्त के थक्के जमने में मदद करती हैं।",
+      "e2": "",
+      "he2": ""
+    }
+  ]
+}

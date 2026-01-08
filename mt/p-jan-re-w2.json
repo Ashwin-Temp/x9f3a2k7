@@ -1,0 +1,602 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Addition)",
+      "q": "37 : 65 :: 51 : ?",
+      "hq": "37 : 65 :: 51 : ?",
+      "o": [
+        "75",
+        "76",
+        "78",
+        "79"
+      ],
+      "a": 3,
+      "e": "Logic: Add 28 to the first number (or +14 horizontally).\n$37 + 28 = 65$.\n$51 + 28 = 79$.\n(Alternate logic from image: 37+14=51; 65+14=79).\n",
+      "he": "तर्क (Logic): पहली संख्या में 28 जोड़ें (या क्षैतिज रूप से +14)।\n$37 + 28 = 65$।\n$51 + 28 = 79$।\n(इमेज से वैकल्पिक तर्क: 37+14=51; 65+14=79)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Direction Test",
+      "q": "Coming out of his house T reached the opposite side of the road. On reaching the other side, T turned left and went straight. If T is in south direction, then from which direction T turns towards South?",
+      "hq": "अपने घर से निकलकर T सड़क के दूसरी ओर पहुँचा। दूसरी ओर पहुँचने पर, T बाईं ओर मुड़ा और सीधा चला। यदि T अब दक्षिण (South) दिशा में है, तो T किस दिशा से दक्षिण की ओर मुड़ा?",
+      "o": [
+        "East",
+        "West",
+        "South",
+        "North"
+      ],
+      "ho": [
+        "पूर्व (East)",
+        "पश्चिम (West)",
+        "दक्षिण (South)",
+        "उत्तर (North)"
+      ],
+      "a": 1,
+      "e": "1. T turns Left and ends up moving South.\n2. To end up facing South after a Left turn, T must have been facing **West** before the turn (since Left of West is South).\n3. The question asks \"from which direction T turns\", which refers to the direction he was facing/traveling before the turn.\nTherefore, T turned from the **West** direction.\n",
+      "he": "1. T बाईं ओर मुड़ता है और अंत में दक्षिण की ओर बढ़ता है।\n2. बाईं ओर मुड़ने के बाद दक्षिण की ओर मुख करने के लिए, मुड़ने से पहले T का मुख **पश्चिम** की ओर होना चाहिए (चूंकि पश्चिम का बायां दक्षिण होता है)।\n3. प्रश्न पूछता है कि \"T किस दिशा से मुड़ता है\", जो उस दिशा को संदर्भित करता है जिस ओर वह मुड़ने से पहले मुख किए हुए था/यात्रा कर रहा था।\nइसलिए, T **पश्चिम** दिशा से मुड़ा।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Antonyms)",
+      "q": "Select the alternative that shows a similar relationship as the given pair.\nMinimum : Maximum",
+      "hq": "उस विकल्प का चयन करें जो दिए गए युग्म के समान संबंध दर्शाता है।\nन्यूनतम (Minimum) : अधिकतम (Maximum)",
+      "o": [
+        "Worst : Best",
+        "Happy : Gay",
+        "First : Second",
+        "Sad : Angry"
+      ],
+      "ho": [
+        "सबसे खराब (Worst) : सबसे अच्छा (Best)",
+        "खुश (Happy) : समलैंगिक (Gay)",
+        "प्रथम (First) : द्वितीय (Second)",
+        "दुखी (Sad) : क्रोधित (Angry)"
+      ],
+      "a": 0,
+      "e": "The relationship is **Antonyms** (Opposites). 'Minimum' is the opposite of 'Maximum'. Similarly, 'Worst' is the opposite of 'Best'.\n(Note: Happy/Gay are synonyms, First/Second are sequential, Sad/Angry are different emotions).\n",
+      "he": "संबंध **विलोम शब्द** (Antonyms) का है। 'न्यूनतम', 'अधिकतम' का विपरीत है। इसी प्रकार, 'सबसे खराब', 'सबसे अच्छे' का विपरीत है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Parts of Whole)",
+      "q": "Select the related word from the given alternatives:\nWheel : Spokes :: Fan : ?",
+      "hq": "दिए गए विकल्पों में से संबंधित शब्द का चयन करें:\nपहिया : तीलियाँ (Spokes) :: पंखा : ?",
+      "o": [
+        "Round",
+        "Air",
+        "Wings",
+        "Motor"
+      ],
+      "ho": [
+        "गोल",
+        "हवा",
+        "पंख (Wings/Blades)",
+        "मोटर"
+      ],
+      "a": 2,
+      "e": "'Spokes' are the parts that radiate from the center of a Wheel. Similarly, **Wings** (or blades) are the parts that radiate from the center of a Fan.\n",
+      "he": "'तीलियाँ' वे भाग हैं जो पहिये के केंद्र से बाहर की ओर निकलती हैं। इसी प्रकार, **पंख** (Wings या ब्लेड) वे भाग हैं जो पंखे के केंद्र से बाहर की ओर निकलते हैं।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Reverse Alphabet)",
+      "q": "In a certain coded language A means 26 and b means 25. Which among the following represent a countrys name?",
+      "hq": "एक निश्चित कूट भाषा (code language) में A का मतलब 26 और B का मतलब 25 है। इनमें से कौन सा किसी देश के नाम को दर्शाता है?",
+      "o": [
+        "18–19–22–12–18–26",
+        "13–22–11–26–15",
+        "11–26–16–13",
+        "16–26–11–14–26"
+      ],
+      "a": 1,
+      "e": "The coding uses reverse alphabetical order (A=26, B=25 ... Z=1).\nDecoding Option 2 (13–22–11–26–15):\n13 -> N (14th from start is N, reverse is 13)\n22 -> E (5th from start is E, reverse is 22)\n11 -> P (16th from start is P, reverse is 11)\n26 -> A\n15 -> L (12th from start is L, reverse is 15)\nWord: **NEPAL**.\n",
+      "he": "इस कोडिंग में वर्णमाला को उल्टा गिना गया है (जैसे A=26, B=25 ... Z=1)।\nविकल्प 2 (13–22–11–26–15) को डिकोड करते हैं:\n13 -> N (शुरुआत से N 14वां है, तो पीछे से 13वां होगा)\n22 -> E (शुरुआत से E 5वां है, तो पीछे से 22वां होगा)\n11 -> P (शुरुआत से P 16वां है, तो पीछे से 11वां होगा)\n26 -> A\n15 -> L (शुरुआत से L 12वां है, तो पीछे से 15वां होगा)\nशब्द बना: **NEPAL**।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Direction Test",
+      "q": "Aadhya walks 500 m towards North and turns left and walks 250 m. In which direction is she with respect to her initial position?",
+      "hq": "आद्या उत्तर (North) की ओर 500 मीटर चलती है और बाएं मुड़कर 250 मीटर चलती है। वह अपने प्रारंभिक स्थान के संदर्भ में किस दिशा में है?",
+      "o": [
+        "North-East",
+        "South-East",
+        "North-West",
+        "South-West"
+      ],
+      "ho": [
+        "उत्तर-पूर्व (North-East)",
+        "दक्षिण-पूर्व (South-East)",
+        "उत्तर-पश्चिम (North-West)",
+        "दक्षिण-पश्चिम (South-West)"
+      ],
+      "a": 2,
+      "e": "1. Aadhya walks North (500m).\n2. Turns Left (faces West) and walks 250m.\n3. Final position is to the North and West of the starting point.\nTherefore, she is in the **North-West** direction.\n",
+      "he": "1. आद्या उत्तर की ओर चलती है (500 मीटर)।\n2. बाएं मुड़ती है (पश्चिम की ओर मुख) और 250 मीटर चलती है।\n3. उसकी अंतिम स्थिति शुरुआती बिंदु के उत्तर और पश्चिम में है।\nइसलिए, वह **उत्तर-पश्चिम** दिशा में है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Direction Test",
+      "q": "A person starts from point 'O' and travels 20 km East to reach point A, then he turns to the right and travels 10 km to reach point B then he turns to right and travels 9 km to reach point C. He then turns to the right and travels 5 km to reach point D and then he turns to the left and travels 12 km to reach point E, and finally he turns to the right and travel 6 km to reach point F. In which direction is that person at point E?",
+      "hq": "एक व्यक्ति बिंदु 'O' से शुरू करता है और बिंदु A तक पहुँचने के लिए 20 किमी पूर्व (East) की ओर यात्रा करता है, फिर वह दाईं ओर मुड़ता है और बिंदु B तक पहुँचने के लिए 10 किमी यात्रा करता है, फिर वह दाईं ओर मुड़ता है और बिंदु C तक पहुँचने के लिए 9 किमी यात्रा करता है। फिर वह दाईं ओर मुड़ता है और बिंदु D तक पहुँचने के लिए 5 किमी यात्रा करता है और फिर वह बाईं ओर मुड़ता है और बिंदु E तक पहुँचने के लिए 12 किमी यात्रा करता है, और अंत में वह दाईं ओर मुड़ता है और बिंदु F तक पहुँचने के लिए 6 किमी की यात्रा करता है। बिंदु E पर वह व्यक्ति किस दिशा में है?",
+      "o": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "ho": [
+        "उत्तर (North)",
+        "दक्षिण (South)",
+        "पूर्व (East)",
+        "पश्चिम (West)"
+      ],
+      "a": 3,
+      "e": "Trace the path:\n1. O to A: East.\n2. Turn Right (from East) -> South (towards B).\n3. Turn Right (from South) -> West (towards C).\n4. Turn Right (from West) -> North (towards D).\n5. Turn Left (from North) -> **West** (towards E).\nAt point E, just before the next turn, the person is moving/facing West.\n",
+      "he": "पथ का अनुसरण करें:\n1. O से A: पूर्व।\n2. दायां मोड़ (पूर्व से) -> दक्षिण (B की ओर)।\n3. दायां मोड़ (दक्षिण से) -> पश्चिम (C की ओर)।\n4. दायां मोड़ (पश्चिम से) -> उत्तर (D की ओर)।\n5. बायां मोड़ (उत्तर से) -> **पश्चिम** (E की ओर)।\nबिंदु E पर, अगले मोड़ से ठीक पहले, व्यक्ति पश्चिम की ओर बढ़ रहा है/मुख किए हुए है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations (Interchange Numbers & Signs)",
+      "q": "In the following equation, if the mathematical operators '+' and '÷' and numbers '2' and '4' are interchanged then which equation is correct?",
+      "hq": "निम्नलिखित समीकरण में, यदि गणितीय संकारकों (operators) '+' और '÷' तथा संख्याओं '2' और '4' को आपस में बदल दिया जाए, तो कौन सा समीकरण सही है?",
+      "o": [
+        "4 ÷ 2 + 3 = 6",
+        "2 + 4 ÷ 3 = 3",
+        "4 + 2 + 6 = 1.5",
+        "2 + 4 ÷ 6 = 8"
+      ],
+      "a": 3,
+      "e": "Apply changes to Option 4 ($2 + 4 \\div 6 = 8$):\nInterchange '+' and '÷', and '2' and '4'.\nNew Equation: $4 \\div 2 + 6 = 8$\n$2 + 6 = 8$.\n$8 = 8$. Correct.\n",
+      "he": "विकल्प 4 ($2 + 4 \\div 6 = 8$) पर परिवर्तन लागू करें:\n'+' और '÷' को, तथा '2' और '4' को आपस में बदलें।\nनया समीकरण: $4 \\div 2 + 6 = 8$\n$2 + 6 = 8$।\n$8 = 8$। यह सही है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Multiplication)",
+      "q": "Find the missing pair from the given option.\n8 : 96 :: 7 : ?",
+      "hq": "दिए गए विकल्प में से लुप्त युग्म ज्ञात कीजिए।\n8 : 96 :: 7 : ?",
+      "o": [
+        "56",
+        "63",
+        "72",
+        "84"
+      ],
+      "a": 3,
+      "e": "Logic: Number × 12.\n8 × 12 = 96.\nSimilarly, 7 × 12 = **84**.\n",
+      "he": "तर्क (Logic): संख्या × 12।\n8 × 12 = 96।\nइसी प्रकार, 7 × 12 = **84**।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Units)",
+      "q": "Work : Joule :: Power : ?",
+      "hq": "कार्य : जूल :: शक्ति : ?",
+      "o": [
+        "Ohm",
+        "Volt",
+        "Watt",
+        "Power"
+      ],
+      "ho": [
+        "ओम",
+        "वोल्ट",
+        "वाट",
+        "शक्ति"
+      ],
+      "a": 2,
+      "e": "The S.I. unit of Work is Joule. Similarly, the S.I. unit of Power is **Watt**.\n",
+      "he": "कार्य की S.I. इकाई जूल है। इसी प्रकार, शक्ति की S.I. इकाई **वाट** है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Number Series (Alternating Subtraction/Addition)",
+      "q": "Look at this series: 30, 29, 31, 30, 32, 31, ... What number should come next?",
+      "hq": "इस श्रृंखला को देखें: 30, 29, 31, 30, 32, 31, ... अगली संख्या क्या होनी चाहिए?",
+      "o": [
+        "33",
+        "30",
+        "32",
+        "34"
+      ],
+      "a": 0,
+      "e": "In this simple alternating subtraction and addition series; 1 is subtracted, then 2 is added.\n30 - 1 = 29\n29 + 2 = 31\n31 - 1 = 30\n30 + 2 = 32\n32 - 1 = 31\n31 + 2 = 33.\n",
+      "he": "इस साधारण वैकल्पिक घटाव और जोड़ श्रृंखला में; पहले 1 घटाया जाता है, फिर 2 जोड़ा जाता है।\n30 - 1 = 29\n29 + 2 = 31\n31 - 1 = 30\n30 + 2 = 32\n32 - 1 = 31\n31 + 2 = 33।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Direction Test",
+      "q": "Raj walks 10 meter from his home towards North, turns left and walks 25 meter, then turn left walks 40 meter, then turns right and walks 5 meter to reach the school. In which direction is school from his home?",
+      "hq": "राज अपने घर से उत्तर की ओर 10 मीटर चलता है, बाएं मुड़ता है और 25 मीटर चलता है, फिर बाएं मुड़कर 40 मीटर चलता है, फिर दाएं मुड़ता है और स्कूल पहुँचने के लिए 5 मीटर चलता है। स्कूल उसके घर से किस दिशा में है?",
+      "o": [
+        "North-West",
+        "South-West",
+        "North-East",
+        "South-East"
+      ],
+      "ho": [
+        "उत्तर-पश्चिम",
+        "दक्षिण-पश्चिम",
+        "उत्तर-पूर्व",
+        "दक्षिण-पूर्व"
+      ],
+      "a": 1,
+      "e": "1. Start: 10m North.\n2. Turn Left (West): 25m.\n3. Turn Left (South): 40m. (Net South = 40 - 10 = 30m).\n4. Turn Right (West): 5m. (Net West = 25 + 5 = 30m).\nFinal Position is South and West of the home.\nDirection: **South-West**.\n",
+      "he": "1. शुरुआत: 10 मीटर उत्तर।\n2. बाएं मुड़ें (पश्चिम): 25 मीटर।\n3. बाएं मुड़ें (दक्षिण): 40 मीटर। (कुल दक्षिण = 40 - 10 = 30 मीटर)।\n4. दाएं मुड़ें (पश्चिम): 5 मीटर। (कुल पश्चिम = 25 + 5 = 30 मीटर)।\nअंतिम स्थिति घर के दक्षिण और पश्चिम में है।\nदिशा: **दक्षिण-पश्चिम**।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Syllogism",
+      "q": "Statement:\nSome pins are metals.\nSome clips are metals.\nConclusions:\n1. Some metals are pin.\n2. Some pins are clip.",
+      "hq": "कथन:\nकुछ पिन धातु हैं।\nकुछ क्लिप धातु हैं।\nनिष्कर्ष:\n1. कुछ धातु पिन हैं।\n2. कुछ पिन क्लिप हैं।",
+      "o": [
+        "Both conclusions follows",
+        "Only conclusion 1 follows",
+        "Only conclusion 2 follows",
+        "Neither of the conclusion follows"
+      ],
+      "ho": [
+        "दोनों निष्कर्ष अनुसरण करते हैं",
+        "केवल निष्कर्ष 1 अनुसरण करता है",
+        "केवल निष्कर्ष 2 अनुसरण करता है",
+        "न तो निष्कर्ष अनुसरण करता है"
+      ],
+      "a": 1,
+      "e": "Draw a Venn diagram:\n1. 'Pin' intersects 'Metal'.\n2. 'Clip' intersects 'Metal'.\nConclusion 1: \"Some metals are pin\" is True (Converse of \"Some pins are metals\").\nConclusion 2: \"Some pins are clip\" is False. We do not know the relationship between 'Pin' and 'Clip'. They might not intersect.\nOnly Conclusion 1 follows.",
+      "he": "एक वेन आरेख बनाएं:\n\n1. 'पिन', 'धातु' को काटता है।\n2. 'क्लिप', 'धातु' को काटता है।\nनिष्कर्ष 1: \"कुछ धातु पिन हैं\" सत्य है (\"कुछ पिन धातु हैं\" का विलोम)।\nनिष्कर्ष 2: \"कुछ पिन क्लिप हैं\" असत्य है। हमें 'पिन' और 'क्लिप' के बीच के संबंध का पता नहीं है। वे शायद एक-दूसरे को न काटते हों।\nकेवल निष्कर्ष 1 अनुसरण करता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Classification (Word Relations)",
+      "q": "Four pairs of words are given, select odd one out.",
+      "hq": "शब्दों के चार युग्म दिए गए हैं, विषम का चयन करें।",
+      "o": [
+        "Angle : Angular",
+        "Poverty : Poor",
+        "Richness : Rich",
+        "Adversity : Prosperity"
+      ],
+      "a": 3,
+      "e": "The first three pairs represent a Noun and its corresponding Adjective (or state and person).\nAngle -> Angular\nPoverty -> Poor\nRichness -> Rich\nThe fourth pair, **Adversity : Prosperity**, represents **Antonyms** (Opposites). Hence, it is different.",
+      "he": "पहले तीन युग्म एक संज्ञा (Noun) और उसके संबंधित विशेषण (Adjective) को दर्शाते हैं।\nAngle (कोण) -> Angular (कोणीय)\nPoverty (गरीबी) -> Poor (गरीब)\nRichness (अमीरी) -> Rich (अमीर)\nचौथा युग्म, **Adversity (विपत्ति) : Prosperity (समृद्धि)**, **विलोम शब्द** (Antonyms) को दर्शाता है। अतः, यह अलग है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Direct Coding)",
+      "q": "In a certain code language 'EXTRANET' is written as 9#416394 and 'TECHNOLOGY' as 492735850#. How will be the word 'TOLERANCE' written in that code language.",
+      "hq": "एक निश्चित कूट भाषा में 'EXTRANET' को 9#416394 और 'TECHNOLOGY' को 492735850# लिखा जाता है। उस कूट भाषा में 'TOLERANCE' शब्द कैसे लिखा जाएगा।",
+      "o": [
+        "458913629",
+        "459813629",
+        "458916329",
+        "549816329"
+      ],
+      "a": 2,
+      "e": "Substitute the code for each letter from the given examples:\nT -> 4\nO -> 5\nL -> 8\nE -> 9\nR -> 1\nA -> 6\nN -> 3\nC -> 2\nE -> 9\nCode: **458916329**.\n",
+      "he": "दिए गए उदाहरणों से प्रत्येक अक्षर के लिए कूट (code) प्रतिस्थापित करें:\nT -> 4\nO -> 5\nL -> 8\nE -> 9\nR -> 1\nA -> 6\nN -> 3\nC -> 2\nE -> 9\nकूट (Code): **458916329**।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "General Knowledge (Sports)",
+      "q": "\"Tee, Par, Flagstick\" are associated with ________.",
+      "hq": "\"टी (Tee), पार (Par), फ्लैगस्टिक (Flagstick)\" किससे संबंधित हैं?",
+      "o": [
+        "Hockey",
+        "Golf",
+        "Cricket",
+        "Tennis"
+      ],
+      "ho": [
+        "हॉकी",
+        "गोल्फ",
+        "क्रिकेट",
+        "टेनिस"
+      ],
+      "a": 1,
+      "e": "The terms Tee, Par, and Flagstick are all terminology used in the sport of **Golf**.\n",
+      "he": "टी, पार और फ्लैगस्टिक शब्द **गोल्फ** के खेल में उपयोग की जाने वाली शब्दावली हैं।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Classification (Natural vs Artificial)",
+      "q": "Which of the following does NOT belong to similar group?",
+      "hq": "निम्नलिखित में से कौन सा एक समान समूह से संबंधित नहीं है?",
+      "o": [
+        "Wet Soil",
+        "Clay soil",
+        "Earth",
+        "Plastic"
+      ],
+      "ho": [
+        "गीली मिट्टी (Wet Soil)",
+        "चिकनी मिट्टी (Clay soil)",
+        "पृथ्वी/मिट्टी (Earth)",
+        "प्लास्टिक (Plastic)"
+      ],
+      "a": 3,
+      "e": "Wet Soil, Clay soil, and Earth are natural forms. **Plastic** is an artificial/man-made material.\n",
+      "he": "गीली मिट्टी, चिकनी मिट्टी और पृथ्वी प्राकृतिक रूप हैं। **प्लास्टिक** एक कृत्रिम/मानव निर्मित सामग्री है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Number Series (Repetition and Subtraction)",
+      "q": "Look at this series: 66, 66, 55, 55, 44, 44, ... What number should come next?",
+      "hq": "इस श्रृंखला को देखें: 66, 66, 55, 55, 44, 44, ... अगली संख्या क्या होनी चाहिए?",
+      "o": [
+        "33",
+        "44",
+        "22",
+        "11"
+      ],
+      "a": 0,
+      "e": "In this series, each number is repeated, then 11 is subtracted to arrive at the next number.\n66 is repeated.\n66 - 11 = 55.\n55 is repeated.\n55 - 11 = 44.\n44 is repeated.\n44 - 11 = 33.",
+      "he": "इस श्रृंखला में, प्रत्येक संख्या को दोहराया जाता है, फिर अगली संख्या तक पहुँचने के लिए 11 घटाया जाता है।\n66 को दोहराया गया है।\n66 - 11 = 55।\n55 को दोहराया गया है।\n55 - 11 = 44।\n44 को दोहराया गया है।\n44 - 11 = 33।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Function)",
+      "q": "Select the related word from the given alternatives:\nTransport : Goods :: Bank : ?",
+      "hq": "दिए गए विकल्पों में से संबंधित शब्द का चयन करें:\nपरिवहन : माल :: बैंक : ?",
+      "o": [
+        "Money",
+        "Rupees",
+        "Pound",
+        "Dollar"
+      ],
+      "ho": [
+        "धन (Money)",
+        "रुपये",
+        "पाउंड",
+        "डॉलर"
+      ],
+      "a": 0,
+      "e": "Transport is used to move/carry 'Goods'. Similarly, a Bank is used to manage/transact **Money**.\n",
+      "he": "'माल' (Goods) को ले जाने/स्थानांतरित करने के लिए परिवहन का उपयोग किया जाता है। इसी प्रकार, **धन** (Money) के प्रबंधन/लेन-देन के लिए बैंक का उपयोग किया जाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Classification (Materials)",
+      "q": "Which of the following does NOT belong to this group?",
+      "hq": "निम्नलिखित में से कौन सा इस समूह से संबंधित नहीं है?",
+      "o": [
+        "Aluminium",
+        "Iron",
+        "Bakelite",
+        "Brass"
+      ],
+      "ho": [
+        "एल्युमीनियम",
+        "लोहा (Iron)",
+        "बेकेलाइट (Bakelite)",
+        "पीतल (Brass)"
+      ],
+      "a": 2,
+      "e": "Aluminium, Iron, and Brass are metals or alloys (conductors of electricity). **Bakelite** is a thermosetting plastic (insulator).\n",
+      "he": "एल्युमीनियम, लोहा और पीतल धातुएं या मिश्र धातुएं हैं (बिजली के सुचालक)। **बेकेलाइट** एक थर्मोसेटिंग प्लास्टिक है (कुचालक)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Arithmetic Operation)",
+      "q": "Select the missing number based on the given related pair of numbers.\n158 : 384 :: 140 : ?",
+      "hq": "संख्याओं के दिए गए संबंधित युग्म के आधार पर लुप्त संख्या का चयन करें।\n158 : 384 :: 140 : ?",
+      "o": [
+        "349",
+        "346",
+        "347",
+        "348"
+      ],
+      "a": 3,
+      "e": "Logic: $(x \\times 2) + 68$.\n$158 \\times 2 = 316 + 68 = 384$.\n$140 \\times 2 = 280 + 68 = 348$.\n",
+      "he": "तर्क (Logic): $(x \\times 2) + 68$।\n$158 \\times 2 = 316 + 68 = 384$।\n$140 \\times 2 = 280 + 68 = 348$।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations (Symbol Substitution)",
+      "q": "If '+' means '-', '÷' means 'x', 'x' means '÷' and '-' means '+' then:\n12 + 16 - 4 x 4 ÷ 2 = ?",
+      "hq": "यदि '+' का अर्थ '-', '÷' का अर्थ 'x', 'x' का अर्थ '÷' और '-' का अर्थ '+' है, तो:\n12 + 16 - 4 x 4 ÷ 2 = ?",
+      "o": [
+        "16",
+        "20",
+        "12",
+        "24"
+      ],
+      "a": 0,
+      "e": "Substitute the signs:\n+ becomes -\n- becomes ÷\nx becomes +\n÷ becomes x\nNew Equation: $12 - 16 \\div 4 + 4 \\times 2$\nStep 1: Div/Mul ($16 \\div 4 = 4$; $4 \\times 2 = 8$)\nStep 2: Add/Sub ($12 - 4 + 8 = 8 + 8 = 16$).\n",
+      "he": "चिन्हों को बदलें:\n+ बन जाता है -\n- बन जाता है ÷\nx बन जाता है +\n÷ बन जाता है x\nनया समीकरण: $12 - 16 \\div 4 + 4 \\times 2$\nचरण 1: भाग/गुणा ($16 \\div 4 = 4$; $4 \\times 2 = 8$)\nचरण 2: जोड़/घटाव ($12 - 4 + 8 = 8 + 8 = 16$)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Jumbled Digit Set)",
+      "q": "IF SMART = 31524, MARBLE = 428376 and EAT = 537, then STABLE = ?",
+      "hq": "यदि SMART = 31524, MARBLE = 428376 और EAT = 537 है, तो STABLE = ?",
+      "o": [
+        "618537",
+        "253979",
+        "453678",
+        "243678"
+      ],
+      "a": 0,
+      "e": "This is a jumbled set coding. Find the digits corresponding to the set of letters in STABLE.\nA is common to all three (SMART, MARBLE, EAT). Digit 3 is common to all three codes. So A = 3.\nT is common to SMART and EAT. Digit 5 is common. So T = 5.\nE is common to MARBLE and EAT. Digit 7 is common. So E = 7.\nRemaining in SMART (S, M, R with digits 1, 2, 4).\nRemaining in MARBLE (M, R, B, L with digits 2, 4, 6, 8).\nM, R are common, so M, R = {2, 4}.\nThen S = 1.\nThen B, L = {6, 8}.\nLetters for STABLE: S(1), T(5), A(3), B(6/8), L(8/6), E(7).\nSet of digits: {1, 5, 3, 6, 8, 7}.\nOption (1) **618537** contains exactly these digits.\n",
+      "he": "यह एक जंबल्ड (आगे-पीछे) कोडिंग है। हमें STABLE के अक्षरों के लिए सही अंक ढूँढने हैं।\n'A' तीनों शब्दों (SMART, MARBLE, EAT) में है और अंक 3 भी तीनों कोड में कॉमन है। तो A = 3।\n'T' SMART और EAT में कॉमन है और अंक 5 भी कॉमन है। तो T = 5।\n'E' MARBLE और EAT में कॉमन है और अंक 7 भी कॉमन है। तो E = 7।\nSMART में बचे हुए अक्षर (S, M, R) और अंक (1, 2, 4) हैं।\nMARBLE में बचे हुए अक्षर (M, R, B, L) और अंक (2, 4, 6, 8) हैं।\nचूँकि M और R दोनों में कॉमन हैं, तो M, R = {2, 4} होगा।\nइसका मतलब S = 1 बचा।\nअब B और L के लिए अंक {6, 8} बचे।\nSTABLE के अक्षरों के अंक हुए: S(1), T(5), A(3), B(6/8), L(8/6), E(7)।\nइन अंकों का समूह है: {1, 5, 3, 6, 8, 7}।\nविकल्प (1) **618537** में बिल्कुल यही अंक मौजूद हैं।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Number Coding)",
+      "q": "In certain language 'Ginger is a root' is coded 4123, 'a tree has a root' is coded as '75422' and 'Tree is green' is coded as '385', which numbers represents 'root'?",
+      "hq": "एक निश्चित भाषा में 'Ginger is a root' का कोड 4123 है, 'a tree has a root' का कोड 75422 है और 'Tree is green' का कोड 385 है। 'root' के लिए कौन सा अंक होगा?",
+      "o": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "a": 0,
+      "e": "In 'a tree has a root', 'a' appears twice. In code '75422', digit 2 appears twice. So 'a' = 2.\n'is' is common to 1 & 3 (4123, 385) -> 'is' = 3.\nIn 'Ginger is a root' (4123): 'is'(3), 'a'(2).\nWe need 'root'. 'root' is also in sentence 2.\nRemaining common digit between 1 (4123) and 2 (75422) excluding 'a'(2) is **4**.\nSo 'root' = **4**.",
+      "he": "'a tree has a root' वाक्य में 'a' दो बार आया है। कोड '75422' में अंक 2 दो बार आया है। तो 'a' = 2।\n'is' शब्द 1 और 3 (4123, 385) में कॉमन है -> तो 'is' = 3।\nअब 'Ginger is a root' (4123) में: 'is'(3) और 'a'(2) हमें पता है।\nहमें 'root' का कोड चाहिए, जो वाक्य 2 में भी है।\nवाक्य 1 (4123) और वाक्य 2 (75422) के बीच 'a'(2) को छोड़कर कॉमन अंक **4** है।\nइसलिए 'root' = **4**।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Sentence Coding)",
+      "q": "If 'summer is hot' is coded as 'de fe ba' and 'come cold summer' as 'ja ha ba' and 'winter is cold' as 'pa ja de' then 'come hot winter' is coded as ——.",
+      "hq": "यदि 'summer is hot' का कोड 'de fe ba', 'come cold summer' का 'ja ha ba' और 'winter is cold' का 'pa ja de' है, तो 'come hot winter' का कोड क्या होगा?",
+      "o": [
+        "de ba ja",
+        "fe ha pa",
+        "ba pa ha",
+        "pa ha fe"
+      ],
+      "a": 3,
+      "e": "'summer' (common 1&2) = 'ba'.\n'is' (common 1&3) = 'de'.\n'cold' (common 2&3) = 'ja'.\nFrom 1: 'hot' = 'fe'.\nFrom 2: 'come' = 'ha'.\nFrom 3: 'winter' = 'pa'.\n'come hot winter' = **ha fe pa** (Order in option d: pa ha fe).\n",
+      "he": "'summer' (1 और 2 में कॉमन) = 'ba'।\n'is' (1 और 3 में कॉमन) = 'de'।\n'cold' (2 और 3 में कॉमन) = 'ja'।\nवाक्य 1 से: 'hot' = 'fe' बचा।\nवाक्य 2 से: 'come' = 'ha' बचा।\nवाक्य 3 से: 'winter' = 'pa' बचा।\nतो 'come hot winter' के लिए कोड होगा: **ha fe pa** (विकल्प d में क्रम pa ha fe है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Number Coding)",
+      "q": "In a certain language code if '324' is written as 'are you alright', '783' is written as 'you come home' and '9271' is written as 'we are at home', which digit represents 'come' ?",
+      "hq": "एक निश्चित कूट भाषा में यदि '324' को 'are you alright', '783' को 'you come home' और '9271' को 'we are at home' लिखा जाता है, तो 'come' के लिए कौन सा अंक होगा?",
+      "o": [
+        "8",
+        "9",
+        "7",
+        "3"
+      ],
+      "a": 0,
+      "e": "Compare 'are you alright' (324) and 'you come home' (783). Common 'you' = 3.\nCompare 'you come home' (783) and 'we are at home' (9271). Common 'home' = 7.\nIn 'you come home' (783): 'you'(3), 'home'(7).\nRemaining 'come' = **8**.\n",
+      "he": "'are you alright' (324) और 'you come home' (783) की तुलना करें, कॉमन 'you' = 3 है।\n'you come home' (783) और 'we are at home' (9271) की तुलना करें, कॉमन 'home' = 7 है।\nअब 'you come home' (783) वाले वाक्य में: 'you' के लिए 3 और 'home' के लिए 7 है।\nतो बचा हुआ अंक **8** 'come' के लिए होगा।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations (Symbol Substitution)",
+      "q": "If '+' means 'x', '-' means '÷', 'x' means '+' and '÷' means '-' then the value of:\n23 + 5 x 14 ÷ 9 = ?",
+      "hq": "यदि '+' का अर्थ 'x', '-' का अर्थ '÷', 'x' का अर्थ '+' और '÷' का अर्थ '-' है, तो इसका मान क्या है:\n23 + 5 x 14 ÷ 9 = ?",
+      "o": [
+        "120",
+        "127",
+        "129",
+        "124"
+      ],
+      "a": 0,
+      "e": "Substitute the signs:\n+ becomes x\nx becomes +\n÷ becomes -\nNew Equation: $23 \\times 5 + 14 - 9$\nStep 1: Multiply ($23 \\times 5 = 115$)\nStep 2: Add/Sub ($115 + 14 - 9 = 129 - 9 = 120$).\n",
+      "he": "चिन्हों को बदलें:\n+ बन जाता है x\nx बन जाता है +\n÷ बन जाता है -\nनया समीकरण: $23 \\times 5 + 14 - 9$\nचरण 1: गुणा ($23 \\times 5 = 115$)\nचरण 2: जोड़/घटाव ($115 + 14 - 9 = 129 - 9 = 120$)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Statement and Assumption",
+      "q": "Statement: Government issued 'Do not travel' advice for travelers travelling to Maldives.\nAssumption:\n1. Travel to Maldives will be dangerous.\n2. Government relations with Maldives are tensed.",
+      "hq": "कथन: सरकार ने मालदीव की यात्रा करने वाले यात्रियों के लिए 'यात्रा न करें' (Do not travel) की सलाह जारी की।\nपूर्वधारणा:\n1. मालदीव की यात्रा खतरनाक होगी।\n2. मालदीव के साथ सरकार के संबंध तनावपूर्ण हैं।",
+      "o": [
+        "Only assumption I is implicit",
+        "Both I and II are implicit",
+        "Either I or II is implicit",
+        "Only assumption II is implicit"
+      ],
+      "ho": [
+        "केवल पूर्वधारणा I अंतर्निहित है",
+        "I और II दोनों अंतर्निहित हैं",
+        "या तो I या II अंतर्निहित है",
+        "केवल पूर्वधारणा II अंतर्निहित है"
+      ],
+      "a": 0,
+      "e": "A 'Do not travel' advisory is typically issued when there is a risk or danger to safety. Thus, Assumption 1 is implicit. Assumption 2 (tensed relations) is a specific reason that *might* be true but isn't the only possible reason (could be natural disaster, pandemic, etc.), so it is not definitely implicit.\n",
+      "he": "'यात्रा न करें' की एडवाइजरी आमतौर पर तब जारी की जाती है जब सुरक्षा के लिए कोई जोखिम या खतरा हो। अतः, पूर्वधारणा 1 अंतर्निहित है। पूर्वधारणा 2 (तनावपूर्ण संबंध) एक विशिष्ट कारण है जो सही *हो सकता है* लेकिन यह एकमात्र कारण नहीं है (प्राकृतिक आपदा या महामारी भी कारण हो सकती है), इसलिए यह निश्चित रूप से अंतर्निहित नहीं है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Statement and Assumption",
+      "q": "Statement: As part of project work, class V science teacher asked the students to visit the zoo this month.\nAssumption:\nI. The teacher wants children to learn about animals.\nII. The teacher wants the children to see live animals.",
+      "hq": "कथन: प्रोजेक्ट कार्य के हिस्से के रूप में, कक्षा V के विज्ञान शिक्षक ने छात्रों को इस महीने चिड़ियाघर (zoo) जाने के लिए कहा।\nपूर्वधारणा:\nI. शिक्षक चाहते हैं कि बच्चे जानवरों के बारे में सीखें।\nII. शिक्षक चाहते हैं कि बच्चे जीवित जानवरों को देखें।",
+      "o": [
+        "Both assumption I and II are implicit",
+        "Only assumption I is implicit",
+        "Both assumptions I and II are not implicit",
+        "Only assumption II is implicit"
+      ],
+      "ho": [
+        "पूर्वधारणा I और II दोनों अंतर्निहित हैं",
+        "केवल पूर्वधारणा I अंतर्निहित है",
+        "पूर्वधारणा I और II दोनों अंतर्निहित नहीं हैं",
+        "केवल पूर्वधारणा II अंतर्निहित है"
+      ],
+      "a": 0,
+      "e": "Visiting a zoo is primarily for seeing live animals (Assumption II) and learning about them (Assumption I). Since this is assigned as \"project work\" by a \"science teacher\", the educational intent (learning) is definitely implicit.",
+      "he": "चिड़ियाघर जाना मुख्य रूप से जीवित जानवरों को देखने (पूर्वधारणा II) और उनके बारे में सीखने (पूर्वधारणा I) के लिए होता है। चूँकि यह \"विज्ञान शिक्षक\" द्वारा \"प्रोजेक्ट कार्य\" के रूप में दिया गया है, इसलिए शैक्षिक उद्देश्य (सीखना) निश्चित रूप से अंतर्निहित है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Jumbled Words (Publications)",
+      "q": "Rearrange the cluttered letters to form a meaningful word and find the odd one out.",
+      "hq": "अव्यवस्थित अक्षरों को पुनर्व्यवस्थित करके एक सार्थक शब्द बनाएं और विषम शब्द ज्ञात करें।",
+      "o": [
+        "OLENV",
+        "EISTSH",
+        "AGZEANIM",
+        "TCAYRIDION"
+      ],
+      "a": 1,
+      "e": "Rearranging the letters:\nOLENV -> NOVEL\nEISTSH -> THESIS\nAGZEANIM -> MAGAZINE\nTCAYRIDION -> DICTIONARY\nNovel, Magazine, and Dictionary are typically published reading materials available to the general public. A **Thesis** is an academic research paper submitted for a degree.\n",
+      "he": "अक्षरों को पुनर्व्यवस्थित करने पर:\nOLENV -> NOVEL (उपन्यास)\nEISTSH -> THESIS (शोध-प्रबंध)\nAGZEANIM -> MAGAZINE (पत्रिका)\nTCAYRIDION -> DICTIONARY (शब्दकोश)\nउपन्यास, पत्रिका और शब्दकोश आमतौर पर आम जनता के लिए उपलब्ध प्रकाशित पठन सामग्री हैं। **शोध-प्रबंध (Thesis)** एक शैक्षणिक शोध पत्र है जो डिग्री के लिए जमा किया जाता है।",
+      "e2": "",
+      "he2": ""
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "",
+      "t": "",
+      "q": "Who founded the 'Arya Samaj'?",
+      "hq": "'आर्य समाज' की स्थापना किसने की थी?",
+      "o": [
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy",
+        "Swami Dayanand Saraswati",
+        "Ishwar Chandra Vidyasagar"
+      ],
+      "ho": [
+        "स्वामी विवेकानंद",
+        "राजा राम मोहन राय",
+        "स्वामी दयानंद सरस्वती",
+        "ईश्वर चंद्र विद्यासागर"
+      ],
+      "a": 2
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "Which is the longest river in the world?",
+      "hq": "विश्व की सबसे लंबी नदी कौन सी है?",
+      "o": [
+        "Amazon",
+        "Yangtze",
+        "Nile",
+        "Mississippi"
+      ],
+      "ho": [
+        "अमेज़न (Amazon)",
+        "यांग्त्ज़ी (Yangtze)",
+        "नील (Nile)",
+        "मिसिसिपी (Mississippi)"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Ancient Texts)",
+      "q": "Who was the author of the book 'Indica'?",
+      "hq": "'इंडिका' (Indica) पुस्तक के लेखक कौन थे?",
+      "o": [
+        "Kautilya",
+        "Megasthenes",
+        "Fa-Hien",
+        "Seleucus Nicator"
+      ],
+      "ho": [
+        "कौटिल्य",
+        "मेगास्थनीज",
+        "फाह्यान",
+        "सेल्यूकस निकेटर"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Articles)",
+      "q": "Which Article of the Constitution defines a 'Money Bill'?",
+      "hq": "संविधान का कौन सा अनुच्छेद 'धन विधेयक' (Money Bill) को परिभाषित करता है?",
+      "o": [
+        "Article 110",
+        "Article 112",
+        "Article 280",
+        "Article 360"
+      ],
+      "ho": [
+        "अनुच्छेद 110",
+        "अनुच्छेद 112",
+        "अनुच्छेद 280",
+        "अनुच्छेद 360"
+      ],
+      "a": 0
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Continents)",
+      "q": "Which continent is known as the 'Dark Continent'?",
+      "hq": "किस महाद्वीप को 'अंध महाद्वीप' (Dark Continent) के रूप में जाना जाता है?",
+      "o": [
+        "Asia",
+        "South America",
+        "Africa",
+        "Australia"
+      ],
+      "ho": [
+        "एशिया",
+        "दक्षिण अमेरिका",
+        "अफ्रीका",
+        "ऑस्ट्रेलिया"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Modern)",
+      "q": "The Partition of Bengal was announced by Lord Curzon in which year?",
+      "hq": "लॉर्ड कर्जन द्वारा बंगाल के विभाजन की घोषणा किस वर्ष की गई थी?",
+      "o": [
+        "1905",
+        "1906",
+        "1911",
+        "1919"
+      ],
+      "a": 0
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Solar System)",
+      "q": "Which is the largest planet in our Solar System?",
+      "hq": "हमारे सौरमंडल का सबसे बड़ा ग्रह कौन सा है?",
+      "o": [
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Earth"
+      ],
+      "ho": [
+        "शनि",
+        "बृहस्पति",
+        "अरुण (यूरेनस)",
+        "पृथ्वी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Days)",
+      "q": "National Science Day is observed in India every year on which date?",
+      "hq": "भारत में हर साल राष्ट्रीय विज्ञान दिवस (National Science Day) किस तारीख को मनाया जाता है?",
+      "o": [
+        "January 26",
+        "February 28",
+        "March 8",
+        "April 22"
+      ],
+      "ho": [
+        "26 जनवरी",
+        "28 फरवरी",
+        "8 मार्च",
+        "22 अप्रैल"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Economy (Institutions)",
+      "q": "Which body replaced the Planning Commission of India in 2015?",
+      "hq": "2015 में भारत के योजना आयोग (Planning Commission) के स्थान पर कौन सा निकाय आया?",
+      "o": [
+        "Finance Commission",
+        "NITI Aayog",
+        "National Development Council",
+        "GST Council"
+      ],
+      "ho": [
+        "वित्त आयोग",
+        "नीति (NITI) आयोग",
+        "राष्ट्रीय विकास परिषद",
+        "जीएसटी (GST) परिषद"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Books and Authors",
+      "q": "For which book did Rabindranath Tagore win the Nobel Prize in Literature?",
+      "hq": "रवींद्रनाथ टैगोर ने किस पुस्तक के लिए साहित्य का नोबेल पुरस्कार जीता था?",
+      "o": [
+        "Gora",
+        "Gitanjali",
+        "The Post Office",
+        "Kabuliwala"
+      ],
+      "ho": [
+        "गोरा",
+        "गीतांजलि",
+        "द पोस्ट ऑफिस",
+        "काबुलीवाला"
+      ],
+      "a": 1
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "When is 'International Yoga Day' celebrated every year?",
+      "hq": "हर साल 'अंतरराष्ट्रीय योग दिवस' कब मनाया जाता है?",
+      "o": [
+        "June 5",
+        "June 21",
+        "July 11",
+        "August 15"
+      ],
+      "ho": [
+        "5 जून",
+        "21 जून",
+        "11 जुलाई",
+        "15 अगस्त"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Medieval)",
+      "q": "Who wrote 'Ain-i-Akbari', a detailed document recording the administration of Emperor Akbar?",
+      "hq": "सम्राट अकबर के प्रशासन को रिकॉर्ड करने वाला विस्तृत दस्तावेज 'आइन-ए-अकबरी' किसने लिखा था?",
+      "o": [
+        "Birbal",
+        "Abul Fazl",
+        "Todar Mal",
+        "Badauni"
+      ],
+      "ho": [
+        "बीरबल",
+        "अबुल फजल",
+        "टोडर मल",
+        "बदायुनी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Mughal Empire)",
+      "q": "Who commissioned the construction of the Red Fort in Delhi?",
+      "hq": "दिल्ली में लाल किले के निर्माण का आदेश किसने दिया था?",
+      "o": [
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "ho": [
+        "अकबर",
+        "जहाँगीर",
+        "शाहजहाँ",
+        "औरंगजेब"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Social Reforms)",
+      "q": "Which Governor-General of India abolished the practice of Sati in 1829?",
+      "hq": "भारत के किस गवर्नर-जनरल ने 1829 में सती प्रथा को समाप्त किया था?",
+      "o": [
+        "Lord Dalhousie",
+        "Lord William Bentinck",
+        "Lord Canning",
+        "Lord Curzon"
+      ],
+      "ho": [
+        "लॉर्ड डलहौजी",
+        "लॉर्ड विलियम बेंटिक",
+        "लॉर्ड कैनिंग",
+        "लॉर्ड कर्जन"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Firsts)",
+      "q": "Who was the first Indian woman to go into space?",
+      "hq": "अंतरिक्ष में जाने वाली पहली भारतीय महिला कौन थी?",
+      "o": [
+        "Sunita Williams",
+        "Kalpana Chawla",
+        "Valentina Tereshkova",
+        "Sirisha Bandla"
+      ],
+      "ho": [
+        "सुनीता विलियम्स",
+        "कल्पना चावला",
+        "वेलेंटीना टेरेश्कोवा",
+        "सिरिशा बांदला"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Rivers)",
+      "q": "Which river is known as 'Dakshin Ganga' or the Ganga of the South?",
+      "hq": "किस नदी को 'दक्षिण गंगा' या दक्षिण की गंगा के नाम से जाना जाता है?",
+      "o": [
+        "Krishna",
+        "Kaveri",
+        "Mahanadi",
+        "Godavari"
+      ],
+      "ho": [
+        "कृष्णा",
+        "कावेरी",
+        "महानदी",
+        "गोदावरी"
+      ],
+      "a": 3
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Amendments)",
+      "q": "The Fundamental Duties were added to the Indian Constitution by which Amendment?",
+      "hq": "भारतीय संविधान में मौलिक कर्तव्यों (Fundamental Duties) को किस संशोधन द्वारा जोड़ा गया था?",
+      "o": [
+        "42nd Amendment",
+        "44th Amendment",
+        "73rd Amendment",
+        "86th Amendment"
+      ],
+      "ho": [
+        "42वां संशोधन",
+        "44वां संशोधन",
+        "73वां संशोधन",
+        "86वां संशोधन"
+      ],
+      "a": 0
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Peaks)",
+      "q": "Which is the highest mountain peak in South India?",
+      "hq": "दक्षिण भारत की सबसे ऊँची पर्वत चोटी कौन सी है?",
+      "o": [
+        "Doddabetta",
+        "Anamudi",
+        "Mahendragiri",
+        "Kalsubai"
+      ],
+      "ho": [
+        "डोड्डाबेट्टा",
+        "अनामुडी",
+        "महेंद्रगिरी",
+        "कलसुबाई"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Polity (Parliament)",
+      "q": "What is the maximum gap allowed between two sessions of the Parliament?",
+      "hq": "संसद के दो सत्रों के बीच अधिकतम कितना अंतर (gap) होने की अनुमति है?",
+      "o": [
+        "3 months",
+        "6 months",
+        "9 months",
+        "1 year"
+      ],
+      "ho": [
+        "3 महीने",
+        "6 महीने",
+        "9 महीने",
+        "1 वर्ष"
+      ],
+      "a": 1
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "The Battle of Plassey was fought in which year?",
+      "hq": "प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+      "o": [
+        "1764",
+        "1761",
+        "1857",
+        "1757"
+      ],
+      "a": 3
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Fundamental Rights)",
+      "q": "The Right to Education (Article 21A) was added to the Constitution by which Amendment?",
+      "hq": "शिक्षा का अधिकार (अनुच्छेद 21A) किस संशोधन द्वारा संविधान में जोड़ा गया था?",
+      "o": [
+        "86th Amendment",
+        "42nd Amendment",
+        "44th Amendment",
+        "74th Amendment"
+      ],
+      "ho": [
+        "86वां संशोधन",
+        "42वां संशोधन",
+        "44वां संशोधन",
+        "74वां संशोधन"
+      ],
+      "a": 0
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Amendments)",
+      "q": "Which Constitutional Amendment Act reduced the voting age from 21 years to 18 years?",
+      "hq": "किस संविधान संशोधन अधिनियम ने मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष कर दी थी?",
+      "o": [
+        "42nd Amendment",
+        "44th Amendment",
+        "61st Amendment",
+        "73rd Amendment"
+      ],
+      "ho": [
+        "42वां संशोधन",
+        "44वां संशोधन",
+        "61वां संशोधन",
+        "73वां संशोधन"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (International Organizations)",
+      "q": "Where is the headquarters of the World Bank located?",
+      "hq": "विश्व बैंक (World Bank) का मुख्यालय कहाँ स्थित है?",
+      "o": [
+        "Geneva",
+        "New York",
+        "Paris",
+        "Washington D.C."
+      ],
+      "ho": [
+        "जेनेवा",
+        "न्यूयॉर्क",
+        "पेरिस",
+        "वाशिंगटन डी.सी."
+      ],
+      "a": 3
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Sobriquets)",
+      "q": "Which state is known as the 'Spice Garden of India'?",
+      "hq": "किस राज्य को 'भारत का मसालों का बगीचा' (Spice Garden of India) कहा जाता है?",
+      "o": [
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh",
+        "Tamil Nadu"
+      ],
+      "ho": [
+        "कर्नाटक",
+        "केरल",
+        "आंध्र प्रदेश",
+        "तमिलनाडु"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Culture (Dance)",
+      "q": "'Ghoomar' is a traditional folk dance of which state?",
+      "hq": "'घूमर' किस राज्य का पारंपरिक लोक नृत्य है?",
+      "o": [
+        "Haryana",
+        "Gujarat",
+        "Rajasthan",
+        "Punjab"
+      ],
+      "ho": [
+        "हरियाणा",
+        "गुजरात",
+        "राजस्थान",
+        "पंजाब"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Awards)",
+      "q": "Who was the first Indian to win the Nobel Prize?",
+      "hq": "नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
+      "o": [
+        "C.V. Raman",
+        "Mother Teresa",
+        "Rabindranath Tagore",
+        "Amartya Sen"
+      ],
+      "ho": [
+        "सी.वी. रमन",
+        "मदर टेरेसा",
+        "रवींद्रनाथ टैगोर",
+        "अमर्त्य सेन"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Currencies)",
+      "q": "What is the currency of Russia?",
+      "hq": "रूस की मुद्रा (currency) क्या है?",
+      "o": [
+        "Euro",
+        "Dollar",
+        "Ruble",
+        "Dinar"
+      ],
+      "ho": [
+        "यूरो",
+        "डॉलर",
+        "रूबल",
+        "दीनार"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Layers)",
+      "q": "Which layer of the Earth's atmosphere is responsible for radio communication?",
+      "hq": "पृथ्वी के वायुमंडल की कौन सी परत रेडियो संचार (radio communication) के लिए जिम्मेदार है?",
+      "o": [
+        "Troposphere",
+        "Stratosphere",
+        "Ionosphere",
+        "Exosphere"
+      ],
+      "ho": [
+        "क्षोभमंडल (Troposphere)",
+        "समतापमंडल (Stratosphere)",
+        "आयनमंडल (Ionosphere)",
+        "बाह्यमंडल (Exosphere)"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Neighbors)",
+      "q": "What is the currency of Bangladesh?",
+      "hq": "बांग्लादेश की मुद्रा (currency) क्या है?",
+      "o": [
+        "Rupee",
+        "Taka",
+        "Rupiah",
+        "Kyat"
+      ],
+      "ho": [
+        "रुपया",
+        "टका",
+        "रुपिया",
+        "क्यात"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Culture (Dance Forms)",
+      "q": "'Sattriya' is a classical dance form of which Indian state?",
+      "hq": "'सत्रिया' किस भारतीय राज्य का शास्त्रीय नृत्य रूप है?",
+      "o": [
+        "Manipur",
+        "Odisha",
+        "Assam",
+        "Kerala"
+      ],
+      "ho": [
+        "मणिपुर",
+        "ओडिशा",
+        "असम",
+        "केरल"
+      ],
+      "a": 2
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "Current Affairs",
+      "t": "Beauty Pageants",
+      "q": "Who created history by becoming the first Indian to win the title of 'Miss Grand International' in 2024?",
+      "hq": "2024 में 'मिस ग्रैंड इंटरनेशनल' (Miss Grand International) का खिताब जीतने वाली पहली भारतीय बनकर किसने इतिहास रचा?",
+      "o": [
+        "Sini Shetty",
+        "Rachel Gupta",
+        "Manushi Chhillar",
+        "Harnaaz Sandhu"
+      ],
+      "ho": [
+        "सिनी शेट्टी",
+        "रशेल गुप्ता",
+        "मानुषी छिल्लर",
+        "हरनाज़ संधू"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Summits (International)",
+      "q": "The SCO (Shanghai Cooperation Organization) Summit 2024 was held in which country?",
+      "hq": "एससीओ (SCO - शंघाई सहयोग संगठन) शिखर सम्मेलन 2024 किस देश में आयोजित किया गया था?",
+      "o": [
+        "Russia",
+        "Kazakhstan",
+        "China",
+        "Uzbekistan"
+      ],
+      "ho": [
+        "रूस",
+        "कजाकिस्तान",
+        "चीन",
+        "उज्बेकिस्तान"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Football)",
+      "q": "Who won the Ballon d'Or 2024 (Men's)?",
+      "hq": "बैलोन डी'ओर 2024 (पुरुष) किसने जीता?",
+      "o": [
+        "Erling Haaland",
+        "Lionel Messi",
+        "Rodri",
+        "Vinicius Jr."
+      ],
+      "ho": [
+        "एर्लिंग हालैंड",
+        "लियोनेल मेस्सी",
+        "रोड्री",
+        "विनीसियस जूनियर"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Cricket)",
+      "q": "Which team won the Champions Trophy 2025 held in Pakistan (hosted via Hybrid Model)?",
+      "hq": "पाकिस्तान में आयोजित (हाइब्रिड मॉडल के माध्यम से) चैंपियंस ट्रॉफी 2025 किस टीम ने जीती?",
+      "o": [
+        "India",
+        "Pakistan",
+        "Australia",
+        "England"
+      ],
+      "ho": [
+        "भारत",
+        "पाकिस्तान",
+        "ऑस्ट्रेलिया",
+        "इंग्लैंड"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Important Days",
+      "q": "The theme of International Yoga Day 2024 was:",
+      "hq": "अंतर्राष्ट्रीय योग दिवस 2024 का विषय (theme) क्या था?",
+      "o": [
+        "Yoga for Vasudhaiva Kutumbakam",
+        "Yoga for Self and Society",
+        "Yoga for Humanity",
+        "Yoga for Wellness"
+      ],
+      "ho": [
+        "वसुधैव कुटुंबकम के लिए योग",
+        "स्वयं और समाज के लिए योग (Yoga for Self and Society)",
+        "मानवता के लिए योग",
+        "कल्याण के लिए योग"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Appointments (International)",
+      "q": "Who took over as the new Secretary General of NATO in October 2024?",
+      "hq": "अक्टूबर 2024 में नाटो (NATO) के नए महासचिव के रूप में किसने कार्यभार संभाला?",
+      "o": [
+        "Jens Stoltenberg",
+        "Mark Rutte",
+        "Ursula von der Leyen",
+        "Boris Johnson"
+      ],
+      "ho": [
+        "जेन्स स्टोल्टेनबर्ग",
+        "मार्क रुट",
+        "उर्सुला वॉन डेर लेयेन",
+        "बोरिस जॉनसन"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Disasters (Cyclones)",
+      "q": "Which severe cyclonic storm hit the coasts of Odisha and West Bengal in October 2024?",
+      "hq": "अक्टूबर 2024 में ओडिशा और पश्चिम बंगाल के तटों से कौन सा गंभीर चक्रवाती तूफान टकराया?",
+      "o": [
+        "Cyclone Dana",
+        "Cyclone Michaung",
+        "Cyclone Biparjoy",
+        "Cyclone Remal"
+      ],
+      "ho": [
+        "चक्रवात दाना",
+        "चक्रवात मिचौंग",
+        "चक्रवात बिपरजॉय",
+        "चक्रवात रेमल"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Infrastructure",
+      "q": "The 'Statue of Social Justice', a 125-feet tall statue of Dr. B.R. Ambedkar, was inaugurated in:",
+      "hq": "डॉ. बी.आर. अंबेडकर की 125 फीट ऊंची प्रतिमा 'स्टैच्यू ऑफ सोशल जस्टिस' (Statue of Social Justice) का उद्घाटन कहाँ किया गया?",
+      "o": [
+        "Maharashtra",
+        "Telangana",
+        "Andhra Pradesh",
+        "Uttar Pradesh"
+      ],
+      "ho": [
+        "महाराष्ट्र",
+        "तेलंगाना",
+        "आंध्र प्रदेश",
+        "उत्तर Pradesh"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "International Awards",
+      "q": "Which organization was awarded the Nobel Peace Prize for 2024?",
+      "hq": "वर्ष 2024 के लिए किस संगठन को नोबेल शांति पुरस्कार से सम्मानित किया गया?",
+      "o": [
+        "World Food Programme",
+        "Nihon Hidankyo",
+        "Nargis Mohammadi",
+        "International Court of Justice"
+      ],
+      "ho": [
+        "विश्व खाद्य कार्यक्रम",
+        "निहोन हिडांक्यो (Nihon Hidankyo)",
+        "नरगिस मोहम्मदी",
+        "अंतर्राष्ट्रीय न्यायालय"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Beauty Pageants",
+      "q": "Who was crowned Miss Universe 2024?",
+      "hq": "मिस यूनिवर्स 2024 का ताज किसे पहनाया गया?",
+      "o": [
+        "Sheynnis Palacios",
+        "R'Bonney Gabriel",
+        "Victoria Kjaer Theilvig",
+        "Harnaaz Sandhu"
+      ],
+      "ho": [
+        "शेन्निस पलासियोस",
+        "आर'बोनी गेब्रियल",
+        "विक्टोरिया कजेर थेलविग",
+        "हरनाज़ संधू"
+      ],
+      "a": 2,
+      "e": "**Victoria Kjaer Theilvig** from **Denmark** was crowned Miss Universe 2024 at the event held in Mexico City.\n",
+      "he": "मेक्सिको सिटी में आयोजित कार्यक्रम में **डेनमार्क** की **विक्टोरिया कजेर थेलविग** को मिस यूनिवर्स 2024 चुना गया।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Politics (States)",
+      "q": "Who took oath as the Chief Minister of Maharashtra in December 2024?",
+      "hq": "दिसंबर 2024 में महाराष्ट्र के मुख्यमंत्री के रूप में किसने शपथ ली?",
+      "o": [
+        "Eknath Shinde",
+        "Ajit Pawar",
+        "Devendra Fadnavis",
+        "Uddhav Thackeray"
+      ],
+      "ho": [
+        "एकनाथ शिंदे",
+        "अजीत पवार",
+        "देवेंद्र फडणवीस",
+        "उद्धव ठाकरे"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Places in News",
+      "q": "The Union Government renamed 'Port Blair' in Andaman and Nicobar Islands to:",
+      "hq": "केंद्र सरकार ने अंडमान और निकोबार द्वीप समूह के 'पोर्ट ब्लेयर' का नाम बदलकर क्या कर दिया है?",
+      "o": [
+        "Swaraj Dweep",
+        "Shaheed Puram",
+        "Sri Vijaya Puram",
+        "Netaji Nagar"
+      ],
+      "ho": [
+        "स्वराज द्वीप",
+        "शहीद पुरम",
+        "श्री विजया पुरम",
+        "नेताजी नगर"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Appointments (India)",
+      "q": "Who took charge as the new Cabinet Secretary of India in August 2024?",
+      "hq": "अगस्त 2024 में भारत के नए कैबिनेट सचिव के रूप में किसने कार्यभार संभाला?",
+      "o": [
+        "Rajiv Gauba",
+        "T.V. Somanathan",
+        "Ajay Kumar Bhalla",
+        "P.K. Mishra"
+      ],
+      "ho": [
+        "राजीव गौबा",
+        "टी.वी. सोमनाथन",
+        "अजय कुमार भल्ला",
+        "पी.के. मिश्रा"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Politics (Delhi)",
+      "q": "Who succeeded Arvind Kejriwal to become the Chief Minister of Delhi in September 2024?",
+      "hq": "सितंबर 2024 में अरविंद केजरीवाल के उत्तराधिकारी के रूप में दिल्ली के मुख्यमंत्री कौन बने?",
+      "o": [
+        "Saurabh Bharadwaj",
+        "Raghav Chadha",
+        "Atishi Marlena",
+        "Manish Sisodia"
+      ],
+      "ho": [
+        "सौरभ भारद्वाज",
+        "राघव चड्ढा",
+        "आतिशी मार्लेना",
+        "मनीष सिसोदिया"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Important Days",
+      "q": "'Parakram Diwas' is celebrated on January 23 to mark the birth anniversary of:",
+      "hq": "23 जनवरी को 'पराक्रम दिवस' किसकी जयंती के उपलक्ष्य में मनाया जाता है?",
+      "o": [
+        "Bhagat Singh",
+        "Sardar Vallabhbhai Patel",
+        "Netaji Subhas Chandra Bose",
+        "Chandrashekhar Azad"
+      ],
+      "ho": [
+        "भगत सिंह",
+        "सरदार वल्लभभाई पटेल",
+        "नेताजी सुभाष चंद्र बोस",
+        "चंद्रशेखर आजाद"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "State Appointments",
+      "q": "Who was sworn in as the Chief Minister of Maharashtra in December 2024?",
+      "hq": "दिसंबर 2024 में महाराष्ट्र के मुख्यमंत्री के रूप में किसने शपथ ली?",
+      "o": [
+        "Eknath Shinde",
+        "Ajit Pawar",
+        "Uddhav Thackeray",
+        "Devendra Fadnavis"
+      ],
+      "ho": [
+        "एकनाथ शिंदे",
+        "अजीत पवार",
+        "उद्धव ठाकरे",
+        "देवेंद्र फडणवीस"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Important Days",
+      "q": "The year 2024-25 marked the 75th anniversary of the adoption of the Indian Constitution. On which day is 'Constitution Day' celebrated?",
+      "hq": "वर्ष 2024-25 भारतीय संविधान को अपनाने की 75वीं वर्षगांठ का प्रतीक है। 'संविधान दिवस' किस दिन मनाया जाता है?",
+      "o": [
+        "26 January",
+        "15 August",
+        "26 November",
+        "2 October"
+      ],
+      "ho": [
+        "26 जनवरी",
+        "15 अगस्त",
+        "26 नवंबर",
+        "2 अक्टूबर"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Summits (BRICS)",
+      "q": "The BRICS Summit 2024 was held in which city?",
+      "hq": "ब्रिक्स (BRICS) शिखर सम्मेलन 2024 किस शहर में आयोजित किया गया था?",
+      "o": [
+        "Johannesburg",
+        "New Delhi",
+        "Kazan",
+        "Rio de Janeiro"
+      ],
+      "ho": [
+        "जोहान्सबर्ग",
+        "नई दिल्ली",
+        "कज़ान",
+        "रियो डी जनेरियो"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Tennis)",
+      "q": "Which country won the Davis Cup 2024 title (Men's Tennis)?",
+      "hq": "किस देश ने डेविस कप 2024 का खिताब (पुरुष टेनिस) जीता?",
+      "o": [
+        "Australia",
+        "Spain",
+        "Italy",
+        "Serbia"
+      ],
+      "ho": [
+        "ऑस्ट्रेलिया",
+        "स्पेन",
+        "इटली",
+        "सर्बिया"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Science & Tech (AI)",
+      "q": "Geoffrey Hinton and John Hopfield were awarded the Nobel Prize in Physics 2024 for their pioneering work in:",
+      "hq": "जेफ्री हिंटन और जॉन हॉपफील्ड को उनके किस अग्रणी कार्य के लिए भौतिकी का नोबेल पुरस्कार 2024 दिया गया?",
+      "o": [
+        "Quantum Computing",
+        "Artificial Neural Networks",
+        "Nuclear Fusion",
+        "Black Holes"
+      ],
+      "ho": [
+        "क्वांटम कंप्यूटिंग",
+        "कृत्रिम तंत्रिका नेटवर्क (Artificial Neural Networks)",
+        "परमाणु संलयन",
+        "ब्लैक होल"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "National Appointments",
+      "q": "Who was appointed as the new Cabinet Secretary of India in August 2024?",
+      "hq": "अगस्त 2024 में भारत के नए कैबिनेट सचिव के रूप में किसे नियुक्त किया गया?",
+      "o": [
+        "Rajiv Gauba",
+        "T.V. Somanathan",
+        "Ajit Doval",
+        "P.K. Mishra"
+      ],
+      "ho": [
+        "राजीव गौबा",
+        "टी.वी. सोमनाथन",
+        "अजीत डोभाल",
+        "पी.के. मिश्रा"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Football)",
+      "q": "Which country won the UEFA Euro 2024 football championship?",
+      "hq": "किस देश ने UEFA यूरो 2024 फुटबॉल चैंपियनशिप जीती?",
+      "o": [
+        "England",
+        "Spain",
+        "France",
+        "Germany"
+      ],
+      "ho": [
+        "इंग्लैंड",
+        "स्पेन",
+        "फ्रांस",
+        "जर्मनी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Olympics)",
+      "q": "Who were the flag bearers for India at the Closing Ceremony of the Paris Olympics 2024?",
+      "hq": "पेरिस ओलंपिक 2024 के समापन समारोह में भारत के ध्वजवाहक कौन थे?",
+      "o": [
+        "Neeraj Chopra and P.V. Sindhu",
+        "Manu Bhaker and P.R. Sreejesh",
+        "Harmanpreet Singh and Lovlina Borgohain",
+        "Vinesh Phogat and Neeraj Chopra"
+      ],
+      "ho": [
+        "नीरज चोपड़ा और पी.वी. सिंधु",
+        "मनु भाकर और पी.आर. श्रीजेश",
+        "हरमनप्रीत सिंह और लवलीना बोरगोहेन",
+        "विनेश फोगट और नीरज चोपड़ा"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Awards (Literature)",
+      "q": "Who was selected for the prestigious 'Saraswati Samman' 2023 (awarded in 2024) for the novel 'Roudra Sathwikam'?",
+      "hq": "उपन्यास 'रौद्र सात्विकम' के लिए प्रतिष्ठित 'सरस्वती सम्मान' 2023 (2024 में प्रदत्त) के लिए किसे चुना गया?",
+      "o": [
+        "Sivasankari",
+        "Prabha Varma",
+        "Gyan Chaturvedi",
+        "Ramdarash Mishra"
+      ],
+      "ho": [
+        "शिवशंकरी",
+        "प्रभा वर्मा",
+        "ज्ञान चतुर्वेदी",
+        "रामदरश मिश्र"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Infrastructure (Railways)",
+      "q": "India's first 'Vande Metro', renamed as 'Namo Bharat Rapid Rail', was inaugurated between which two cities?",
+      "hq": "भारत की पहली 'वंदे मेट्रो', जिसका नाम बदलकर 'नमो भारत रैपिड रेल' कर दिया गया है, का उद्घाटन किन दो शहरों के बीच किया गया?",
+      "o": [
+        "Mumbai and Pune",
+        "Ahmedabad and Bhuj",
+        "Delhi and Meerut",
+        "Chennai and Bangalore"
+      ],
+      "ho": [
+        "मुंबई और पुणे",
+        "अहमदाबाद और भुज",
+        "दिल्ली और मेरठ",
+        "चेन्नई और बैंगलोर"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Literature",
+      "q": "Who won the Booker Prize 2024 for the novel \"Orbital\"?",
+      "hq": "उपन्यास \"ऑर्बिटल\" (Orbital) के लिए बुकर पुरस्कार 2024 किसने जीता?",
+      "o": [
+        "Paul Lynch",
+        "Samantha Harvey",
+        "Percival Everett",
+        "Sarah Perry"
+      ],
+      "ho": [
+        "पॉल लिंच",
+        "सामंथा हार्वे",
+        "पर्सिवल एवरेट",
+        "सारा पेरी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Appointments (Judiciary)",
+      "q": "Who took oath as the 51st Chief Justice of India (CJI) in November 2024?",
+      "hq": "नवंबर 2024 में भारत के 51वें मुख्य न्यायाधीश (CJI) के रूप में किसने शपथ ली?",
+      "o": [
+        "Justice D.Y. Chandrachud",
+        "Justice Sanjiv Khanna",
+        "Justice B.R. Gavai",
+        "Justice Surya Kant"
+      ],
+      "ho": [
+        "न्यायमूर्ति डी.वाई. चंद्रचूड़",
+        "न्यायमूर्ति संजीव खन्ना",
+        "न्यायमूर्ति बी.आर. गवई",
+        "न्यायमूर्ति सूर्यकांत"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Defense (Appointments)",
+      "q": "Who took over as the new Chief of the Air Staff (CAS) of the Indian Air Force in late 2024?",
+      "hq": "2024 के अंत में भारतीय वायु सेना के नए वायु सेना प्रमुख (CAS) के रूप में किसने कार्यभार संभाला?",
+      "o": [
+        "V.R. Chaudhari",
+        "Amar Preet Singh",
+        "R.K.S. Bhadauria",
+        "Vivek Ram Chaudhari"
+      ],
+      "ho": [
+        "वी.आर. चौधरी",
+        "अमर प्रीत सिंह",
+        "आर.के.एस. भदौरिया",
+        "विवेक राम चौधरी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Appointments (India)",
+      "q": "Who is the current Chief Justice of India (CJI) as of January 2026?",
+      "hq": "जनवरी 2026 तक भारत के वर्तमान मुख्य न्यायाधीश (CJI) कौन हैं?",
+      "o": [
+        "D.Y. Chandrachud",
+        "Sanjiv Khanna",
+        "B.R. Gavai",
+        "Surya Kant"
+      ],
+      "ho": [
+        "डी.वाई. चंद्रचूड़",
+        "संजीव खन्ना",
+        "बी.आर. गवई",
+        "सूर्यकांत"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Cinema (IFFI)",
+      "q": "Which film won the 'Golden Peacock' for Best Film at the 55th International Film Festival of India (IFFI) in Goa?",
+      "hq": "गोवा में आयोजित 55वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (IFFI) में किस फिल्म ने सर्वश्रेष्ठ फिल्म का 'गोल्डन पीकॉक' (स्वर्ण मयूर) जीता?",
+      "o": [
+        "Toxic",
+        "Kantara",
+        "Endless Borders",
+        "When the Light Breaks"
+      ],
+      "ho": [
+        "टॉक्सिक",
+        "कांतारा",
+        "एंडलेस बॉर्डर्स",
+        "व्हेन द लाइट ब्रेक्स (When the Light Breaks)"
+      ],
+      "a": 0
+    }
+  ]
+}

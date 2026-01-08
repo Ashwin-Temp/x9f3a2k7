@@ -1,0 +1,644 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "General Science",
+      "t": "Chemistry (pH Scale)",
+      "q": "What is the pH value of pure water at room temperature?",
+      "hq": "कमरे के तापमान पर शुद्ध पानी का pH मान क्या होता है?",
+      "o": [
+        "0",
+        "14",
+        "7",
+        "1"
+      ],
+      "a": 2,
+      "e": "Pure water is neutral, so its pH value is **7**. (pH < 7 is Acidic, pH > 7 is Basic).\n",
+      "he": "शुद्ध पानी उदासीन (neutral) होता है, इसलिए इसका pH मान **7** होता है। (pH < 7 अम्लीय है, pH > 7 क्षारीय है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Electricity)",
+      "q": "An electric bulb is connected to a 220 V source. If the resistance of the filament is 110 $\\Omega$, how much current will the bulb draw?",
+      "hq": "एक इलेक्ट्रिक बल्ब को 220 V के स्रोत से जोड़ा गया है। यदि फिलामेंट का प्रतिरोध 110 $\\Omega$ है, तो बल्ब कितनी धारा (current) लेगा?",
+      "o": [
+        "0.5 A",
+        "2.0 A",
+        "1.5 A",
+        "4.0 A"
+      ],
+      "a": 1,
+      "e": "1. Formula: Ohm's Law $I = \\frac{V}{R}$.\n2. Given: Voltage ($V$) = 220 V, Resistance ($R$) = 110 $\\Omega$.\n3. Calculation: $I = \\frac{220}{110} = 2$ Amperes.\nAnswer is 2.0 A.\n",
+      "he": "1. सूत्र: ओम का नियम $I = \\frac{V}{R}$।\n2. दिया गया है: वोल्टेज ($V$) = 220 V, प्रतिरोध ($R$) = 110 $\\Omega$।\n3. गणना: $I = \\frac{220}{110} = 2$ एम्पीयर।\nउत्तर 2.0 A है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Deficiency Diseases)",
+      "q": "Goitre, an enlargement of the thyroid gland, is primarily caused by the deficiency of:",
+      "hq": "घेंघा (Goitre), जो थायराइड ग्रंथि की सूजन है, मुख्य रूप से किसकी कमी के कारण होता है?",
+      "o": [
+        "Iron",
+        "Calcium",
+        "Potassium",
+        "Iodine"
+      ],
+      "ho": [
+        "लोहा",
+        "कैल्शियम",
+        "पोटेशियम",
+        "आयोडीन"
+      ],
+      "a": 3,
+      "e": "**Iodine** is essential for the production of thyroxine hormone. Its deficiency causes the thyroid gland to swell, leading to **Goitre**.\n",
+      "he": "थायरोक्सिन हार्मोन के उत्पादन के लिए **आयोडीन** आवश्यक है। इसकी कमी से थायराइड ग्रंथि सूज जाती है, जिससे **घेंघा** रोग होता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Hormones)",
+      "q": "Which organ in the human body produces the hormone 'Insulin' to regulate blood sugar levels?",
+      "hq": "मानव शरीर का कौन सा अंग रक्त शर्करा के स्तर को नियंत्रित करने के लिए 'इंसुलिन' हार्मोन का उत्पादन करता है?",
+      "o": [
+        "Liver",
+        "Kidney",
+        "Stomach",
+        "Pancreas"
+      ],
+      "ho": [
+        "यकृत",
+        "वृक्क",
+        "आमाशय",
+        "अग्न्याशय (Pancreas)"
+      ],
+      "a": 3,
+      "e": "The **Pancreas** produces Insulin (in Beta cells). If the pancreas doesn't produce enough insulin, it leads to Diabetes.\n",
+      "he": "**अग्न्याशय (Pancreas)** इंसुलिन का उत्पादन (बीटा कोशिकाओं में) करता है। यदि अग्न्याशय पर्याप्त इंसुलिन नहीं बनाता है, तो इससे मधुमेह (Diabetes) हो जाता है।\n\n\n\n[Image of the location of the pancreas in the human body]",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (pH Scale)",
+      "q": "What is the pH value of pure water at 25°C?",
+      "hq": "25°C पर शुद्ध जल का pH मान क्या है?",
+      "o": [
+        "0",
+        "7",
+        "14",
+        "1"
+      ],
+      "a": 1,
+      "e": "Pure water is neutral, neither acidic nor basic. Therefore, its **pH is 7**. Values less than 7 are acidic, and greater than 7 are basic.\n",
+      "he": "शुद्ध जल उदासीन (neutral) होता है, न तो अम्लीय और न ही क्षारीय। इसलिए, इसका **pH 7 है**। 7 से कम मान अम्लीय होते हैं और 7 से अधिक मान क्षारीय होते हैं।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Acids)",
+      "q": "Sour milk or Curd contains which acid?",
+      "hq": "खट्टे दूध या दही में कौन सा अम्ल (acid) होता है?",
+      "o": [
+        "Citric Acid",
+        "Lactic Acid",
+        "Acetic Acid",
+        "Tartaric Acid"
+      ],
+      "ho": [
+        "साइट्रिक अम्ल",
+        "लैक्टिक अम्ल",
+        "एसिटिक अम्ल",
+        "टार्टरिक अम्ल"
+      ],
+      "a": 1,
+      "e": "**Lactic Acid** is produced when milk turns sour or ferments into curd due to the action of Lactobacillus bacteria.\n",
+      "he": "**लैक्टिक अम्ल** तब उत्पन्न होता है जब लैक्टोबैसिलस बैक्टीरिया की क्रिया के कारण दूध खट्टा हो जाता है या दही में बदल जाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Compounds)",
+      "q": "What is the chemical formula of 'Quick Lime'?",
+      "hq": "'बिना बुझा चूना' (Quick Lime) का रासायनिक सूत्र क्या है?",
+      "o": [
+        "$Ca(OH)_2$",
+        "$CaCO_3$",
+        "$CaO$",
+        "$CaCl_2$"
+      ],
+      "a": 2,
+      "e": "Quick Lime is **Calcium Oxide ($CaO$)**. (Calcium Hydroxide is Slaked Lime; Calcium Carbonate is Limestone).\n",
+      "he": "बिना बुझा चूना **कैल्शियम ऑक्साइड ($CaO$)** है। (कैल्शियम हाइड्रोक्साइड बुझा हुआ चूना है; कैल्शियम कार्बोनेट चूना पत्थर है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Cell Biology)",
+      "q": "Which organelle is called the 'Suicide Bag' of the cell?",
+      "hq": "किस कोशिकांग (organelle) को कोशिका की 'आत्मघाती थैली' (Suicide Bag) कहा जाता है?",
+      "o": [
+        "Ribosome",
+        "Lysosome",
+        "Mitochondria",
+        "Nucleus"
+      ],
+      "ho": [
+        "राइबोसोम",
+        "लाइसोसोम",
+        "माइटोकॉन्ड्रिया",
+        "केंद्रक"
+      ],
+      "a": 1,
+      "e": "**Lysosomes** contain digestive enzymes. If the cell is damaged, the lysosome may burst and the enzymes digest their own cell, hence the name 'Suicide Bag'.\n",
+      "he": "**लाइसोसोम** में पाचक एंजाइम होते हैं। यदि कोशिका क्षतिग्रस्त हो जाती है, तो लाइसोसोम फट सकता है और एंजाइम अपनी ही कोशिका को पचा लेते हैं, इसीलिए इसे 'आत्मघाती थैली' कहा जाता है।\n\n\n\n[Image of a lysosome within a cell]",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Human Skeleton)",
+      "q": "Which is the longest and strongest bone in the human body?",
+      "hq": "मानव शरीर की सबसे लंबी और सबसे मजबूत हड्डी कौन सी है?",
+      "o": [
+        "Tibia",
+        "Humerus",
+        "Femur",
+        "Fibula"
+      ],
+      "ho": [
+        "टिबिया",
+        "ह्यूमरस",
+        "फीमर (Femur)",
+        "फिबुला"
+      ],
+      "a": 2,
+      "e": "The **Femur** (thigh bone) is the longest and strongest bone in the human body. The smallest bone is the Stapes in the ear.\n",
+      "he": "**फीमर** (जांघ की हड्डी) मानव शरीर की सबसे लंबी और सबसे मजबूत हड्डी है। सबसे छोटी हड्डी कान की 'स्टेपीज' होती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Blood)",
+      "q": "Which component of blood is primarily responsible for the clotting of blood?",
+      "hq": "रक्त का कौन सा घटक मुख्य रूप से रक्त के थक्के जमने (clotting) के लिए जिम्मेदार है?",
+      "o": [
+        "Red Blood Cells",
+        "White Blood Cells",
+        "Plasma",
+        "Platelets"
+      ],
+      "ho": [
+        "लाल रक्त कोशिकाएं",
+        "सफेद रक्त कोशिकाएं",
+        "प्लाज्मा",
+        "प्लेटलेट्स"
+      ],
+      "a": 3,
+      "e": "**Platelets** (Thrombocytes) are responsible for clotting blood to stop bleeding at the site of an injury.\n",
+      "he": "**प्लेटलेट्स** (थ्रोम्बोसाइट्स) चोट लगने पर रक्तस्राव को रोकने के लिए रक्त का थक्का जमने के लिए जिम्मेदार होते हैं।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Waves)",
+      "q": "The time period of a sound wave is 0.01 seconds. What is its frequency?",
+      "hq": "एक ध्वनि तरंग का आवर्तकाल (time period) 0.01 सेकंड है। इसकी आवृत्ति (frequency) क्या है?",
+      "o": [
+        "100 Hz",
+        "10 Hz",
+        "50 Hz",
+        "200 Hz"
+      ],
+      "a": 0,
+      "e": "1. Formula: Frequency ($f$) = $\\frac{1}{\\text{Time Period}(T)}$.\n2. Given: $T = 0.01$ s.\n3. Calculation: $f = \\frac{1}{0.01} = 100$ Hz.\nAnswer is 100 Hz.\n",
+      "he": "1. सूत्र: आवृत्ति ($f$) = $\\frac{1}{\\text{आवर्तकाल}(T)}$।\n2. दिया गया है: $T = 0.01$ s।\n3. गणना: $f = \\frac{1}{0.01} = 100$ Hz।\nउत्तर 100 Hz है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Light)",
+      "q": "The phenomenon of 'Mirage' is due to:",
+      "hq": "'मृगतृष्णा' (Mirage) की घटना किसके कारण होती है?",
+      "o": [
+        "Reflection of light",
+        "Refraction of light",
+        "Total Internal Reflection",
+        "Diffraction of light"
+      ],
+      "ho": [
+        "प्रकाश का परावर्तन (Reflection)",
+        "प्रकाश का अपवर्तन (Refraction)",
+        "पूर्ण आंतरिक परावर्तन (Total Internal Reflection)",
+        "प्रकाश का विवर्तन (Diffraction)"
+      ],
+      "a": 2,
+      "e": "Mirage is an optical illusion caused by Total Internal Reflection of light in layers of air of different densities.\n",
+      "he": "मृगतृष्णा एक दृश्य भ्रम है जो विभिन्न घनत्व वाली हवा की परतों में प्रकाश के पूर्ण आंतरिक परावर्तन के कारण होता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Anatomy)",
+      "q": "Which is the smallest bone in the human body?",
+      "hq": "मानव शरीर की सबसे छोटी हड्डी कौन सी है?",
+      "o": [
+        "Femur",
+        "Tibia",
+        "Stapes",
+        "Humerus"
+      ],
+      "ho": [
+        "फीमर",
+        "टिबिया",
+        "स्टेप्स (Stapes)",
+        "ह्यूमरस"
+      ],
+      "a": 2,
+      "e": "The **Stapes** (located in the middle ear) is the smallest bone in the human body. (Femur is the longest).\n",
+      "he": "**स्टेप्स** (मध्य कान में स्थित) मानव शरीर की सबसे छोटी हड्डी है। (फीमर सबसे लंबी हड्डी है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Motion)",
+      "q": "A train moving at 20 m/s accelerates at $0.5 \\text{ m/s}^2$ for 20 seconds. What is the distance covered during this time?",
+      "hq": "20 मीटर/सेकंड की गति से चल रही एक ट्रेन 20 सेकंड के लिए $0.5 \\text{ मीटर/सेकंड}^2$ की दर से त्वरित होती है। इस दौरान तय की गई दूरी क्या है?",
+      "o": [
+        "400 m",
+        "600 m",
+        "100 m",
+        "500 m"
+      ],
+      "ho": [
+        "400 मीटर",
+        "600 मीटर",
+        "100 मीटर",
+        "500 मीटर"
+      ],
+      "a": 3,
+      "e": "1. Formula: Second equation of motion $s = ut + \\frac{1}{2}at^2$.\n2. Given: $u = 20$, $t = 20$, $a = 0.5$.\n3. Calculation:\n$s = (20 \\times 20) + \\frac{1}{2} \\times 0.5 \\times (20)^2$\n$s = 400 + (0.25 \\times 400)$\n$s = 400 + 100 = 500$ m.\nAnswer is 500 m.\n",
+      "he": "1. सूत्र: गति का दूसरा समीकरण $s = ut + \\frac{1}{2}at^2$।\n2. दिया गया है: $u = 20$, $t = 20$, $a = 0.5$।\n3. गणना:\n$s = (20 \\times 20) + \\frac{1}{2} \\times 0.5 \\times (20)^2$\n$s = 400 + (0.25 \\times 400)$\n$s = 400 + 100 = 500$ मीटर।\nउत्तर 500 मीटर है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Pressure)",
+      "q": "A force of 100 N is applied on an area of 2 m². Calculate the pressure exerted.",
+      "hq": "2 वर्ग मीटर के क्षेत्रफल पर 100 N का बल लगाया जाता है। डाले गए दबाव (pressure) की गणना करें।",
+      "o": [
+        "200 Pa",
+        "100 Pa",
+        "50 Pa",
+        "20 Pa"
+      ],
+      "a": 2,
+      "e": "1. Formula: Pressure ($P$) = $\\frac{\\text{Force}(F)}{\\text{Area}(A)}$.\n2. Calculation: $P = \\frac{100}{2} = 50$ Pascals (Pa).\nAnswer is 50 Pa.",
+      "he": "1. सूत्र: दबाव ($P$) = बल ($F$) / क्षेत्रफल ($A$)।\n2. गणना: $P = \\frac{100}{2} = 50$ पास्कल (Pa)।\nउत्तर 50 Pa है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Optics)",
+      "q": "To correct 'Myopia' (Short-sightedness), which type of lens is used?",
+      "hq": "'मायोपिया' (निकट दृष्टिदोष) को ठीक करने के लिए किस प्रकार के लेंस का उपयोग किया जाता है?",
+      "o": [
+        "Convex Lens",
+        "Cylindrical Lens",
+        "Concave Lens",
+        "Bifocal Lens"
+      ],
+      "ho": [
+        "उत्तल लेंस",
+        "बेलनाकार लेंस",
+        "अवतल लेंस",
+        "बाइफोकल लेंस"
+      ],
+      "a": 2,
+      "e": "**Concave lenses** diverge light rays before they enter the eye, pushing the focal point back onto the retina, thus correcting **Myopia** (where images form in front of the retina).\n\n",
+      "he": "**अवतल लेंस (Concave lenses)** प्रकाश की किरणों को आंख में प्रवेश करने से पहले फैला देते हैं, जिससे फोकस बिंदु वापस रेटिना पर आ जाता है, इस प्रकार **मायोपिया** ठीक हो जाता है (जिसमें प्रतिबिंब रेटिना के सामने बनते हैं)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Cell)",
+      "q": "Which organelle is known as the 'Powerhouse of the Cell'?",
+      "hq": "किस कोशिकांग (organelle) को 'कोशिका का पावरहाउस' (ऊर्जा घर) कहा जाता है?",
+      "o": [
+        "Ribosome",
+        "Mitochondria",
+        "Lysosome",
+        "Nucleus"
+      ],
+      "ho": [
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया",
+        "लाइसोसोम",
+        "केंद्रक (Nucleus)"
+      ],
+      "a": 1,
+      "e": "Mitochondria are responsible for producing energy (ATP) through cellular respiration, hence called the powerhouse.\n",
+      "he": "माइटोकॉन्ड्रिया कोशिकीय श्वसन के माध्यम से ऊर्जा (ATP) उत्पन्न करने के लिए जिम्मेदार होते हैं, इसलिए इन्हें पावरहाउस कहा जाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Common Names)",
+      "q": "What is the chemical name of 'Baking Soda'?",
+      "hq": "'बेकिंग सोडा' का रासायनिक नाम क्या है?",
+      "o": [
+        "Sodium Carbonate",
+        "Sodium Hydrogen Carbonate",
+        "Calcium Carbonate",
+        "Sodium Hydroxide"
+      ],
+      "ho": [
+        "सोडियम कार्बोनेट",
+        "सोडियम हाइड्रोजन कार्बोनेट",
+        "कैल्शियम कार्बोनेट",
+        "सोडियम हाइड्रोक्साइड"
+      ],
+      "a": 1,
+      "e": "Baking Soda is **Sodium Hydrogen Carbonate** (also called Sodium Bicarbonate), with the formula $NaHCO_3$. Sodium Carbonate ($Na_2CO_3$) is Washing Soda.\n",
+      "he": "बेकिंग सोडा **सोडियम हाइड्रोजन कार्बोनेट** है (इसे सोडियम बाइकार्बोनेट भी कहा जाता है), जिसका सूत्र $NaHCO_3$ है। सोडियम कार्बोनेट ($Na_2CO_3$) वॉशिंग सोडा (धोने का सोडा) है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Instrumentation)",
+      "q": "Which instrument is used to measure Atmospheric Pressure?",
+      "hq": "वायुमंडलीय दबाव (Atmospheric Pressure) को मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+      "o": [
+        "Thermometer",
+        "Barometer",
+        "Lactometer",
+        "Hygrometer"
+      ],
+      "ho": [
+        "थर्मामीटर",
+        "बैरोमीटर",
+        "लैक्टोमीटर",
+        "हाइग्रोमीटर"
+      ],
+      "a": 1,
+      "e": "A **Barometer** is used to measure atmospheric pressure. (Hygrometer measures humidity, Lactometer measures purity of milk).",
+      "he": "वायुमंडलीय दबाव मापने के लिए **बैरोमीटर** का उपयोग किया जाता है। (हाइग्रोमीटर आर्द्रता मापता है, लैक्टोमीटर दूध की शुद्धता मापता है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Electricity)",
+      "q": "A current of 0.5 A is drawn by a filament of an electric bulb for 10 minutes. Find the amount of electric charge that flows through the circuit.",
+      "hq": "एक इलेक्ट्रिक बल्ब के फिलामेंट द्वारा 10 मिनट के लिए 0.5 A की धारा ली जाती है। सर्किट के माध्यम से बहने वाले विद्युत आवेश (charge) की मात्रा ज्ञात कीजिए।",
+      "o": [
+        "300 C",
+        "30 C",
+        "5 C",
+        "50 C"
+      ],
+      "a": 0,
+      "e": "1. Formula: Charge ($Q$) = Current ($I$) $\\times$ Time ($t$).\n2. Given: $I = 0.5$ A. Time must be in seconds: $t = 10 \\text{ min} \\times 60 = 600$ s.\n3. Calculation:\n$Q = 0.5 \\times 600 = 300$ Coulombs.\nAnswer is 300 C.\n",
+      "he": "1. सूत्र: आवेश ($Q$) = धारा ($I$) $\\times$ समय ($t$)।\n2. दिया गया है: $I = 0.5$ A। समय सेकंड में होना चाहिए: $t = 10 \\text{ मिनट} \\times 60 = 600$ सेकंड।\n3. गणना:\n$Q = 0.5 \\times 600 = 300$ कूलम्ब।\nउत्तर 300 C है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Atomic Structure)",
+      "q": "Isotopes are atoms of the same element that have the same number of protons but a different number of:",
+      "hq": "आइसोटोप (Isotopes) एक ही तत्व के परमाणु होते हैं जिनमें प्रोटॉन की संख्या समान होती है लेकिन किसकी संख्या भिन्न होती है?",
+      "o": [
+        "Electrons",
+        "Positrons",
+        "Molecules",
+        "Neutrons"
+      ],
+      "ho": [
+        "इलेक्ट्रॉन",
+        "पॉज़िट्रॉन",
+        "अणु",
+        "न्यूट्रॉन"
+      ],
+      "a": 3,
+      "e": "**Isotopes** differ in atomic mass because they possess a different number of **Neutrons** in their nucleus, while the proton count (Atomic Number) remains the same.\n",
+      "he": "**आइसोटोप** के परमाणु द्रव्यमान में भिन्नता होती है क्योंकि उनके नाभिक में **न्यूट्रॉन** की संख्या अलग होती है, जबकि प्रोटॉन की संख्या (परमाणु संख्या) समान रहती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Sound)",
+      "q": "An echo is returned in 4 seconds. What is the distance of the reflecting surface from the source, considering the speed of sound is 340 m/s?",
+      "hq": "एक प्रतिध्वनि (echo) 4 सेकंड में वापस आती है। परावर्तक सतह की स्रोत से दूरी क्या है, यदि ध्वनि की गति 340 मीटर/सेकंड है?",
+      "o": [
+        "1360 m",
+        "680 m",
+        "340 m",
+        "170 m"
+      ],
+      "ho": [
+        "1360 मीटर",
+        "680 मीटर",
+        "340 मीटर",
+        "170 मीटर"
+      ],
+      "a": 1,
+      "e": "1. Formula: $2d = v \\times t$ (Sound travels to object and back).\n2. Given: $v = 340$ m/s, $t = 4$ s.\n3. Calculation:\n$2d = 340 \\times 4 = 1360$.\n$d = \\frac{1360}{2} = 680$ m.\nAnswer is 680 m.\n\n\n",
+      "he": "1. सूत्र: $2d = v \\times t$ (ध्वनि वस्तु तक जाती है और वापस आती है)।\n2. दिया गया है: $v = 340$ मीटर/सेकंड, $t = 4$ सेकंड।\n3. गणना:\n$2d = 340 \\times 4 = 1360$।\n$d = \\frac{1360}{2} = 680$ मीटर।\nउत्तर 680 मीटर है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Electricity)",
+      "q": "Three resistors of $2 \\Omega$, $3 \\Omega$, and $5 \\Omega$ are connected in series. What is the equivalent resistance of the circuit?",
+      "hq": "$2 \\Omega$, $3 \\Omega$, और $5 \\Omega$ के तीन प्रतिरोधक श्रेणी (series) क्रम में जुड़े हुए हैं। सर्किट का समतुल्य प्रतिरोध क्या है?",
+      "o": [
+        "$30 \\Omega$",
+        "$10 \\Omega$",
+        "$5 \\Omega$",
+        "$0.96 \\Omega$"
+      ],
+      "a": 1,
+      "e": "1. Formula for series connection: $R_{eq} = R_1 + R_2 + R_3$.\n2. Substitute values: $R_{eq} = 2 + 3 + 5 = 10 \\Omega$.\nAnswer is $10 \\Omega$.\n",
+      "he": "1. श्रेणी जुड़ाव के लिए सूत्र: $R_{eq} = R_1 + R_2 + R_3$।\n2. मान रखने पर: $R_{eq} = 2 + 3 + 5 = 10 \\Omega$।\nउत्तर $10 \\Omega$ है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Non-metals)",
+      "q": "Which non-metal remains in a liquid state at room temperature?",
+      "hq": "कौन सी अधातु (non-metal) कमरे के तापमान पर तरल अवस्था में रहती है?",
+      "o": [
+        "Chlorine",
+        "Iodine",
+        "Bromine",
+        "Carbon"
+      ],
+      "ho": [
+        "क्लोरीन",
+        "आयोडीन",
+        "ब्रोमीन",
+        "कार्बन"
+      ],
+      "a": 2,
+      "e": "**Bromine (Br)** is the only non-metal that is a liquid at room temperature (reddish-brown liquid). (Mercury is a metal).\n",
+      "he": "**ब्रोमीन (Br)** एकमात्र ऐसी अधातु है जो कमरे के तापमान पर तरल होती है (लाल-भूरा तरल)। (पारा एक धातु है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Hormones)",
+      "q": "Which hormone is known as the 'Fight or Flight' hormone?",
+      "hq": "किस हार्मोन को 'लड़ो या उड़ो' (Fight or Flight) हार्मोन के रूप में जाना जाता है?",
+      "o": [
+        "Insulin",
+        "Thyroxine",
+        "Adrenaline",
+        "Estrogen"
+      ],
+      "ho": [
+        "इंसुलिन",
+        "थायरोक्सिन",
+        "एड्रिनेलिन (Adrenaline)",
+        "एस्ट्रोजन"
+      ],
+      "a": 2,
+      "e": "**Adrenaline** (Epinephrine) prepares the body for a sudden physical response (fight or flight) by increasing heart rate and energy supply.\n",
+      "he": "**एड्रिनेलिन** (एपिनेफ्रिन) हृदय गति और ऊर्जा की आपूर्ति बढ़ाकर अचानक शारीरिक प्रतिक्रिया (लड़ो या उड़ो) के लिए शरीर को तैयार करता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Vitamins)",
+      "q": "Scurvy (bleeding gums) is caused by the deficiency of which vitamin?",
+      "hq": "स्कर्वी (मसूड़ों से खून आना) किस विटामिन की कमी के कारण होता है?",
+      "o": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin D",
+        "Vitamin C"
+      ],
+      "ho": [
+        "विटामिन A",
+        "विटामिन B",
+        "विटामिन D",
+        "विटामिन C"
+      ],
+      "a": 3,
+      "e": "**Vitamin C** (Ascorbic Acid) is essential for healthy gums and skin. Its deficiency causes Scurvy.\n",
+      "he": "**विटामिन C** (एस्कॉर्बिक एसिड) स्वस्थ मसूड़ों और त्वचा के लिए आवश्यक है। इसकी कमी से स्कर्वी रोग होता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Elements)",
+      "q": "Which of the following is the lightest metal in the periodic table?",
+      "hq": "आवर्त सारणी (periodic table) में निम्नलिखित में से कौन सी सबसे हल्की धातु है?",
+      "o": [
+        "Mercury",
+        "Sodium",
+        "Lithium",
+        "Lead"
+      ],
+      "ho": [
+        "पारा (Mercury)",
+        "सोडियम",
+        "लिथियम",
+        "सीसा (Lead)"
+      ],
+      "a": 2,
+      "e": "**Lithium (Li)** is the lightest metal and the least dense solid element. (Hydrogen is the lightest element, but it is a gas).\n",
+      "he": "**लिथियम (Li)** सबसे हल्की धातु और सबसे कम घनत्व वाला ठोस तत्व है। (हाइड्रोजन सबसे हल्का तत्व है, लेकिन यह एक गैस है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Electricity)",
+      "q": "An electric bulb is rated 220 V and 100 W. What is the resistance of the filament?",
+      "hq": "एक इलेक्ट्रिक बल्ब पर 220 V और 100 W अंकित है। फिलामेंट का प्रतिरोध क्या है?",
+      "o": [
+        "$220 \\Omega$",
+        "$484 \\Omega$",
+        "$100 \\Omega$",
+        "$22 \\Omega$"
+      ],
+      "a": 1,
+      "e": "1. Formula: Power ($P$) = $\\frac{V^2}{R}$ $\\Rightarrow$ $R = \\frac{V^2}{P}$.\n2. Given: $V = 220$ V, $P = 100$ W.\n3. Calculation:\n$R = \\frac{220 \\times 220}{100} = 484 \\Omega$.\nAnswer is $484 \\Omega$.\n",
+      "he": "1. सूत्र: शक्ति ($P$) = $\\frac{V^2}{R}$ $\\Rightarrow$ $R = \\frac{V^2}{P}$।\n2. दिया गया है: $V = 220$ V, $P = 100$ W।\n3. गणना:\n$R = \\frac{220 \\times 220}{100} = 484 \\Omega$।\nउत्तर $484 \\Omega$ है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Units)",
+      "q": "What is the SI unit of Electric Current?",
+      "hq": "विद्युत धारा (Electric Current) की SI इकाई क्या है?",
+      "o": [
+        "Volt",
+        "Watt",
+        "Joule",
+        "Ampere"
+      ],
+      "ho": [
+        "वोल्ट (Volt)",
+        "वाट (Watt)",
+        "जूल (Joule)",
+        "एम्पीयर (Ampere)"
+      ],
+      "a": 3,
+      "e": "Ampere is the SI unit of Electric Current. Volt is for Potential Difference, Watt for Power, and Joule for Energy.\n",
+      "he": "एम्पीयर विद्युत धारा की SI इकाई है। वोल्ट विभवांतर (Potential Difference) के लिए, वाट शक्ति (Power) के लिए, और जूल ऊर्जा (Energy) के लिए है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Plants)",
+      "q": "Which pigment is responsible for the green colour of leaves in plants?",
+      "hq": "पौधों में पत्तियों के हरे रंग के लिए कौन सा वर्णक (pigment) जिम्मेदार है?",
+      "o": [
+        "Hemoglobin",
+        "Chlorophyll",
+        "Melanin",
+        "Carotene"
+      ],
+      "ho": [
+        "हीमोग्लोबिन",
+        "क्लोरोफिल",
+        "मेलेनिन",
+        "कैरोटीन"
+      ],
+      "a": 1,
+      "e": "**Chlorophyll** is the green pigment found in chloroplasts that absorbs light energy for photosynthesis.\n",
+      "he": "**क्लोरोफिल** क्लोरोप्लास्ट में पाया जाने वाला हरा वर्णक है जो प्रकाश संश्लेषण के लिए प्रकाश ऊर्जा को अवशोषित करता है।",
+      "e2": "",
+      "he2": ""
+    }
+  ]
+}

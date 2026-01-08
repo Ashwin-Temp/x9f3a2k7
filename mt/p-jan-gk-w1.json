@@ -1,0 +1,566 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Capitals)",
+      "q": "What is the capital city of Australia?",
+      "hq": "ऑस्ट्रेलिया की राजधानी क्या है?",
+      "o": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Perth"
+      ],
+      "ho": [
+        "सिडनी",
+        "मेलबर्न",
+        "कैनबरा",
+        "पर्थ"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Sports)",
+      "q": "The headquarters of the International Cricket Council (ICC) is located in:",
+      "hq": "अंतर्राष्ट्रीय क्रिकेट परिषद (ICC) का मुख्यालय कहाँ स्थित है?",
+      "o": [
+        "London",
+        "Melbourne",
+        "Dubai",
+        "Mumbai"
+      ],
+      "ho": [
+        "लंदन",
+        "मेलबर्न",
+        "दुबई",
+        "मुंबई"
+      ],
+      "a": 2
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "Kaziranga National Park, famous for one-horned rhinoceros, is located in which state?",
+      "hq": "एक सींग वाले गैंडे के लिए प्रसिद्ध काजीरंगा राष्ट्रीय उद्यान किस राज्य में स्थित है?",
+      "o": [
+        "West Bengal",
+        "Assam",
+        "Madhya Pradesh",
+        "Uttarakhand"
+      ],
+      "ho": [
+        "पश्चिम बंगाल",
+        "असम",
+        "मध्य प्रदेश",
+        "उत्तराखंड"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Ancient)",
+      "q": "Which is the oldest Veda among the four Vedas?",
+      "hq": "चारों वेदों में सबसे प्राचीन वेद कौन सा है?",
+      "o": [
+        "Samaveda",
+        "Yajurveda",
+        "Atharvaveda",
+        "Rigveda"
+      ],
+      "ho": [
+        "सामवेद",
+        "यजुर्वेद",
+        "अथर्ववेद",
+        "ऋग्वेद"
+      ],
+      "a": 3
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Sports)",
+      "q": "The term 'Bully' is associated with which sport?",
+      "hq": "'बुली' (Bully) शब्द किस खेल से संबंधित है?",
+      "o": [
+        "Cricket",
+        "Football",
+        "Hockey",
+        "Tennis"
+      ],
+      "ho": [
+        "क्रिकेट",
+        "फुटबॉल",
+        "हॉकी",
+        "टेनिस"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Constitutional Bodies)",
+      "q": "The Finance Commission is constituted by the President under which Article of the Constitution?",
+      "hq": "राष्ट्रपति द्वारा वित्त आयोग (Finance Commission) का गठन संविधान के किस अनुच्छेद के तहत किया जाता है?",
+      "o": [
+        "Article 280",
+        "Article 324",
+        "Article 148",
+        "Article 315"
+      ],
+      "ho": [
+        "अनुच्छेद 280",
+        "अनुच्छेद 324",
+        "अनुच्छेद 148",
+        "अनुच्छेद 315"
+      ],
+      "a": 0
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "Which is the highest civilian award in India?",
+      "hq": "भारत का सर्वोच्च नागरिक सम्मान कौन सा है?",
+      "o": [
+        "Padma Vibhushan",
+        "Padma Bhushan",
+        "Param Vir Chakra",
+        "Bharat Ratna"
+      ],
+      "ho": [
+        "पद्म विभूषण",
+        "पद्म भूषण",
+        "परमवीर चक्र",
+        "भारत रत्न"
+      ],
+      "a": 3
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "In which year was the Reserve Bank of India (RBI) established?",
+      "hq": "भारतीय रिजर्व बैंक (RBI) की स्थापना किस वर्ष हुई थी?",
+      "o": [
+        "1947",
+        "1935",
+        "1950",
+        "1955"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Awards)",
+      "q": "The Dadasaheb Phalke Award is associated with which field?",
+      "hq": "दादासाहेब फाल्के पुरस्कार किस क्षेत्र से संबंधित है?",
+      "o": [
+        "Literature",
+        "Sports",
+        "Cinema",
+        "Journalism"
+      ],
+      "ho": [
+        "साहित्य",
+        "खेल",
+        "सिनेमा",
+        "पत्रकारिता"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Atmosphere)",
+      "q": "The Ozone layer, which restricts ultraviolet radiation, is located in which layer of the atmosphere?",
+      "hq": "ओजोन परत (Ozone layer), जो पराबैंगनी विकिरण को रोकती है, वायुमंडल की किस परत में स्थित है?",
+      "o": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Ionosphere"
+      ],
+      "ho": [
+        "क्षोभमंडल (Troposphere)",
+        "समतापमंडल (Stratosphere)",
+        "मध्यमंडल (Mesosphere)",
+        "आयनमंडल (Ionosphere)"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Books and Authors",
+      "q": "Who is the author of the autobiography \"Wings of Fire\"?",
+      "hq": "आत्मकथा \"विंग्स ऑफ फायर\" (Wings of Fire) के लेखक कौन हैं?",
+      "o": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "A.P.J. Abdul Kalam",
+        "Sachin Tendulkar"
+      ],
+      "ho": [
+        "जवाहरलाल नेहरू",
+        "महात्मा गांधी",
+        "ए.पी.जे. अब्दुल कलाम",
+        "सचिन तेंदुलकर"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Days)",
+      "q": "United Nations Day is celebrated every year on:",
+      "hq": "संयुक्त राष्ट्र दिवस (United Nations Day) हर साल कब मनाया जाता है?",
+      "o": [
+        "October 24",
+        "November 14",
+        "December 10",
+        "September 21"
+      ],
+      "ho": [
+        "24 अक्टूबर",
+        "14 नवंबर",
+        "10 दिसंबर",
+        "21 सितंबर"
+      ],
+      "a": 0
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Constitution)",
+      "q": "Which Article of the Indian Constitution abolishes 'Untouchability'?",
+      "hq": "भारतीय संविधान का कौन सा अनुच्छेद 'अस्पृश्यता' (Untouchability) को समाप्त करता है?",
+      "o": [
+        "Article 16",
+        "Article 18",
+        "Article 17",
+        "Article 21"
+      ],
+      "ho": [
+        "अनुच्छेद 16",
+        "अनुच्छेद 18",
+        "अनुच्छेद 17",
+        "अनुच्छेद 21"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Culture (Festivals)",
+      "q": "'Bihu' is the most important festival of which state?",
+      "hq": "'बिहू' किस राज्य का सबसे महत्वपूर्ण त्योहार है?",
+      "o": [
+        "Assam",
+        "Odisha",
+        "West Bengal",
+        "Tripura"
+      ],
+      "ho": [
+        "असम",
+        "ओडिशा",
+        "पश्चिम बंगाल",
+        "त्रिपुरा"
+      ],
+      "a": 0
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (National Parks)",
+      "q": "Which was the first National Park established in India?",
+      "hq": "भारत में स्थापित पहला राष्ट्रीय उद्यान कौन सा था?",
+      "o": [
+        "Kaziranga National Park",
+        "Gir National Park",
+        "Jim Corbett National Park",
+        "Kanha National Park"
+      ],
+      "ho": [
+        "काजीरंगा राष्ट्रीय उद्यान",
+        "गिर राष्ट्रीय उद्यान",
+        "जिम कॉर्बेट राष्ट्रीय उद्यान",
+        "कान्हा राष्ट्रीय उद्यान"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Emergency)",
+      "q": "Financial Emergency can be declared by the President under which Article?",
+      "hq": "राष्ट्रपति द्वारा वित्तीय आपातकाल (Financial Emergency) किस अनुच्छेद के तहत घोषित किया जा सकता है?",
+      "o": [
+        "Article 352",
+        "Article 356",
+        "Article 360",
+        "Article 370"
+      ],
+      "ho": [
+        "अनुच्छेद 352",
+        "अनुच्छेद 356",
+        "अनुच्छेद 360",
+        "अनुच्छेद 370"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Economy (Revolutions)",
+      "q": "The 'Blue Revolution' in India is related to the increase in production of:",
+      "hq": "भारत में 'नीली क्रांति' (Blue Revolution) किसके उत्पादन में वृद्धि से संबंधित है?",
+      "o": [
+        "Milk",
+        "Oilseeds",
+        "Fish",
+        "Indigo"
+      ],
+      "ho": [
+        "दूध",
+        "तिलहन",
+        "मछली",
+        "नील"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Parliament)",
+      "q": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "hq": "राज्यसभा का पदेन (ex-officio) अध्यक्ष कौन होता है?",
+      "o": [
+        "President of India",
+        "Prime Minister",
+        "Vice-President of India",
+        "Speaker of Lok Sabha"
+      ],
+      "ho": [
+        "भारत के राष्ट्रपति",
+        "प्रधानमंत्री",
+        "भारत के उपराष्ट्रपति",
+        "लोकसभा अध्यक्ष"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (World)",
+      "q": "Which is the largest desert in the world?",
+      "hq": "विश्व का सबसे बड़ा रेगिस्तान कौन सा है?",
+      "o": [
+        "Sahara Desert",
+        "Arabian Desert",
+        "Gobi Desert",
+        "Antarctic Desert"
+      ],
+      "ho": [
+        "सहारा रेगिस्तान",
+        "अरब रेगिस्तान",
+        "गोबी रेगिस्तान",
+        "अंटार्कटिक रेगिस्तान"
+      ],
+      "a": 3
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (General)",
+      "q": "The Tropic of Cancer passes through how many Indian states?",
+      "hq": "कर्क रेखा (Tropic of Cancer) कितने भारतीय राज्यों से होकर गुजरती है?",
+      "o": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Personalities)",
+      "q": "Who was popularly known as 'Frontier Gandhi' (Simant Gandhi)?",
+      "hq": "किसे लोकप्रिय रूप से 'सीमांत गांधी' (फ्रंटियर गांधी) के रूप में जाना जाता था?",
+      "o": [
+        "Maulana Abul Kalam Azad",
+        "Khan Abdul Ghaffar Khan",
+        "Mohammad Ali Jinnah",
+        "Shaukat Ali"
+      ],
+      "ho": [
+        "मौलाना अबुल कलाम आजाद",
+        "खान अब्दुल गफ्फार खान",
+        "मोहम्मद अली जिन्ना",
+        "शौकत अली"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Culture (Dance)",
+      "q": "'Mohiniyattam' is a classical dance form belonging to which state?",
+      "hq": "'मोहिनीअट्टम' किस राज्य का शास्त्रीय नृत्य रूप है?",
+      "o": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "ho": [
+        "तमिलनाडु",
+        "कर्नाटक",
+        "केरल",
+        "आंध्र प्रदेश"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Economy (Banking)",
+      "q": "Where is the Head Office of the Reserve Bank of India (RBI) located?",
+      "hq": "भारतीय रिजर्व बैंक (RBI) का प्रधान कार्यालय कहाँ स्थित है?",
+      "o": [
+        "New Delhi",
+        "Kolkata",
+        "Chennai",
+        "Mumbai"
+      ],
+      "ho": [
+        "नई दिल्ली",
+        "कोलकाता",
+        "चेन्नई",
+        "मुंबई"
+      ],
+      "a": 3
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "Who presides over the joint sitting of the two Houses of Parliament?",
+      "hq": "संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता कौन करता है?",
+      "o": [
+        "President of India",
+        "Prime Minister",
+        "Chairman of Rajya Sabha",
+        "Speaker of Lok Sabha"
+      ],
+      "ho": [
+        "भारत के राष्ट्रपति",
+        "प्रधानमंत्री",
+        "राज्यसभा के सभापति",
+        "लोकसभा अध्यक्ष"
+      ],
+      "a": 3
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (World)",
+      "q": "Which is the longest river in the world?",
+      "hq": "विश्व की सबसे लंबी नदी कौन सी है?",
+      "o": [
+        "Amazon",
+        "Yangtze",
+        "Nile",
+        "Mississippi"
+      ],
+      "ho": [
+        "अमेज़न",
+        "यांग्त्ज़ी",
+        "नील",
+        "मिसिसिपी"
+      ],
+      "a": 2
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "Which country is known as the 'Land of the Rising Sun'?",
+      "hq": "किस देश को 'उगते सूरज की भूमि' के रूप में जाना जाता है?",
+      "o": [
+        "Norway",
+        "Japan",
+        "Australia",
+        "Finland"
+      ],
+      "ho": [
+        "नॉर्वे",
+        "जापान",
+        "ऑस्ट्रेलिया",
+        "फिनलैंड"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Battles)",
+      "q": "The First Battle of Panipat (1526) was fought between Babur and whom?",
+      "hq": "पानीपत की पहली लड़ाई (1526) बाबर और किसके बीच लड़ी गई थी?",
+      "o": [
+        "Hemu",
+        "Ibrahim Lodi",
+        "Rana Sanga",
+        "Sher Shah Suri"
+      ],
+      "ho": [
+        "हेमू",
+        "इब्राहिम लोदी",
+        "राणा सांगा",
+        "शेरशाह सूरी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (President)",
+      "q": "Who appoints the Governor of a State in India?",
+      "hq": "भारत में किसी राज्य के राज्यपाल (Governor) की नियुक्ति कौन करता है?",
+      "o": [
+        "Chief Minister",
+        "Prime Minister",
+        "President of India",
+        "Chief Justice of India"
+      ],
+      "ho": [
+        "मुख्यमंत्री",
+        "प्रधानमंत्री",
+        "भारत के राष्ट्रपति",
+        "भारत के मुख्य न्यायाधीश"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Mughal Empire)",
+      "q": "Which Mughal Emperor introduced the new religion called 'Din-i-Ilahi'?",
+      "hq": "किस मुगल सम्राट ने 'दीन-ए-इलाही' नामक नए धर्म की शुरुआत की थी?",
+      "o": [
+        "Babur",
+        "Humayun",
+        "Akbar",
+        "Jahangir"
+      ],
+      "ho": [
+        "बाबर",
+        "हुमायूं",
+        "अकबर",
+        "जहाँगीर"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Passes)",
+      "q": "Nathu La Pass, a major trade route between India and China, is located in which state?",
+      "hq": "नाथू ला दर्रा (Nathu La Pass), जो भारत और चीन के बीच एक प्रमुख व्यापार मार्ग है, किस राज्य में स्थित है?",
+      "o": [
+        "Arunachal Pradesh",
+        "Uttarakhand",
+        "Himachal Pradesh",
+        "Sikkim"
+      ],
+      "ho": [
+        "अरुणाचल प्रदेश",
+        "उत्तराखंड",
+        "हिमाचल प्रदेश",
+        "सिक्किम"
+      ],
+      "a": 3
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "Mathematics",
+      "t": "Time, Speed and Distance (Trains)",
+      "q": "A train crosses a pole in 12 seconds and a bridge of length 170 meters in 22 seconds. What is the speed of the train in km/h?",
+      "hq": "एक ट्रेन 12 सेकंड में एक खंभे को और 22 सेकंड में 170 मीटर लंबे पुल को पार करती है। किमी/घंटा में ट्रेन की गति क्या है?",
+      "o": [
+        "61.2 km/h",
+        "65 km/h",
+        "54 km/h",
+        "60 km/h"
+      ],
+      "ho": [
+        "61.2 किमी/घंटा",
+        "65 किमी/घंटा",
+        "54 किमी/घंटा",
+        "60 किमी/घंटा"
+      ],
+      "a": 0,
+      "e": "1. Time to cross pole ($L_{train}$) = 12s.\n2. Time to cross bridge ($L_{train} + 170$) = 22s.\n3. The extra 10 seconds ($22 - 12$) is used to cover the 170 m bridge length.\n4. Speed = $\\frac{\\text{Distance}}{\\text{Time}} = \\frac{170}{10} = 17 \\text{ m/s}$.\n5. Convert to km/h: $17 \\times \\frac{18}{5} = \\frac{306}{5} = 61.2 \\text{ km/h}$.\nAnswer is 61.2 km/h.\n",
+      "he": "1. खंभे को पार करने में लगा समय ($L_{train}$) = 12s।\n2. पुल को पार करने में लगा समय ($L_{train} + 170$) = 22s।\n3. अतिरिक्त 10 सेकंड ($22 - 12$) का उपयोग 170 मीटर लंबे पुल को कवर करने के लिए किया जाता है।\n4. गति = $\\frac{\\text{दूरी}}{\\text{समय}} = \\frac{170}{10} = 17 \\text{ मीटर/सेकंड}$।\n5. किमी/घंटा में बदलें: $17 \\times \\frac{18}{5} = \\frac{306}{5} = 61.2 \\text{ किमी/घंटा}$।\nउत्तर 61.2 किमी/घंटा है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit and Loss (Selling Price)",
+      "q": "By selling an article for ₹720, a shopkeeper incurs a loss of 10%. At what price should he sell it to gain 5%?",
+      "hq": "एक वस्तु को ₹720 में बेचने पर, एक दुकानदार को 10% की हानि होती है। 5% लाभ प्राप्त करने के लिए उसे इसे किस मूल्य पर बेचना चाहिए?",
+      "o": [
+        "₹840",
+        "₹800",
+        "₹820",
+        "₹850"
+      ],
+      "a": 0,
+      "e": "1. Selling Price (SP1) = 90% of CP = ₹720.\n2. We need SP2 = 105% of CP.\n3. Unitary Method:\n$90\\% \\to 720$.\n$1\\% \\to \\frac{720}{90} = 8$.\n$105\\% \\to 8 \\times 105 = 840$.\nAnswer is ₹840.\n",
+      "he": "1. विक्रय मूल्य (SP1) = क्रय मूल्य (CP) का 90% = ₹720।\n2. हमें SP2 = CP का 105% ज्ञात करना है।\n3. ऐकिक नियम (Unitary Method):\n$90\\% \\to 720$.\n$1\\% \\to 720/90 = 8$.\n$105\\% \\to 8 \\times 105 = 840$.\nउत्तर ₹840 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit and Loss",
+      "q": "By selling an article for ₹2400, a shopkeeper incurs a loss of 20%. At what price should he sell it to gain a profit of 20%?",
+      "hq": "एक वस्तु को ₹2400 में बेचने पर, एक दुकानदार को 20% की हानि होती है। 20% का लाभ प्राप्त करने के लिए उसे इसे किस मूल्य पर बेचना चाहिए?",
+      "o": [
+        "₹3600",
+        "₹3000",
+        "₹3200",
+        "₹2800"
+      ],
+      "a": 0,
+      "e": "1. Loss of 20% means Selling Price (SP) is 80% of Cost Price (CP).\nSo, 80% of CP = ₹2400.\n2. We need a gain of 20%, which means the New SP should be 120% of CP.\n3. Direct Calculation:\nNew SP = (Given SP ÷ Old %) × New %\nNew SP = (2400 ÷ 80) × 120\nNew SP = 30 × 120 = ₹3600.",
+      "he": "1. 20% की हानि का अर्थ है कि विक्रय मूल्य (SP), क्रय मूल्य (CP) का 80% है।\nतो, CP का 80% = ₹2400।\n2. हमें 20% का लाभ चाहिए, जिसका अर्थ है कि नया विक्रय मूल्य (New SP) क्रय मूल्य का 120% होना चाहिए।\n3. सीधी गणना:\nनया विक्रय मूल्य = (दिया गया SP ÷ पुराना %) × नया %\nनया विक्रय मूल्य = (2400 ÷ 80) × 120\nनया विक्रय मूल्य = 30 × 120 = ₹3600।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit and Loss (Marked Price)",
+      "q": "A trader marks his goods at such a price that after allowing a discount of 20%, he still makes a profit of 20%. By what percentage is the Marked Price above the Cost Price?",
+      "hq": "एक व्यापारी अपनी वस्तुओं पर इस प्रकार मूल्य अंकित करता है कि 20% की छूट देने के बाद भी उसे 20% का लाभ होता है। अंकित मूल्य (Marked Price), क्रय मूल्य (Cost Price) से कितने प्रतिशत अधिक है?",
+      "o": [
+        "40%",
+        "50%",
+        "25%",
+        "60%"
+      ],
+      "a": 1,
+      "e": "1. Shortcut Ratio:\n$\\frac{MP}{CP} = \\frac{100 + P\\%}{100 - D\\%}$.\n2. Substitute:\n$\\frac{MP}{CP} = \\frac{100 + 20}{100 - 20} = \\frac{120}{80} = \\frac{3}{2}$.\n3. MP is 3, CP is 2.\nIncrease = $3 - 2 = 1$.\nPercentage Increase = $\\frac{1}{2} \\times 100 = 50\\%$.\nAnswer is 50%.\n",
+      "he": "1. शॉर्टकट अनुपात (Ratio):\n$\\frac{MP}{CP} = \\frac{100 + P\\%}{100 - D\\%}$।\n2. मान रखने पर:\n$\\frac{MP}{CP} = \\frac{100 + 20}{100 - 20} = \\frac{120}{80} = \\frac{3}{2}$।\n3. यहाँ MP 3 है और CP 2 है।\nवृद्धि = $3 - 2 = 1$।\nप्रतिशत वृद्धि = $\\frac{1}{2} \\times 100 = 50\\%$।\nउत्तर 50% है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Work (Fractional Work)",
+      "q": "A can complete $\\frac{1}{2}$ of a work in 5 days, and B can complete $\\frac{3}{5}$ of the same work in 9 days. In how many days can they complete the full work together?",
+      "hq": "A किसी कार्य का $\\frac{1}{2}$ भाग 5 दिनों में पूरा कर सकता है, और B उसी कार्य का $\\frac{3}{5}$ भाग 9 दिनों में पूरा कर सकता है। वे दोनों मिलकर पूरा कार्य कितने दिनों में कर सकते हैं?",
+      "o": [
+        "8 days",
+        "6 days",
+        "10 days",
+        "7.5 days"
+      ],
+      "ho": [
+        "8 दिन",
+        "6 दिन",
+        "10 दिन",
+        "7.5 दिन"
+      ],
+      "a": 1,
+      "e": "1. Find time for Full Work:",
+      "he": "1. पूरा कार्य करने के लिए समय निकालें:\nA = $5 \\times 2 = 10$ दिन।\nB = $9 \\times \\frac{5}{3} = 15$ दिन।\n2. माना कुल कार्य = LCM(10, 15) = 30 इकाई।\nदक्षता: A = 3, B = 2।\n3. संयुक्त समय = $\\frac{30}{3+2} = \\frac{30}{5} = 6$ दिन।\nउत्तर 6 दिन है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Number System (LCM Applications)",
+      "q": "Five bells begin to toll together and toll respectively at intervals of 6, 7, 8, 9 and 12 seconds. After how many seconds will they toll together again?",
+      "hq": "पाँच घंटियाँ एक साथ बजना शुरू होती हैं और क्रमशः 6, 7, 8, 9 और 12 सेकंड के अंतराल पर बजती हैं। कितने सेकंड बाद वे फिर से एक साथ बजेंगी?",
+      "o": [
+        "72 seconds",
+        "612 seconds",
+        "504 seconds",
+        "318 seconds"
+      ],
+      "ho": [
+        "72 सेकंड",
+        "612 सेकंड",
+        "504 सेकंड",
+        "318 सेकंड"
+      ],
+      "a": 2,
+      "e": "1. Find LCM of 6, 7, 8, 9, 12.\n$6 = 2 \\times 3$\n$7 = 7$\n$8 = 2^3$\n$9 = 3^2$\n$12 = 2^2 \\times 3$\n2. LCM = $2^3 \\times 3^2 \\times 7$\n$= 8 \\times 9 \\times 7$\n$= 72 \\times 7 = 504$ seconds.\nAnswer is 504 seconds.\n",
+      "he": "1. 6, 7, 8, 9, 12 का लघुत्तम समापवर्त्य (LCM) ज्ञात करें।\n$6 = 2 \\times 3$\n$7 = 7$\n$8 = 2^3$\n$9 = 3^2$\n$12 = 2^2 \\times 3$\n2. LCM = $2^3 \\times 3^2 \\times 7$\n$= 8 \\times 9 \\times 7$\n$= 72 \\times 7 = 504$ सेकंड।\nउत्तर 504 सेकंड है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Percentages (Venn Diagram)",
+      "q": "In an examination, 60% of students passed in English, 70% passed in Mathematics, and 50% passed in both. What percentage of students failed in both subjects?",
+      "hq": "एक परीक्षा में, 60% छात्र अंग्रेजी में उत्तीर्ण हुए, 70% गणित में उत्तीर्ण हुए और 50% दोनों में उत्तीर्ण हुए। कितने प्रतिशत छात्र दोनों विषयों में अनुत्तीर्ण हुए?",
+      "o": [
+        "10%",
+        "20%",
+        "30%",
+        "15%"
+      ],
+      "a": 1,
+      "e": "1. Formula: $n(A \\cup B) = n(A) + n(B) - n(A \\cap B)$.\n2. Pass in at least one = $60 + 70 - 50 = 80\\%$.\n3. Fail in both = Total - Pass in at least one.\n$100\\% - 80\\% = 20\\%$.\nAnswer is 20%.\n\n[Image of venn diagram set theory]\n\n",
+      "he": "1. सूत्र: $n(A \\cup B) = n(A) + n(B) - n(A \\cap B)$।\n2. कम से कम एक विषय में उत्तीर्ण = $60 + 70 - 50 = 80\\%$।\n3. दोनों में अनुत्तीर्ण = कुल - कम से कम एक में उत्तीर्ण।\n$100\\% - 80\\% = 20\\%$।\nउत्तर 20% है।\n\n\n\n[Image of venn diagram set theory]",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Work",
+      "q": "A and B together can complete a piece of work in 12 days, B and C together in 15 days, and C and A together in 20 days. In how many days can they complete the work if they all work together?",
+      "hq": "A और B मिलकर एक काम को 12 दिनों में पूरा कर सकते हैं, B और C मिलकर 15 दिनों में, और C और A मिलकर 20 दिनों में पूरा कर सकते हैं। यदि वे सभी एक साथ काम करते हैं तो वे कितने दिनों में काम पूरा कर सकते हैं?",
+      "o": [
+        "14 days",
+        "5 days",
+        "10 days",
+        "8 days"
+      ],
+      "ho": [
+        "14 दिन",
+        "5 दिन",
+        "10 दिन",
+        "8 दिन"
+      ],
+      "a": 2,
+      "e": "1. Let Total Work be the LCM of 12, 15, and 20 = 60 units.\n2. Efficiency of (A + B) = 60/12 = 5 units/day.\n3. Efficiency of (B + C) = 60/15 = 4 units/day.\n4. Efficiency of (C + A) = 60/20 = 3 units/day.\n5. Adding all: 2(A + B + C) = 5 + 4 + 3 = 12 units/day.\n6. Efficiency of (A + B + C) = 12 / 2 = 6 units/day.\n7. Time taken = Total Work / Total Efficiency = 60 / 6 = 10 days.\n",
+      "he": "1. मान लीजिए कि कुल काम 12, 15 और 20 का ल.स.प. (LCM) = 60 यूनिट है।\n2. (A + B) की कार्यक्षमता = 60/12 = 5 यूनिट/दिन।\n3. (B + C) की कार्यक्षमता = 60/15 = 4 यूनिट/दिन।\n4. (C + A) की कार्यक्षमता = 60/20 = 3 यूनिट/दिन।\n5. सबको जोड़ने पर: 2(A + B + C) = 5 + 4 + 3 = 12 यूनिट/दिन।\n6. (A + B + C) की कार्यक्षमता = 12 / 2 = 6 यूनिट/दिन।\n7. लिया गया समय = कुल कार्य / कुल कार्यक्षमता = 60 / 6 = 10 दिन।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Trigonometry (Ratios)",
+      "q": "If $5 \\tan \\theta = 4$, then find the value of $\\frac{5 \\sin \\theta - 3 \\cos \\theta}{5 \\sin \\theta + 2 \\cos \\theta}$.",
+      "hq": "यदि $5 \\tan \\theta = 4$ है, तो $\\frac{5 \\sin \\theta - 3 \\cos \\theta}{5 \\sin \\theta + 2 \\cos \\theta}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "1/6",
+        "1/3",
+        "2/5",
+        "1/4"
+      ],
+      "a": 0,
+      "e": "1. Given $5 \\tan \\theta = 4 \\implies \\tan \\theta = \\frac{4}{5}$.\n2. Divide the numerator and denominator of the expression by $\\cos \\theta$:\n$\\frac{5 (\\frac{\\sin \\theta}{\\cos \\theta}) - 3}{5 (\\frac{\\sin \\theta}{\\cos \\theta}) + 2}$.\n3. Substitute $\\tan \\theta = \\frac{\\sin \\theta}{\\cos \\theta}$:\n$\\frac{5 \\tan \\theta - 3}{5 \\tan \\theta + 2}$.\n4. Since $5 \\tan \\theta = 4$, substitute directly:\n$\\frac{4 - 3}{4 + 2} = \\frac{1}{6}$.\nAnswer is 1/6.",
+      "he": "1. दिया गया है $5 \\tan \\theta = 4 \\implies \\tan \\theta = 4/5$।\n2. व्यंजक के अंश (numerator) और हर (denominator) को $\\cos \\theta$ से विभाजित करें:\n$\\frac{5 (\\frac{\\sin \\theta}{\\cos \\theta}) - 3}{5 (\\frac{\\sin \\theta}{\\cos \\theta}) + 2}$।\n3. $\\tan \\theta = \\frac{\\sin \\theta}{\\cos \\theta}$ प्रतिस्थापित करें:\n$\\frac{5 \\tan \\theta - 3}{5 \\tan \\theta + 2}$।\n4. चूँकि $5 \\tan \\theta = 4$ है, सीधे मान रखें:\n$\\frac{4 - 3}{4 + 2} = 1/6$।\nउत्तर 1/6 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Simple Interest (Years)",
+      "q": "In how many years will a sum of ₹1,200 amount to ₹1,800 at a simple interest rate of 12.5% per annum?",
+      "hq": "कितने वर्षों में ₹1,200 की राशि 12.5% वार्षिक साधारण ब्याज की दर से ₹1,800 हो जाएगी?",
+      "o": [
+        "3 years",
+        "4 years",
+        "5 years",
+        "3.5 years"
+      ],
+      "ho": [
+        "3 वर्ष",
+        "4 वर्ष",
+        "5 वर्ष",
+        "3.5 वर्ष"
+      ],
+      "a": 1,
+      "e": "1. Principal ($P$) = 1,200. Amount ($A$) = 1,800.\nInterest ($SI$) = $1,800 - 1,200 = 600$.\n2. Formula: $T = \\frac{100 \\times SI}{P \\times R}$.\n3. Substitute:\n$T = \\frac{100 \\times 600}{1200 \\times 12.5}$.\n$T = \\frac{60000}{15000} = 4$.\nAnswer is 4 years.\n",
+      "he": "1. मूलधन ($P$) = 1,200। मिश्रधन ($A$) = 1,800।\nब्याज ($SI$) = $1,800 - 1,200 = 600$।\n2. सूत्र: $T = \\frac{100 \\times SI}{P \\times R}$।\n3. मान रखने पर:\n$T = \\frac{100 \\times 600}{1200 \\times 12.5}$।\n$T = \\frac{60000}{15000} = 4$।\nउत्तर 4 वर्ष है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Pipes and Cisterns (Corrected)",
+      "q": "Pipe A can fill a tank in 20 minutes and Pipe B can fill it in 30 minutes. A waste pipe C can empty the full tank in 15 minutes. If all three are opened together, in how many minutes will the tank be full?",
+      "hq": "पाइप A एक टैंक को 20 मिनट में भर सकता है और पाइप B इसे 30 मिनट में भर सकता है। एक निकास पाइप C भरे हुए टैंक को 15 मिनट में खाली कर सकता है। यदि तीनों को एक साथ खोल दिया जाए, तो टैंक कितने मिनट में भर जाएगा?",
+      "o": [
+        "45 min",
+        "60 min",
+        "50 min",
+        "40 min"
+      ],
+      "ho": [
+        "45 मिनट",
+        "60 मिनट",
+        "50 मिनट",
+        "40 मिनट"
+      ],
+      "a": 1,
+      "e": "1. LCM(20, 30, 15) = 60 units.\n2. Efficiencies:\nA = +3 units/min\nB = +2 units/min\nC = -4 units/min\n3. Net Efficiency = $3 + 2 - 4 = +1$ unit/min.\n4. Time = $\\frac{60}{1} = 60$ minutes.\nAnswer is 60 min.\n",
+      "he": "1. LCM(20, 30, 15) = 60 इकाई।\n2. दक्षता:\nA = +3 इकाई/मिनट\nB = +2 इकाई/मिनट\nC = -4 इकाई/मिनट\n3. शुद्ध दक्षता = $3 + 2 - 4 = +1$ इकाई/मिनट।\n4. समय = $60/1 = 60$ मिनट।\nउत्तर 60 मिनट है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration (Cylinders)",
+      "q": "The radius of a cylinder is doubled and its height is halved. What is the ratio of the new curved surface area to the original curved surface area?",
+      "hq": "एक बेलन (cylinder) की त्रिज्या दोगुनी कर दी जाती है और उसकी ऊँचाई आधी कर दी जाती है। नए वक्र पृष्ठीय क्षेत्रफल (curved surface area) का मूल वक्र पृष्ठीय क्षेत्रफल से अनुपात क्या है?",
+      "o": [
+        "1:1",
+        "2:1",
+        "1:2",
+        "4:1"
+      ],
+      "a": 0,
+      "e": "1. Formula for Curved Surface Area (CSA) = $2\\pi rh$.\n2. Original CSA ($A_1$) = $2\\pi rh$.\n3. New dimensions: Radius $R = 2r$, Height $H = h/2$.\n4. New CSA ($A_2$) = $2\\pi (2r)(h/2)$\n$= 2\\pi rh$.\n5. Ratio $A_2 : A_1 = 2\\pi rh : 2\\pi rh = 1 : 1$.\nAnswer is 1:1.",
+      "he": "1. वक्र पृष्ठीय क्षेत्रफल (CSA) का सूत्र = $2\\pi rh$।\n2. मूल CSA ($A_1$) = $2\\pi rh$।\n3. नए आयाम: त्रिज्या $R = 2r$, ऊँचाई $H = h/2$।\n4. नया CSA ($A_2$) = $2\\pi (2r)(h/2)$\n$= 2\\pi rh$।\n5. अनुपात $A_2 : A_1 = 2\\pi rh : 2\\pi rh = 1 : 1$।\nउत्तर 1:1 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time, Speed and Distance (Same Direction)",
+      "q": "Two trains 100 m and 120 m long are running in the same direction with speeds of 72 km/h and 36 km/h. In how much time will the first train cross the second?",
+      "hq": "100 मीटर और 120 मीटर लंबी दो ट्रेनें 72 किमी/घंटा और 36 किमी/घंटा की गति से एक ही दिशा में चल रही हैं। पहली ट्रेन दूसरी ट्रेन को कितने समय में पार करेगी?",
+      "o": [
+        "20 seconds",
+        "22 seconds",
+        "30 seconds",
+        "25 seconds"
+      ],
+      "ho": [
+        "20 सेकंड",
+        "22 सेकंड",
+        "30 सेकंड",
+        "25 सेकंड"
+      ],
+      "a": 1,
+      "e": "1. Relative Speed (Same Direction) = $72 - 36 = 36$ km/h.\nConvert to m/s: $36 \\times \\frac{5}{18} = 10$ m/s.\n2. Total Distance = Sum of lengths = $100 + 120 = 220$ m.\n3. Time = $\\frac{220}{10} = 22$ seconds.\nAnswer is 22 seconds.\n",
+      "he": "1. सापेक्ष गति (Relative Speed) (एक ही दिशा) = $72 - 36 = 36$ किमी/घंटा।\nमीटर/सेकंड में बदलें: $36 \\times \\frac{5}{18} = 10$ मीटर/सेकंड।\n2. कुल दूरी = लंबाइयों का योग = $100 + 120 = 220$ मीटर।\n3. समय = $\\frac{220}{10} = 22$ सेकंड।\nउत्तर 22 सेकंड है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Quadratic Equations)",
+      "q": "If $\\alpha$ and $\\beta$ are the roots of the equation $x^2 - 5x + k = 0$ and $\\alpha - \\beta = 1$, find the value of $k$.",
+      "hq": "यदि $\\alpha$ और $\\beta$ समीकरण $x^2 - 5x + k = 0$ के मूल (roots) हैं और $\\alpha - \\beta = 1$ है, तो $k$ का मान ज्ञात कीजिए।",
+      "o": [
+        "6",
+        "4",
+        "5",
+        "7"
+      ],
+      "a": 0,
+      "e": "1. Sum of roots: $\\alpha + \\beta = -\\frac{b}{a} = 5$.\n2. Given difference: $\\alpha - \\beta = 1$.\n3. Solving the linear system:\nAdd equations: $2\\alpha = 6 \\implies \\alpha = 3$.\nSubtract equations: $2\\beta = 4 \\implies \\beta = 2$.\n4. Product of roots: $\\alpha \\times \\beta = \\frac{c}{a} = k$.\n$3 \\times 2 = k \\implies k = 6$.\nAnswer is 6.\n",
+      "he": "1. मूलों का योग: $\\alpha + \\beta = -\\frac{b}{a} = 5$।\n2. दिया गया अंतर: $\\alpha - \\beta = 1$।\n3. रैखिक प्रणाली को हल करना:\nसमीकरणों को जोड़ें: $2\\alpha = 6 \\implies \\alpha = 3$।\nसमीकरणों को घटाएं: $2\\beta = 4 \\implies \\beta = 2$।\n4. मूलों का गुणनफल: $\\alpha \\times \\beta = \\frac{c}{a} = k$।\n$3 \\times 2 = k \\implies k = 6$।\nउत्तर 6 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit and Loss (Quantity)",
+      "q": "The cost price of 20 articles is equal to the selling price of $x$ articles. If the profit is 25%, find the value of $x$.",
+      "hq": "20 वस्तुओं का क्रय मूल्य $x$ वस्तुओं के विक्रय मूल्य के बराबर है। यदि लाभ 25% है, तो $x$ का मान ज्ञात कीजिए।",
+      "o": [
+        "15",
+        "18",
+        "16",
+        "25"
+      ],
+      "a": 2,
+      "e": "1. Relation: $CP \\times 20 = SP \\times x$.\n$\\frac{SP}{CP} = \\frac{20}{x}$.\n2. Profit is 25%, meaning $SP = 1.25 \\times CP$ (or $\\frac{SP}{CP} = \\frac{5}{4}$).\n3. Equate ratios:\n$\\frac{20}{x} = \\frac{5}{4}$.\n4. Solve for $x$:\n$5x = 80 \\implies x = 16$.\nAnswer is 16.\n",
+      "he": "1. संबंध: $CP \\times 20 = SP \\times x$.\n$\\frac{SP}{CP} = \\frac{20}{x}$.\n2. लाभ 25% है, जिसका अर्थ है $SP = 1.25 \\times CP$ (या $\\frac{SP}{CP} = \\frac{5}{4}$)।\n3. अनुपातों की तुलना करें:\n$\\frac{20}{x} = \\frac{5}{4}$.\n4. $x$ के लिए हल करें:\n$5x = 80 \\implies x = 16$.\nउत्तर 16 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Average (Speed)",
+      "q": "A man travels from City X to City Y at a speed of 40 km/h and returns at a speed of 60 km/h. What is his average speed for the entire journey?",
+      "hq": "एक व्यक्ति शहर X से शहर Y तक 40 किमी/घंटा की गति से यात्रा करता है और 60 किमी/घंटा की गति से वापस आता है। पूरी यात्रा के लिए उसकी औसत गति क्या है?",
+      "o": [
+        "50 km/h",
+        "48 km/h",
+        "52 km/h",
+        "45 km/h"
+      ],
+      "ho": [
+        "50 किमी/घंटा",
+        "48 किमी/घंटा",
+        "52 किमी/घंटा",
+        "45 किमी/घंटा"
+      ],
+      "a": 1,
+      "e": "1. Let Distance = LCM(40, 60) = 120 km (one way).\n2. Time for forward journey = $\\frac{120}{40} = 3$ hours.\nTime for return journey = $\\frac{120}{60} = 2$ hours.\n3. Total Distance = $120 + 120 = 240$ km.\nTotal Time = $3 + 2 = 5$ hours.\n4. Average Speed = $\\frac{240}{5} = 48$ km/h.\nAnswer is 48 km/h.\n",
+      "he": "1. माना दूरी = LCM(40, 60) = 120 किमी (एक तरफ की)।\n2. जाने में लगा समय = $120/40 = 3$ घंटे।\nवापसी में लगा समय = $120/60 = 2$ घंटे।\n3. कुल दूरी = $120 + 120 = 240$ किमी।\nकुल समय = $3 + 2 = 5$ घंटे।\n4. औसत गति = $240/5 = 48$ किमी/घंटा।\nउत्तर 48 किमी/घंटा है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Probability",
+      "q": "Two unbiased dice are thrown simultaneously. What is the probability that the sum of the numbers appearing on the top faces is 7?",
+      "hq": "दो निष्पक्ष पासे एक साथ फेंके जाते हैं। शीर्ष फलकों पर दिखाई देने वाली संख्याओं का योग 7 होने की प्रायिकता (probability) क्या है?",
+      "o": [
+        "1/12",
+        "1/6",
+        "5/36",
+        "7/36"
+      ],
+      "a": 1,
+      "e": "1. Total possible outcomes when throwing two dice = $6 \\times 6 = 36$.\n2. Favorable outcomes for Sum = 7:\n(1, 6), (2, 5), (3, 4), (4, 3), (5, 2), (6, 1).\nTotal favorable outcomes = 6.\n3. Probability = $\\frac{\\text{Favorable}}{\\text{Total}} = \\frac{6}{36} = \\frac{1}{6}$.\nAnswer is 1/6.\n",
+      "he": "1. दो पासे फेंकने पर कुल संभावित परिणाम = $6 \\times 6 = 36$।\n2. योग = 7 के लिए अनुकूल परिणाम:\n(1, 6), (2, 5), (3, 4), (4, 3), (5, 2), (6, 1)।\nकुल अनुकूल परिणाम = 6।\n3. प्रायिकता = $\\frac{\\text{अनुकूल}}{\\text{कुल}} = \\frac{6}{36} = \\frac{1}{6}$।\nउत्तर 1/6 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Average (Replacement)",
+      "q": "The average weight of a group of 10 persons increases by 1.5 kg when a person weighing 58 kg is replaced by a new person. What is the weight of the new person?",
+      "hq": "10 व्यक्तियों के एक समूह का औसत वजन 1.5 किग्रा बढ़ जाता है जब 58 किग्रा वजन वाले व्यक्ति के स्थान पर एक नया व्यक्ति आता है। नए व्यक्ति का वजन क्या है?",
+      "o": [
+        "63 kg",
+        "73 kg",
+        "68 kg",
+        "75 kg"
+      ],
+      "ho": [
+        "63 किग्रा",
+        "73 किग्रा",
+        "68 किग्रा",
+        "75 किग्रा"
+      ],
+      "a": 1,
+      "e": "1. Total Increase = $10 \\times 1.5 = 15$ kg.\n2. New Weight = Old Weight + Total Increase.\n$W = 58 + 15 = 73$ kg.\nAnswer is 73 kg.\n",
+      "he": "1. कुल वृद्धि = $10 \\times 1.5 = 15$ किग्रा।\n2. नया वजन = पुराना वजन + कुल वृद्धि।\n$W = 58 + 15 = 73$ किग्रा।\nउत्तर 73 किग्रा है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Identities)",
+      "q": "If $x = 7 - 4\\sqrt{3}$, find the value of $x + \\frac{1}{x}$.",
+      "hq": "यदि $x = 7 - 4\\sqrt{3}$ है, तो $x + \\frac{1}{x}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "14",
+        "8",
+        "$8\\sqrt{3}$",
+        "16"
+      ],
+      "a": 0,
+      "e": "1. Given $x = 7 - 4\\sqrt{3}$.\n2. Calculate $\\frac{1}{x}$:\n$\\frac{1}{7 - 4\\sqrt{3}} \\times \\frac{7 + 4\\sqrt{3}}{7 + 4\\sqrt{3}}$\nNumerator = $7 + 4\\sqrt{3}$.\nDenominator = $7^2 - (4\\sqrt{3})^2 = 49 - 48 = 1$.\nSo, $\\frac{1}{x} = 7 + 4\\sqrt{3}$.\n3. Value of $x + \\frac{1}{x}$:\n$(7 - 4\\sqrt{3}) + (7 + 4\\sqrt{3})$\n$= 14$.\nAnswer is 14.",
+      "he": "1. दिया गया है $x = 7 - 4\\sqrt{3}$।\n2. $\\frac{1}{x}$ का मान निकालें:\n$\\frac{1}{7 - 4\\sqrt{3}} \\times \\frac{7 + 4\\sqrt{3}}{7 + 4\\sqrt{3}}$\nअंश = $7 + 4\\sqrt{3}$।\nहर = $7^2 - (4\\sqrt{3})^2 = 49 - 48 = 1$।\nइसलिए, $\\frac{1}{x} = 7 + 4\\sqrt{3}$।\n3. $x + \\frac{1}{x}$ का मान:\n$(7 - 4\\sqrt{3}) + (7 + 4\\sqrt{3})$\n$= 14$।\nउत्तर 14 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Work (Basic LCM)",
+      "q": "A can complete a task in 12 days and B can complete the same task in 24 days. If they work together, in how many days will the task be completed?",
+      "hq": "A एक कार्य को 12 दिनों में पूरा कर सकता है और B उसी कार्य को 24 दिनों में पूरा कर सकता है। यदि वे मिलकर कार्य करते हैं, तो कार्य कितने दिनों में पूरा होगा?",
+      "o": [
+        "10 days",
+        "8 days",
+        "6 days",
+        "9 days"
+      ],
+      "ho": [
+        "10 दिन",
+        "8 दिन",
+        "6 दिन",
+        "9 दिन"
+      ],
+      "a": 1,
+      "e": "1. Let Total Work = LCM(12, 24) = 24 units.\n2. Efficiency of A = $\\frac{24}{12} = 2$ units/day.\nEfficiency of B = $\\frac{24}{24} = 1$ unit/day.\n3. Combined Efficiency = $2 + 1 = 3$ units/day.\n4. Time taken = $\\frac{\\text{Total Work}}{\\text{Combined Eff}} = \\frac{24}{3} = 8$ days.\nAnswer is 8 days.\n",
+      "he": "1. माना कुल कार्य = LCM(12, 24) = 24 इकाई।\n2. A की दक्षता = $\\frac{24}{12} = 2$ इकाई/दिन।\nB की दक्षता = $\\frac{24}{24} = 1$ इकाई/दिन।\n3. संयुक्त दक्षता = $2 + 1 = 3$ इकाई/दिन।\n4. लिया गया समय = $\\frac{\\text{कुल कार्य}}{\\text{संयुक्त दक्षता}} = \\frac{24}{3} = 8$ दिन।\nउत्तर 8 दिन है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Trains (Relative Speed)",
+      "q": "Two trains 110 m and 140 m long run at speeds of 60 km/hr and 30 km/hr respectively in opposite directions. Time taken to cross each other?",
+      "hq": "110 मीटर और 140 मीटर लंबी दो ट्रेनें क्रमशः 60 किमी/घंटा और 30 किमी/घंटा की गति से विपरीत दिशाओं में चलती हैं। एक-दूसरे को पार करने में लिया गया समय?",
+      "o": [
+        "10 sec",
+        "12 sec",
+        "8 sec",
+        "15 sec"
+      ],
+      "ho": [
+        "10 सेकंड",
+        "12 सेकंड",
+        "8 सेकंड",
+        "15 सेकंड"
+      ],
+      "a": 0,
+      "e": "**Best Method (Relative Speed):**\n1. **Relative Speed (Opposite Directions):** Add speeds.\n$60 + 30 = 90 \\text{ km/hr}$.\n2. **Convert to m/s:** (Multiply by 5/18)\n$90 \\times \\frac{5}{18} = 25 \\text{ m/s}$.\n3. **Total Distance:** Add lengths.\n$110 + 140 = 250 \\text{ m}$.\n4. **Time:**\n$$T = \\frac{\\text{Distance}}{\\text{Speed}} = \\frac{250}{25} = 10 \\text{ sec}.$$",
+      "he": "**सबसे अच्छी विधि (सापेक्ष गति):**\n1. **सापेक्ष गति (विपरीत दिशा):** गतियों को जोड़ें।\n$60 + 30 = 90 \\text{ किमी/घंटा}$।\n2. **मीटर/सेकंड में बदलें:** (5/18 से गुणा करें)\n$90 \\times \\frac{5}{18} = 25 \\text{ मीटर/सेकंड}$।\n3. **कुल दूरी:** लंबाइयों को जोड़ें।\n$110 + 140 = 250 \\text{ मीटर}$।\n4. **समय:**\n$$T = \\frac{\\text{दूरी}}{\\text{गति}} = \\frac{250}{25} = 10 \\text{ सेकंड}।$$",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Simple & Compound Interest (Difference)",
+      "q": "The difference between the Compound Interest and Simple Interest on a certain sum for 2 years at 10% per annum is ₹25. Find the sum (Principal).",
+      "hq": "किसी निश्चित राशि पर 10% वार्षिक दर से 2 वर्ष के लिए चक्रवृद्धि ब्याज (CI) और साधारण ब्याज (SI) के बीच का अंतर ₹25 है। वह राशि (मूलधन) ज्ञात कीजिए।",
+      "o": [
+        "₹2000",
+        "₹2500",
+        "₹3000",
+        "₹1500"
+      ],
+      "a": 1,
+      "e": "**Best Method (Direct Formula for 2 Years):**\nThe formula for the difference (D) between CI and SI for 2 years is:\n$$D = P \\times (\\frac{R}{100})^2$$\n\n**Calculation:**\nGiven: Difference (D) = 25, Rate (R) = 10%\n\n$$25 = P \\times (\\frac{10}{100})^2$$\n$$25 = P \\times (\\frac{1}{10})^2$$\n$$25 = P \\times \\frac{1}{100}$$\n$$P = 25 \\times 100 = 2500$$\n\n**Answer:** ₹2500\n",
+      "he": "**सबसे अच्छी विधि (2 वर्ष के लिए सीधा सूत्र):**\n2 वर्ष के लिए CI और SI के बीच के अंतर (D) का सूत्र है:\n$$D = P \\times (\\frac{R}{100})^2$$\n\n**गणना:**\nदिया गया है: अंतर (D) = 25, दर (R) = 10%\n\n$$25 = P \\times (\\frac{10}{100})^2$$\n$$25 = P \\times (\\frac{1}{10})^2$$\n$$25 = P \\times \\frac{1}{100}$$\n$$P = 25 \\times 100 = 2500$$\n\n**उत्तर:** ₹2500",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Number System",
+      "q": "What is the remainder when $(17^{200} + 1)$ is divided by 16?",
+      "hq": "$(17^{200} + 1)$ को 16 से विभाजित करने पर शेषफल क्या होगा?",
+      "o": [
+        "1",
+        "2",
+        "15",
+        "0"
+      ],
+      "a": 1,
+      "e": "1. We can write $17$ as $(16 + 1)$.\n2. The expression becomes $((16 + 1)^{200} + 1) / 16$.\n3. By Binomial expansion, every term in $(16+1)^{200}$ contains a factor of 16 except the last term, which is $1^{200}$.\n4. So, remainder of $\\frac{17^{200}}{16}$ is $1^{200} = 1$.\n5. Total remainder = Remainder of 17^200 + Remainder of 1\n$= 1 + 1 = 2$.\nAnswer is 2.\n",
+      "he": "1. हम $17$ को $(16 + 1)$ के रूप में लिख सकते हैं।\n2. व्यंजक $((16 + 1)^{200} + 1) / 16$ बन जाता है।\n3. द्विपद प्रसार (Binomial expansion) के अनुसार, $(16+1)^{200}$ के प्रत्येक पद में 16 एक गुणनखंड के रूप में होगा, सिवाय अंतिम पद के जो $1^{200}$ है।\n4. इसलिए, $\\frac{17^{200}}{16}$ का शेषफल $1^{200} = 1$ है।\n5. कुल शेषफल $= 17^{200}$ का शेषफल + 1 का शेषफल\n$= 1 + 1 = 2$\nउत्तर 2 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Work (Wages)",
+      "q": "A and B can do a piece of work in 10 days and 15 days respectively. They undertook to complete the work for ₹3,000. The share of A in the wages is:",
+      "hq": "A और B किसी कार्य को क्रमशः 10 दिन और 15 दिन में कर सकते हैं। उन्होंने ₹3,000 में कार्य पूरा करने का जिम्मा लिया। मजदूरी में A का हिस्सा कितना है?",
+      "o": [
+        "₹1,200",
+        "₹1,500",
+        "₹1,800",
+        "₹2,000"
+      ],
+      "a": 2,
+      "e": "1. Efficiency of A = $1/10$ or 3 units (if Total Work = 30).\nEfficiency of B = $1/15$ or 2 units.\n2. Wages are distributed in ratio of Efficiency (work done per day).\nRatio A:B = $3 : 2$.\n3. Total parts = $3 + 2 = 5$.\nTotal Money = ₹3,000.\n1 Part = $3000 / 5 = 600$.\n4. A's Share (3 parts) = $3 \\times 600 = 1,800$.\nAnswer is ₹1,800.\n",
+      "he": "1. A की दक्षता = $1/10$ या 3 इकाई (यदि कुल कार्य = 30)।\nB की दक्षता = $1/15$ या 2 इकाई।\n2. मजदूरी दक्षता (प्रतिदिन किए गए कार्य) के अनुपात में वितरित की जाती है।\nअनुपात A:B = $3 : 2$।\n3. कुल हिस्से = $3 + 2 = 5$।\nकुल राशि = ₹3,000।\n1 हिस्सा = $3000 / 5 = 600$।\n4. A का हिस्सा (3 हिस्से) = $3 \\times 600 = 1,800$।\nउत्तर ₹1,800 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "LCM & HCF (Repetition)",
+      "q": "Three bells ring at intervals of 15, 20, and 30 minutes respectively. If they all rang together at 11:00 AM, at what time will they ring together again?",
+      "hq": "तीन घंटियाँ क्रमशः 15, 20 और 30 मिनट के अंतराल पर बजती हैं। यदि वे सभी सुबह 11:00 बजे एक साथ बजीं, तो वे दोबारा एक साथ कब बजेंगी?",
+      "o": [
+        "11:30 AM",
+        "12:00 PM",
+        "12:30 PM",
+        "1:00 PM"
+      ],
+      "a": 1,
+      "e": "**Best Method (LCM Logic):**\nEvents repeating together happen at the **LCM** of their intervals.\n\n1. Find LCM of 15, 20, 30.\n* Largest number is 30.\n* 30 is divisible by 15 (Yes).\n* 30 is divisible by 20 (No).\n* Next multiple of 30 is 60.\n* 60 is divisible by 15 and 20.\n2. LCM = 60 minutes = **1 Hour**.\n\n**Time:** 11:00 AM + 1 Hour = **12:00 PM**.\n",
+      "he": "**सबसे अच्छी विधि (ल.स.प. - LCM लॉजिक):**\nएक साथ दोहराई जाने वाली घटनाएँ उनके अंतरालों के **ल.स.प. (LCM)** पर होती हैं।\n\n1. 15, 20, 30 का LCM ज्ञात करें।\n* सबसे बड़ी संख्या 30 है।\n* 30, 15 से विभाज्य है (हाँ)।\n* 30, 20 से विभाज्य है (नहीं)।\n* 30 का अगला गुणज 60 है।\n* 60, 15 और 20 दोनों से विभाज्य है।\n2. LCM = 60 मिनट = **1 घंटा**।\n\n**समय:** 11:00 AM + 1 घंटा = **12:00 PM**।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mixture (Adding Solute)",
+      "q": "A mixture of 300 grams of sugar solution contains 40% sugar. How much sugar should be added to make it 50% in the solution?",
+      "hq": "300 ग्राम चीनी के घोल में 40% चीनी है। घोल में चीनी की मात्रा 50% करने के लिए इसमें कितनी चीनी मिलानी चाहिए?",
+      "o": [
+        "40 grams",
+        "80 grams",
+        "50 grams",
+        "60 grams"
+      ],
+      "ho": [
+        "40 ग्राम",
+        "80 ग्राम",
+        "50 ग्राम",
+        "60 ग्राम"
+      ],
+      "a": 3,
+      "e": "1. Initial Content:\nSugar = $40\\% \\text{ of } 300 = 120$ g.\nWater = $300 - 120 = 180$ g.\n2. Add $x$ grams of sugar. Water remains constant (180 g).\nIn new solution (50% sugar), Water must be the other 50%.\n3. So, New Water % = 50%.\n$50\\% \\text{ of Total} = 180$.\nTotal Solution = $180 \\times 2 = 360$ g.\n4. Added Sugar = New Total - Old Total = $360 - 300 = 60$ g.\nAnswer is 60 grams.\n",
+      "he": "1. प्रारंभिक मात्रा:\nचीनी = 300 का $40\\% = 120$ ग्राम।\nपानी = $300 - 120 = 180$ ग्राम।\n2. माना $x$ ग्राम चीनी मिलाई गई। पानी स्थिर रहता है (180 ग्राम)।\nनए घोल (50% चीनी) में, पानी शेष 50% होना चाहिए।\n3. इसलिए, नया पानी % = 50%।\nकुल घोल का $50\\% = 180$।\nकुल घोल = $180 \\times 2 = 360$ ग्राम।\n4. मिलाई गई चीनी = नया कुल - पुराना कुल = $360 - 300 = 60$ ग्राम।\nउत्तर 60 ग्राम है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Pipes and Cisterns (Inlet & Outlet)",
+      "q": "Pipe A can fill a tank in 10 hours, while Pipe B can empty the full tank in 15 hours. If both pipes are opened together, how long will it take to fill the tank?",
+      "hq": "पाइप A एक टैंक को 10 घंटे में भर सकता है, जबकि पाइप B भरे हुए टैंक को 15 घंटे में खाली कर सकता है। यदि दोनों पाइप एक साथ खोले जाते हैं, तो टैंक को भरने में कितना समय लगेगा?",
+      "o": [
+        "25 hours",
+        "20 hours",
+        "30 hours",
+        "12 hours"
+      ],
+      "ho": [
+        "25 घंटे",
+        "20 घंटे",
+        "30 घंटे",
+        "12 घंटे"
+      ],
+      "a": 2,
+      "e": "1. Let Capacity = LCM(10, 15) = 30 units.\n2. Efficiency of A (Filling) = $\\frac{30}{10} = +3$ units/hr.\nEfficiency of B (Emptying) = $\\frac{30}{15} = -2$ units/hr.\n3. Net Efficiency = $3 - 2 = +1$ unit/hr.\n4. Time to fill = $\\frac{30}{1} = 30$ hours.\nAnswer is 30 hours.\n\n[Image of water tank pipes diagram]\n\n",
+      "he": "1. माना क्षमता = LCM(10, 15) = 30 इकाई।\n2. पाइप A की दक्षता (भरना) = $\\frac{30}{10} = +3$ इकाई/घंटा।\nपाइप B की दक्षता (खाली करना) = $\\frac{30}{15} = -2$ इकाई/घंटा।\n3. शुद्ध (Net) दक्षता = $3 - 2 = +1$ इकाई/घंटा।\n4. भरने में लगा समय = $\\frac{30}{1} = 30$ घंटे।\nउत्तर 30 घंटे है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Ratio and Proportion (Coins)",
+      "q": "A bag contains 50 paise, 25 paise and 10 paise coins in the ratio 5:9:4. If the total amount in the bag is ₹206, find the number of 25 paise coins.",
+      "hq": "एक बैग में 50 पैसे, 25 पैसे और 10 पैसे के सिक्के 5:9:4 के अनुपात में हैं। यदि बैग में कुल राशि ₹206 है, तो 25 पैसे के सिक्कों की संख्या ज्ञात कीजिए।",
+      "o": [
+        "200",
+        "360",
+        "180",
+        "160"
+      ],
+      "a": 1,
+      "e": "1. Coins Ratio: $5x : 9x : 4x$.\n2. Value Ratio (in Rupees):\n50p: $5x \\times 0.50 = 2.50x$\n25p: $9x \\times 0.25 = 2.25x$\n10p: $4x \\times 0.10 = 0.40x$\n3. Total Value equation:\n$2.50x + 2.25x + 0.40x = 206$.\n$5.15x = 206$.\n4. Solve for x:\n$x = \\frac{206}{5.15} = \\frac{20600}{515}$.\n$x = 40$.\n5. Number of 25p coins = $9x = 9 \\times 40 = 360$.\nAnswer is 360.\n",
+      "he": "1. सिक्कों का अनुपात: $5x : 9x : 4x$.\n2. मूल्य का अनुपात (रुपयों में):\n50 पैसे: $5x \\times 0.50 = 2.50x$\n25 पैसे: $9x \\times 0.25 = 2.25x$\n10 पैसे: $4x \\times 0.10 = 0.40x$\n3. कुल मूल्य का समीकरण:\n$2.50x + 2.25x + 0.40x = 206$.\n$5.15x = 206$.\n4. $x$ के लिए हल करें:\n$x = \\frac{206}{5.15} = \\frac{20600}{515}$.\n$x = 40$.\n5. 25 पैसे के सिक्कों की संख्या = $9x = 9 \\times 40 = 360$.\nउत्तर 360 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Geometry (Centroid)",
+      "q": "In $\\triangle ABC$, AD is a median and G is the centroid. If AG = 10 cm, what is the length of AD?",
+      "hq": "$\\triangle ABC$ में, AD एक माध्यिका (median) है और G केंद्रक (centroid) है। यदि AG = 10 सेमी है, तो AD की लंबाई क्या है?",
+      "o": [
+        "12 cm",
+        "20 cm",
+        "15 cm",
+        "5 cm"
+      ],
+      "ho": [
+        "12 सेमी",
+        "20 सेमी",
+        "15 सेमी",
+        "5 सेमी"
+      ],
+      "a": 2,
+      "e": "1. The centroid G divides the median AD in the ratio 2:1.\nThis means $AG : GD = 2 : 1$.\n2. Given $AG = 10$ cm (which represents 2 parts).\n1 part ($GD$) = $10 / 2 = 5$ cm.\n3. Total length $AD = AG + GD$.\n$AD = 10 + 5 = 15$ cm.\nAnswer is 15 cm.\n",
+      "he": "1. केंद्रक G, माध्यिका AD को 2:1 के अनुपात में विभाजित करता है।\nइसका मतलब है $AG : GD = 2 : 1$।\n2. दिया गया है $AG = 10$ सेमी (जो 2 भागों का प्रतिनिधित्व करता है)।\n1 भाग ($GD$) = $10 / 2 = 5$ सेमी।\n3. कुल लंबाई $AD = AG + GD$।\n$AD = 10 + 5 = 15$ सेमी।\nउत्तर 15 सेमी है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Surds and Indices",
+      "q": "What is the value of $\\sqrt{12 + \\sqrt{12 + \\sqrt{12 + ... \\infty}}}$?",
+      "hq": "$\\sqrt{12 + \\sqrt{12 + \\sqrt{12 + ... \\infty}}}$ का मान क्या है?",
+      "o": [
+        "4",
+        "3",
+        "6",
+        "12"
+      ],
+      "a": 0,
+      "e": "1. Let $x = \\sqrt{12 + \\sqrt{12 + ...}}$.\n2. We can rewrite this as $x = \\sqrt{12 + x}$.\n3. Square both sides: $x^2 = 12 + x$.\n4. Rearrange into a quadratic equation: $x^2 - x - 12 = 0$.\n5. Factorize: $(x - 4)(x + 3) = 0$.\n6. $x = 4$ or $x = -3$.\nSince the value of a square root is positive, $x = 4$.\nAnswer is 4.\n",
+      "he": "1. मान लीजिए $x = \\sqrt{12 + \\sqrt{12 + ...}}$।\n2. हम इसे $x = \\sqrt{12 + x}$ के रूप में फिर से लिख सकते हैं।\n3. दोनों पक्षों का वर्ग करें: $x^2 = 12 + x$।\n4. एक द्विघात समीकरण के रूप में व्यवस्थित करें: $x^2 - x - 12 = 0$।\n5. गुणनखंड (Factorize) करें: $(x - 4)(x + 3) = 0$।\n6. $x = 4$ या $x = -3$।\nचूँकि वर्गमूल का मान धनात्मक होता है, इसलिए $x = 4$।\nउत्तर 4 है।",
+      "e2": "",
+      "he2": ""
+    }
+  ]
+}

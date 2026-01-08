@@ -1,0 +1,650 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "General Science",
+      "t": "Physics (Electricity)",
+      "q": "If a current of 5 A flows through a resistance of $10 \\Omega$, what is the potential difference (voltage) across it?",
+      "hq": "यदि $10 \\Omega$ के प्रतिरोध से 5 A की धारा प्रवाहित होती है, तो इसके सिरों पर विभवांतर (वोट्लेज) क्या होगा?",
+      "o": [
+        "2 V",
+        "50 V",
+        "15 V",
+        "0.5 V"
+      ],
+      "a": 1,
+      "e": "1. Formula: Ohm's Law $V = I \\times R$.\n2. Given: $I = 5$ A, $R = 10 \\Omega$.\n3. Calculation: $V = 5 \\times 10 = 50$ Volts.\nAnswer is 50 V.\n",
+      "he": "1. सूत्र: ओम का नियम $V = I \\times R$।\n2. दिया गया है: $I = 5$ A, $R = 10 \\Omega$।\n3. गणना: $V = 5 \\times 10 = 50$ वोल्ट।\nउत्तर 50 V है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Common Names)",
+      "q": "What is the chemical name of 'Baking Soda'?",
+      "hq": "'बेकिंग सोडा' का रासायनिक नाम क्या है?",
+      "o": [
+        "Sodium Carbonate",
+        "Sodium Bicarbonate",
+        "Sodium Chloride",
+        "Sodium Hydroxide"
+      ],
+      "ho": [
+        "सोडियम कार्बोनेट",
+        "सोडियम बाइकार्बोनेट",
+        "सोडियम क्लोराइड",
+        "सोडियम हाइड्रोक्साइड"
+      ],
+      "a": 1,
+      "e": "The chemical name of Baking Soda is Sodium Bicarbonate ($NaHCO_3$). Sodium Carbonate is Washing Soda.\n",
+      "he": "बेकिंग सोडा का रासायनिक नाम सोडियम बाइकार्बोनेट ($NaHCO_3$) है। सोडियम कार्बोनेट धावन सोडा (Washing Soda) है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Alloys)",
+      "q": "Amalgam is an alloy which necessarily contains which metal?",
+      "hq": "अमलगम (Amalgam) एक मिश्र धातु है जिसमें अनिवार्य रूप से कौन सी धातु होती है?",
+      "o": [
+        "Iron",
+        "Mercury",
+        "Silver",
+        "Copper"
+      ],
+      "ho": [
+        "लोहा",
+        "पारा (Mercury)",
+        "चांदी",
+        "तांबा"
+      ],
+      "a": 1,
+      "e": "An **Amalgam** is an alloy of **Mercury** with another metal. For example, dental amalgam is used for filling cavities.\n",
+      "he": "**अमलगम** पारे (Mercury) और दूसरी धातु की एक मिश्र धातु है। उदाहरण के लिए, दांतों की कैविटी भरने के लिए डेंटल अमलगम का उपयोग किया जाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Gases)",
+      "q": "Which gas is typically filled in weather balloons because it is lighter than air and non-flammable?",
+      "hq": "मौसम के गुब्बारों में आमतौर पर कौन सी गैस भरी जाती है क्योंकि यह हवा से हल्की और अज्वलनशील होती है?",
+      "o": [
+        "Hydrogen",
+        "Nitrogen",
+        "Oxygen",
+        "Helium"
+      ],
+      "ho": [
+        "हाइड्रोजन",
+        "नाइट्रोजन",
+        "ऑक्सीजन",
+        "हीलियम"
+      ],
+      "a": 3,
+      "e": "**Helium** is used in balloons because it is very light and, unlike Hydrogen, it is non-flammable and safe.",
+      "he": "गुब्बारों में **हीलियम** का उपयोग किया जाता है क्योंकि यह बहुत हल्की होती है और हाइड्रोजन के विपरीत, यह अज्वलनशील और सुरक्षित होती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Gravity)",
+      "q": "If an object weighs 600 N on Earth, what would be its approximate weight on the Moon?",
+      "hq": "यदि किसी वस्तु का वजन पृथ्वी पर 600 N है, तो चंद्रमा पर उसका अनुमानित वजन क्या होगा?",
+      "o": [
+        "600 N",
+        "100 N",
+        "3600 N",
+        "60 N"
+      ],
+      "a": 1,
+      "e": "1. Gravity on Moon is $\\approx \\frac{1}{6}$th of Earth's gravity.\n2. Calculation: Weight on Moon = $\\frac{600}{6} = 100$ N.\nAnswer is 100 N.\n",
+      "he": "1. चंद्रमा पर गुरुत्वाकर्षण पृथ्वी के गुरुत्वाकर्षण का $\\approx \\frac{1}{6}$ भाग है।\n2. गणना: चंद्रमा पर भार = $\\frac{600}{6} = 100$ N।\nउत्तर 100 N है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Discoveries)",
+      "q": "Who discovered the antibiotic 'Penicillin'?",
+      "hq": "एंटीबायोटिक 'पेनिसिलिन' (Penicillin) की खोज किसने की थी?",
+      "o": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Edward Jenner",
+        "Robert Koch"
+      ],
+      "ho": [
+        "लुई पाश्चर",
+        "अलेक्जेंडर फ्लेमिंग",
+        "एडवर्ड जेनर",
+        "रॉबर्ट कोच"
+      ],
+      "a": 1,
+      "e": "**Alexander Fleming** discovered Penicillin in 1928, which was the first true antibiotic used to treat bacterial infections.\n",
+      "he": "**अलेक्जेंडर फ्लेमिंग** ने 1928 में पेनिसिलिन की खोज की थी, जो बैक्टीरियल संक्रमण के इलाज के लिए इस्तेमाल किया जाने वाला पहला वास्तविक एंटीबायोटिक था।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Vitamins)",
+      "q": "Night Blindness is caused due to the deficiency of:",
+      "hq": "रतौंधी (Night Blindness) किसकी कमी के कारण होती है?",
+      "o": [
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin B1"
+      ],
+      "ho": [
+        "विटामिन C",
+        "विटामिन A",
+        "विटामिन D",
+        "विटामिन B1"
+      ],
+      "a": 1,
+      "e": "Deficiency of Vitamin A (Retinol) leads to Night Blindness. Vitamin C deficiency causes Scurvy.",
+      "he": "विटामिन A (रेटिनॉल) की कमी से रतौंधी होती है। विटामिन C की कमी से स्कर्वी (Scurvy) रोग होता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Acids and Bases)",
+      "q": "Magnesium Hydroxide [$Mg(OH)_2$], used as an antacid, is commonly known as:",
+      "hq": "मैग्नीशियम हाइड्रोक्साइड [$Mg(OH)_2$], जिसका उपयोग एंटासिड (antacid) के रूप में किया जाता है, आमतौर पर किस नाम से जाना जाता है?",
+      "o": [
+        "Milk of Magnesia",
+        "Caustic Potash",
+        "Blue Vitriol",
+        "Baking Soda"
+      ],
+      "ho": [
+        "मिल्क ऑफ मैग्नीशिया",
+        "कास्टिक पोटाश",
+        "नीला थोथा (Blue Vitriol)",
+        "बेकिंग सोडा"
+      ],
+      "a": 0,
+      "e": "**Milk of Magnesia** ($Mg(OH)_2$) is a mild base used as an antacid to neutralize excess stomach acid.\n",
+      "he": "**मिल्क ऑफ मैग्नीशिया** ($Mg(OH)_2$) एक हल्का क्षार है जिसका उपयोग पेट के अतिरिक्त एसिड को बेअसर करने के लिए एंटासिड के रूप में किया जाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Work and Energy)",
+      "q": "An object of mass 4 kg is moving with a velocity of 5 m/s. Calculate its Kinetic Energy.",
+      "hq": "4 किग्रा द्रव्यमान की एक वस्तु 5 मीटर/सेकंड के वेग से गति कर रही है। इसकी गतिज ऊर्जा (Kinetic Energy) की गणना करें।",
+      "o": [
+        "50 J",
+        "100 J",
+        "20 J",
+        "10 J"
+      ],
+      "a": 0,
+      "e": "1. Formula: $KE = \\frac{1}{2} mv^2$.\n2. Given: $m = 4$ kg, $v = 5$ m/s.\n3. Calculation:\n$KE = \\frac{1}{2} \\times 4 \\times (5)^2$\n$KE = 2 \\times 25 = 50$ Joules.\nAnswer is 50 J.\n",
+      "he": "1. सूत्र: $KE = \\frac{1}{2} mv^2$।\n2. दिया गया है: $m = 4$ किग्रा, $v = 5$ मीटर/सेकंड।\n3. गणना:\n$KE = \\frac{1}{2} \\times 4 \\times (5)^2$\n$KE = 2 \\times 25 = 50$ जूल।\nउत्तर 50 J है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Cell Biology)",
+      "q": "Which organelle is known as the 'Protein Factory' of the cell?",
+      "hq": "किस कोशिकांग (organelle) को कोशिका की 'प्रोटीन फैक्ट्री' के रूप में जाना जाता है?",
+      "o": [
+        "Lysosome",
+        "Ribosome",
+        "Mitochondria",
+        "Golgi Apparatus"
+      ],
+      "ho": [
+        "लाइसोसोम",
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया",
+        "गॉल्जी उपकरण (Golgi Apparatus)"
+      ],
+      "a": 1,
+      "e": "**Ribosomes** are responsible for synthesizing proteins by translating messenger RNA (mRNA).\n",
+      "he": "**राइबोसोम** मैसेंजर आरएनए (mRNA) को डिकोड करके प्रोटीन को संश्लेषित (synthesize) करने के लिए जिम्मेदार होते हैं।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Human Body)",
+      "q": "Which is the longest bone in the human body?",
+      "hq": "मानव शरीर की सबसे लंबी हड्डी कौन सी है?",
+      "o": [
+        "Femur",
+        "Stapes",
+        "Tibia",
+        "Fibula"
+      ],
+      "ho": [
+        "फीमर (Femur)",
+        "स्टेप्स (Stapes)",
+        "टिबिया (Tibia)",
+        "फिबुला (Fibula)"
+      ],
+      "a": 0,
+      "e": "The Femur (thigh bone) is the longest and strongest bone. Stapes (in the ear) is the smallest.\n",
+      "he": "फीमर (जांघ की हड्डी) सबसे लंबी और मजबूत हड्डी है। स्टेप्स (कान में) सबसे छोटी हड्डी होती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Pollution)",
+      "q": "Which gas is the primary contributor to 'Acid Rain'?",
+      "hq": "कौन सी गैस 'अम्ल वर्षा' (Acid Rain) में मुख्य योगदान देती है?",
+      "o": [
+        "Sulphur Dioxide ($SO_2$)",
+        "Carbon Monoxide ($CO$)",
+        "Ozone ($O_3$)",
+        "Methane ($CH_4$)"
+      ],
+      "ho": [
+        "सल्फर डाइऑक्साइड ($SO_2$)",
+        "कार्बन मोनोऑक्साइड ($CO$)",
+        "ओजोन ($O_3$)",
+        "मीथेन ($CH_4$)"
+      ],
+      "a": 0,
+      "e": "**Sulphur Dioxide ($SO_2$)** and Nitrogen Oxides ($NO_x$) react with water vapor in the atmosphere to form Sulphuric Acid and Nitric Acid, causing Acid Rain.\n",
+      "he": "**सल्फर डाइऑक्साइड ($SO_2$)** और नाइट्रोजन के ऑक्साइड ($NO_x$) वायुमंडल में जलवाष्प के साथ प्रतिक्रिया करके सल्फ्यूरिक एसिड और नाइट्रिक एसिड बनाते हैं, जिससे अम्ल वर्षा होती है।\n\n[Image showing the process of acid rain formation]",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Waves)",
+      "q": "A sound wave has a time period of 0.05 seconds. What is its frequency?",
+      "hq": "एक ध्वनि तरंग का आवर्तकाल (time period) 0.05 सेकंड है। इसकी आवृत्ति (frequency) क्या है?",
+      "o": [
+        "10 Hz",
+        "50 Hz",
+        "20 Hz",
+        "100 Hz"
+      ],
+      "a": 2,
+      "e": "1. Formula: Frequency ($f$) = $\\frac{1}{\\text{Time Period}(T)}$.\n2. Given: $T = 0.05$ s.\n3. Calculation:\n$f = \\frac{1}{0.05} = \\frac{100}{5} = 20$ Hz.\nAnswer is 20 Hz.\n",
+      "he": "1. सूत्र: आवृत्ति ($f$) = $\\frac{1}{\\text{आवर्तकाल}(T)}$।\n2. दिया गया है: $T = 0.05$ सेकंड।\n3. गणना:\n$f = \\frac{1}{0.05} = \\frac{100}{5} = 20$ Hz।\nउत्तर 20 Hz है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Corrosion)",
+      "q": "Which metal is used in the process of 'Galvanization' to protect iron from rusting?",
+      "hq": "लोहे को जंग लगने से बचाने के लिए 'गैल्वेनाइजेशन' (जस्तीकरण) की प्रक्रिया में किस धातु का उपयोग किया जाता है?",
+      "o": [
+        "Copper",
+        "Aluminum",
+        "Lead",
+        "Zinc"
+      ],
+      "ho": [
+        "तांबा",
+        "एल्युमिनियम",
+        "सीसा (Lead)",
+        "जस्ता (Zinc)"
+      ],
+      "a": 3,
+      "e": "Galvanization involves coating iron or steel with a protective layer of **Zinc** to prevent rusting.\n",
+      "he": "गैल्वेनाइजेशन में लोहे या स्टील को जंग से बचाने के लिए उस पर **जस्ता (Zinc)** की एक सुरक्षात्मक परत चढ़ाई जाती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Diseases)",
+      "q": "Which mosquito is the vector (carrier) for Malaria?",
+      "hq": "कौन सा मच्छर मलेरिया का वाहक (carrier) है?",
+      "o": [
+        "Male Anopheles",
+        "Aedes Aegypti",
+        "Female Anopheles",
+        "Culex"
+      ],
+      "ho": [
+        "नर एनोफिलीज",
+        "एडीज एजिप्टी",
+        "मादा एनोफिलीज",
+        "क्यूलेक्स"
+      ],
+      "a": 2,
+      "e": "Malaria is caused by the Plasmodium parasite, which is transmitted to humans through the bite of an infected **Female Anopheles** mosquito. (Note: Aedes spreads Dengue).\n",
+      "he": "मलेरिया प्लाज्मोडियम परजीवी के कारण होता है, जो संक्रमित **मादा एनोफिलीज** मच्छर के काटने से मनुष्यों में फैलता है। (नोट: एडीज डेंगू फैलाता है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Acids)",
+      "q": "Which acid is primarily found in lemons and oranges?",
+      "hq": "नींबू और संतरे में मुख्य रूप से कौन सा अम्ल पाया जाता है?",
+      "o": [
+        "Lactic Acid",
+        "Acetic Acid",
+        "Citric Acid",
+        "Tartaric Acid"
+      ],
+      "ho": [
+        "लैक्टिक अम्ल",
+        "एसिटिक अम्ल",
+        "साइट्रिक अम्ल",
+        "टार्टरिक अम्ल"
+      ],
+      "a": 2,
+      "e": "**Citric Acid** is found in citrus fruits like lemons and oranges. Acetic acid is in vinegar, Lactic acid in milk/curd, and Tartaric acid in tamarind.\n",
+      "he": "नींबू और संतरे जैसे खट्टे फलों में **साइट्रिक अम्ल** पाया जाता है। एसिटिक अम्ल सिरके में, लैक्टिक अम्ल दूध/दही में और टार्टरिक अम्ल इमली में होता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Current)",
+      "q": "An electric charge of 60 Coulombs flows through a conductor in 15 seconds. Calculate the current flowing through it.",
+      "hq": "एक चालक (conductor) से 15 सेकंड में 60 कूलम्ब का विद्युत आवेश प्रवाहित होता है। इसमें प्रवाहित होने वाली धारा की गणना करें।",
+      "o": [
+        "4 A",
+        "900 A",
+        "0.25 A",
+        "6 A"
+      ],
+      "a": 0,
+      "e": "1. Formula: Current ($I$) = $\\frac{\\text{Charge}(Q)}{\\text{Time}(t)}$.\n2. Given: $Q = 60$ C, $t = 15$ s.\n3. Calculation: $I = \\frac{60}{15} = 4$ Amperes.\nAnswer is 4 A.\n",
+      "he": "1. सूत्र: धारा ($I$) = $\\frac{\\text{आवेश}(Q)}{\\text{समय}(t)}$।\n2. दिया गया है: $Q = 60$ C, $t = 15$ s।\n3. गणना: $I = \\frac{60}{15} = 4$ एम्पीयर।\nउत्तर 4 A है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Density)",
+      "q": "A block of wood has a mass of 800 kg and a volume of 2 m³. What is its density?",
+      "hq": "लकड़ी के एक गुटके का द्रव्यमान 800 किग्रा और आयतन 2 m³ है। इसका घनत्व (density) क्या है?",
+      "o": [
+        "1600 kg/m³",
+        "400 kg/m³",
+        "200 kg/m³",
+        "4 kg/m³"
+      ],
+      "a": 1,
+      "e": "1. Formula: Density ($\\rho$) = $\\frac{\\text{Mass}(m)}{\\text{Volume}(V)}$.\n2. Calculation: $\\rho = \\frac{800}{2} = 400$ kg/m³.\nAnswer is 400 kg/m³.\n",
+      "he": "1. सूत्र: घनत्व ($\\rho$) = $\\frac{\\text{द्रव्यमान}(m)}{\\text{आयतन}(V)}$।\n2. गणना: $\\rho = \\frac{800}{2} = 400$ kg/m³।\nउत्तर 400 kg/m³ है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Alloys)",
+      "q": "Bronze is an alloy mainly consisting of which two metals?",
+      "hq": "कांसा (Bronze) मुख्य रूप से किन दो धातुओं से बनी एक मिश्र धातु है?",
+      "o": [
+        "Copper and Zinc",
+        "Copper and Tin",
+        "Lead and Tin",
+        "Iron and Carbon"
+      ],
+      "ho": [
+        "तांबा और जस्ता",
+        "तांबा और टिन",
+        "सीसा और टिन",
+        "लोहा और कार्बन"
+      ],
+      "a": 1,
+      "e": "**Bronze** is an alloy of **Copper (Cu)** and **Tin (Sn)**. (Note: Brass is an alloy of Copper and Zinc).",
+      "he": "**कांसा** तांबा (Cu) और टिन (Sn) की एक मिश्र धातु है। (नोट: पीतल तांबा और जस्ता की मिश्र धातु है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Motion)",
+      "q": "A car starts from rest and accelerates at $2 \\text{ m/s}^2$ for 10 seconds. What is the final velocity of the car?",
+      "hq": "एक कार स्थिर अवस्था से शुरू होती है और 10 सेकंड के लिए $2 \\text{ मीटर/सेकंड}^2$ की दर से त्वरित होती है। कार का अंतिम वेग क्या है?",
+      "o": [
+        "10 m/s",
+        "5 m/s",
+        "20 m/s",
+        "40 m/s"
+      ],
+      "ho": [
+        "10 मीटर/सेकंड",
+        "5 मीटर/सेकंड",
+        "20 मीटर/सेकंड",
+        "40 मीटर/सेकंड"
+      ],
+      "a": 2,
+      "e": "1. Formula: First equation of motion $v = u + at$.\n2. Given: Initial velocity ($u$) = 0 (rest), Acceleration ($a$) = 2 m/s², Time ($t$) = 10 s.\n3. Calculation: $v = 0 + (2 \\times 10) = 20$ m/s.\nAnswer is 20 m/s.\n",
+      "he": "1. सूत्र: गति का पहला समीकरण $v = u + at$।\n2. दिया गया है: प्रारंभिक वेग ($u$) = 0 (स्थिर), त्वरण ($a$) = 2 मीटर/सेकंड², समय ($t$) = 10 सेकंड।\n3. गणना: $v = 0 + (2 \\times 10) = 20$ मीटर/सेकंड।\nउत्तर 20 m/s है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Blood Groups)",
+      "q": "Which blood group is known as the 'Universal Donor'?",
+      "hq": "किस रक्त समूह को 'यूनिवर्सल डोनर' (सर्वदाता) कहा जाता है?",
+      "o": [
+        "AB Positive",
+        "O Negative",
+        "A Positive",
+        "B Negative"
+      ],
+      "ho": [
+        "AB पॉजिटिव",
+        "O नेगेटिव",
+        "A पॉजिटिव",
+        "B नेगेटिव"
+      ],
+      "a": 1,
+      "e": "**O Negative (O-)** blood type is considered the Universal Donor because it lacks A, B, and Rh antigens, minimizing the risk of a reaction in the recipient.\n",
+      "he": "**O नेगेटिव (O-)** रक्त प्रकार को यूनिवर्सल डोनर माना जाता है क्योंकि इसमें A, B और Rh एंटीजन की कमी होती है, जिससे प्राप्तकर्ता में प्रतिक्रिया का जोखिम कम हो जाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Human Skeleton)",
+      "q": "What is the total number of bones in an adult human body?",
+      "hq": "एक वयस्क मानव शरीर में हड्डियों की कुल संख्या कितनी होती है?",
+      "o": [
+        "300",
+        "206",
+        "208",
+        "212"
+      ],
+      "a": 1,
+      "e": "An adult human skeleton consists of **206** bones. (Newborns have around 300 bones, which fuse together as they grow).\n",
+      "he": "एक वयस्क मानव कंकाल में **206** हड्डियाँ होती हैं। (नवजात शिशुओं में लगभग 300 हड्डियाँ होती हैं, जो बढ़ने के साथ आपस में जुड़ जाती हैं)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Gases)",
+      "q": "Which gas is used in electric bulbs to prevent the oxidation of the filament?",
+      "hq": "फिलामेंट के ऑक्सीकरण को रोकने के लिए इलेक्ट्रिक बल्बों में किस गैस का उपयोग किया जाता है?",
+      "o": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon Dioxide",
+        "Argon"
+      ],
+      "ho": [
+        "ऑक्सीजन",
+        "हाइड्रोजन",
+        "कार्बन डाइऑक्साइड",
+        "आर्गन"
+      ],
+      "a": 3,
+      "e": "**Argon** (or Nitrogen) is used in electric bulbs because it is an inert (unreactive) gas and prevents the tungsten filament from burning up (oxidizing).\n",
+      "he": "इलेक्ट्रिक बल्बों में **आर्गन** (या नाइट्रोजन) का उपयोग किया जाता है क्योंकि यह एक अक्रिय (निष्क्रिय) गैस है और टंगस्टन फिलामेंट को जलने (ऑक्सीकरण) से बचाती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (States of Matter)",
+      "q": "'Dry Ice' is the solid form of which gas?",
+      "hq": "'शुष्क बर्फ' (Dry Ice) किस गैस का ठोस रूप है?",
+      "o": [
+        "Nitrogen",
+        "Oxygen",
+        "Water",
+        "Carbon Dioxide"
+      ],
+      "ho": [
+        "नाइट्रोजन",
+        "ऑक्सीजन",
+        "पानी",
+        "कार्बन डाइऑक्साइड"
+      ],
+      "a": 3,
+      "e": "**Solid Carbon Dioxide ($CO_2$)** is known as Dry Ice because it sublimates (turns directly from solid to gas) without melting into a liquid.\n",
+      "he": "**ठोस कार्बन डाइऑक्साइड ($CO_2$)** को शुष्क बर्फ के रूप में जाना जाता है क्योंकि यह बिना तरल में पिघले सीधे ठोस से गैस में बदल जाती है (ऊर्ध्वपातन/sublimation)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Physics (Gravity)",
+      "q": "An object has a mass of 10 kg on Earth. What will be its weight on the Moon? (Take $g_{earth} = 9.8$ m/s², $g_{moon} = 1/6 \\text{ of } g_{earth}$)",
+      "hq": "पृथ्वी पर एक वस्तु का द्रव्यमान 10 किग्रा है। चंद्रमा पर इसका भार (weight) क्या होगा? ($g_{earth} = 9.8$ मीटर/सेकंड², $g_{moon} = g_{earth}$ का 1/6 लें)",
+      "o": [
+        "16.3 N",
+        "98 N",
+        "10 N",
+        "60 N"
+      ],
+      "a": 0,
+      "e": "1. Weight on Earth = $m \\times g = 10 \\times 9.8 = 98$ N.\n2. Weight on Moon is approx $\\frac{1}{6}$ of Weight on Earth.\n3. Calculation: $\\frac{98}{6} \\approx 16.33$ N.\nAnswer is 16.3 N.\n",
+      "he": "1. पृथ्वी पर भार = $m \\times g = 10 \\times 9.8 = 98$ N।\n2. चंद्रमा पर भार पृथ्वी के भार का लगभग $\\frac{1}{6}$ होता है।\n3. गणना: $\\frac{98}{6} \\approx 16.33$ N।\nउत्तर 16.3 N है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Vitamins)",
+      "q": "Rickets is a disease caused by the deficiency of which vitamin?",
+      "hq": "रिकेट्स (Rickets) किस विटामिन की कमी से होने वाला रोग है?",
+      "o": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin C",
+        "Vitamin K"
+      ],
+      "ho": [
+        "विटामिन A",
+        "विटामिन D",
+        "विटामिन C",
+        "विटामिन K"
+      ],
+      "a": 1,
+      "e": "**Vitamin D** helps the body absorb calcium. Its deficiency leads to soft and weak bones, causing **Rickets** in children.\n",
+      "he": "**विटामिन D** शरीर को कैल्शियम सोखने में मदद करता है। इसकी कमी से हड्डियाँ नरम और कमजोर हो जाती हैं, जिससे बच्चों में **रिकेट्स** हो जाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Biology (Cell Biology)",
+      "q": "Which part of the cell is known as the 'Control Center' or 'Brain' of the cell?",
+      "hq": "कोशिका के किस भाग को कोशिका का 'नियंत्रण केंद्र' या 'मस्तिष्क' कहा जाता है?",
+      "o": [
+        "Nucleus",
+        "Cytoplasm",
+        "Mitochondria",
+        "Ribosome"
+      ],
+      "ho": [
+        "केंद्रक (Nucleus)",
+        "कोशिका द्रव्य (Cytoplasm)",
+        "माइटोकॉन्ड्रिया",
+        "राइबोसोम"
+      ],
+      "a": 0,
+      "e": "The **Nucleus** contains the cell's genetic material (DNA) and controls the cell's growth and reproduction.\n",
+      "he": "**केंद्रक (Nucleus)** में कोशिका की आनुवंशिक सामग्री (DNA) होती है और यह कोशिका की वृद्धि और प्रजनन को नियंत्रित करता है।\n\n\n\n[Image of animal cell showing nucleus structure]",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Acids)",
+      "q": "Which acid is found in 'Lemon'?",
+      "hq": "'नींबू' में कौन सा अम्ल पाया जाता है?",
+      "o": [
+        "Citric Acid",
+        "Lactic Acid",
+        "Tartaric Acid",
+        "Acetic Acid"
+      ],
+      "ho": [
+        "साइट्रिक अम्ल",
+        "लैक्टिक अम्ल",
+        "टार्टरिक अम्ल",
+        "एसिटिक अम्ल"
+      ],
+      "a": 0,
+      "e": "Lemons and other citrus fruits contain Citric Acid. Lactic acid is in milk/curd, Tartaric in tamarind, and Acetic in vinegar.\n",
+      "he": "नींबू और अन्य खट्टे फलों में साइट्रिक अम्ल होता है। लैक्टिक अम्ल दूध/दही में, टार्टरिक इमली में और एसिटिक सिरके में होता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Changes)",
+      "q": "Rusting of iron is an example of which type of change?",
+      "hq": "लोहे में जंग लगना किस प्रकार के परिवर्तन का उदाहरण है?",
+      "o": [
+        "Physical Change",
+        "Nuclear Change",
+        "Chemical Change",
+        "Magnetic Change"
+      ],
+      "ho": [
+        "भौतिक परिवर्तन",
+        "नाभिकीय परिवर्तन",
+        "रासायनिक परिवर्तन",
+        "चुंबकीय परिवर्तन"
+      ],
+      "a": 2,
+      "e": "Rusting is a **Chemical Change** because a new substance (Iron Oxide) is formed, and the process is irreversible under normal conditions.",
+      "he": "जंग लगना एक **रासायनिक परिवर्तन** है क्योंकि इसमें एक नया पदार्थ (आयरन ऑक्साइड) बनता है, और यह प्रक्रिया सामान्य परिस्थितियों में अपरिवर्तनीय (irreversible) होती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "General Science",
+      "t": "Chemistry (Metals)",
+      "q": "Which metal is commonly used in storage batteries (like car batteries)?",
+      "hq": "स्टोरेज बैटरी (जैसे कार की बैटरी) में आमतौर पर किस धातु का उपयोग किया जाता है?",
+      "o": [
+        "Iron",
+        "Zinc",
+        "Copper",
+        "Lead"
+      ],
+      "ho": [
+        "लोहा",
+        "जस्ता",
+        "तांबा",
+        "सीसा (Lead)"
+      ],
+      "a": 3,
+      "e": "**Lead (Pb)** is used in lead-acid batteries, which are rechargeable and commonly used in automobiles.\n",
+      "he": "**सीसा (Lead - Pb)** का उपयोग लेड-एसिड बैटरी में किया जाता है, जो पुन: चार्ज (rechargeable) करने योग्य होती हैं और आमतौर पर ऑटोमोबाइल में उपयोग की जाती हैं।",
+      "e2": "",
+      "he2": ""
+    }
+  ]
+}

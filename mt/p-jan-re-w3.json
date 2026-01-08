@@ -1,0 +1,608 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Number Coding)",
+      "q": "In a certain code, 592 means 'grapes are sweet', 374 means 'I like oranges' and 267 means 'oranges are sour'. Which digit represents sour?",
+      "hq": "एक निश्चित कोड में, 592 का मतलब 'grapes are sweet', 374 का मतलब 'I like oranges' और 267 का मतलब 'oranges are sour' है। 'sour' के लिए कौन सा अंक होगा?",
+      "o": [
+        "6",
+        "7",
+        "5",
+        "2"
+      ],
+      "a": 0,
+      "e": "'oranges' (common 2&3) = 7.\n'are' (common 1&3) = 2.\nIn 'oranges are sour' (267): 'oranges'(7), 'are'(2).\nRemaining 'sour' = **6**.\n",
+      "he": "'oranges' (2 और 3 में कॉमन) = 7।\n'are' (1 और 3 में कॉमन) = 2।\nवाक्य 'oranges are sour' (267) में: 'oranges'(7) और 'are'(2) हमें पता चल गए।\nतो बचा हुआ **6** 'sour' के लिए है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations (Sign Interchange)",
+      "q": "Interchanging which two signs will make the following equation correct?\n5 + 6 ÷ 3 - 2 x 5 = 13",
+      "hq": "किन दो चिन्हों को आपस में बदलने से निम्नलिखित समीकरण सही हो जाएगा?\n5 + 6 ÷ 3 - 2 x 5 = 13",
+      "o": [
+        "+ and ÷",
+        "÷ and x",
+        "+ and x",
+        "÷ and -"
+      ],
+      "ho": [
+        "+ और ÷",
+        "÷ और x",
+        "+ और x",
+        "÷ और -"
+      ],
+      "a": 2,
+      "e": "Interchange '+' and 'x':\nNew Equation: $5 \\times 6 \\div 3 - 2 + 5 = 13$\n$5 \\times 2 - 2 + 5$\n$10 - 2 + 5 = 13$\n$13 = 13$. Correct.\n",
+      "he": "'+' और 'x' को आपस में बदलें:\nनया समीकरण: $5 \\times 6 \\div 3 - 2 + 5 = 13$\n$5 \\times 2 - 2 + 5$\n$10 - 2 + 5 = 13$\n$13 = 13$। यह सही है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Feeding Habits)",
+      "q": "Choose the pair which is related in the same way as the word in the first pair.\nSparrow : Grain :: Silk worm : ?",
+      "hq": "उस युग्म का चयन करें जो पहले युग्म के समान संबंधित हो।\nगौरैया : अनाज :: रेशम का कीड़ा : ?",
+      "o": [
+        "Maple",
+        "Pine",
+        "Mulberry",
+        "Silk"
+      ],
+      "ho": [
+        "मेपल (Maple)",
+        "पाइन (Pine)",
+        "शहतूत (Mulberry)",
+        "रेशम (Silk)"
+      ],
+      "a": 2,
+      "e": "A Sparrow feeds on grain. Similarly, a Silk worm feeds on **Mulberry** leaves.\n",
+      "he": "गौरैया अनाज खाती है। इसी प्रकार, रेशम का कीड़ा **शहतूत** की पत्तियों को खाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Syllogism",
+      "q": "Statement:\nSome rabbits are cat.\nAll cats are monkey.\nConclusion:\n1. Some rabbits are monkey.\n2. No cat is rabbit.",
+      "hq": "कथन:\nकुछ खरगोश बिल्ली हैं।\nसभी बिल्लियाँ बंदर हैं।\nनिष्कर्ष:\n1. कुछ खरगोश बंदर हैं।\n2. कोई बिल्ली खरगोश नहीं है।",
+      "o": [
+        "Only conclusion 1 can be find",
+        "Neither conclusion 1 nor 2 can be find",
+        "Only conclusion 2 can be find",
+        "Both conclusion 1 and 2 can be find"
+      ],
+      "ho": [
+        "केवल निष्कर्ष 1 निकाला जा सकता है",
+        "न तो निष्कर्ष 1 और न ही 2 निकाला जा सकता है",
+        "केवल निष्कर्ष 2 निकाला जा सकता है",
+        "निष्कर्ष 1 और 2 दोनों निकाले जा सकते हैं"
+      ],
+      "a": 0,
+      "e": "Draw a Venn diagram:\n1. 'Rabbit' and 'Cat' circles intersect (Some rabbits are cat).\n2. 'Cat' circle is fully inside 'Monkey' circle (All cats are monkey).\nConclusion 1: Since 'Cat' is part of 'Monkey' and 'Rabbit' intersects 'Cat', the 'Rabbit' circle must also intersect the 'Monkey' circle. Thus, \"Some rabbits are monkey\" is True.\nConclusion 2: The statement \"Some rabbits are cat\" contradicts \"No cat is rabbit\". Thus, False.\nOnly Conclusion 1 follows.\n",
+      "he": "एक वेन आरेख (Venn diagram) बनाएं:\n\n1. 'खरगोश' और 'बिल्ली' के गोले एक-दूसरे को काटते हैं (कुछ खरगोश बिल्ली हैं)।\n2. 'बिल्ली' का गोला पूरी तरह से 'बंदर' के गोले के अंदर है (सभी बिल्लियाँ बंदर हैं)।\nनिष्कर्ष 1: चूंकि 'बिल्ली', 'बंदर' का हिस्सा है और 'खरगोश', 'बिल्ली' को काटता है, इसलिए 'खरगोश' के गोले को 'बंदर' के गोले को भी काटना चाहिए। अतः, \"कुछ खरगोश बंदर हैं\" सत्य है।\nनिष्कर्ष 2: कथन \"कुछ खरगोश बिल्ली हैं\" सीधे तौर पर \"कोई बिल्ली खरगोश नहीं है\" का खंडन करता है। अतः, यह असत्य है।\nकेवल निष्कर्ष 1 अनुसरण करता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Number Coding)",
+      "q": "If '415' is written as 'milk is hot', '18' is written as 'hot soup' and '895' is written as 'soup is tasty', which numbers represents the word 'tasty' ?",
+      "hq": "यदि '415' का मतलब 'milk is hot', '18' का मतलब 'hot soup' और '895' का मतलब 'soup is tasty' है, तो 'tasty' के लिए कौन सा नंबर होगा?",
+      "o": [
+        "3",
+        "6",
+        "9",
+        "8"
+      ],
+      "a": 2,
+      "e": "'hot' is common in 415 and 18 -> 'hot' = 1.\n'soup' is common in 18 and 895 (where 1 is hot) -> 'soup' = 8.\n'is' is common in 415 and 895 -> 'is' = 5.\nIn 'soup is tasty' (895): 8 is soup, 5 is is.\nTherefore, 'tasty' = **9**.\n",
+      "he": "'hot' शब्द 415 और 18 में कॉमन है -> तो 'hot' = 1 हुआ।\n'soup' शब्द 18 और 895 में कॉमन है (जहाँ 1 तो hot है) -> तो 'soup' = 8 हुआ।\n'is' शब्द 415 और 895 में कॉमन है -> तो 'is' = 5 हुआ।\nअब 'soup is tasty' (895) में: 8 मतलब soup, 5 मतलब is।\nतो बचा हुआ **9** मतलब 'tasty' हुआ।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Direction Test",
+      "q": "Shiva walked 4 km from his house towards East and turned towards south and walked 2 km. Finally, he walked 1.5 km towards East. Now in which direction is he from his house?",
+      "hq": "शिवा अपने घर से पूर्व (East) की ओर 4 किमी चला और दक्षिण (South) की ओर मुड़कर 2 किमी चला। अंत में, वह पूर्व की ओर 1.5 किमी चला। अब वह अपने घर से किस दिशा में है?",
+      "o": [
+        "South-West",
+        "North-West",
+        "North-East",
+        "South-East"
+      ],
+      "ho": [
+        "दक्षिण-पश्चिम (South-West)",
+        "उत्तर-पश्चिम (North-West)",
+        "उत्तर-पूर्व (North-East)",
+        "दक्षिण-पूर्व (South-East)"
+      ],
+      "a": 3,
+      "e": "1. Move East 4 km.\n2. Move South 2 km.\n3. Move East 1.5 km.\nTotal movement: East (4 + 1.5 = 5.5 km) and South (2 km).\nSince he is to the East and South of his starting point, the direction is **South-East**.\n",
+      "he": "1. पूर्व की ओर 4 किमी चलें।\n2. दक्षिण की ओर 2 किमी मुड़ें।\n3. पूर्व की ओर 1.5 किमी चलें।\nकुल विस्थापन: पूर्व (4 + 1.5 = 5.5 किमी) और दक्षिण (2 किमी)।\nचूंकि वह अपने शुरुआती बिंदु के पूर्व और दक्षिण में है, इसलिए दिशा **दक्षिण-पूर्व** है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Classification (Leader vs Group)",
+      "q": "Three pairs are similar in one way and one pair is different from following four pair of terms. Which is different from other three?",
+      "hq": "नीचे दिए गए चार शब्द युग्मों में से तीन किसी तरह समान हैं और एक अलग है। कौन सा अन्य तीन से अलग है?",
+      "o": [
+        "Captain : Team",
+        "Boss : Gang",
+        "Prime Minister : Cabinet",
+        "Artist : Troupe"
+      ],
+      "ho": [
+        "कप्तान : टीम",
+        "बॉस : गैंग",
+        "प्रधानमंत्री : कैबिनेट",
+        "कलाकार : मंडली (Troupe)"
+      ],
+      "a": 3,
+      "e": "The first word is the leader/head of the second word (group).\nCaptain leads a Team.\nBoss leads a Gang.\nPrime Minister leads the Cabinet.\nHowever, an Artist is a member of a Troupe (group of artists), not necessarily the titled head like the others.\n",
+      "he": "पहला शब्द दूसरे शब्द (समूह) का नेता/प्रमुख है।\nकप्तान, टीम का नेतृत्व करता है।\nबॉस, गैंग का नेतृत्व करता है।\nप्रधानमंत्री, कैबिनेट का नेतृत्व करता है।\nहालांकि, एक कलाकार मंडली (कलाकारों का समूह) का सदस्य होता है, वह अनिवार्य रूप से अन्यों की तरह पदवी वाला प्रमुख नहीं होता।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Number Series",
+      "q": "Find the missing number in the series: 5, 11, 24, 51, 106, ?",
+      "hq": "श्रेणी में लुप्त संख्या ज्ञात कीजिए: 5, 11, 24, 51, 106, ?",
+      "o": [
+        "215",
+        "217",
+        "220",
+        "216"
+      ],
+      "a": 1,
+      "e": "The pattern follows logic: (Previous Number × 2) + Increasing Integer.\n5 × 2 + 1 = 11\n11 × 2 + 2 = 24\n24 × 2 + 3 = 51\n51 × 2 + 4 = 106\nNext term: 106 × 2 + 5 = 212 + 5 = 217.\nAnswer is 217.\n",
+      "he": "पैटर्न इस तर्क का अनुसरण करता है: (पिछली संख्या × 2) + बढ़ता हुआ पूर्णांक।\n5 × 2 + 1 = 11\n11 × 2 + 2 = 24\n24 × 2 + 3 = 51\n51 × 2 + 4 = 106\nअगला पद: 106 × 2 + 5 = 212 + 5 = 217।\nउत्तर 217 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Classification (Biological Taxonomy)",
+      "q": "Select the option that is different from other.",
+      "hq": "उस विकल्प का चयन करें जो अन्य से भिन्न है।",
+      "o": [
+        "Mammals",
+        "Reptiles",
+        "Aves",
+        "Ostrich"
+      ],
+      "ho": [
+        "स्तनधारी (Mammals)",
+        "सरीसृप (Reptiles)",
+        "एवेस/पक्षी वर्ग (Aves)",
+        "शुतुरमुर्ग (Ostrich)"
+      ],
+      "a": 3,
+      "e": "Mammals, Reptiles, and Aves are broad biological Classes of animals. **Ostrich** is a specific species of bird (not a Class).\n",
+      "he": "स्तनधारी, सरीसृप और एवेस जानवरों के व्यापक जैविक वर्ग (Classes) हैं। **शुतुरमुर्ग** पक्षी की एक विशिष्ट प्रजाति है (कोई वर्ग नहीं)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Number Series",
+      "q": "Complete the series: 4, 6, 12, 30, 90, ?",
+      "hq": "श्रेणी को पूरा करें: 4, 6, 12, 30, 90, ?",
+      "o": [
+        "315",
+        "270",
+        "360",
+        "320"
+      ],
+      "a": 0,
+      "e": "The pattern is multiplication by increasing halves (+0.5).\n4 × 1.5 = 6\n6 × 2.0 = 12\n12 × 2.5 = 30\n30 × 3.0 = 90\nNext term: 90 × 3.5 = 315.\nAnswer is 315.\n",
+      "he": "पैटर्न बढ़ते हुए आधे (+0.5) के साथ गुणा (multiplication) पर आधारित है।\n4 × 1.5 = 6\n6 × 2.0 = 12\n12 × 2.5 = 30\n30 × 3.0 = 90\nअगला पद: 90 × 3.5 = 315।\nउत्तर 315 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Word Substitution)",
+      "q": "In certain language, 'good is fair' is coded as 'ge se fa', 'who is god' is coded as 'ge we fa' and 'you are god' is coded as 'ne le fa'. which represents 'is'?",
+      "hq": "एक निश्चित भाषा में, 'good is fair' का कोड 'ge se fa' है, 'who is god' का कोड 'ge we fa' है और 'you are god' का कोड 'ne le fa' है। 'is' के लिए कौन सा कोड होगा?",
+      "o": [
+        "se",
+        "ge",
+        "fa",
+        "we"
+      ],
+      "a": 1,
+      "e": "Compare 'good is fair' (ge se fa) and 'who is god' (ge we fa).\nCommon codes: 'ge' and 'fa'.\nCheck third sentence 'you are god' (ne le fa). 'fa' is present. 'is' is NOT present.\nTherefore, 'fa' represents 'god' (common to 2 & 3) and 'ge' represents 'is' (common to 1 & 2 but not 3).",
+      "he": "'good is fair' (ge se fa) और 'who is god' (ge we fa) की तुलना करें।\nकॉमन कोड 'ge' और 'fa' हैं।\nअब तीसरे वाक्य 'you are god' (ne le fa) को देखें। यहाँ 'fa' मौजूद है, लेकिन 'is' शब्द मौजूद नहीं है।\nइसका मतलब है 'fa' का अर्थ 'god' है (जो वाक्य 2 और 3 में कॉमन है) और **'ge'** का अर्थ 'is' है (जो वाक्य 1 और 2 में कॉमन है लेकिन 3 में नहीं)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Syllogism",
+      "q": "Statements:\nNo glass is a paddle.\nAll paddles are brake.\nConclusions:\n1. All brakes are paddles.\n2. Some brakes are paddles.\n3. No brake is glass.",
+      "hq": "कथन:\nकोई ग्लास पैडल नहीं है।\nसभी पैडल ब्रेक हैं।\nनिष्कर्ष:\n1. सभी ब्रेक पैडल हैं।\n2. कुछ ब्रेक पैडल हैं।\n3. कोई ब्रेक ग्लास नहीं है।",
+      "o": [
+        "Only conclusion 2 follows",
+        "Only conclusion 1 follows",
+        "Only conclusion 3 follows",
+        "All the three conclusions follows"
+      ],
+      "ho": [
+        "केवल निष्कर्ष 2 अनुसरण करता है",
+        "केवल निष्कर्ष 1 अनुसरण करता है",
+        "केवल निष्कर्ष 3 अनुसरण करता है",
+        "तीनों निष्कर्ष अनुसरण करते हैं"
+      ],
+      "a": 0,
+      "e": "Draw a Venn diagram:\n1. 'Glass' and 'Paddle' are separate.\n2. 'Paddle' is inside 'Brake'.\nConclusion 1: \"All brakes are paddles\" is False. (Brake is the superset, Paddle is the subset).\nConclusion 2: \"Some brakes are paddles\" is True. (The part of Brake that is Paddle exists).\nConclusion 3: \"No brake is glass\" is False. We know 'Paddle' doesn't touch 'Glass', but the outer part of 'Brake' *could* touch 'Glass'. It's not definite.\nOnly Conclusion 2 follows.\n",
+      "he": "एक वेन आरेख बनाएं:\n\n1. 'ग्लास' और 'पैडल' अलग हैं।\n2. 'पैडल', 'ब्रेक' के अंदर है।\nनिष्कर्ष 1: \"सभी ब्रेक पैडल हैं\" असत्य है। (ब्रेक सुपरसेट है, पैडल सबसेट है)।\nनिष्कर्ष 2: \"कुछ ब्रेक पैडल हैं\" सत्य है। (ब्रेक का वह हिस्सा जो पैडल है, अस्तित्व में है)।\nनिष्कर्ष 3: \"कोई ब्रेक ग्लास नहीं है\" असत्य है। हम जानते हैं कि 'पैडल', 'ग्लास' को नहीं छूता है, लेकिन 'ब्रेक' का बाहरी हिस्सा 'ग्लास' को छू *सकता* है। यह निश्चित नहीं है।\nकेवल निष्कर्ष 2 अनुसरण करता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Number to Letter)",
+      "q": "If 'R' is coded as 5, 'L' is coded as 1, 'N' is coded as 6, 'T' is coded as 2, 'U' is coded as 8, 'F' is coded as 3, 'S' is coded as 4, 'I' is coded as 9, and 'G' is coded as 7, then 425967 how will be coded as?",
+      "hq": "यदि 'R' को 5, 'L' को 1, 'N' को 6, 'T' को 2, 'U' को 8, 'F' को 3, 'S' को 4, 'I' को 9, और 'G' को 7 लिखा जाता है, तो 425967 का कोड क्या होगा?",
+      "o": [
+        "STRNG",
+        "STRING",
+        "SRTING",
+        "TRINGS"
+      ],
+      "a": 1,
+      "e": "Substitute the letters for the numbers:\n4 -> S\n2 -> T\n5 -> R\n9 -> I\n6 -> N\n7 -> G\nWord: **STRING**.\n",
+      "he": "बस अंकों की जगह उनके सामने वाले अक्षर लिख देने हैं:\n4 -> S\n2 -> T\n5 -> R\n9 -> I\n6 -> N\n7 -> G\nशब्द बना: **STRING**।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Place of Game)",
+      "q": "Choose the related pair from the given alternatives similar to the words given in the first pair.\nTENNIS : COURT :: BOXING : ..........",
+      "hq": "दिए गए विकल्पों में से पहले युग्म में दिए गए शब्दों के समान संबंधित युग्म का चयन कीजिए।\nTENNIS : COURT :: BOXING : ..........",
+      "o": [
+        "STADIUM",
+        "RING",
+        "PITCH",
+        "GROUND"
+      ],
+      "ho": [
+        "स्टेडियम (STADIUM)",
+        "रिंग (RING)",
+        "पिच (PITCH)",
+        "ग्राउंड (GROUND)"
+      ],
+      "a": 1,
+      "e": "The place where Tennis is played is called a 'Court'. Similarly, the place where Boxing is played is called a 'Ring'.\n",
+      "he": "जिस स्थान पर टेनिस खेला जाता है उसे 'कोर्ट' कहा जाता है। इसी प्रकार, जिस स्थान पर मुक्केबाजी (Boxing) की जाती है उसे 'रिंग' कहा जाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Classification (Geography/Currency)",
+      "q": "Select the option that is different from others.",
+      "hq": "उस विकल्प का चयन करें जो अन्य से भिन्न है।",
+      "o": [
+        "Taka",
+        "Kuwait",
+        "Peso",
+        "Won"
+      ],
+      "ho": [
+        "टका (Taka)",
+        "कुवैत (Kuwait)",
+        "पेसो (Peso)",
+        "वॉन (Won)"
+      ],
+      "a": 1,
+      "e": "Taka (Bangladesh), Peso (Various countries), and Won (Korea) are currencies. **Kuwait** is the name of a country (whose currency is the Dinar).",
+      "he": "टका (बांग्लादेश), पेसो (विभिन्न देश) और वॉन (कोरिया) मुद्राएं हैं। **कुवैत** एक देश का नाम है (जिसकी मुद्रा दीनार है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations (Sign Interchange)",
+      "q": "Which one of the following interchanges in signs would make the given equation correct?\n4 x 3 - 6 ÷ 2 + 7 = 8",
+      "hq": "चिन्हों का निम्नलिखित में से कौन सा बदलाव दिए गए समीकरण को सही बना देगा?\n4 x 3 - 6 ÷ 2 + 7 = 8",
+      "o": [
+        "+ and -",
+        "- and +",
+        "- and x",
+        "x and ÷"
+      ],
+      "ho": [
+        "+ और -",
+        "- और +",
+        "- और x",
+        "x और ÷"
+      ],
+      "a": 0,
+      "e": "Interchange '+' and '-':\nNew Equation: $4 \\times 3 + 6 \\div 2 - 7 = 8$\n$12 + 3 - 7$\n$15 - 7 = 8$\n$8 = 8$. Correct.",
+      "he": "'+' और '-' को आपस में बदलें:\nनया समीकरण: $4 \\times 3 + 6 \\div 2 - 7 = 8$\n$12 + 3 - 7$\n$15 - 7 = 8$\n$8 = 8$। यह सही है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Number Coding)",
+      "q": "In certain code language, 329 is coded as 'you are bad', 419 is coded as 'bad is good' and 195 is coded as 'nothing is bad'. which numbers represents 'good'?",
+      "hq": "एक निश्चित कूट भाषा (code language) में, 329 को 'you are bad', 419 को 'bad is good' और 195 को 'nothing is bad' लिखा जाता है। 'good' के लिए कौन सा अंक होगा?",
+      "o": [
+        "9",
+        "4",
+        "1",
+        "3"
+      ],
+      "a": 1,
+      "e": "'bad' is common to all three -> 'bad' = 9.\n'is' is common to 'bad is good' and 'nothing is bad' -> 'is' = 1.\nIn 'bad is good' (419): 'bad'(9), 'is'(1).\nRemaining 'good' = **4**.\n",
+      "he": "'bad' शब्द तीनों वाक्यों में कॉमन है -> तो 'bad' = 9 हुआ।\n'is' शब्द 'bad is good' और 'nothing is bad' में कॉमन है -> तो 'is' = 1 हुआ।\nअब 'bad is good' (419) में: 'bad'(9) है और 'is'(1) है।\nतो बचा हुआ **4** 'good' के लिए होगा।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Direction Test",
+      "q": "Nina starts cycling in the opposite direction of the sun in the morning. She then turns to the left and after cover a distance of 1 km again turns to the left. Now, in which direction is she facing?",
+      "hq": "नीना सुबह सूरज की विपरीत दिशा में साइकिल चलाना शुरू करती है। फिर वह बाईं ओर मुड़ती है और 1 किमी की दूरी तय करने के बाद फिर से बाईं ओर मुड़ती है। अब उसका मुख किस दिशा में है?",
+      "o": [
+        "South",
+        "North",
+        "West",
+        "East"
+      ],
+      "ho": [
+        "दक्षिण",
+        "उत्तर",
+        "पश्चिम",
+        "पूर्व"
+      ],
+      "a": 3,
+      "e": "1. Sun in the morning is in the East. Opposite direction is **West**.\n2. Nina starts facing West.\n3. Turns Left -> Faces South.\n4. Turns Left again -> Faces **East**.",
+      "he": "1. सुबह सूरज पूर्व (East) में होता है। विपरीत दिशा **पश्चिम** है।\n2. नीना पश्चिम की ओर मुख करके शुरू करती है।\n3. बाईं ओर मुड़ती है -> दक्षिण की ओर मुख करती है।\n4. फिर से बाईं ओर मुड़ती है -> **पूर्व** की ओर मुख करती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Number Series",
+      "q": "What comes next in the series: 4, 9, 25, 49, 121, ?",
+      "hq": "श्रेणी में अगला पद क्या होगा: 4, 9, 25, 49, 121, ?",
+      "o": [
+        "144",
+        "196",
+        "169",
+        "225"
+      ],
+      "a": 2,
+      "e": "The series consists of squares of consecutive **Prime Numbers**.\n$2^2 = 4$\n$3^2 = 9$\n$5^2 = 25$\n$7^2 = 49$\n$11^2 = 121$\nThe next prime number after 11 is 13.\nNext term: $13^2 = 169$.\nAnswer is 169.\n",
+      "he": "यह श्रेणी क्रमिक **अभाज्य संख्याओं (Prime Numbers)** के वर्ग (squares) से बनी है।\n$2^2 = 4$\n$3^2 = 9$\n$5^2 = 25$\n$7^2 = 49$\n$11^2 = 121$\n11 के बाद अगली अभाज्य संख्या 13 है।\nअगला पद: $13^2 = 169$।\nउत्तर 169 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Classification (Birds)",
+      "q": "Name of four birds are given below, three of which related in some way and one is different. Select the different one.",
+      "hq": "नीचे चार पक्षियों के नाम दिए गए हैं, जिनमें से तीन किसी तरह से संबंधित हैं और एक अलग है। अलग वाले का चयन करें।",
+      "o": [
+        "Vulture",
+        "Penguin",
+        "Emu",
+        "Ostrich"
+      ],
+      "ho": [
+        "गिद्ध (Vulture)",
+        "पेंगुइन (Penguin)",
+        "एमु (Emu)",
+        "शुतुरमुर्ग (Ostrich)"
+      ],
+      "a": 0,
+      "e": "Penguin, Emu, and Ostrich are flightless birds. The **Vulture** is a bird that can fly.\n",
+      "he": "पेंगुइन, एमु और शुतुरमुर्ग उड़ने में असमर्थ (flightless) पक्षी हैं। **गिद्ध** एक ऐसा पक्षी है जो उड़ सकता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Word Substitution)",
+      "q": "In certain language, 'how are you' is coded as 'ne ki se', 'where are you' is coded as 'ne bl se' and 'you were here' is coded as 'bl ne jo'. What is the code for 'how you here' in that language?",
+      "hq": "एक निश्चित भाषा में, 'how are you' का कोड 'ne ki se', 'where are you' का 'ne bl se' और 'you were here' का 'bl ne jo' है। 'how you here' के लिए क्या कोड होगा?",
+      "o": [
+        "ki ne jo",
+        "ne ne ki",
+        "ne bl ke",
+        "bl sa ne"
+      ],
+      "a": 0,
+      "e": "1. 'how are you' = 'ne ki se'\n2. 'where are you' = 'ne bl se'\nCommon 'are you' = 'ne se'. 'how' = 'ki'.\n3. 'you were here' = 'bl ne jo'.\n'you' = 'ne'. 'bl' appears in code 2 for 'where'? Wait, checking commonality.\nFrom solution logic: 'how' -> 'ki'. 'you' -> 'ne'. 'here' -> 'jo'.\nCode: **ki ne jo**.\n",
+      "he": "1. 'how are you' = 'ne ki se'\n2. 'where are you' = 'ne bl se'\nइनमें 'are you' कॉमन है, तो 'ne se' इनका कोड हुआ। बचा हुआ 'how' = 'ki'।\n3. 'you were here' = 'bl ne jo'।\nतुलना करने पर 'you' का कोड 'ne' निकल रहा है और 'here' का 'jo'।\nसही कोड बना: **ki ne jo**।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Statement and Assumption",
+      "q": "Statement: I like an Indian pilot. I have decided to become a pilot.\nAssumption:\nI. I am not a pilot.\nII. I am a pilot.",
+      "hq": "कथन: मुझे एक भारतीय पायलट पसंद है। मैंने पायलट बनने का फैसला किया है।\nपूर्वधारणा:\nI. मैं पायलट नहीं हूँ।\nII. मैं एक पायलट हूँ।",
+      "o": [
+        "Both assumption I and II are implicit",
+        "Only assumption I is implicit",
+        "Either assumption I or II is implicit",
+        "Only assumption II is implicit"
+      ],
+      "ho": [
+        "पूर्वधारणा I और II दोनों अंतर्निहित हैं",
+        "केवल पूर्वधारणा I अंतर्निहित है",
+        "या तो पूर्वधारणा I या II अंतर्निहित है",
+        "केवल पूर्वधारणा II अंतर्निहित है"
+      ],
+      "a": 1,
+      "e": "When someone decides to *become* something, it implies they are not that thing yet. Therefore, \"I am not a pilot\" is implicit. \"I am a pilot\" contradicts the act of deciding to become one.\n",
+      "he": "जब कोई कुछ *बनने* का निर्णय लेता है, तो इसका अर्थ है कि वह अभी वह चीज़ नहीं है। इसलिए, \"मैं पायलट नहीं हूँ\" अंतर्निहित है। \"मैं एक पायलट हूँ\" पायलट बनने के निर्णय के कार्य के विपरीत है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Number Coding)",
+      "q": "In certain language 'doctors are ethical' is coded 921, 'medicines are costly' is coded as '526' and 'medicines are prescribed by doctors' is coded as '28693', which numbers represents 'medicines' ?",
+      "hq": "एक निश्चित भाषा में 'doctors are ethical' का कोड 921 है, 'medicines are costly' का कोड 526 है और 'medicines are prescribed by doctors' का कोड 28693 है। 'medicines' के लिए कौन सा अंक होगा?",
+      "o": [
+        "9",
+        "2",
+        "5",
+        "6"
+      ],
+      "a": 3,
+      "e": "'are' is common to 1 & 2 (921, 526) -> 'are' = 2.\n'medicines' is common to 2 & 3 (526, 28693).\nCommon digits are 2 and 6. Since 2 is 'are', 'medicines' = **6**.\n",
+      "he": "'are' शब्द 1 और 2 (921, 526) में कॉमन है -> तो 'are' = 2 हुआ।\n'medicines' शब्द 2 और 3 (526, 28693) में कॉमन है।\nइनमें कॉमन अंक 2 और 6 हैं। चूँकि 2 'are' के लिए है, तो 'medicines' = **6** होगा।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Sum of Place Values)",
+      "q": "In a certain code language, if 'BROTHER' is coded as 86 and 'FATHER' is coded as 58 'SISTER' is coded as 90 then how will 'MOTHER' written in that code?",
+      "hq": "एक निश्चित कूट भाषा में, यदि 'BROTHER' का कोड 86 है, 'FATHER' का 58 है और 'SISTER' का 90 है, तो उसी भाषा में 'MOTHER' को क्या लिखा जाएगा?",
+      "o": [
+        "83",
+        "79",
+        "52",
+        "73"
+      ],
+      "a": 1,
+      "e": "The code is the sum of the alphabetical positions of the letters.\nM(13) + O(15) + T(20) + H(8) + E(5) + R(18)\n13 + 15 + 20 + 8 + 5 + 18 = **79**.",
+      "he": "यहाँ कोड अक्षरों की वर्णमाला में स्थिति (position) के योग (sum) के बराबर है।\nM(13) + O(15) + T(20) + H(8) + E(5) + R(18) को जोड़ें:\n13 + 15 + 20 + 8 + 5 + 18 = **79**।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Jumbled Words (Senses vs Action)",
+      "q": "Rearrange the cluttered letters to form a meaningful word and find the odd one out.",
+      "hq": "अव्यवस्थित अक्षरों को पुनर्व्यवस्थित करके एक सार्थक शब्द बनाएं और विषम शब्द ज्ञात करें।",
+      "o": [
+        "ELMSL",
+        "ERHA",
+        "IKNTH",
+        "SAETE"
+      ],
+      "a": 3,
+      "e": "Rearranging the letters:\nELMSL -> SMELL\nERHA -> HEAR\nIKNTH -> THINK\nSAETE -> TEASE\nSmell, Hear, and Think are personal sensory or cognitive activities. **Tease** is an action directed towards another person.\n",
+      "he": "अक्षरों को पुनर्व्यवस्थित करने पर:\nELMSL -> SMELL (सूँघना)\nERHA -> HEAR (सुनना)\nIKNTH -> THINK (सोचना)\nSAETE -> TEASE (चिढ़ाना)\nसूँघना, सुनना और सोचना व्यक्तिगत संवेदी या संज्ञानात्मक गतिविधियाँ हैं। **चिढ़ाना (Tease)** किसी दूसरे व्यक्ति के प्रति की जाने वाली क्रिया है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Classification (Living vs Non-living)",
+      "q": "Select the option that is different from other.",
+      "hq": "उस विकल्प का चयन करें जो अन्य से भिन्न है।",
+      "o": [
+        "Pig",
+        "Kite",
+        "Nest",
+        "Honey bee"
+      ],
+      "ho": [
+        "सुअर (Pig)",
+        "चील (Kite)",
+        "घोंसला (Nest)",
+        "मधुमक्खी (Honey bee)"
+      ],
+      "a": 2,
+      "e": "Pig, Kite (bird), and Honey bee are living beings. A **Nest** is a habitat/structure, not a living creature.\n",
+      "he": "सुअर, चील और मधुमक्खी जीवित प्राणी हैं। **घोंसला** एक निवास स्थान/संरचना है, कोई जीवित प्राणी नहीं।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Festivals & Regions)",
+      "q": "Select the word pair that is analogous to the given word pair.\nSankranti : Andhra Pradesh",
+      "hq": "उस शब्द युग्म का चयन करें जो दिए गए शब्द युग्म के समान है।\nसंक्रांति : आंध्र प्रदेश",
+      "o": [
+        "Onam : Kerala",
+        "Bhangra : Punjab",
+        "Christmas : Christians",
+        "Kathak : Uttar Pradesh"
+      ],
+      "ho": [
+        "ओणम : केरल",
+        "भांगड़ा : पंजाब",
+        "क्रिसमस : ईसाई",
+        "कथक : उत्तर प्रदेश"
+      ],
+      "a": 0,
+      "e": "'Sankranti' is a major festival celebrated in the state of Andhra Pradesh. Similarly, **Onam** is a major festival celebrated in **Kerala**.\n(Note: Bhangra and Kathak are dance forms, not festivals in this context).\n",
+      "he": "'संक्रांति' आंध्र प्रदेश राज्य में मनाया जाने वाला एक प्रमुख त्योहार है। इसी प्रकार, **ओणम**, **केरल** में मनाया जाने वाला एक प्रमुख त्योहार है।\n(नोट: इस संदर्भ में भांगड़ा और कथक नृत्य के रूप हैं, त्योहार नहीं)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Singular & Plural)",
+      "q": "Select the related word pair from the following options.\nGoose : Geese :: ?",
+      "hq": "निम्नलिखित विकल्पों में से संबंधित शब्द युग्म का चयन करें।\nGoose : Geese (हंस : हंसों) :: ?",
+      "o": [
+        "Socks : Sock",
+        "Shirts : Shirt",
+        "Jacket : Jacket",
+        "Pant : Pants"
+      ],
+      "a": 3,
+      "e": "",
+      "he": "संबंध एकवचन : बहुवचन (Singular : Plural) का है। 'Goose' का बहुवचन 'Geese' है। इसी प्रकार, 'Pant' का बहुवचन **'Pants'** है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations (Balancing Equation)",
+      "q": "Correct the mathematical symbols from the given alternatives change the sign by choosing the combination and get a balanced equation-\n25 * 5 * 35 * 20 * 2",
+      "hq": "दिए गए विकल्पों में से सही गणितीय प्रतीकों का चयन करके '*' चिन्ह को बदलें और एक संतुलित समीकरण प्राप्त करें-\n25 * 5 * 35 * 20 * 2",
+      "o": [
+        "x = ÷ +",
+        "+ = x ÷",
+        "÷ + = x",
+        "x ÷ + ="
+      ],
+      "a": 2,
+      "e": "Substitute '*' with symbols from option 3 ($\\div, +, =, \\times$):\n$25 \\div 5 + 35 = 20 \\times 2$\nLHS: $5 + 35 = 40$\nRHS: $20 \\times 2 = 40$\nLHS = RHS.\n",
+      "he": "'*' के स्थान पर विकल्प 3 के प्रतीकों ($\\div, +, =, \\times$) को रखें:\n$25 \\div 5 + 35 = 20 \\times 2$\nLHS (बायां पक्ष): $5 + 35 = 40$\nRHS (दायां पक्ष): $20 \\times 2 = 40$\nLHS = RHS।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Coding-Decoding (Pattern Matching)",
+      "q": "If VOTER = 41352, HEATER = 743654, TEASER = 645834 then how number S is coded as?",
+      "hq": "यदि VOTER = 41352, HEATER = 743654, TEASER = 645834 है, तो अक्षर S को कैसे कूटबद्ध (code) किया गया है?",
+      "o": [
+        "1",
+        "5",
+        "8",
+        "7"
+      ],
+      "a": 2,
+      "e": "Looking at the word **TEASER** (645834), 'S' is the 4th letter.\nThe 4th digit in the code 645834 is **8**.\n(Since 'S' is not present in VOTER or HEATER, and 8 is the unique number not present in the other codes, S corresponds to 8).\n",
+      "he": "शब्द **TEASER** (645834) को देखने पर, 'S' चौथा अक्षर है।\nकूट 645834 में चौथा अंक **8** है।\n(चूंकि 'S' शब्द VOTER या HEATER में मौजूद नहीं है, और 8 एक अनूठी संख्या है जो अन्य कूटों में मौजूद नहीं है, इसलिए S का कूट 8 है)।",
+      "e2": "",
+      "he2": ""
+    }
+  ]
+}

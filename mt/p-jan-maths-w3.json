@@ -1,0 +1,566 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "Mathematics",
+      "t": "Profit & Loss (Dishonest Dealer)",
+      "q": "A dishonest dealer professes to sell his goods at cost price but uses a weight of 900 grams instead of a 1 kg weight. What is his actual gain percent?",
+      "hq": "एक बेईमान व्यापारी अपने सामान को क्रय मूल्य पर बेचने का दावा करता है लेकिन 1 किलो वजन के बजाय 900 ग्राम वजन का उपयोग करता है। उसका वास्तविक लाभ प्रतिशत क्या है?",
+      "o": [
+        "10%",
+        "11.11%",
+        "12.5%",
+        "9.09%"
+      ],
+      "a": 1,
+      "e": "**Best Method (Error Formula):**\nDo not calculate prices. Use the weight difference directly.\n\n$$\\text{Gain \\%} = \\frac{\\text{Error}}{\\text{False Weight}} \\times 100$$\n\n* True Weight = 1000g\n* False Weight (Used) = 900g\n* Error (Difference) = 100g\n\n$$\\text{Gain \\%} = \\frac{100}{900} \\times 100$$\n$$= \\frac{1}{9} \\times 100 = 11.11\\%$$\n",
+      "he": "**सबसे अच्छी विधि (त्रुटि सूत्र):**\nकीमतों की गणना न करें। सीधे वजन के अंतर का उपयोग करें।\n\n$$\\text{लाभ \\%} = \\frac{\\text{त्रुटि}}{\\text{गलत वजन}} \\times 100$$\n\n* सही वजन = 1000g\n* गलत वजन (उपयोग किया गया) = 900g\n* त्रुटि (अंतर) = 100g\n\n$$\\text{लाभ \\%} = \\frac{100}{900} \\times 100$$\n$$= \\frac{1}{9} \\times 100 = 11.11\\%$$",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Average (Batsman)",
+      "q": "A batsman has an average of 30 runs in his 10 innings. How much should he score in the next inning to increase his average by 4 runs?",
+      "hq": "एक बल्लेबाज की 10 पारियों का औसत 30 रन है। अपनी औसत में 4 रन की वृद्धि करने के लिए उसे अगली पारी में कितना स्कोर करना चाहिए?",
+      "o": [
+        "70 runs",
+        "74 runs",
+        "40 runs",
+        "64 runs"
+      ],
+      "ho": [
+        "70 रन",
+        "74 रन",
+        "40 रन",
+        "64 रन"
+      ],
+      "a": 1,
+      "e": "1. Current Total (10 innings) = $10 \\times 30 = 300$.\n2. Target Average = $30 + 4 = 34$.\nTarget Total (11 innings) = $11 \\times 34 = 374$.\n3. Score required = Target Total - Current Total.\n$374 - 300 = 74$.\nAnswer is 74 runs.\n",
+      "he": "1. वर्तमान कुल (10 पारियां) = $10 \\times 30 = 300$।\n2. लक्ष्य औसत = $30 + 4 = 34$।\nलक्ष्य कुल (11 पारियां) = $11 \\times 34 = 374$।\n3. आवश्यक स्कोर = लक्ष्य कुल - वर्तमान कुल।\n$374 - 300 = 74$।\nउत्तर 74 रन है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time, Speed and Distance (Relative Speed)",
+      "q": "Two trains 140 m and 160 m long run at speeds of 60 km/h and 40 km/h respectively in opposite directions on parallel tracks. What time will they take to cross each other?",
+      "hq": "140 मीटर और 160 मीटर लंबी दो ट्रेनें समानांतर पटरियों पर विपरीत दिशाओं में क्रमशः 60 किमी/घंटा और 40 किमी/घंटा की गति से चलती हैं। वे एक-दूसरे को पार करने में कितना समय लेंगी?",
+      "o": [
+        "9.8 seconds",
+        "10.8 seconds",
+        "12 seconds",
+        "10.5 seconds"
+      ],
+      "ho": [
+        "9.8 सेकंड",
+        "10.8 सेकंड",
+        "12 सेकंड",
+        "10.5 सेकंड"
+      ],
+      "a": 1,
+      "e": "1. Total Distance = Sum of lengths = $140 + 160 = 300$ m.\n2. Relative Speed (Opposite Direction) = $60 + 40 = 100$ km/h.\n3. Convert Speed to m/s: $100 \\times \\frac{5}{18} = \\frac{250}{9}$ m/s.\n4. Time = $\\frac{\\text{Distance}}{\\text{Speed}} = \\frac{300}{250/9} = 300 \\times \\frac{9}{250}$.\n$300/250 = 1.2$.\n$1.2 \\times 9 = 10.8$ seconds.\nAnswer is 10.8 seconds.\n",
+      "he": "1. कुल दूरी = लंबाइयों का योग = $140 + 160 = 300$ मीटर।\n2. सापेक्ष गति (Relative Speed) (विपरीत दिशा) = $60 + 40 = 100$ किमी/घंटा।\n3. गति को मीटर/सेकंड में बदलें: $100 \\times \\frac{5}{18} = \\frac{250}{9}$ मीटर/सेकंड।\n4. समय = $\\frac{\\text{दूरी}}{\\text{गति}} = \\frac{300}{250/9} = 300 \\times \\frac{9}{250}$।\n$300/250 = 1.2$।\n$1.2 \\times 9 = 10.8$ सेकंड।\nउत्तर 10.8 सेकंड है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Simple Interest (Rate Calculation)",
+      "q": "At what rate percent per annum simple interest will a sum of money double itself in 8 years?",
+      "hq": "किस वार्षिक साधारण ब्याज दर पर कोई धनराशि 8 वर्षों में स्वयं की दोगुनी हो जाएगी?",
+      "o": [
+        "12%",
+        "15%",
+        "10%",
+        "12.5%"
+      ],
+      "a": 3,
+      "e": "1. Let Principal = 100. Amount = 200 (doubled).\nInterest (SI) = 100. Time = 8 years.\n2. Formula: $R = \\frac{100 \\times SI}{P \\times T}$.\n3. Calculation:\n$R = \\frac{100 \\times 100}{100 \\times 8} = \\frac{100}{8} = 12.5\\%$.\nAnswer is 12.5%.\n",
+      "he": "1. माना मूलधन = 100। मिश्रधन = 200 (दोगुना)।\nब्याज (SI) = 100। समय = 8 वर्ष।\n2. सूत्र: $R = \\frac{100 \\times SI}{P \\times T}$।\n3. गणना:\n$R = \\frac{100 \\times 100}{100 \\times 8} = \\frac{100}{8} = 12.5\\%$।\nउत्तर 12.5% है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit and Loss (Dishonest Dealer)",
+      "q": "A dishonest shopkeeper professes to sell his goods at Cost Price but uses a weight of 900 grams instead of 1 kg. What is his profit percentage?",
+      "hq": "एक बेईमान दुकानदार अपनी वस्तुओं को क्रय मूल्य पर बेचने का दावा करता है लेकिन 1 किलो के स्थान पर 900 ग्राम वजन का उपयोग करता है। उसका लाभ प्रतिशत क्या है?",
+      "o": [
+        "10%",
+        "11.11%",
+        "12.5%",
+        "9.09%"
+      ],
+      "a": 1,
+      "e": "1. Let Cost Price of 1g = ₹1.\n2. CP of 1000g = ₹1000.\n3. SP of 1000g (according to promise) = ₹1000.\n4. BUT, he actually gives only 900g.\nActual Cost to dealer = CP of 900g = ₹900.\n5. Profit = SP - Actual CP = $1000 - 900 = 100$.\n6. Profit % = $\\frac{\\text{Profit}}{\\text{Actual CP}} \\times 100$\n$= \\frac{100}{900} \\times 100 = \\frac{100}{9} = 11.11\\%$.\nAnswer is 11.11%.\n",
+      "he": "1. माना 1 ग्राम का क्रय मूल्य (CP) = ₹1।\n2. 1000 ग्राम का CP = ₹1000।\n3. 1000 ग्राम का विक्रय मूल्य (SP) (वादे के अनुसार) = ₹1000।\n4. लेकिन, वह वास्तव में केवल 900 ग्राम देता है।\nदुकानदार के लिए वास्तविक लागत = 900 ग्राम का CP = ₹900।\n5. लाभ = SP - वास्तविक CP = $1000 - 900 = 100$।\n6. लाभ % = $\\frac{\\text{लाभ}}{\\text{वास्तविक CP}} \\times 100$\n$= \\frac{100}{900} \\times 100 = \\frac{100}{9} = 11.11\\%$।\nउत्तर 11.11% है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Geometry (Circles)",
+      "q": "Two concentric circles have radii of 13 cm and 5 cm. What is the length of the chord of the larger circle which is tangent to the smaller circle?",
+      "hq": "दो संकेंद्रित वृत्तों की त्रिज्याएँ 13 सेमी और 5 सेमी हैं। बड़े वृत्त की उस जीवा की लंबाई क्या है जो छोटे वृत्त की स्पर्श रेखा है?",
+      "o": [
+        "24 cm",
+        "12 cm",
+        "18 cm",
+        "10 cm"
+      ],
+      "ho": [
+        "24 सेमी",
+        "12 सेमी",
+        "18 सेमी",
+        "10 सेमी"
+      ],
+      "a": 0,
+      "e": "1. Draw a diagram where the chord $AB$ of the large circle touches the small circle at point $M$.\n2. The radius of the small circle ($OM = 5$ cm) is perpendicular to the chord $AB$.\n3. Join the center $O$ to point $A$ on the large circle ($OA = 13$ cm).\n4. Triangle $OMA$ is a right-angled triangle.\n5. By Pythagoras theorem: $AM = \\sqrt{OA^2 - OM^2} = \\sqrt{13^2 - 5^2} = \\sqrt{169 - 25} = \\sqrt{144} = 12$ cm.\n6. The perpendicular from the center bisects the chord. So, Length $AB = 2 \\times AM = 2 \\times 12 = 24$ cm.\nAnswer is 24 cm.\n",
+      "he": "1. एक आरेख बनाएं जहाँ बड़े वृत्त की जीवा $AB$, छोटे वृत्त को बिंदु $M$ पर स्पर्श करती है।\n2. छोटे वृत्त की त्रिज्या ($OM = 5$ सेमी) जीवा $AB$ पर लंबवत है।\n3. केंद्र $O$ को बड़े वृत्त पर स्थित बिंदु $A$ से जोड़ें ($OA = 13$ सेमी)।\n4. त्रिभुज $OMA$ एक समकोण त्रिभुज है।\n5. पाइथागोरस प्रमेय द्वारा: $AM = \\sqrt{OA^2 - OM^2} = \\sqrt{13^2 - 5^2} = \\sqrt{169 - 25} = \\sqrt{144} = 12$ सेमी।\n6. केंद्र से डाला गया लंब जीवा को समद्विभाजित करता है। इसलिए, जीवा $AB$ की लंबाई $= 2 \\times AM = 2 \\times 12 = 24$ सेमी।\nउत्तर 24 सेमी है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Simple Interest (Multipliers)",
+      "q": "A sum of money becomes 3 times of itself in 10 years at simple interest. In how many years will it become 5 times of itself?",
+      "hq": "कोई धनराशि साधारण ब्याज पर 10 वर्षों में स्वयं की 3 गुनी हो जाती है। कितने वर्षों में यह स्वयं की 5 गुनी हो जाएगी?",
+      "o": [
+        "15 years",
+        "20 years",
+        "18 years",
+        "25 years"
+      ],
+      "ho": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "18 वर्ष",
+        "25 वर्ष"
+      ],
+      "a": 1,
+      "e": "1. Case 1: Sum ($P$) becomes $3P$. Interest ($SI$) = $2P$. Time = 10 years.\nRate proportional to $SI/T = 2P/10 = 0.2P$.\n2. Case 2: Sum ($P$) becomes $5P$. Interest ($SI$) = $4P$.\n3. Logic: If $2P$ interest takes 10 years, then $4P$ interest takes $2 \\times 10 = 20$ years.\nAnswer is 20 years.\n",
+      "he": "1. स्थिति 1: मूलधन ($P$) बढ़कर $3P$ हो जाता है। ब्याज ($SI$) = $2P$। समय = 10 वर्ष।\nदर ($SI/T$) के समानुपाती है = $2P/10 = 0.2P$।\n2. स्थिति 2: मूलधन ($P$) बढ़कर $5P$ हो जाता है। ब्याज ($SI$) = $4P$।\n3. तर्क: यदि $2P$ ब्याज में 10 वर्ष लगते हैं, तो $4P$ ब्याज में $2 \\times 10 = 20$ वर्ष लगेंगे।\nउत्तर 20 वर्ष है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Work (3 People LCM)",
+      "q": "A, B, and C can complete a work in 12, 15, and 20 days respectively. If they work together, in how many days will the work be completed?",
+      "hq": "A, B और C एक कार्य को क्रमशः 12, 15 और 20 दिनों में पूरा कर सकते हैं। यदि वे एक साथ कार्य करते हैं, तो कार्य कितने दिनों में पूरा होगा?",
+      "o": [
+        "6 days",
+        "4 days",
+        "5 days",
+        "8 days"
+      ],
+      "ho": [
+        "6 दिन",
+        "4 दिन",
+        "5 दिन",
+        "8 दिन"
+      ],
+      "a": 2,
+      "e": "1. Let Total Work = LCM(12, 15, 20) = 60 units.\n2. Efficiency:\nA = $60/12 = 5$ units/day.\nB = $60/15 = 4$ units/day.\nC = $60/20 = 3$ units/day.\n3. Combined Efficiency = $5 + 4 + 3 = 12$ units/day.\n4. Time = $\\frac{60}{12} = 5$ days.\nAnswer is 5 days.",
+      "he": "1. माना कुल कार्य = LCM(12, 15, 20) = 60 इकाई।\n2. दक्षता:\nA = $60/12 = 5$ इकाई/दिन।\nB = $60/15 = 4$ इकाई/दिन।\nC = $60/20 = 3$ इकाई/दिन।\n3. संयुक्त दक्षता = $5 + 4 + 3 = 12$ इकाई/दिन।\n4. समय = $60/12 = 5$ दिन।\nउत्तर 5 दिन है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Geometry (Triangles)",
+      "q": "In a triangle ABC, the internal bisectors of $\\angle B$ and $\\angle C$ meet at point O. If $\\angle BOC = 110^\\circ$, what is the measure of $\\angle A$?",
+      "hq": "एक त्रिभुज ABC में, $\\angle B$ और $\\angle C$ के आंतरिक द्विभाजक (internal bisectors) बिंदु O पर मिलते हैं। यदि $\\angle BOC = 110^\\circ$ है, तो $\\angle A$ का माप क्या है?",
+      "o": [
+        "50°",
+        "40°",
+        "70°",
+        "60°"
+      ],
+      "a": 1,
+      "e": "1. The formula for the angle formed by internal bisectors is:\n$\\angle BOC = 90^\\circ + \\frac{1}{2}\\angle A$.\n2. Substitute the given value:\n$110^\\circ = 90^\\circ + \\frac{1}{2}\\angle A$.\n3. Solve for $\\angle A$:\n$110^\\circ - 90^\\circ = \\frac{1}{2}\\angle A$\n$20^\\circ = \\frac{1}{2}\\angle A$\n$\\angle A = 40^\\circ$.\nAnswer is 40°.\n",
+      "he": "1. आंतरिक द्विभाजकों द्वारा निर्मित कोण का सूत्र है:\n$\\angle BOC = 90^\\circ + \\frac{1}{2}\\angle A$।\n2. दिया गया मान रखें:\n$110^\\circ = 90^\\circ + \\frac{1}{2}\\angle A$।\n3. $\\angle A$ के लिए हल करें:\n$110^\\circ - 90^\\circ = \\frac{1}{2}\\angle A$\n$20^\\circ = \\frac{1}{2}\\angle A$\n$\\angle A = 40^\\circ$।\nउत्तर 40° है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Simple Interest (Sum Calculation)",
+      "q": "The simple interest on a sum of money for 3 years at 12% per annum is ₹1,800. What is the principal sum?",
+      "hq": "किसी धनराशि पर 12% वार्षिक दर से 3 वर्ष का साधारण ब्याज ₹1,800 है। मूलधन राशि क्या है?",
+      "o": [
+        "₹6,000",
+        "₹4,500",
+        "₹5,000",
+        "₹5,500"
+      ],
+      "a": 2,
+      "e": "1. Formula: $SI = \\frac{P \\times R \\times T}{100}$.\n2. Substitute values:\n$1800 = \\frac{P \\times 12 \\times 3}{100}$.\n$1800 = \\frac{36P}{100}$.\n3. Solve for P:\n$P = \\frac{1800 \\times 100}{36}$.\n$P = 50 \\times 100 = 5000$.\nAnswer is ₹5,000.\n",
+      "he": "1. सूत्र: $SI = \\frac{P \\times R \\times T}{100}$।\n2. मान रखें:\n$1800 = \\frac{P \\times 12 \\times 3}{100}$।\n$1800 = \\frac{36P}{100}$।\n3. P के लिए हल करें:\n$P = \\frac{1800 \\times 100}{36}$।\n$P = 50 \\times 100 = 5000$।\nउत्तर ₹5,000 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Trigonometry",
+      "q": "If $\\tan \\theta = \\frac{4}{3}$ and $\\theta$ is an acute angle, find the value of $\\sqrt{\\frac{1 - \\sin \\theta}{1 + \\sin \\theta}}$.",
+      "hq": "यदि $\\tan \\theta = \\frac{4}{3}$ है और $\\theta$ एक न्यून कोण है, तो $\\sqrt{\\frac{1 - \\sin \\theta}{1 + \\sin \\theta}}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "1/2",
+        "1/3",
+        "2/3",
+        "3/4"
+      ],
+      "a": 1,
+      "e": "1. If $\\tan \\theta = \\frac{4}{3}$, this corresponds to a right triangle with Perpendicular = 4, Base = 3.\n2. Hypotenuse = $\\sqrt{3^2 + 4^2} = 5$.\n3. Therefore, $\\sin \\theta = \\frac{\\text{Opposite}}{\\text{Hypotenuse}} = \\frac{4}{5}$.\n4. Substitute into the expression:\n$\\sqrt{\\frac{1 - 4/5}{1 + 4/5}}$\n$= \\sqrt{\\frac{1/5}{9/5}}$\n$= \\sqrt{\\frac{1}{9}}$\n$= \\frac{1}{3}$.\nAnswer is 1/3.\n",
+      "he": "1. यदि $\\tan \\theta = \\frac{4}{3}$ है, तो यह एक समकोण त्रिभुज के अनुरूप है जिसमें लंब (Perpendicular) = 4 और आधार (Base) = 3 है।\n2. कर्ण (Hypotenuse) = $\\sqrt{3^2 + 4^2} = 5$।\n3. इसलिए, $\\sin \\theta = \\frac{\\text{लंब}}{\\text{कर्ण}} = \\frac{4}{5}$।\n4. व्यंजक में मान रखें:\n$\\sqrt{\\frac{1 - 4/5}{1 + 4/5}}$\n$= \\sqrt{\\frac{1/5}{9/5}}$\n$= \\sqrt{\\frac{1}{9}}$\n$= \\frac{1}{3}$\nउत्तर 1/3 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Substitution)",
+      "q": "If $x + \\frac{1}{x} = 2$, then the value of $x^{100} + \\frac{1}{x^{100}}$ is:",
+      "hq": "यदि $x + \\frac{1}{x} = 2$ है, तो $x^{100} + \\frac{1}{x^{100}}$ का मान है:",
+      "o": [
+        "1",
+        "0",
+        "2",
+        "100"
+      ],
+      "a": 2,
+      "e": "1. If $x + \\frac{1}{x} = 2$, this is a special case where $x$ must be 1.\n(Check: $1 + 1/1 = 2$).\n2. Substitute $x = 1$ into the target expression:\n$1^{100} + \\frac{1}{1^{100}}$\n$= 1 + 1 = 2$.\nAnswer is 2.",
+      "he": "1. यदि $x + \\frac{1}{x} = 2$ है, तो यह एक विशेष स्थिति है जहाँ $x$ का मान 1 होना चाहिए।\n(जाँच: $1 + 1/1 = 2$).\n2. लक्ष्य व्यंजक में $x = 1$ रखें:\n$1^{100} + \\frac{1}{1^{100}}$\n$= 1 + 1 = 2$.\nउत्तर 2 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Ratio and Proportion (Ages)",
+      "q": "The ratio of the present ages of a father and his son is 3:1. Ten years hence, the ratio of their ages will be 2:1. What is the present age of the father?",
+      "hq": "एक पिता और उसके पुत्र की वर्तमान आयु का अनुपात 3:1 है। दस वर्ष बाद, उनकी आयु का अनुपात 2:1 होगा। पिता की वर्तमान आयु क्या है?",
+      "o": [
+        "40 years",
+        "30 years",
+        "45 years",
+        "35 years"
+      ],
+      "ho": [
+        "40 वर्ष",
+        "30 वर्ष",
+        "45 वर्ष",
+        "35 वर्ष"
+      ],
+      "a": 1,
+      "e": "1. Present ages: $3x$ and $1x$.\n2. After 10 years:\nFather = $3x + 10$.\nSon = $x + 10$.\n3. Ratio condition:\n$\\frac{3x + 10}{x + 10} = \\frac{2}{1}$.\n4. Cross multiply:\n$3x + 10 = 2(x + 10)$.\n$3x + 10 = 2x + 20$.\n$x = 10$.\n5. Father's present age = $3x = 3 \\times 10 = 30$ years.\nAnswer is 30 years.\n",
+      "he": "1. वर्तमान आयु: $3x$ और $1x$।\n2. 10 वर्ष बाद:\nपिता = $3x + 10$।\nपुत्र = $x + 10$।\n3. अनुपात की शर्त:\n$\\frac{3x + 10}{x + 10} = \\frac{2}{1}$।\n4. तिरछा गुणा (Cross multiply) करें:\n$3x + 10 = 2(x + 10)$।\n$3x + 10 = 2x + 20$।\n$x = 10$।\n5. पिता की वर्तमान आयु = $3x = 3 \\times 10 = 30$ वर्ष।\nउत्तर 30 वर्ष है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Pipes & Cisterns (Leakage)",
+      "q": "A pipe can fill a tank in 10 hours. Due to a leak in the bottom, it takes 12 hours to fill the tank. In how much time can the leak alone empty the full tank?",
+      "hq": "एक पाइप एक टैंक को 10 घंटे में भर सकता है। तल में रिसाव (leak) के कारण, टैंक को भरने में 12 घंटे लगते हैं। केवल रिसाव भरे हुए टैंक को कितने समय में खाली कर सकता है?",
+      "o": [
+        "60 hours",
+        "50 hours",
+        "45 hours",
+        "30 hours"
+      ],
+      "ho": [
+        "60 घंटे",
+        "50 घंटे",
+        "45 घंटे",
+        "30 घंटे"
+      ],
+      "a": 0,
+      "e": "**Best Method (Product/Difference Formula):**\nWhen a fill time ($A$) increases to ($B$) due to a leak, the time for the leak to empty is:\n$$\\text{Time} = \\frac{A \\times B}{B - A}$$\n\nHere, $A = 10$, $B = 12$.\n$$\\text{Time} = \\frac{10 \\times 12}{12 - 10}$$\n$$= \\frac{120}{2} = 60 \\text{ hours}.$$\n",
+      "he": "**सबसे अच्छी विधि (गुणनफल/अंतर सूत्र):**\nजब रिसाव के कारण भरने का समय ($A$) बढ़कर ($B$) हो जाता है, तो रिसाव द्वारा खाली करने में लगा समय है:\n$$\\text{समय} = \\frac{A \\times B}{B - A}$$\n\nयहाँ, $A = 10$, $B = 12$ है।\n$$\\text{समय} = \\frac{10 \\times 12}{12 - 10}$$\n$$= \\frac{120}{2} = 60 \\text{ घंटे}।$$",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Linear Equation)",
+      "q": "The sum of two numbers is 40 and their difference is 4. What is the ratio of the numbers?",
+      "hq": "दो संख्याओं का योग 40 है और उनका अंतर 4 है। संख्याओं का अनुपात क्या है?",
+      "o": [
+        "11:9",
+        "10:9",
+        "21:19",
+        "11:7"
+      ],
+      "a": 0,
+      "e": "1. Let numbers be $a$ and $b$.\n$a + b = 40$\n$a - b = 4$\n2. Add equations: $2a = 44 \\implies a = 22$.\n3. Subtract equations: $2b = 36 \\implies b = 18$.\n4. Ratio $a:b = 22:18 = 11:9$.\nAnswer is 11:9.",
+      "he": "1. माना संख्याएं $a$ और $b$ हैं।\n$a + b = 40$\n$a - b = 4$\n2. समीकरणों को जोड़ने पर: $2a = 44 \\implies a = 22$।\n3. समीकरणों को घटाने पर: $2b = 36 \\implies b = 18$।\n4. अनुपात $a:b = 22:18 = 11:9$।\nउत्तर 11:9 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Power Identities)",
+      "q": "If $x + \\frac{1}{x} = 4$, then what is the value of $x^4 + \\frac{1}{x^4}$?",
+      "hq": "यदि $x + \\frac{1}{x} = 4$ है, तो $x^4 + \\frac{1}{x^4}$ का मान क्या होगा?",
+      "o": [
+        "194",
+        "196",
+        "254",
+        "192"
+      ],
+      "a": 0,
+      "e": "1. Square the given equation:\n$(x + \\frac{1}{x})^2 = 4^2 \\implies x^2 + \\frac{1}{x^2} + 2 = 16$.\n$x^2 + \\frac{1}{x^2} = 14$.\n2. Square this result again to get power 4:\n$(x^2 + \\frac{1}{x^2})^2 = 14^2$.\n$x^4 + \\frac{1}{x^4} + 2 = 196$.\n$x^4 + \\frac{1}{x^4} = 196 - 2 = 194$.\nAnswer is 194.\n",
+      "he": "1. दिए गए समीकरण का वर्ग करें:\n$(x + \\frac{1}{x})^2 = 4^2 \\implies x^2 + \\frac{1}{x^2} + 2 = 16$।\n$x^2 + \\frac{1}{x^2} = 14$।\n2. घात 4 प्राप्त करने के लिए इस परिणाम का फिर से वर्ग करें:\n$(x^2 + \\frac{1}{x^2})^2 = 14^2$।\n$x^4 + \\frac{1}{x^4} + 2 = 196$।\n$x^4 + \\frac{1}{x^4} = 196 - 2 = 194$।\nउत्तर 194 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Ratio and Proportion (Coins)",
+      "q": "A bag contains 25 paise and 50 paise coins. The total number of coins is 120 and the total amount is ₹50. Find the number of 50 paise coins.",
+      "hq": "एक बैग में 25 पैसे और 50 पैसे के सिक्के हैं। सिक्कों की कुल संख्या 120 है और कुल राशि ₹50 है। 50 पैसे के सिक्कों की संख्या ज्ञात कीजिए।",
+      "o": [
+        "40",
+        "60",
+        "80",
+        "100"
+      ],
+      "a": 2,
+      "e": "1. Let 50p coins = $x$, 25p coins = $120 - x$.\n2. Convert total amount to paise: $50 \\times 100 = 5000$ paise.\n3. Equation:\n$50x + 25(120 - x) = 5000$.\n$50x + 3000 - 25x = 5000$.\n$25x = 2000$.\n$x = 80$.\n4. Number of 50p coins is 80.\nAnswer is 80.",
+      "he": "1. माना 50 पैसे के सिक्के = $x$, 25 पैसे के सिक्के = $120 - x$।\n2. कुल राशि को पैसे में बदलें: $50 \\times 100 = 5000$ पैसे।\n3. समीकरण:\n$50x + 25(120 - x) = 5000$।\n$50x + 3000 - 25x = 5000$।\n$25x = 2000$।\n$x = 80$।\n4. 50 पैसे के सिक्कों की संख्या 80 है।\nउत्तर 80 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Identities)",
+      "q": "If $x + y = 7$ and $xy = 12$, then find the value of $x^2 + y^2$.",
+      "hq": "यदि $x + y = 7$ और $xy = 12$ है, तो $x^2 + y^2$ का मान ज्ञात कीजिए।",
+      "o": [
+        "29",
+        "37",
+        "49",
+        "25"
+      ],
+      "a": 3,
+      "e": "**Best Method (Square Identity):**\nUse the formula: $(x + y)^2 = x^2 + y^2 + 2xy$\n\n1. Substitute known values:\n$7^2 = x^2 + y^2 + 2(12)$\n2. Solve:\n$49 = x^2 + y^2 + 24$\n$x^2 + y^2 = 49 - 24$\n$x^2 + y^2 = 25$",
+      "he": "**सबसे अच्छी विधि (वर्ग सर्वसमिका):**\nसूत्र का उपयोग करें: $(x + y)^2 = x^2 + y^2 + 2xy$\n\n1. ज्ञात मानों को रखें:\n$7^2 = x^2 + y^2 + 2(12)$\n2. हल करें:\n$49 = x^2 + y^2 + 24$\n$x^2 + y^2 = 49 - 24$\n$x^2 + y^2 = 25$",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Number System (LCM Remainder)",
+      "q": "Find the smallest number which when divided by 12, 15, and 20 leaves a remainder of 4 in each case.",
+      "hq": "वह छोटी से छोटी संख्या ज्ञात कीजिए जिसे 12, 15 और 20 से विभाजित करने पर प्रत्येक स्थिति में 4 शेष बचे।",
+      "o": [
+        "60",
+        "56",
+        "64",
+        "68"
+      ],
+      "a": 2,
+      "e": "1. Find LCM of 12, 15, 20.\n$12 = 4 \\times 3$\n$15 = 5 \\times 3$\n$20 = 5 \\times 4$\nLCM = 60.\n2. Required Number = LCM + Remainder.\n$60 + 4 = 64$.\nAnswer is 64.\n",
+      "he": "1. 12, 15, 20 का लघुत्तम समापवर्त्य (LCM) ज्ञात करें।\n$12 = 4 \\times 3$\n$15 = 5 \\times 3$\n$20 = 5 \\times 4$\nLCM = 60.\n2. अभीष्ट संख्या = LCM + शेषफल।\n$60 + 4 = 64$.\nउत्तर 64 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Number System (Unit Digit)",
+      "q": "What is the unit digit in the expansion of $122^{173}$?",
+      "hq": "$122^{173}$ के प्रसार में इकाई का अंक क्या है?",
+      "o": [
+        "2",
+        "4",
+        "8",
+        "6"
+      ],
+      "a": 0,
+      "e": "**Best Method (Cyclicity of 4):**\nTo find the unit digit of any number with power, divide the power by 4 and take the remainder.\n\n1. **Focus on Unit Digit:** Base is 122, so focus on **2**.\n2. **Divide Power:** $173 \\div 4$.\n* Quotient is 43, Remainder is **1**.\n3. **Apply Remainder:**\nUnit digit = $2^{\\text{Remainder}} = 2^1 = 2$.\n\n(Note: If remainder is 0, use power 4).\n**Answer:** 2.\n",
+      "he": "**सबसे अच्छी विधि (4 की चक्रियता - Cyclicity of 4):**\nघात (power) वाली किसी भी संख्या का इकाई अंक ज्ञात करने के लिए, घात को 4 से विभाजित करें और शेषफल लें।\n\n1. **इकाई अंक पर ध्यान दें:** आधार 122 है, इसलिए **2** पर ध्यान दें।\n2. **घात को विभाजित करें:** $173 \\div 4$।\n* भागफल 43 है, शेषफल **1** है।\n3. **शेषफल लागू करें:**\nइकाई का अंक = $2^{\\text{शेषफल}} = 2^1 = 2$।\n\n(नोट: यदि शेषफल 0 हो, तो घात 4 का उपयोग करें)।\n**उत्तर:** 2।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Ratio and Proportion (Mixture)",
+      "q": "Two numbers are in the ratio 3:5. If 9 is subtracted from each, the ratio becomes 12:23. What is the smaller number?",
+      "hq": "दो संख्याएँ 3:5 के अनुपात में हैं। यदि प्रत्येक में से 9 घटाया जाए, तो अनुपात 12:23 हो जाता है। छोटी संख्या क्या है?",
+      "o": [
+        "27",
+        "33",
+        "49",
+        "55"
+      ],
+      "a": 1,
+      "e": "1. Let numbers be $3x$ and $5x$.\n2. Condition: $\\frac{3x - 9}{5x - 9} = \\frac{12}{23}$.\n3. Cross Multiply:\n$23(3x - 9) = 12(5x - 9)$.\n$69x - 207 = 60x - 108$.\n$69x - 60x = 207 - 108$.\n$9x = 99 \\implies x = 11$.\n4. Smaller number = $3x = 3 \\times 11 = 33$.\nAnswer is 33.\n",
+      "he": "1. माना संख्याएँ $3x$ और $5x$ हैं।\n2. शर्त: $\\frac{3x - 9}{5x - 9} = \\frac{12}{23}$।\n3. तिरछा गुणा (Cross Multiply) करें:\n$23(3x - 9) = 12(5x - 9)$।\n$69x - 207 = 60x - 108$।\n$69x - 60x = 207 - 108$।\n$9x = 99 \\implies x = 11$।\n4. छोटी संख्या = $3x = 3 \\times 11 = 33$।\nउत्तर 33 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Identities)",
+      "q": "If $x + \\frac{1}{x} = 5$, then what is the value of $x^3 + \\frac{1}{x^3}$?",
+      "hq": "यदि $x + \\frac{1}{x} = 5$ है, तो $x^3 + \\frac{1}{x^3}$ का मान क्या होगा?",
+      "o": [
+        "110",
+        "125",
+        "140",
+        "115"
+      ],
+      "a": 0,
+      "e": "Use the algebraic identity for cubes:\n$(x + \\frac{1}{x})^3 = x^3 + \\frac{1}{x^3} + 3(x + \\frac{1}{x})$\nLet $x + \\frac{1}{x} = k$. Then $x^3 + \\frac{1}{x^3} = k^3 - 3k$.\nHere, $k = 5$.\nCalculation:\n$5^3 - 3(5)$\n$= 125 - 15$\n$= 110$.\nAnswer is 110.\n",
+      "he": "घनों (cubes) के लिए बीजीय सर्वसमिका का उपयोग करें:\n$(x + \\frac{1}{x})^3 = x^3 + \\frac{1}{x^3} + 3(x + \\frac{1}{x})$\nमान लीजिए $x + \\frac{1}{x} = k$ है। तब $x^3 + \\frac{1}{x^3} = k^3 - 3k$ होगा।\nयहाँ, $k = 5$ है।\nगणना:\n$5^3 - 3(5)$\n$= 125 - 15$\n$= 110$\nउत्तर 110 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Ratio and Proportion (Coins)",
+      "q": "A bag contains ₹1, 50p, and 25p coins in the ratio 2:3:4. If the total value of the money in the bag is ₹180, finding the number of 50p coins.",
+      "hq": "एक बैग में ₹1, 50 पैसे और 25 पैसे के सिक्के 2:3:4 के अनुपात में हैं। यदि बैग में कुल धनराशि ₹180 है, तो 50 पैसे के सिक्कों की संख्या ज्ञात कीजिए।",
+      "o": [
+        "100",
+        "120",
+        "150",
+        "80"
+      ],
+      "a": 1,
+      "e": "1. Let the number of coins be $2x, 3x$, and $4x$.\n2. Value of coins:\n₹1 coins: $2x \\times 1 = 2x$.\n50p coins: $3x \\times 0.50 = 1.5x$.\n25p coins: $4x \\times 0.25 = 1x$.\n3. Total Value equation:\n$2x + 1.5x + 1x = 180$.\n$4.5x = 180$.\n$x = \\frac{1800}{45} = 40$.\n4. Number of 50p coins = $3x = 3 \\times 40 = 120$.\nAnswer is 120.\n",
+      "he": "1. माना सिक्कों की संख्या $2x, 3x$, और $4x$ है।\n2. सिक्कों का मूल्य:\n₹1 के सिक्के: $2x \\times 1 = 2x$।\n50 पैसे के सिक्के: $3x \\times 0.50 = 1.5x$।\n25 पैसे के सिक्के: $4x \\times 0.25 = 1x$।\n3. कुल मूल्य का समीकरण:\n$2x + 1.5x + 1x = 180$।\n$4.5x = 180$।\n$x = \\frac{1800}{45} = 40$।\n4. 50 पैसे के सिक्कों की संख्या = $3x = 3 \\times 40 = 120$।\nउत्तर 120 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Work (Chain Rule)",
+      "q": "If 15 men can complete a work in 20 days, in how many days can 25 men complete the same work?",
+      "hq": "यदि 15 व्यक्ति किसी कार्य को 20 दिनों में पूरा कर सकते हैं, तो 25 व्यक्ति उसी कार्य को कितने दिनों में पूरा कर सकते हैं?",
+      "o": [
+        "10 days",
+        "12 days",
+        "15 days",
+        "18 days"
+      ],
+      "ho": [
+        "10 दिन",
+        "12 दिन",
+        "15 दिन",
+        "18 दिन"
+      ],
+      "a": 1,
+      "e": "1. Use the formula: $M_1 \\times D_1 = M_2 \\times D_2$.\n2. Given: $M_1 = 15, D_1 = 20, M_2 = 25$.\n3. Equation: $15 \\times 20 = 25 \\times D_2$.\n$300 = 25 \\times D_2$.\n$D_2 = \\frac{300}{25} = 12$.\nAnswer is 12 days.\n",
+      "he": "1. सूत्र का उपयोग करें: $M_1 \\times D_1 = M_2 \\times D_2$.\n2. दिया गया है: $M_1 = 15, D_1 = 20, M_2 = 25$.\n3. समीकरण: $15 \\times 20 = 25 \\times D_2$.\n$300 = 25 \\times D_2$.\n$D_2 = \\frac{300}{25} = 12$.\nउत्तर 12 दिन है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Infinite Series)",
+      "q": "Find the value of $\\sqrt{12 + \\sqrt{12 + \\sqrt{12 + \\dots \\infty}}}$",
+      "hq": "$\\sqrt{12 + \\sqrt{12 + \\sqrt{12 + \\dots \\infty}}}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "3",
+        "12",
+        "6",
+        "4"
+      ],
+      "a": 3,
+      "e": "**Best Method (Consecutive Factors):**\nFor infinite square root series of the form $\\sqrt{x + \\sqrt{x + \\dots}}$:\n1. Break the number into two consecutive factors ($n \\times (n+1)$).\n* Factors of 12 are **3** and **4** ($3 \\times 4 = 12$).\n2. **The Rule:**\n* If the sign is **(+)**, the answer is the **larger number**.\n* If the sign is **(-)**, the answer is the **smaller number**.\n\nHere, the sign is (+), so the answer is **4**.",
+      "he": "**सबसे अच्छी विधि (क्रमिक गुणनखंड):**\n$\\sqrt{x + \\sqrt{x + \\dots}}$ के रूप की अनंत वर्गमूल श्रृंखला के लिए:\n1. संख्या को दो क्रमिक गुणनखंडों ($n \\times (n+1)$) में तोड़ें।\n* 12 के गुणनखंड **3** और **4** हैं ($3 \\times 4 = 12$)।\n2. **नियम:**\n* यदि चिन्ह **(+)** है, तो उत्तर **बड़ी संख्या** होगी।\n* यदि चिन्ह **(-)** है, तो उत्तर **छोटी संख्या** होगी।\n\nयहाँ, चिन्ह (+) है, इसलिए उत्तर **4** है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration (Percentage Change)",
+      "q": "If the radius of a circle is decreased by 10%, by what percentage does its area decrease?",
+      "hq": "यदि एक वृत्त की त्रिज्या में 10% की कमी की जाती है, तो उसके क्षेत्रफल में कितने प्रतिशत की कमी होगी?",
+      "o": [
+        "20%",
+        "10%",
+        "18%",
+        "19%"
+      ],
+      "a": 3,
+      "e": "**Best Method (Successive Percentage):**\nUse the formula: $A + B + \\frac{AB}{100}$\nSince the radius decreases, use a negative sign ($-10$).\n\n$$\\text{Change} = -10 - 10 + \\frac{(-10) \\times (-10)}{100}$$\n$$\\text{Change} = -20 + \\frac{100}{100}$$\n$$\\text{Change} = -20 + 1 = -19\\%$$\n\nNegative sign indicates a **decrease of 19%**.\n",
+      "he": "**सबसे अच्छी विधि (क्रमिक प्रतिशत):**\nसूत्र का उपयोग करें: $A + B + \\frac{AB}{100}$\nचूँकि त्रिज्या कम हो रही है, इसलिए ऋणात्मक चिन्ह ($-10$) का उपयोग करें।\n\n$$\\text{परिवर्तन} = -10 - 10 + \\frac{(-10) \\times (-10)}{100}$$\n$$\\text{परिवर्तन} = -20 + \\frac{100}{100}$$\n$$\\text{परिवर्तन} = -20 + 1 = -19\\%$$\n\nऋणात्मक चिन्ह **19% की कमी** को दर्शाता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit & Loss (Mark up & Discount)",
+      "q": "A shopkeeper marks his goods 25% above the cost price and allows a discount of 10% on the marked price. What is his actual profit percentage?",
+      "hq": "एक दुकानदार अपने सामान पर क्रय मूल्य से 25% अधिक मूल्य अंकित करता है और अंकित मूल्य पर 10% की छूट देता है। उसका वास्तविक लाभ प्रतिशत क्या है?",
+      "o": [
+        "10%",
+        "15%",
+        "12%",
+        "12.5%"
+      ],
+      "a": 3,
+      "e": "**Best Method (Successive Percentage Formula):**\nWhen you mark up ($+$) and then discount ($-$), use the net percentage change formula:\n$$\\text{Profit \\%} = A - B - \\frac{A \\times B}{100}$$\n\nHere, Markup ($A$) = 25%, Discount ($B$) = 10%.\n$$= 25 - 10 - \\frac{25 \\times 10}{100}$$\n$$= 15 - 2.5$$\n$$= 12.5\\%$$\n",
+      "he": "**सबसे अच्छी विधि (क्रमिक प्रतिशत सूत्र):**\nजब आप मूल्य बढ़ाते हैं ($+$) और फिर छूट ($-$) देते हैं, तो शुद्ध प्रतिशत परिवर्तन सूत्र का उपयोग करें:\n$$\\text{लाभ \\%} = A - B - \\frac{A \\times B}{100}$$\n\nयहाँ, अंकित मूल्य वृद्धि ($A$) = 25%, छूट ($B$) = 10% है।\n$$= 25 - 10 - \\frac{25 \\times 10}{100}$$\n$$= 15 - 2.5$$\n$$= 12.5\\%$$",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Coordinate Geometry",
+      "q": "Find the value of $k$ if the points $A(2, 3)$, $B(4, k)$, and $C(6, -3)$ are collinear.",
+      "hq": "यदि बिंदु $A(2, 3)$, $B(4, k)$, और $C(6, -3)$ संरेख (collinear) हैं, तो $k$ का मान ज्ञात कीजिए।",
+      "o": [
+        "1",
+        "2",
+        "0",
+        "-1"
+      ],
+      "a": 2,
+      "e": "1. If three points are collinear, the slope of line $AB$ must equal the slope of line $BC$.\n2. Slope Formula: $m = \\frac{y_2 - y_1}{x_2 - x_1}$.\n3. Slope $AB = \\frac{k - 3}{4 - 2} = \\frac{k - 3}{2}$.\n4. Slope $BC = \\frac{-3 - k}{6 - 4} = \\frac{-3 - k}{2}$.\n5. Equating slopes:\n$\\frac{k - 3}{2} = \\frac{-3 - k}{2}$\n$k - 3 = -3 - k$\n$2k = 0$\n$k = 0$.\nAnswer is 0.",
+      "he": "1. यदि तीन बिंदु संरेख हैं, तो रेखा $AB$ की ढाल (slope), रेखा $BC$ की ढाल के बराबर होनी चाहिए।\n2. ढाल का सूत्र: $m = \\frac{y_2 - y_1}{x_2 - x_1}$।\n3. ढाल $AB = \\frac{k - 3}{4 - 2} = \\frac{k - 3}{2}$।\n4. ढाल $BC = \\frac{-3 - k}{6 - 4} = \\frac{-3 - k}{2}$।\n5. ढालों की तुलना करने पर:\n$\\frac{k - 3}{2} = \\frac{-3 - k}{2}$\n$k - 3 = -3 - k$\n$2k = 0$\n$k = 0$\nउत्तर 0 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Number System (Remainder Theorem)",
+      "q": "What is the remainder when $19^{100}$ is divided by 20?",
+      "hq": "$19^{100}$ को 20 से विभाजित करने पर शेषफल क्या होगा?",
+      "o": [
+        "19",
+        "1",
+        "20",
+        "3"
+      ],
+      "a": 1,
+      "e": "1. We can write the base 19 as $(20 - 1)$.\n2. Expression: $\\frac{(20 - 1)^{100}}{20}$.\n3. Binomial expansion terms are all divisible by 20 except the last term $(-1)^{100}$.\n4. Remainder = $(-1)^{100}$. Since power is even, result is 1.\nAnswer is 1.\n",
+      "he": "1. हम आधार 19 को $(20 - 1)$ लिख सकते हैं।\n2. व्यंजक: $\\frac{(20 - 1)^{100}}{20}$.\n3. द्विपद प्रसार (Binomial expansion) के सभी पद 20 से विभाज्य हैं, सिवाय अंतिम पद $(-1)^{100}$ के।\n4. शेषफल = $(-1)^{100}$। चूँकि घात सम (even) है, परिणाम 1 होगा।\nउत्तर 1 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Simple Interest",
+      "q": "A sum of money doubles itself in 8 years at simple interest. What is the rate of interest per annum?",
+      "hq": "एक धनराशि साधारण ब्याज (simple interest) पर 8 वर्षों में दोगुनी हो जाती है। वार्षिक ब्याज दर क्या है?",
+      "o": [
+        "10%",
+        "15%",
+        "12%",
+        "12.5%"
+      ],
+      "a": 3,
+      "e": "1. Let Principal $P = 100$.\nSince it doubles, Amount $A = 200$.\nSimple Interest $SI = 200 - 100 = 100$.\n2. Formula: $SI = \\frac{P \\times R \\times T}{100}$.\n3. Substitute values ($P=100, SI=100, T=8$):\n$100 = \\frac{100 \\times R \\times 8}{100}$.\n$100 = 8R$.\n$R = \\frac{100}{8} = 12.5\\%$.\nAnswer is 12.5%.\n",
+      "he": "1. माना मूलधन (Principal) $P = 100$।\nचूंकि यह दोगुना हो जाता है, इसलिए मिश्रधन (Amount) $A = 200$।\nसाधारण ब्याज $SI = 200 - 100 = 100$।\n2. सूत्र: $SI = \\frac{P \\times R \\times T}{100}$।\n3. मान रखें ($P=100, SI=100, T=8$):\n$100 = \\frac{100 \\times R \\times 8}{100}$।\n$100 = 8R$।\n$R = \\frac{100}{8} = 12.5\\%$।\nउत्तर 12.5% है।",
+      "e2": "",
+      "he2": ""
+    }
+  ]
+}

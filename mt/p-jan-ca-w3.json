@@ -1,0 +1,576 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "Current Affairs",
+      "t": "Awards (Nobel)",
+      "q": "The Nobel Prize in Physiology or Medicine 2024 was awarded to Victor Ambros and Gary Ruvkun for the discovery of:",
+      "hq": "फिजियोलॉजी या मेडिसिन (चिकित्सा) में नोबेल पुरस्कार 2024 विक्टर एम्ब्रोस और गैरी रुवकुन को किसकी खोज के लिए दिया गया था?",
+      "o": [
+        "CRISPR-Cas9",
+        "Hepatitis C virus",
+        "mRNA vaccines",
+        "microRNA"
+      ],
+      "ho": [
+        "CRISPR-Cas9",
+        "हेपेटाइटिस सी वायरस",
+        "mRNA टीके (vaccines)",
+        "माइक्रोआरएनए (microRNA)"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "International Summits",
+      "q": "Which country hosted the 16th BRICS Summit in October 2024?",
+      "hq": "अक्टूबर 2024 में 16वें ब्रिक्स (BRICS) शिखर सम्मेलन की मेजबानी किस देश ने की थी?",
+      "o": [
+        "Brazil",
+        "South Africa",
+        "Russia",
+        "China"
+      ],
+      "ho": [
+        "ब्राजील",
+        "दक्षिण अफ्रीका",
+        "रूस",
+        "चीन"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Economy (Currency)",
+      "q": "Which country introduced a new currency named 'ZiG' (Zimbabwe Gold) in 2024 to tackle hyperinflation?",
+      "hq": "अत्यधिक मुद्रास्फीति (hyperinflation) से निपटने के लिए किस देश ने 2024 में 'ZiG' (जिम्बाब्वे गोल्ड) नामक एक नई मुद्रा पेश की?",
+      "o": [
+        "Venezuela",
+        "Nigeria",
+        "Argentina",
+        "Zimbabwe"
+      ],
+      "ho": [
+        "वेनेजुएला",
+        "नाइजीरिया",
+        "अर्जेंटीना",
+        "जिम्बाब्वे"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Index and Rankings",
+      "q": "What was India's rank in the Global Hunger Index 2024?",
+      "hq": "ग्लोबल हंगर इंडेक्स (Global Hunger Index) 2024 में भारत का स्थान क्या था?",
+      "o": [
+        "111",
+        "105",
+        "101",
+        "94"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Awards (Literature)",
+      "q": "Who won the Booker Prize 2024 for the novel 'Orbital'?",
+      "hq": "उपन्यास 'ऑर्बिटल' (Orbital) के लिए बुकर पुरस्कार 2024 किसने जीता?",
+      "o": [
+        "Samantha Harvey",
+        "Paul Lynch",
+        "Shehan Karunatilaka",
+        "Sarah Bernstein"
+      ],
+      "ho": [
+        "सामंथा हार्वे",
+        "पॉल लिंच",
+        "शेहान करुणातिलका",
+        "सारा बर्नस्टीन"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Current Affairs",
+      "t": "International Organizations",
+      "q": "Which country officially became the 10th member of the New Development Bank (NDB) in late 2024?",
+      "hq": "कौन सा देश 2024 के अंत में आधिकारिक तौर पर न्यू डेवलपमेंट बैंक (NDB) का 10वाँ सदस्य बना?",
+      "o": [
+        "Algeria",
+        "Ethiopia",
+        "Argentina",
+        "Saudi Arabia"
+      ],
+      "ho": [
+        "अल्जीरिया",
+        "इथियोपिया",
+        "अर्जेंटीना",
+        "सऊदी अरब"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Politics (International)",
+      "q": "Who became the new Prime Minister of the United Kingdom in July 2024?",
+      "hq": "जुलाई 2024 में यूनाइटेड किंगडम (UK) के नए प्रधानमंत्री कौन बने?",
+      "o": [
+        "Rishi Sunak",
+        "Boris Johnson",
+        "Keir Starmer",
+        "David Cameron"
+      ],
+      "ho": [
+        "ऋषि सुनक",
+        "बोरिस जॉनसन",
+        "कीर स्टार्मर",
+        "डेविड कैमरून"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Paralympics)",
+      "q": "Who became the first Indian woman to win two gold medals in Paralympic history (winning gold in Paris 2024)?",
+      "hq": "पैरालंपिक इतिहास में दो स्वर्ण पदक जीतने वाली पहली भारतीय महिला कौन बनीं (पेरिस 2024 में स्वर्ण जीतकर)?",
+      "o": [
+        "Deepa Malik",
+        "Avani Lekhara",
+        "Bhavina Patel",
+        "Sheetal Devi"
+      ],
+      "ho": [
+        "दीपा मलिक",
+        "अवनी लेखरा",
+        "भाविना पटेल",
+        "शीतल देवी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Space (Missions)",
+      "q": "NASA's 'Europa Clipper' mission, launched in late 2024, is designed to explore the moon of which planet?",
+      "hq": "2024 के अंत में लॉन्च किया गया नासा (NASA) का 'यूरोपा क्लिपर' मिशन किस ग्रह के चंद्रमा का पता लगाने के लिए डिज़ाइन किया गया है?",
+      "o": [
+        "Saturn",
+        "Mars",
+        "Jupiter",
+        "Uranus"
+      ],
+      "ho": [
+        "शनि",
+        "मंगल",
+        "बृहस्पति",
+        "अरुण (यूरेनस)"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Cricket)",
+      "q": "Which team won the ICC Women's T20 World Cup 2024 title?",
+      "hq": "किस टीम ने ICC महिला T20 विश्व कप 2024 का खिताब जीता?",
+      "o": [
+        "South Africa",
+        "Australia",
+        "New Zealand",
+        "India"
+      ],
+      "ho": [
+        "दक्षिण अफ्रीका",
+        "ऑस्ट्रेलिया",
+        "न्यूजीलैंड",
+        "भारत"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Space (ISRO)",
+      "q": "ISRO's communication satellite 'GSAT-N2' (GSAT-20) was successfully launched in late 2024 using which rocket?",
+      "hq": "ISRO के संचार उपग्रह 'GSAT-N2' (GSAT-20) को 2024 के अंत में किस रॉकेट का उपयोग करके सफलतापूर्वक लॉन्च किया गया था?",
+      "o": [
+        "LVM3 (India)",
+        "Falcon 9 (SpaceX)",
+        "Ariane 5 (France)",
+        "PSLV-C58 (India)"
+      ],
+      "ho": [
+        "LVM3 (भारत)",
+        "फाल्कन 9 (SpaceX)",
+        "एरियन 5 (फ्रांस)",
+        "PSLV-C58 (भारत)"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Tennis)",
+      "q": "Who won the Men's Singles title at the US Open 2024?",
+      "hq": "यूएस ओपन 2024 में पुरुष एकल का खिताब किसने जीता?",
+      "o": [
+        "Novak Djokovic",
+        "Taylor Fritz",
+        "Carlos Alcaraz",
+        "Jannik Sinner"
+      ],
+      "ho": [
+        "नोवाक जोकोविच",
+        "टेलर फ्रिट्ज़",
+        "कार्लोस अल्कराज",
+        "जैनिक सिनर"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (IPL)",
+      "q": "Who became the most expensive player in IPL history during the IPL 2025 mega auction?",
+      "hq": "IPL 2025 की मेगा नीलामी के दौरान IPL इतिहास के सबसे महंगे खिलाड़ी कौन बने?",
+      "o": [
+        "Shreyas Iyer",
+        "Mitchell Starc",
+        "Rishabh Pant",
+        "Venkatesh Iyer"
+      ],
+      "ho": [
+        "श्रेयस अय्यर",
+        "मिशेल स्टार्क",
+        "ऋषभ पंत",
+        "वेंकटेश अय्यर"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Awards (Cinema)",
+      "q": "Who was conferred with the Dadasaheb Phalke Award (announced in late 2024)?",
+      "hq": "दादासाहेब फाल्के पुरस्कार (2024 के अंत में घोषित) से किसे सम्मानित किया गया था?",
+      "o": [
+        "Waheeda Rehman",
+        "Mithun Chakraborty",
+        "Amitabh Bachchan",
+        "Rajinikanth"
+      ],
+      "ho": [
+        "वहीदा रहमान",
+        "मिथुन चक्रवर्ती",
+        "अमिताभ बच्चन",
+        "रजनीकांत"
+      ],
+      "a": 1,
+      "e": "Veteran actor **Mithun Chakraborty** was honored with the Dadasaheb Phalke Award, India's highest award in the field of cinema.\n",
+      "he": "अनुभवी अभिनेता **मिथुन चक्रवर्ती** को सिनेमा के क्षेत्र में भारत के सर्वोच्च पुरस्कार, दादासाहेब फाल्के पुरस्कार से सम्मानित किया गया।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Awards (Civilian)",
+      "q": "Who among the following was awarded the Bharat Ratna posthumously in 2024?",
+      "hq": "2024 में निम्नलिखित में से किसे मरणोपरांत भारत रत्न से सम्मानित किया गया?",
+      "o": [
+        "Karpoori Thakur",
+        "M.S. Swaminathan",
+        "P.V. Narasimha Rao",
+        "All of the above"
+      ],
+      "ho": [
+        "कर्पूरी ठाकुर",
+        "एम.एस. स्वामीनाथन",
+        "पी.वी. नरसिम्हा राव",
+        "उपरोक्त सभी"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Government Schemes",
+      "q": "'Mahtari Vandana Yojana', a scheme to provide monthly financial assistance to women, was launched by which state?",
+      "hq": "'महतारी वंदन योजना', महिलाओं को मासिक वित्तीय सहायता प्रदान करने वाली योजना, किस राज्य द्वारा शुरू की गई थी?",
+      "o": [
+        "Chhattisgarh",
+        "Jharkhand",
+        "Rajasthan",
+        "Bihar"
+      ],
+      "ho": [
+        "छत्तीसगढ़",
+        "झारखंड",
+        "राजस्थान",
+        "बिहार"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Tennis)",
+      "q": "Who won the Men's Singles title at the Wimbledon Championships 2024?",
+      "hq": "विंबलडन चैंपियनशिप 2024 में पुरुष एकल का खिताब किसने जीता?",
+      "o": [
+        "Novak Djokovic",
+        "Jannik Sinner",
+        "Carlos Alcaraz",
+        "Daniil Medvedev"
+      ],
+      "ho": [
+        "नोवाक जोकोविच",
+        "जैनिक सिनर",
+        "कार्लोस अल्कराज",
+        "दानिल मेदवेदेव"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Judiciary (Symbols)",
+      "q": "The new statue of 'Lady Justice' unveiled at the Supreme Court of India in 2024 differs from the traditional one in which way?",
+      "hq": "2024 में भारत के सर्वोच्च न्यायालय में अनावरण की गई 'न्याय की देवी' (Lady Justice) की नई प्रतिमा पारंपरिक प्रतिमा से किस प्रकार भिन्न है?",
+      "o": [
+        "She is holding a sword instead of scales",
+        "She is not blindfolded and holds the Constitution",
+        "She is sitting on a throne",
+        "She is holding a lotus flower"
+      ],
+      "ho": [
+        "उन्होंने तराजू के बजाय तलवार पकड़ी हुई है",
+        "उनकी आंखों पर पट्टी नहीं है और उन्होंने संविधान पकड़ा हुआ है",
+        "वह सिंहासन पर बैठी हैं",
+        "उन्होंने कमल का फूल पकड़ा हुआ है"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Natural Disasters",
+      "q": "Which cyclone impacted the coasts of Tamil Nadu and Puducherry in late November 2024?",
+      "hq": "नवंबर 2024 के अंत में किस चक्रवात ने तमिलनाडु और पुडुचेरी के तटों को प्रभावित किया?",
+      "o": [
+        "Cyclone Dana",
+        "Cyclone Michaung",
+        "Cyclone Fengal",
+        "Cyclone Remal"
+      ],
+      "ho": [
+        "चक्रवात दाना",
+        "चक्रवात मिचौंग",
+        "चक्रवात फेंगुल (Fengal)",
+        "चक्रवात रेमल"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "National Awards (Cinema)",
+      "q": "Which Malayalam movie won the 'Best Feature Film' award at the 70th National Film Awards?",
+      "hq": "70वें राष्ट्रीय फिल्म पुरस्कारों में किस मलयालम फिल्म ने 'सर्वश्रेष्ठ फीचर फिल्म' का पुरस्कार जीता?",
+      "o": [
+        "Aattam",
+        "Kantara",
+        "Brahmastra",
+        "Ponniyin Selvan"
+      ],
+      "ho": [
+        "आट्टम (Aattam)",
+        "कांतारा",
+        "ब्रह्मास्त्र",
+        "पोन्नियिन सेल्वन"
+      ],
+      "a": 0
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Paralympics)",
+      "q": "What was India's total medal tally at the Paris Paralympics 2024?",
+      "hq": "पेरिस पैरालंपिक 2024 में भारत की कुल पदक तालिका कितनी थी?",
+      "o": [
+        "19",
+        "25",
+        "29",
+        "107"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Nobel Prize 2024",
+      "q": "Daron Acemoglu, Simon Johnson, and James A. Robinson were awarded the Nobel Prize 2024 in which field?",
+      "hq": "डारोन ऐसमोग्लू, साइमन जॉनसन और जेम्स ए. रॉबिन्सन को किस क्षेत्र में नोबेल पुरस्कार 2024 से सम्मानित किया गया?",
+      "o": [
+        "Physics",
+        "Chemistry",
+        "Peace",
+        "Economics"
+      ],
+      "ho": [
+        "भौतिकी",
+        "रसायन विज्ञान",
+        "शांति",
+        "अर्थशास्त्र"
+      ],
+      "a": 3
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Sports (Venues)",
+      "q": "The 20th Asian Games, scheduled to be held in 2026, will be hosted by which country?",
+      "hq": "2026 में आयोजित होने वाले 20वें एशियाई खेलों की मेजबानी कौन सा देश करेगा?",
+      "o": [
+        "South Korea",
+        "China",
+        "Qatar",
+        "Japan"
+      ],
+      "ho": [
+        "दक्षिण कोरिया",
+        "चीन",
+        "कतर",
+        "जापान"
+      ],
+      "a": 3,
+      "e": "The **20th Asian Games (2026)** will be co-hosted by the Aichi Prefecture and the city of Nagoya in **Japan**.\n",
+      "he": "**20वें एशियाई खेलों (2026)** की सह-मेजबानी **जापान** के आइची प्रान्त और नागोया शहर द्वारा की जाएगी।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Current Affairs",
+      "t": "National Schemes",
+      "q": "The 'PM-Surya Ghar: Muft Bijli Yojana' was launched to provide free electricity up to how many units per month?",
+      "hq": "'पीएम-सूर्य घर: मुफ्त बिजली योजना' प्रति माह कितने यूनिट तक मुफ्त बिजली प्रदान करने के लिए शुरू की गई थी?",
+      "o": [
+        "200 Units",
+        "100 Units",
+        "300 Units",
+        "400 Units"
+      ],
+      "ho": [
+        "200 यूनिट",
+        "100 यूनिट",
+        "300 यूनिट",
+        "400 यूनिट"
+      ],
+      "a": 2,
+      "e": "Under the **PM-Surya Ghar: Muft Bijli Yojana**, households are provided up to **300 units** of free electricity per month through rooftop solar systems.\n",
+      "he": "**पीएम-सूर्य घर: मुफ्त बिजली योजना** के तहत, रूफटॉप सोलर सिस्टम के माध्यम से घरों को प्रति माह **300 यूनिट** तक मुफ्त बिजली प्रदान की जाती है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Environment (COP Summit)",
+      "q": "The UN Climate Change Conference 'COP30' (2025) was scheduled to be held in which country?",
+      "hq": "संयुक्त राष्ट्र जलवायु परिवर्तन सम्मेलन 'COP30' (2025) किस देश में आयोजित किया जाना निर्धारित था?",
+      "o": [
+        "Azerbaijan",
+        "Brazil",
+        "UAE",
+        "Australia"
+      ],
+      "ho": [
+        "अजरबैजान",
+        "ब्राजील",
+        "यूएई (UAE)",
+        "ऑस्ट्रेलिया"
+      ],
+      "a": 1,
+      "e": "**Brazil** was selected to host the **COP30** summit in the city of Belém in November 2025. (COP29 was held in Baku, Azerbaijan).\n",
+      "he": "नवंबर 2025 में बेलेम शहर में **COP30** शिखर सम्मेलन की मेजबानी के लिए **ब्राजील** को चुना गया था। (COP29 बाकू, अजरबैजान में आयोजित किया गया था)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Index and Rankings",
+      "q": "In the 'Global Innovation Index 2024', released by WIPO, what was India's rank?",
+      "hq": "WIPO द्वारा जारी 'ग्लोबल इनोवेशन इंडेक्स 2024' में भारत का स्थान क्या था?",
+      "o": [
+        "40th",
+        "39th",
+        "42nd",
+        "48th"
+      ],
+      "ho": [
+        "40वां",
+        "39वां",
+        "42वां",
+        "48वां"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Government Schemes",
+      "q": "Under the 'PM Internship Scheme' launched in 2024, what is the monthly stipend provided to interns?",
+      "hq": "2024 में शुरू की गई 'पीएम इंटर्नशिप योजना' के तहत, इंटर्न को प्रदान किया जाने वाला मासिक वजीफा (stipend) क्या है?",
+      "o": [
+        "₹3,000",
+        "₹4,500",
+        "₹5,000",
+        "₹6,000"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Environment (Summits)",
+      "q": "The UN Climate Change Conference (COP29) was held in November 2024 in which city?",
+      "hq": "नवंबर 2024 में संयुक्त राष्ट्र जलवायु परिवर्तन सम्मेलन (COP29) किस शहर में आयोजित किया गया था?",
+      "o": [
+        "Dubai, UAE",
+        "Baku, Azerbaijan",
+        "Glasgow, UK",
+        "Sharm el-Sheikh, Egypt"
+      ],
+      "ho": [
+        "दुबई, यूएई",
+        "बाकू, अज़रबैजान",
+        "ग्लासगो, यूके",
+        "शर्म अल-शेख, मिस्र"
+      ],
+      "a": 1
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Important Days",
+      "q": "'National Science Day' is celebrated on February 28 to commemorate the discovery of:",
+      "hq": "28 फरवरी को 'राष्ट्रीय विज्ञान दिवस' किसकी खोज के उपलक्ष्य में मनाया जाता है?",
+      "o": [
+        "Zero",
+        "Radio Waves",
+        "Raman Effect",
+        "Boson Particle"
+      ],
+      "ho": [
+        "शून्य (Zero)",
+        "रेडियो तरंगें",
+        "रमन प्रभाव (Raman Effect)",
+        "बोसोन कण"
+      ],
+      "a": 2
+    },
+    {
+      "s": "Current Affairs",
+      "t": "Government Schemes",
+      "q": "The 'Subhadra Yojana' was launched by which state government to provide financial assistance to women?",
+      "hq": "महिलाओं को वित्तीय सहायता प्रदान करने के लिए किस राज्य सरकार द्वारा 'सुभद्रा योजना' शुरू की गई थी?",
+      "o": [
+        "Madhya Pradesh",
+        "Odisha",
+        "Chhattisgarh",
+        "Rajasthan"
+      ],
+      "ho": [
+        "मध्य प्रदेश",
+        "ओडिशा",
+        "छत्तीसगढ़",
+        "राजस्थान"
+      ],
+      "a": 1
+    }
+  ]
+}

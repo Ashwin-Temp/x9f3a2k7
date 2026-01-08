@@ -1,0 +1,554 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Solar System)",
+      "q": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+      "hq": "किस ग्रह को 'भोर का तारा' (Morning Star) या 'सांझ का तारा' (Evening Star) के रूप में जाना जाता है?",
+      "o": [
+        "Mars",
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ],
+      "ho": [
+        "मंगल",
+        "शुक्र",
+        "बृहस्पति",
+        "बुध"
+      ],
+      "a": 1
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "How many Schedules are there in the Constitution of India at present?",
+      "hq": "वर्तमान में भारत के संविधान में कितनी अनुसूचियां (Schedules) हैं?",
+      "o": [
+        "8",
+        "10",
+        "14",
+        "12"
+      ],
+      "a": 3
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Books and Authors",
+      "q": "Who is the author of the ancient Indian text 'Panchatantra'?",
+      "hq": "प्राचीन भारतीय ग्रंथ 'पंचतंत्र' के लेखक कौन हैं?",
+      "o": [
+        "Kalidasa",
+        "Valmiki",
+        "Vishnu Sharma",
+        "Tulsi Das"
+      ],
+      "ho": [
+        "कालिदास",
+        "वाल्मीकि",
+        "विष्णु शर्मा",
+        "तुलसी दास"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Culture (Music)",
+      "q": "Pandit Ravi Shankar was a famous player of which musical instrument?",
+      "hq": "पंडित रविशंकर किस वाद्ययंत्र के प्रसिद्ध वादक थे?",
+      "o": [
+        "Tabla",
+        "Sitar",
+        "Flute",
+        "Sarod"
+      ],
+      "ho": [
+        "तबला",
+        "सितार",
+        "बाँसुरी",
+        "सरोद"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Schedules)",
+      "q": "Which Schedule of the Indian Constitution contains the list of recognized languages?",
+      "hq": "भारतीय संविधान की किस अनुसूची (Schedule) में मान्यता प्राप्त भाषाओं की सूची है?",
+      "o": [
+        "7th Schedule",
+        "8th Schedule",
+        "9th Schedule",
+        "10th Schedule"
+      ],
+      "ho": [
+        "7वीं अनुसूची",
+        "8वीं अनुसूची",
+        "9वीं अनुसूची",
+        "10वीं अनुसूची"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Dams)",
+      "q": "The Hirakud Dam is built across which river?",
+      "hq": "हीराकुंड बांध किस नदी पर बना है?",
+      "o": [
+        "Mahanadi",
+        "Godavari",
+        "Kaveri",
+        "Narmada"
+      ],
+      "ho": [
+        "महानदी",
+        "गोदावरी",
+        "कावेरी",
+        "नर्मदा"
+      ],
+      "a": 0
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Ancient India)",
+      "q": "Which of the following Indus Valley Civilization sites had a dockyard?",
+      "hq": "सिंधु घाटी सभ्यता के निम्नलिखित में से किस स्थल पर गोदी (dockyard) था?",
+      "o": [
+        "Kalibangan",
+        "Lothal",
+        "Dholavira",
+        "Mohenjo-Daro"
+      ],
+      "ho": [
+        "कालीबंगा",
+        "लोथल",
+        "धोलावीरा",
+        "मोहनजोदड़ो"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Parliament)",
+      "q": "Who presides over the Joint Sitting of the two Houses of Parliament?",
+      "hq": "संसद के दोनों सदनों की संयुक्त बैठक (Joint Sitting) की अध्यक्षता कौन करता है?",
+      "o": [
+        "President",
+        "Vice-President",
+        "Prime Minister",
+        "Speaker of Lok Sabha"
+      ],
+      "ho": [
+        "राष्ट्रपति",
+        "उपराष्ट्रपति",
+        "प्रधानमंत्री",
+        "लोकसभा अध्यक्ष"
+      ],
+      "a": 3
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Organizations)",
+      "q": "Where is the headquarters of the Indian Space Research Organisation (ISRO) located?",
+      "hq": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) का मुख्यालय कहाँ स्थित है?",
+      "o": [
+        "Thiruvananthapuram",
+        "Bengaluru",
+        "Sriharikota",
+        "New Delhi"
+      ],
+      "ho": [
+        "तिरुवनंतपुरम",
+        "बेंगलुरु",
+        "श्रीहरिकोटा",
+        "नई दिल्ली"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Rivers)",
+      "q": "Which river is known as the 'Sorrow of Bihar' due to its frequent floods?",
+      "hq": "किस नदी को उसकी बार-बार आने वाली बाढ़ के कारण 'बिहार का शोक' (Sorrow of Bihar) कहा जाता है?",
+      "o": [
+        "Ganga",
+        "Gandak",
+        "Kosi",
+        "Son"
+      ],
+      "ho": [
+        "गंगा",
+        "गंडक",
+        "कोसी",
+        "सोन"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Revolts)",
+      "q": "The Revolt of 1857 started from which city?",
+      "hq": "1857 का विद्रोह किस शहर से शुरू हुआ था?",
+      "o": [
+        "Delhi",
+        "Kanpur",
+        "Meerut",
+        "Lucknow"
+      ],
+      "ho": [
+        "दिल्ली",
+        "कानपुर",
+        "मेरठ",
+        "लखनऊ"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Culture (Dance)",
+      "q": "'Garba' is a popular folk dance associated with which state?",
+      "hq": "'गरबा' किस राज्य से जुड़ा एक लोकप्रिय लोक नृत्य है?",
+      "o": [
+        "Punjab",
+        "Gujarat",
+        "Rajasthan",
+        "Maharashtra"
+      ],
+      "ho": [
+        "पंजाब",
+        "गुजरात",
+        "राजस्थान",
+        "महाराष्ट्र"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Coordinates)",
+      "q": "What is the Standard Meridian of India?",
+      "hq": "भारत का मानक मध्याह्न रेखा (Standard Meridian) क्या है?",
+      "o": [
+        "82.5° E",
+        "88.5° E",
+        "23.5° N",
+        "68.7° E"
+      ],
+      "a": 0
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Personalities)",
+      "q": "Who was the political guru of Mahatma Gandhi?",
+      "hq": "महात्मा गांधी के राजनीतिक गुरु कौन थे?",
+      "o": [
+        "Bal Gangadhar Tilak",
+        "Gopal Krishna Gokhale",
+        "Lala Lajpat Rai",
+        "Dadabhai Naoroji"
+      ],
+      "ho": [
+        "बाल गंगाधर तिलक",
+        "गोपाल कृष्ण गोखले",
+        "लाला लाजपत राय",
+        "दादाभाई नौरोजी"
+      ],
+      "a": 1
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "Where is the headquarters of the World Bank located?",
+      "hq": "विश्व बैंक (World Bank) का मुख्यालय कहाँ स्थित है?",
+      "o": [
+        "Geneva",
+        "New York",
+        "Paris",
+        "Washington D.C."
+      ],
+      "ho": [
+        "जिनेवा",
+        "न्यूयॉर्क",
+        "पेरिस",
+        "वाशिंगटन डी.सी."
+      ],
+      "a": 3
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (President)",
+      "q": "Who administers the oath of office to the President of India?",
+      "hq": "भारत के राष्ट्रपति को पद की शपथ कौन दिलाता है?",
+      "o": [
+        "Vice-President",
+        "Prime Minister",
+        "Speaker of Lok Sabha",
+        "Chief Justice of India"
+      ],
+      "ho": [
+        "उपराष्ट्रपति",
+        "प्रधानमंत्री",
+        "लोकसभा अध्यक्ष",
+        "भारत के मुख्य न्यायाधीश"
+      ],
+      "a": 3
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Culture (Festivals)",
+      "q": "The 'Hornbill Festival' is celebrated in which state of India?",
+      "hq": "'हॉर्नबिल फेस्टिवल' भारत के किस राज्य में मनाया जाता है?",
+      "o": [
+        "Manipur",
+        "Nagaland",
+        "Mizoram",
+        "Meghalaya"
+      ],
+      "ho": [
+        "मणिपुर",
+        "नगालैंड",
+        "मिजोरम",
+        "मेघालय"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Ancient)",
+      "q": "The ruins of the ancient city of Hampi were the capital of which empire?",
+      "hq": "हम्पी के प्राचीन शहर के अवशेष किस साम्राज्य की राजधानी थे?",
+      "o": [
+        "Bahmani Kingdom",
+        "Vijayanagara Empire",
+        "Chola Dynasty",
+        "Pallava Dynasty"
+      ],
+      "ho": [
+        "बहमनी साम्राज्य",
+        "विजयनगर साम्राज्य",
+        "चोल राजवंश",
+        "पल्लव राजवंश"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Days)",
+      "q": "National Sports Day in India is celebrated on August 29 to mark the birth anniversary of:",
+      "hq": "भारत में राष्ट्रीय खेल दिवस 28 अगस्त को किसकी जयंती के उपलक्ष्य में मनाया जाता है?",
+      "o": [
+        "Milkha Singh",
+        "Dhyan Chand",
+        "Kapil Dev",
+        "Sachin Tendulkar"
+      ],
+      "ho": [
+        "मिल्खा सिंह",
+        "ध्यानचंद",
+        "कपिल देव",
+        "सचिन तेंदुलकर"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Culture (Art)",
+      "q": "'Madhubani' is a famous style of folk painting from which Indian state?",
+      "hq": "'मधुबनी' किस भारतीय राज्य की लोक चित्रकला (folk painting) की एक प्रसिद्ध शैली है?",
+      "o": [
+        "Odisha",
+        "West Bengal",
+        "Bihar",
+        "Rajasthan"
+      ],
+      "ho": [
+        "ओडिशा",
+        "पश्चिम बंगाल",
+        "बिहार",
+        "राजस्थान"
+      ],
+      "a": 2
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "Who is the author of the famous book \"The Discovery of India\"?",
+      "hq": "प्रसिद्ध पुस्तक \"द डिस्कवरी ऑफ इंडिया\" (The Discovery of India) के लेखक कौन हैं?",
+      "o": [
+        "Mahatma Gandhi",
+        "Sardar Vallabhbhai Patel",
+        "Jawaharlal Nehru",
+        "Subhash Chandra Bose"
+      ],
+      "ho": [
+        "महात्मा गांधी",
+        "सरदार वल्लभभाई पटेल",
+        "जवाहरलाल नेहरू",
+        "सुभाष चंद्र बोस"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Freedom Struggle)",
+      "q": "Who gave the famous slogan \"Do or Die\" during the Quit India Movement?",
+      "hq": "भारत छोड़ो आंदोलन के दौरान प्रसिद्ध नारा \"करो या मरो\" किसने दिया था?",
+      "o": [
+        "Subhash Chandra Bose",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Bal Gangadhar Tilak"
+      ],
+      "ho": [
+        "सुभाष चंद्र बोस",
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "बाल गंगाधर तिलक"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Battles)",
+      "q": "The Battle of Plassey was fought in which year?",
+      "hq": "प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+      "o": [
+        "1764",
+        "1757",
+        "1857",
+        "1761"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (Parliament)",
+      "q": "How many members can be nominated by the President of India to the Rajya Sabha?",
+      "hq": "भारत के राष्ट्रपति द्वारा राज्यसभा में कितने सदस्यों को मनोनीत (nominated) किया जा सकता है?",
+      "o": [
+        "2",
+        "10",
+        "12",
+        "14"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "History (Modern India)",
+      "q": "Who founded the 'Brahmo Samaj' in 1828?",
+      "hq": "1828 में 'ब्रह्म समाज' की स्थापना किसने की थी?",
+      "o": [
+        "Swami Vivekananda",
+        "Raja Ram Mohan Roy",
+        "Dayanand Saraswati",
+        "Ishwar Chandra Vidyasagar"
+      ],
+      "ho": [
+        "स्वामी विवेकानंद",
+        "राजा राम मोहन राय",
+        "दयानंद सरस्वती",
+        "ईश्वर चंद्र विद्यासागर"
+      ],
+      "a": 1
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Static GK (Lakes)",
+      "q": "Which is the largest freshwater lake in India?",
+      "hq": "भारत में मीठे पानी की सबसे बड़ी झील कौन सी है?",
+      "o": [
+        "Chilika Lake",
+        "Sambhar Lake",
+        "Wular Lake",
+        "Pulicat Lake"
+      ],
+      "ho": [
+        "चिल्का झील",
+        "सांभर झील",
+        "वुलर झील",
+        "पुलिकट झील"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Indian Polity (President)",
+      "q": "What is the minimum age required to become the President of India?",
+      "hq": "भारत का राष्ट्रपति बनने के लिए न्यूनतम आयु क्या आवश्यक है?",
+      "o": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "ho": [
+        "25 वर्ष",
+        "30 वर्ष",
+        "35 वर्ष",
+        "40 वर्ष"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Culture (Festivals)",
+      "q": "The famous 'Rath Yatra' at Puri is celebrated in honour of which Hindu deity?",
+      "hq": "पुरी में प्रसिद्ध 'रथ यात्रा' किस हिंदू देवता के सम्मान में मनाई जाती है?",
+      "o": [
+        "Lord Shiva",
+        "Lord Rama",
+        "Lord Jagannath",
+        "Lord Vishnu"
+      ],
+      "ho": [
+        "भगवान शिव",
+        "भगवान राम",
+        "भगवान जगन्नाथ",
+        "भगवान विष्णु"
+      ],
+      "a": 2
+    },
+    {
+      "s": "General Knowledge",
+      "t": "Geography (Indian States)",
+      "q": "Which Indian state has the longest coastline?",
+      "hq": "किस भारतीय राज्य की तटरेखा (coastline) सबसे लंबी है?",
+      "o": [
+        "Andhra Pradesh",
+        "Maharashtra",
+        "Gujarat",
+        "Tamil Nadu"
+      ],
+      "ho": [
+        "आंध्र प्रदेश",
+        "महाराष्ट्र",
+        "गुजरात",
+        "तमिलनाडु"
+      ],
+      "a": 2
+    },
+    {
+      "s": "",
+      "t": "",
+      "q": "What is the minimum age required to become the President of India?",
+      "hq": "भारत का राष्ट्रपति बनने के लिए न्यूनतम आयु कितनी आवश्यक है?",
+      "o": [
+        "25 years",
+        "30 years",
+        "40 years",
+        "35 years"
+      ],
+      "ho": [
+        "25 वर्ष",
+        "30 वर्ष",
+        "40 वर्ष",
+        "35 वर्ष"
+      ],
+      "a": 3
+    }
+  ]
+}

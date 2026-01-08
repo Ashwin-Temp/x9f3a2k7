@@ -1,0 +1,584 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "Mathematics",
+      "t": "Mixtures & Alligation",
+      "q": "In what ratio must rice costing ₹40 per kg be mixed with rice costing ₹60 per kg so that the resulting mixture is worth ₹55 per kg?",
+      "hq": "₹40 प्रति किलो वाले चावल को ₹60 प्रति किलो वाले चावल के साथ किस अनुपात में मिलाया जाना चाहिए ताकि परिणामी मिश्रण की कीमत ₹55 प्रति किलो हो जाए?",
+      "o": [
+        "3 : 1",
+        "1 : 3",
+        "2 : 3",
+        "4 : 1"
+      ],
+      "a": 1,
+      "e": "**Best Method (Rule of Alligation):**\nUse the cross-subtraction method to find the ratio instantly.\n\n\n\n1. **Cheaper(40)** **Dearer(60)**\n\\            /\n\\          /\n**Mean(55)**\n/          \\\n/            \\\n2. **Cross Subtract:**\n(60 - 55)          (55 - 40)\n= **5** = **15**\n\n3. **Ratio:** 5 : 15 = **1 : 3**.",
+      "he": "**सबसे अच्छी विधि (मिश्रण का नियम - Rule of Alligation):**\nअनुपात तुरंत ज्ञात करने के लिए क्रॉस-घटाव विधि का उपयोग करें।\n\n1. **सस्ता(40)** **महंगा(60)**\n\\             /\n\\           /\n**औसत(55)**\n/           \\\n/             \\\n2. **क्रॉस घटाव (Cross Subtract):**\n(60 - 55)         (55 - 40)\n= **5** = **15**\n\n3. **अनुपात:** 5 : 15 = **1 : 3**।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Work (Leaving)",
+      "q": "A can do a work in 20 days and B in 25 days. They began the work together, but A left after 5 days. How many more days will B take to complete the remaining work?",
+      "hq": "A एक कार्य को 20 दिनों में और B 25 दिनों में कर सकता है। उन्होंने एक साथ कार्य शुरू किया, लेकिन A ने 5 दिनों के बाद कार्य छोड़ दिया। शेष कार्य को पूरा करने में B को कितने दिन और लगेंगे?",
+      "o": [
+        "11 days",
+        "12 days",
+        "13.75 days",
+        "10 days"
+      ],
+      "ho": [
+        "11 दिन",
+        "12 दिन",
+        "13.75 दिन",
+        "10 दिन"
+      ],
+      "a": 2,
+      "e": "1. Let Total Work = LCM(20, 25) = 100 units.\n2. Eff A = 5 units/day, Eff B = 4 units/day.\nCombined = 9 units/day.\n3. Work done in first 5 days = $9 \\times 5 = 45$ units.\n4. Remaining Work = $100 - 45 = 55$ units.\n5. Time for B to finish remaining = $\\frac{55}{4} = 13.75$ days.\nAnswer is 13.75 days.\n",
+      "he": "1. माना कुल कार्य = LCM(20, 25) = 100 इकाई।\n2. A की दक्षता = 5 इकाई/दिन, B की दक्षता = 4 इकाई/दिन।\nसंयुक्त दक्षता = 9 इकाई/दिन।\n3. पहले 5 दिनों में किया गया कार्य = $9 \\times 5 = 45$ इकाई।\n4. शेष कार्य = $100 - 45 = 55$ इकाई।\n5. शेष कार्य को पूरा करने में B को लगा समय = $55/4 = 13.75$ दिन।\nउत्तर 13.75 दिन है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Identities)",
+      "q": "If $x + \\frac{1}{x} = 5$, then find the value of $x^2 + \\frac{1}{x^2}$.",
+      "hq": "यदि $x + \\frac{1}{x} = 5$ है, तो $x^2 + \\frac{1}{x^2}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "25",
+        "27",
+        "23",
+        "10"
+      ],
+      "a": 2,
+      "e": "**Best Method (Square Formula):**\nIf $x + \\frac{1}{x} = k$, then $x^2 + \\frac{1}{x^2} = k^2 - 2$.\n\nHere, $k = 5$.\nValue = $5^2 - 2$\nValue = $25 - 2 = 23$.\n\n**Answer:** 23.",
+      "he": "**सबसे अच्छी विधि (वर्ग सूत्र):**\nयदि $x + \\frac{1}{x} = k$ हो, तो $x^2 + \\frac{1}{x^2} = k^2 - 2$ होता है।\n\nयहाँ, $k = 5$ है।\nमान = $5^2 - 2$\nमान = $25 - 2 = 23$\n\n**उत्तर:** 23.",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Geometry (Rhombus)",
+      "q": "The lengths of the diagonals of a rhombus are 24 cm and 10 cm. What is the perimeter of the rhombus?",
+      "hq": "एक समचतुर्भुज (rhombus) के विकर्णों (diagonals) की लंबाई 24 सेमी और 10 सेमी है। समचतुर्भुज का परिमाप (perimeter) क्या है?",
+      "o": [
+        "52 cm",
+        "68 cm",
+        "48 cm",
+        "60 cm"
+      ],
+      "ho": [
+        "52 सेमी",
+        "68 सेमी",
+        "48 सेमी",
+        "60 सेमी"
+      ],
+      "a": 0,
+      "e": "1. The diagonals of a rhombus bisect each other at 90 degrees.\n2. Let diagonals be $d_1 = 24$ and $d_2 = 10$.\nHalf-diagonals are $12$ cm and $5$ cm.\n3. These form a right-angled triangle with the side of the rhombus ($a$) as the hypotenuse.\n$a = \\sqrt{12^2 + 5^2} = \\sqrt{144 + 25} = \\sqrt{169} = 13$ cm.\n4. Perimeter of Rhombus = $4 \\times \\text{side}$.\n$P = 4 \\times 13 = 52$ cm.\nAnswer is 52 cm.\n",
+      "he": "1. समचतुर्भुज के विकर्ण एक-दूसरे को 90 डिग्री पर समद्विभाजित (bisect) करते हैं।\n2. मान लीजिए विकर्ण $d_1 = 24$ और $d_2 = 10$ हैं।\nविकर्णों के आधे हिस्से 12 सेमी और 5 सेमी होंगे।\n3. ये समचतुर्भुज की भुजा ($a$) को कर्ण (hypotenuse) मानकर एक समकोण त्रिभुज बनाते हैं।\n$a = \\sqrt{12^2 + 5^2} = \\sqrt{144 + 25} = \\sqrt{169} = 13$ सेमी।\n4. समचतुर्भुज का परिमाप = 4 × भुजा।\n$P = 4 × 13 = 52$ सेमी।\nउत्तर 52 सेमी है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration 2D (Circle to Square)",
+      "q": "A copper wire is bent in the form of a circle with a radius of 42 cm. If the same wire is bent into the form of a square, what will be the side of the square?",
+      "hq": "एक तांबे के तार को 42 सेमी त्रिज्या वाले एक वृत्त के रूप में मोड़ा जाता है। यदि उसी तार को एक वर्ग (square) के रूप में मोड़ा जाए, तो वर्ग की भुजा क्या होगी?",
+      "o": [
+        "66 cm",
+        "72 cm",
+        "56 cm",
+        "44 cm"
+      ],
+      "ho": [
+        "66 सेमी",
+        "72 सेमी",
+        "56 सेमी",
+        "44 सेमी"
+      ],
+      "a": 0,
+      "e": "1. Length of wire = Circumference of circle = $2\\pi r$.\nLength = $2 \\times \\frac{22}{7} \\times 42 = 2 \\times 22 \\times 6 = 264$ cm.\n2. Perimeter of Square = Length of wire = 264 cm.\n$4 \\times \\text{side} = 264$.\n3. Side = $264 / 4 = 66$ cm.\nAnswer is 66 cm.\n",
+      "he": "1. तार की लंबाई = वृत्त की परिधि = $2\\pi r$।\nलंबाई = $2 \\times \\frac{22}{7} \\times 42 = 2 \\times 22 \\times 6 = 264$ सेमी।\n2. वर्ग का परिमाप = तार की लंबाई = 264 सेमी।\n$4 \\times \\text{भुजा} = 264$।\n3. भुजा = $264 / 4 = 66$ सेमी।\nउत्तर 66 सेमी है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Squares)",
+      "q": "If $x + \\frac{1}{x} = 4$, then find the value of $x^2 + \\frac{1}{x^2}$.",
+      "hq": "यदि $x + \\frac{1}{x} = 4$ है, तो $x^2 + \\frac{1}{x^2}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "16",
+        "12",
+        "14",
+        "18"
+      ],
+      "a": 2,
+      "e": "1. Square the given equation:\n$(x + \\frac{1}{x})^2 = 4^2$.\n$x^2 + \\frac{1}{x^2} + 2 = 16$.\n2. Solve:\n$x^2 + \\frac{1}{x^2} = 16 - 2 = 14$.\nAnswer is 14.\n",
+      "he": "1. दिए गए समीकरण का वर्ग करें:\n$(x + \\frac{1}{x})^2 = 4^2$।\n$x^2 + \\frac{1}{x^2} + 2 = 16$।\n2. हल करें:\n$x^2 + \\frac{1}{x^2} = 16 - 2 = 14$।\nउत्तर 14 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Work (Group Efficiency)",
+      "q": "A and B can do a piece of work in 12 days, B and C in 15 days, and C and A in 20 days. If A, B, and C work together, in how many days will they complete the work?",
+      "hq": "A और B एक कार्य को 12 दिनों में, B और C 15 दिनों में, तथा C और A 20 दिनों में कर सकते हैं। यदि A, B और C एक साथ कार्य करते हैं, तो वे कार्य को कितने दिनों में पूरा करेंगे?",
+      "o": [
+        "10 days",
+        "12 days",
+        "8 days",
+        "6 days"
+      ],
+      "ho": [
+        "10 दिन",
+        "12 दिन",
+        "8 दिन",
+        "6 दिन"
+      ],
+      "a": 0,
+      "e": "1. Let Total Work = LCM(12, 15, 20) = 60 units.\n2. Combined Efficiencies:\n(A + B) = 5 units/day\n(B + C) = 4 units/day\n(C + A) = 3 units/day\n3. Adding all equations:\n$2(A + B + C) = 5 + 4 + 3 = 12$ units/day.\n$(A + B + C) = \\frac{12}{2} = 6$ units/day.\n4. Time = $\\frac{\\text{Total Work}}{\\text{Combined Efficiency}} = \\frac{60}{6} = 10$ days.\nAnswer is 10 days.\n",
+      "he": "1. माना कुल कार्य = LCM(12, 15, 20) = 60 इकाई।\n2. संयुक्त दक्षता:\n(A + B) = 5 इकाई/दिन\n(B + C) = 4 इकाई/दिन\n(C + A) = 3 इकाई/दिन\n3. सभी समीकरणों को जोड़ने पर:\n$2(A + B + C) = 5 + 4 + 3 = 12$ इकाई/दिन।\n$(A + B + C) = 12/2 = 6$ इकाई/दिन।\n4. समय = कुल कार्य / संयुक्त दक्षता = $60/6 = 10$ दिन।\nउत्तर 10 दिन है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Ratio and Proportion (Income)",
+      "q": "The ratio of weekly incomes of A and B is 9:7 and the ratio of their expenditures is 4:3. If each saves ₹200 per week, then the sum of their weekly incomes is:",
+      "hq": "A और B की साप्ताहिक आय का अनुपात 9:7 है और उनके खर्च का अनुपात 4:3 है। यदि प्रत्येक व्यक्ति प्रति सप्ताह ₹200 बचाता है, तो उनकी साप्ताहिक आय का योग क्या है?",
+      "o": [
+        "₹3,600",
+        "₹3,200",
+        "₹4,800",
+        "₹5,600"
+      ],
+      "a": 1,
+      "e": "1. Let Incomes be $9x$ and $7x$.\nLet Expenditures be $4y$ and $3y$.\n2. Savings Equation:\n$9x - 4y = 200$  (Eq 1)\n$7x - 3y = 200$  (Eq 2)\n3. Cross Multiplication Method (or Equating Coefficients):\nMultiply Eq 1 by 3 and Eq 2 by 4:\n$27x - 12y = 600$\n$28x - 12y = 800$\nSubtract top from bottom: $x = 200$.\n4. Sum of incomes = $9x + 7x = 16x$.\nSum = $16 \\times 200 = 3200$.\nAnswer is ₹3,200.\n",
+      "he": "1. माना आय $9x$ और $7x$ है।\nमाना खर्च $4y$ और $3y$ है।\n2. बचत का समीकरण:\n$9x - 4y = 200$  (समीकरण 1)\n$7x - 3y = 200$  (समीकरण 2)\n3. गुणांकों को बराबर करने की विधि:\nसमीकरण 1 को 3 से और समीकरण 2 को 4 से गुणा करें:\n$27x - 12y = 600$\n$28x - 12y = 800$\nघटाने पर: $x = 200$।\n4. आय का योग = $9x + 7x = 16x$।\nकुल योग = $16 \\times 200 = 3200$।\nउत्तर ₹3,200 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Linear Equations (Age Problem)",
+      "q": "A father is currently three times as old as his son. Ten years ago, the father was five times as old as his son. What is the present age of the son?",
+      "hq": "एक पिता की आयु वर्तमान में उसके पुत्र की आयु की तीन गुनी है। दस वर्ष पहले, पिता की आयु अपने पुत्र की आयु की पांच गुनी थी। पुत्र की वर्तमान आयु क्या है?",
+      "o": [
+        "15 years",
+        "20 years",
+        "25 years",
+        "30 years"
+      ],
+      "ho": [
+        "15 वर्ष",
+        "20 वर्ष",
+        "25 वर्ष",
+        "30 वर्ष"
+      ],
+      "a": 1,
+      "e": "1. Let Son's present age = $x$. Father's present age = $3x$.\n2. Ten years ago:\nSon's age = $x - 10$\nFather's age = $3x - 10$\n3. According to the problem:\n$(3x - 10) = 5 \\times (x - 10)$\n4. Solve for $x$:\n$3x - 10 = 5x - 50$\n$50 - 10 = 5x - 3x$\n$40 = 2x$\n$x = 20$.\nAnswer is 20 years.",
+      "he": "1. माना पुत्र की वर्तमान आयु = $x$। पिता की वर्तमान आयु = $3x$।\n2. दस वर्ष पहले:\nपुत्र की आयु = $x - 10$\nपिता की आयु = $3x - 10$\n3. प्रश्न के अनुसार:\n$(3x - 10) = 5 \\times (x - 10)$\n4. $x$ के लिए हल करें:\n$3x - 10 = 5x - 50$\n$50 - 10 = 5x - 3x$\n$40 = 2x$\n$x = 20$।\nउत्तर 20 वर्ष है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Identity)",
+      "q": "If $x + \\frac{1}{x} = 5$, find the value of $x^3 + \\frac{1}{x^3}$.",
+      "hq": "यदि $x + \\frac{1}{x} = 5$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "125",
+        "110",
+        "115",
+        "140"
+      ],
+      "a": 1,
+      "e": "1. Identity: $a^3 + b^3 = (a+b)^3 - 3ab(a+b)$.\nHere $a=x, b=1/x$, so $ab=1$.\n$x^3 + \\frac{1}{x^3} = (x + \\frac{1}{x})^3 - 3(x + \\frac{1}{x})$.\n2. Substitute $k=5$:\n$k^3 - 3k = 5^3 - 3(5)$.\n$125 - 15 = 110$.\nAnswer is 110.\n",
+      "he": "1. सर्वसमिका: $a^3 + b^3 = (a+b)^3 - 3ab(a+b)$।\nयहाँ $a=x, b=1/x$, इसलिए $ab=1$।\n$x^3 + \\frac{1}{x^3} = (x + \\frac{1}{x})^3 - 3(x + \\frac{1}{x})$।\n2. $k=5$ प्रतिस्थापित करें:\n$k^3 - 3k = 5^3 - 3(5)$।\n$125 - 15 = 110$।\nउत्तर 110 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Percentages (Examination)",
+      "q": "In an examination, a student who gets 20% marks fails by 30 marks. Another student who gets 32% marks gets 42 marks more than the pass marks. Find the percentage of pass marks.",
+      "hq": "एक परीक्षा में, एक छात्र जिसे 20% अंक मिलते हैं, वह 30 अंकों से अनुत्तीर्ण (fail) हो जाता है। एक अन्य छात्र जिसे 32% अंक मिलते हैं, उसे पास होने वाले अंकों से 42 अंक अधिक मिलते हैं। उत्तीर्ण होने (pass) के लिए अंकों का प्रतिशत ज्ञात कीजिए।",
+      "o": [
+        "25%",
+        "28%",
+        "30%",
+        "33%"
+      ],
+      "a": 0,
+      "e": "1. Difference in % = $32\\% - 20\\% = 12\\%$.\n2. Difference in Marks = (Pass + 42) - (Pass - 30) = $42 - (-30) = 72$ marks.\n3. $12\\% = 72 \\text{ marks}$.\n$1\\% = 6 \\text{ marks}$.\n4. Failing student got 20% ($20 \\times 6 = 120$ marks) and failed by 30.\nPass Marks = $120 + 30 = 150$.\nPass % = $\\frac{150}{\\text{Total Marks}}$.\nTotal Marks ($100\\%$) = 600.\nPass % = $\\frac{150}{600} \\times 100 = 25\\%$.\nAnswer is 25%.\n",
+      "he": "1. प्रतिशत में अंतर = $32\\% - 20\\% = 12\\%$।\n2. अंकों में अंतर = $42 - (-30) = 72$ अंक।\n3. $12\\% = 72$ अंक।\n$1\\% = 6$ अंक।\n4. फेल होने वाले छात्र को 20% अंक मिले ($20 \\times 6 = 120$ अंक) और वह 30 अंकों से फेल हुआ।\nपास होने के अंक = $120 + 30 = 150$।\nकुल अंक ($100\\%$) = 600।\nपास होने का प्रतिशत = $\\frac{150}{600} \\times 100 = 25\\%$।\nउत्तर 25% है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Average (New Member)",
+      "q": "The average age of a group of 4 persons is 25 years. If a new person joins the group, the average age drops to 22 years. What is the age of the new person?",
+      "hq": "4 व्यक्तियों के एक समूह की औसत आयु 25 वर्ष है। यदि एक नया व्यक्ति समूह में शामिल होता है, तो औसत आयु घटकर 22 वर्ष हो जाती है। नए व्यक्ति की आयु क्या है?",
+      "o": [
+        "15 years",
+        "12 years",
+        "10 years",
+        "20 years"
+      ],
+      "ho": [
+        "15 वर्ष",
+        "12 वर्ष",
+        "10 वर्ष",
+        "20 वर्ष"
+      ],
+      "a": 2,
+      "e": "1. Total age of 4 persons = $4 \\times 25 = 100$ years.\n2. Total age of 5 persons (after joining) = $5 \\times 22 = 110$ years.\n3. Age of new person = New Total - Old Total.\n$110 - 100 = 10$ years.\nAnswer is 10 years.",
+      "he": "1. 4 व्यक्तियों की कुल आयु = $4 \\times 25 = 100$ वर्ष।\n2. 5 व्यक्तियों की कुल आयु (शामिल होने के बाद) = $5 \\times 22 = 110$ वर्ष।\n3. नए व्यक्ति की आयु = नया कुल - पुराना कुल।\n$110 - 100 = 10$ वर्ष।\nउत्तर 10 वर्ष है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mensuration 3D (Sphere)",
+      "q": "If the radius of a sphere is doubled, by what percent does its volume increase?",
+      "hq": "यदि किसी गोले की त्रिज्या दोगुनी कर दी जाए, तो उसके आयतन में कितने प्रतिशत की वृद्धि होगी?",
+      "o": [
+        "300%",
+        "700%",
+        "800%",
+        "100%"
+      ],
+      "a": 1,
+      "e": "1. Volume of sphere $V \\propto r^3$.\n2. Let initial radius = 1. Initial Volume $V_1 = 1^3 = 1$.\n3. New radius = 2. New Volume $V_2 = 2^3 = 8$.\n4. Increase in volume = $8 - 1 = 7$.\n5. Percentage Increase = $\\frac{\\text{Increase}}{\\text{Initial}} \\times 100$\n$= \\frac{7}{1} \\times 100 = 700\\%$.\nAnswer is 700%.\n",
+      "he": "1. गोले का आयतन $V \\propto r^3$ होता है।\n2. माना प्रारंभिक त्रिज्या = 1। प्रारंभिक आयतन $V_1 = 1^3 = 1$।\n3. नई त्रिज्या = 2। नया आयतन $V_2 = 2^3 = 8$।\n4. आयतन में वृद्धि = $8 - 1 = 7$।\n5. प्रतिशत वृद्धि = $\\frac{\\text{वृद्धि}}{\\text{प्रारंभिक}} \\times 100$\n$= \\frac{7}{1} \\times 100 = 700\\%$।\nउत्तर 700% है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Polynomials",
+      "q": "If $(x - 1)$ is a factor of the polynomial $P(x) = x^3 - kx^2 + 2x - 1$, then what is the value of $k$?",
+      "hq": "यदि $(x - 1)$ बहुपद $P(x) = x^3 - kx^2 + 2x - 1$ का एक गुणनखंड है, तो $k$ का मान क्या है?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "-2"
+      ],
+      "a": 1,
+      "e": "1. By Factor Theorem, if $(x - a)$ is a factor of $P(x)$, then $P(a) = 0$.\n2. Here, $x - 1$ is a factor, so $P(1) = 0$.\n3. Substitute $x = 1$ into the polynomial:\n$1^3 - k(1)^2 + 2(1) - 1 = 0$\n$1 - k + 2 - 1 = 0$\n$2 - k = 0$\n$k = 2$.\nAnswer is 2.",
+      "he": "1. गुणनखंड प्रमेय (Factor Theorem) के अनुसार, यदि $(x - a)$ बहुपद $P(x)$ का एक गुणनखंड है, तो $P(a) = 0$ होता है।\n2. यहाँ, $x - 1$ एक गुणनखंड है, इसलिए $P(1) = 0$ होगा।\n3. बहुपद में $x = 1$ रखें:\n$1^3 - k(1)^2 + 2(1) - 1 = 0$\n$1 - k + 2 - 1 = 0$\n$2 - k = 0$\n$k = 2$।\nउत्तर 2 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Ratio and Proportion (Third Proportional)",
+      "q": "What is the third proportional to 12 and 18?",
+      "hq": "12 और 18 का तृतीय आनुपातिक (third proportional) क्या है?",
+      "o": [
+        "24",
+        "27",
+        "36",
+        "30"
+      ],
+      "a": 1,
+      "e": "1. Let third proportional be $x$.\nRatio: $12 : 18 :: 18 : x$.\n$\\frac{12}{18} = \\frac{18}{x}$.\n2. $12x = 18 \\times 18 = 324$.\n3. $x = \\frac{324}{12} = 27$.\nAnswer is 27.\n",
+      "he": "1. माना तृतीय आनुपातिक $x$ है।\nअनुपात: $12 : 18 :: 18 : x$।\n$\\frac{12}{18} = \\frac{18}{x}$।\n2. $12x = 18 \\times 18 = 324$।\n3. $x = \\frac{324}{12} = 27$।\nउत्तर 27 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Profit and Loss (CP Calculation)",
+      "q": "A man sells an article at a gain of 15%. If he had bought it at 10% less and sold it for ₹4 less, he would have gained 25%. Find the cost price of the article.",
+      "hq": "एक व्यक्ति एक वस्तु को 15% के लाभ पर बेचता है। यदि उसने इसे 10% कम में खरीदा होता और ₹4 कम में बेचा होता, तो उसे 25% का लाभ होता। वस्तु का क्रय मूल्य (Cost Price) ज्ञात कीजिए।",
+      "o": [
+        "₹160",
+        "₹150",
+        "₹140",
+        "₹180"
+      ],
+      "a": 0,
+      "e": "1. Let initial CP = 100x.\nInitial SP = 115x (15% gain).\n2. New CP (10% less) = 90x.\nNew Gain = 25%.\nNew SP = $90x \\times 1.25 = 112.5x$.\n3. Difference in SP = $115x - 112.5x = 2.5x$.\nGiven difference = ₹4.\n$2.5x = 4 \\implies x = \\frac{4}{2.5} = 1.6$.\n4. Cost Price = $100x = 100 \\times 1.6 = 160$.\nAnswer is ₹160.\n",
+      "he": "1. माना प्रारंभिक क्रय मूल्य (CP) = 100x है।\nप्रारंभिक विक्रय मूल्य (SP) = 115x (15% लाभ)।\n2. नया क्रय मूल्य (10% कम) = 90x।\nनया लाभ = 25%।\nनया विक्रय मूल्य = $90x \\times 1.25 = 112.5x$।\n3. विक्रय मूल्य (SP) में अंतर = $115x - 112.5x = 2.5x$।\nप्रश्न में दिया गया अंतर = ₹4 है।\n$2.5x = 4 \\implies x = \\frac{4}{2.5} = 1.6$।\n4. क्रय मूल्य = $100x = 100 \\times 1.6 = 160$।\nउत्तर ₹160 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time, Speed and Distance (Train & Bridge)",
+      "q": "A train running at a speed of 72 km/h crosses a bridge 200 m long in 15 seconds. What is the length of the train?",
+      "hq": "72 किमी/घंटा की गति से चल रही एक ट्रेन 200 मीटर लंबे पुल को 15 सेकंड में पार करती है। ट्रेन की लंबाई क्या है?",
+      "o": [
+        "150 m",
+        "120 m",
+        "100 m",
+        "80 m"
+      ],
+      "ho": [
+        "150 मीटर",
+        "120 मीटर",
+        "100 मीटर",
+        "80 मीटर"
+      ],
+      "a": 2,
+      "e": "1. Convert Speed: $72 \\times \\frac{5}{18} = 4 \\times 5 = 20$ m/s.\n2. Total Distance Covered = Speed $\\times$ Time.\n$D = 20 \\times 15 = 300$ m.\n3. Total Distance = Length of Train ($L$) + Length of Bridge (200).\n$300 = L + 200$.\n$L = 100$ m.\nAnswer is 100 m.\n",
+      "he": "1. गति बदलें: $72 \\times \\frac{5}{18} = 4 \\times 5 = 20$ मीटर/सेकंड।\n2. तय की गई कुल दूरी = गति $\\times$ समय।\n$D = 20 \\times 15 = 300$ मीटर।\n3. कुल दूरी = ट्रेन की लंबाई ($L$) + पुल की लंबाई (200)।\n$300 = L + 200$।\n$L = 100$ मीटर।\nउत्तर 100 मीटर है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Number System (Divisibility by 9)",
+      "q": "If the number 5432x7 is divisible by 9, find the digit in place of $x$.",
+      "hq": "यदि संख्या 5432x7, 9 से विभाज्य है, तो $x$ के स्थान पर अंक ज्ञात कीजिए।",
+      "o": [
+        "6",
+        "1",
+        "9",
+        "5"
+      ],
+      "a": 0,
+      "e": "1. Rule: Sum of digits must be divisible by 9.\n2. Sum = $5 + 4 + 3 + 2 + x + 7 = 21 + x$.\n3. Nearest multiple of 9 greater than 21 is 27.\n4. Therefore, $21 + x = 27$.\n$x = 27 - 21 = 6$.\nAnswer is 6.\n",
+      "he": "1. नियम: अंकों का योग 9 से विभाज्य होना चाहिए।\n2. योग = $5 + 4 + 3 + 2 + x + 7 = 21 + x$।\n3. 21 से बड़ा 9 का निकटतम गुणज 27 है।\n4. इसलिए, $21 + x = 27$।\n$x = 27 - 21 = 6$।\nउत्तर 6 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Power 4)",
+      "q": "If $x + \\frac{1}{x} = 3$, find the value of $x^4 + \\frac{1}{x^4}$.",
+      "hq": "यदि $x + \\frac{1}{x} = 3$ है, तो $x^4 + \\frac{1}{x^4}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "49",
+        "47",
+        "51",
+        "81"
+      ],
+      "a": 1,
+      "e": "1. Square the equation:\n$x^2 + \\frac{1}{x^2} = 3^2 - 2 = 7$.\n2. Square again:\n$x^4 + \\frac{1}{x^4} = 7^2 - 2 = 49 - 2 = 47$.\nAnswer is 47.\n",
+      "he": "1. समीकरण का वर्ग करें:\n$x^2 + \\frac{1}{x^2} = 3^2 - 2 = 7$।\n2. पुनः वर्ग करें:\n$x^4 + \\frac{1}{x^4} = 7^2 - 2 = 49 - 2 = 47$।\nउत्तर 47 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Substitution)",
+      "q": "If $x + y + z = 0$, then what is the value of $\\frac{x^2}{yz} + \\frac{y^2}{zx} + \\frac{z^2}{xy}$?",
+      "hq": "यदि $x + y + z = 0$ है, तो $\\frac{x^2}{yz} + \\frac{y^2}{zx} + \\frac{z^2}{xy}$ का मान क्या होगा?",
+      "o": [
+        "0",
+        "1",
+        "3",
+        "-1"
+      ],
+      "a": 2,
+      "e": "1. Simplify the expression by taking common denominator $xyz$:\n$\\frac{x^3 + y^3 + z^3}{xyz}$.\n2. We know the algebraic identity: If $x+y+z=0$, then $x^3 + y^3 + z^3 = 3xyz$.\n3. Substitute this into the numerator:\n$\\frac{3xyz}{xyz} = 3$.\nAnswer is 3.",
+      "he": "1. सामान्य हर (denominator) $xyz$ लेकर व्यंजक को सरल करें:\n$\\frac{x^3 + y^3 + z^3}{xyz}$।\n2. हम बीजीय सर्वसमिका जानते हैं: यदि $x+y+z=0$ है, तो $x^3 + y^3 + z^3 = 3xyz$ होता है।\n3. इसे अंश (numerator) में प्रतिस्थापित करें:\n$\\frac{3xyz}{xyz} = 3$।\nउत्तर 3 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Number System (Divisibility)",
+      "q": "How many numbers are there between 200 and 400 that are exactly divisible by both 4 and 5?",
+      "hq": "200 और 400 के बीच ऐसी कितनी संख्याएँ हैं जो 4 और 5 दोनों से पूर्णतः विभाज्य हैं?",
+      "o": [
+        "9",
+        "10",
+        "8",
+        "11"
+      ],
+      "a": 0,
+      "e": "1. Divisible by 4 and 5 means divisible by LCM(4, 5) = 20.\n2. Limits: 200 to 400.\nSmallest multiple > 200 is 220.\nLargest multiple < 400 is 380.\n(Note: \"Between\" usually excludes endpoints).\n3. Series: 220, 240, ..., 380.\nAP Formula: $L = a + (n-1)d$.\n$380 = 220 + (n-1)20$.\n$160 = (n-1)20$.\n$8 = n-1 \\implies n = 9$.\nAnswer is 9.\n",
+      "he": "1. 4 और 5 से विभाज्य होने का अर्थ है LCM(4, 5) = 20 से विभाज्य होना।\n2. सीमा: 200 से 400 तक।\n200 से बड़ा सबसे छोटा गुणज 220 है।\n400 से छोटा सबसे बड़ा गुणज 380 है।\n(नोट: \"बीच\" में आमतौर पर अंतिम बिंदुओं को शामिल नहीं किया जाता है)।\n3. श्रेणी: 220, 240, ..., 380।\nAP सूत्र: $L = a + (n-1)d$।\n$380 = 220 + (n-1)20$।\n$160 = (n-1)20$।\n$8 = n-1 \\implies n = 9$।\nउत्तर 9 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Time and Work (Leaving the Work)",
+      "q": "A can do a piece of work in 20 days and B in 30 days. They work together for 7 days and then both leave the work. Then C alone finishes the remaining work in 10 days. In how many days will C finish the full work?",
+      "hq": "A एक कार्य को 20 दिनों में और B उसे 30 दिनों में कर सकता है। वे 7 दिनों तक साथ मिलकर कार्य करते हैं और फिर दोनों कार्य छोड़ देते हैं। उसके बाद C अकेला शेष कार्य को 10 दिनों में पूरा करता है। C अकेले पूरे कार्य को कितने दिनों में समाप्त करेगा?",
+      "o": [
+        "25 days",
+        "30 days",
+        "24 days",
+        "20 days"
+      ],
+      "ho": [
+        "25 दिन",
+        "30 दिन",
+        "24 दिन",
+        "20 दिन"
+      ],
+      "a": 2,
+      "e": "1. LCM(20, 30) = 60 units (Total Work).\nEff A = 3, Eff B = 2.\n2. Combined Eff (A+B) = 5 units/day.\nWork in 7 days = $5 \\times 7 = 35$ units.\n3. Remaining Work = $60 - 35 = 25$ units.\n4. C finishes 25 units in 10 days.\nEfficiency of C = $\\frac{25}{10} = 2.5$ units/day.\n5. Time for C to do full work (60 units) = $\\frac{60}{2.5} = 24$ days.\nAnswer is 24 days.\n",
+      "he": "1. LCM(20, 30) = 60 इकाई (कुल कार्य)।\nA की दक्षता (Eff) = 3, B की दक्षता = 2।\n2. दोनों की संयुक्त दक्षता (A+B) = 5 इकाई/दिन।\n7 दिनों में किया गया कार्य = $5 \\times 7 = 35$ इकाई।\n3. शेष कार्य = $60 - 35 = 25$ इकाई।\n4. C, 25 इकाई कार्य को 10 दिनों में करता है।\nC की दक्षता = $\\frac{25}{10} = 2.5$ इकाई/दिन।\n5. C द्वारा पूरा कार्य (60 इकाई) करने में लगा समय = $\\frac{60}{2.5} = 24$ दिन।\nउत्तर 24 दिन है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Percentage (Consumption)",
+      "q": "The price of sugar increases by 20%. By what percentage must a family reduce its consumption so that the expenditure on sugar remains the same?",
+      "hq": "चीनी की कीमत में 20% की वृद्धि होती है। एक परिवार को अपनी खपत (consumption) में कितने प्रतिशत की कमी करनी चाहिए ताकि चीनी पर होने वाला खर्च समान रहे?",
+      "o": [
+        "20%",
+        "16.66%",
+        "25%",
+        "10%"
+      ],
+      "a": 1,
+      "e": "1. Formula for reduction: $\\frac{R}{100 + R} \\times 100$.\nWhere $R$ is the percentage increase.\n2. Calculation:\n$\\frac{20}{100 + 20} \\times 100$\n$= \\frac{20}{120} \\times 100$\n$= \\frac{1}{6} \\times 100 = 16.66\\%$.\nAnswer is 16.66%.\n",
+      "he": "1. कमी के लिए सूत्र: $\\frac{R}{100 + R} \\times 100$।\nजहाँ $R$ प्रतिशत वृद्धि है।\n2. गणना:\n$\\frac{20}{100 + 20} \\times 100$\n$= \\frac{20}{120} \\times 100$\n$= \\frac{1}{6} \\times 100 = 16.66\\%$।\nउत्तर 16.66% है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Percentages (Election)",
+      "q": "In an election between two candidates, the winner secured 52% of the valid votes and won by a majority of 140 votes. What is the total number of valid votes?",
+      "hq": "दो उम्मीदवारों के बीच एक चुनाव में, विजेता ने वैध मतों का 52% प्राप्त किया और 140 मतों के बहुमत से जीता। वैध मतों की कुल संख्या क्या है?",
+      "o": [
+        "3,200",
+        "3,500",
+        "4,000",
+        "3,600"
+      ],
+      "a": 1,
+      "e": "1. Winner = 52%.\nLoser = $100\\% - 52\\% = 48\\%$.\n2. Margin (Difference) = $52\\% - 48\\% = 4\\%$.\n3. Given Margin = 140 votes.\n$4\\% = 140$.\n4. Total Votes ($100\\%$) = $\\frac{140}{4} \\times 100$.\n$= 35 \\times 100 = 3,500$.\nAnswer is 3,500.\n",
+      "he": "1. विजेता = 52%।\nहारने वाला = $100\\% - 52\\% = 48\\%$।\n2. अंतर = $52\\% - 48\\% = 4\\%$।\n3. दिया गया अंतर = 140 मत।\n$4\\% = 140$।\n4. कुल मत ($100\\%$) = $\\frac{140}{4} \\times 100$।\n$= 35 \\times 100 = 3,500$।\nउत्तर 3,500 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Mixture (Repeated Dilution)",
+      "q": "A container contains 40 liters of milk. From this container, 4 liters of milk was taken out and replaced by water. This process was repeated one more time. How much milk is now contained by the container?",
+      "hq": "एक बर्तन में 40 लीटर दूध है। इस बर्तन से 4 लीटर दूध निकाला गया और उसके स्थान पर पानी डाल दिया गया। यह प्रक्रिया एक बार और दोहराई गई। अब बर्तन में कितना दूध है?",
+      "o": [
+        "32.4 liters",
+        "34 liters",
+        "36 liters",
+        "30 liters"
+      ],
+      "ho": [
+        "32.4 लीटर",
+        "34 लीटर",
+        "36 लीटर",
+        "30 लीटर"
+      ],
+      "a": 0,
+      "e": "1. Formula for final quantity: $Final = Initial (1 - \\frac{x}{C})^n$.\nWhere $x$ is amount replaced, $C$ is capacity, $n$ is number of times.\n2. Substitute:\n$40 (1 - \\frac{4}{40})^2$\n$= 40 (1 - 0.1)^2$\n$= 40 (0.9)^2$.\n3. Calculation:\n$40 \\times 0.81 = 32.4$ liters.\nAnswer is 32.4 liters.",
+      "he": "1. अंतिम मात्रा के लिए सूत्र: $\\text{अंतिम} = \\text{प्रारंभिक} (1 - \\frac{x}{C})^n$।\nजहाँ $x$ निकाली गई मात्रा है, $C$ कुल क्षमता है, $n$ प्रक्रिया की संख्या है।\n2. मान रखने पर:\n$40 (1 - \\frac{4}{40})^2$\n$= 40 (1 - 0.1)^2$\n$= 40 (0.9)^2$।\n3. गणना:\n$40 \\times 0.81 = 32.4$ लीटर।\nउत्तर 32.4 लीटर है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Average (Replacement)",
+      "q": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+      "hq": "8 व्यक्तियों का औसत वजन 2.5 किग्रा बढ़ जाता है जब उनमें से 65 किग्रा वजन वाले एक व्यक्ति के स्थान पर एक नया व्यक्ति आता है। नए व्यक्ति का वजन क्या है?",
+      "o": [
+        "75 kg",
+        "80 kg",
+        "85 kg",
+        "90 kg"
+      ],
+      "ho": [
+        "75 किग्रा",
+        "80 किग्रा",
+        "85 किग्रा",
+        "90 किग्रा"
+      ],
+      "a": 2,
+      "e": "1. Total weight increase = Number of persons $\\times$ Increase in average.\nTotal Increase $= 8 \\times 2.5 = 20$ kg.\n2. This increase is because the new person is heavier than the replaced person.\nWeight of New Person = Weight of Replaced Person + Total Increase.\n$= 65 + 20 = 85$ kg.\nAnswer is 85 kg.\n",
+      "he": "1. कुल वजन में वृद्धि = व्यक्तियों की संख्या × औसत में वृद्धि।\nकुल वृद्धि = 8 × 2.5 = 20 किग्रा।\n2. यह वृद्धि इसलिए हुई क्योंकि नया व्यक्ति बदले गए व्यक्ति से भारी है।\nनए व्यक्ति का वजन = बदले गए व्यक्ति का वजन + कुल वृद्धि।\n= 65 + 20 = 85 किग्रा।\nउत्तर 85 किग्रा है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Speed, Time & Distance (Average Speed)",
+      "q": "A car travels from City A to City B at a speed of 60 km/hr and returns to City A at a speed of 40 km/hr. What is the average speed for the entire journey?",
+      "hq": "एक कार शहर A से शहर B तक 60 किमी/घंटा की गति से यात्रा करती है और 40 किमी/घंटा की गति से शहर A वापस आती है। पूरी यात्रा के लिए औसत गति क्या है?",
+      "o": [
+        "50 km/hr",
+        "48 km/hr",
+        "52 km/hr",
+        "45 km/hr"
+      ],
+      "ho": [
+        "50 किमी/घंटा",
+        "48 किमी/घंटा",
+        "52 किमी/घंटा",
+        "45 किमी/घंटा"
+      ],
+      "a": 1,
+      "e": "**Best Method (Harmonic Mean Formula):**\nWhen distances are equal (A to B and back), never take the simple average of speeds (i.e., (60+40)/2 = 50 is WRONG).\nUse the formula:\n$$\\text{Average Speed} = \\frac{2xy}{x + y}$$\n\nHere, $x = 60$, $y = 40$.\n$$= \\frac{2 \\times 60 \\times 40}{60 + 40}$$\n$$= \\frac{4800}{100}$$\n$$= 48 \\text{ km/hr}$$\n",
+      "he": "**सबसे अच्छी विधि (हरात्मक माध्य सूत्र):**\nजब दूरियाँ समान हों (A से B और वापस), तो गति का कभी भी साधारण औसत न लें (यानी, (60+40)/2 = 50 गलत है)।\nइस सूत्र का उपयोग करें:\n$$\\text{औसत गति} = \\frac{2xy}{x + y}$$\n\nयहाँ, $x = 60$, $y = 40$ है।\n$$= \\frac{2 \\times 60 \\times 40}{60 + 40}$$\n$$= \\frac{4800}{100}$$\n$$= 48 \\text{ किमी/घंटा}$$",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "HCF and LCM",
+      "q": "Three traffic lights change after every 48 seconds, 72 seconds, and 108 seconds respectively. If they all change simultaneously at 8:20:00 AM, at what time will they next change again simultaneously?",
+      "hq": "तीन ट्रैफिक लाइटें क्रमशः प्रत्येक 48 सेकंड, 72 सेकंड और 108 सेकंड के बाद बदलती हैं। यदि वे सभी सुबह 8:20:00 बजे एक साथ बदलती हैं, तो वे अगली बार फिर से एक साथ किस समय बदलेंगी?",
+      "o": [
+        "8:27:12 AM",
+        "8:30:00 AM",
+        "8:25:24 AM",
+        "8:28:48 AM"
+      ],
+      "a": 0,
+      "e": "1. Find the LCM of 48, 72, and 108.\n$48 = 2^4 \\times 3$\n$72 = 2^3 \\times 3^2$\n$108 = 2^2 \\times 3^3$\n2. LCM = Highest powers = $2^4 \\times 3^3 = 16 \\times 27 = 432$ seconds.\n3. Convert seconds to minutes: $432 \\div 60 = 7$ minutes and $12$ seconds.\n4. Add to start time: 8:20:00 + 7 min 12 sec = 8:27:12 AM.\nAnswer is 8:27:12 AM.\n",
+      "he": "1. 48, 72 और 108 का लघुत्तम समापवर्त्य (LCM) ज्ञात करें।\n$48 = 2^4 \\times 3$\n$72 = 2^3 \\times 3^2$\n$108 = 2^2 \\times 3^3$\n2. LCM = उच्चतम घातें = $2^4 \\times 3^3 = 16 \\times 27 = 432$ सेकंड।\n3. सेकंड को मिनट में बदलें: $432 \\div 60 = 7$ मिनट और $12$ सेकंड।\n4. शुरूआती समय में जोड़ें: 8:20:00 + 7 मिनट 12 सेकंड = 8:27:12 AM।\nउत्तर 8:27:12 AM है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Algebra (Special Identities)",
+      "q": "If $x + \\frac{1}{x} = 3$, find the value of $x^5 + \\frac{1}{x^5}$.",
+      "hq": "यदि $x + \\frac{1}{x} = 3$ है, तो $x^5 + \\frac{1}{x^5}$ का मान ज्ञात कीजिए।",
+      "o": [
+        "126",
+        "123",
+        "118",
+        "130"
+      ],
+      "a": 1,
+      "e": "1. Find $x^2 + \\frac{1}{x^2}$: $3^2 - 2 = 7$.\n2. Find $x^3 + \\frac{1}{x^3}$: $3^3 - 3(3) = 27 - 9 = 18$.\n3. Use formula: $(x^2 + \\frac{1}{x^2})(x^3 + \\frac{1}{x^3}) = (x^5 + \\frac{1}{x^5}) + (x + \\frac{1}{x})$.\n$7 \\times 18 = (x^5 + \\frac{1}{x^5}) + 3$.\n$126 = (x^5 + \\frac{1}{x^5}) + 3$.\n$x^5 + \\frac{1}{x^5} = 126 - 3 = 123$.\nAnswer is 123.\n",
+      "he": "1. $x^2 + \\frac{1}{x^2}$ ज्ञात करें: $3^2 - 2 = 7$।\n2. $x^3 + \\frac{1}{x^3}$ ज्ञात करें: $3^3 - 3(3) = 27 - 9 = 18$।\n3. सूत्र का उपयोग करें: $(x^2 + \\frac{1}{x^2})(x^3 + \\frac{1}{x^3}) = (x^5 + \\frac{1}{x^5}) + (x + \\frac{1}{x})$।\n$7 \\times 18 = (x^5 + \\frac{1}{x^5}) + 3$।\n$126 = (x^5 + \\frac{1}{x^5}) + 3$।\n$x^5 + \\frac{1}{x^5} = 126 - 3 = 123$।\nउत्तर 123 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Mathematics",
+      "t": "Trigonometry (Identities)",
+      "q": "What is the value of the expression: $\\sin^2 5^\\circ + \\sin^2 10^\\circ + \\sin^2 15^\\circ + ... + \\sin^2 85^\\circ + \\sin^2 90^\\circ$?",
+      "hq": "व्यंजक $\\sin^2 5^\\circ + \\sin^2 10^\\circ + \\sin^2 15^\\circ + ... + \\sin^2 85^\\circ + \\sin^2 90^\\circ$ का मान क्या है?",
+      "o": [
+        "8.5",
+        "9",
+        "9.5",
+        "10"
+      ],
+      "a": 2,
+      "e": "1. This is an arithmetic progression of angles with common difference 5.\n2. Terms: $5, 10, ..., 85, 90$. Total terms = 18.\n3. Separate $\\sin^2 90^\\circ = 1$. Remaining terms: 17 ($5^\\circ$ to $85^\\circ$).\n4. Pair terms using identity $\\sin^2 \\theta + \\sin^2(90-\\theta) = 1$:\n$(\\sin^2 5^\\circ + \\sin^2 85^\\circ) = 1$\n$(\\sin^2 10^\\circ + \\sin^2 80^\\circ) = 1$\n...\n5. There are 8 pairs (covering 16 terms) and one middle term ($\\sin^2 45^\\circ$) left.\nSum = $8 \\times 1 + \\sin^2 45^\\circ + \\sin^2 90^\\circ$\nSum = $8 + (\\frac{1}{\\sqrt{2}})^2 + 1$\nSum = $8 + 0.5 + 1 = 9.5$.\nAnswer is 9.5.\n",
+      "he": "1. यह 5 के सामान्य अंतर वाली कोणों की एक समांतर श्रेणी (arithmetic progression) है।\n2. पद: $5, 10, ..., 85, 90$। कुल पद = 18।\n3. $\\sin^2 90^\\circ = 1$ को अलग करें। शेष पद: 17 ($5^\\circ$ से $85^\\circ$ तक)।\n4. सर्वसमिका $\\sin^2 \\theta + \\sin^2(90-\\theta) = 1$ का उपयोग करके पदों की जोड़ी बनाएं:\n$(\\sin^2 5^\\circ + \\sin^2 85^\\circ) = 1$\n$(\\sin^2 10^\\circ + \\sin^2 80^\\circ) = 1$\n...\n5. ऐसी 8 जोड़ियाँ हैं (जो 16 पदों को कवर करती हैं) और एक मध्य पद ($\\sin^2 45^\\circ$) बचा है।\nयोग = $8 \\times 1 + \\sin^2 45^\\circ + \\sin^2 90^\\circ$\nयोग = $8 + (\\frac{1}{\\sqrt{2}})^2 + 1$\nयोग = $8 + 0.5 + 1 = 9.5$।\nउत्तर 9.5 है।",
+      "e2": "",
+      "he2": ""
+    }
+  ]
+}

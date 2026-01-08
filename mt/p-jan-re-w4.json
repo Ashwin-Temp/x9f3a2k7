@@ -1,0 +1,638 @@
+{
+  "l": [
+    "en",
+    "hi"
+  ],
+  "data": [
+    {
+      "s": "Reasoning",
+      "t": "Analogy (States and Capitals)",
+      "q": "Choose the related pair from the given alternatives similar to the words given in the first pair.\nWEST BENGAL : KOLKATA :: MEGHALAYA : ...",
+      "hq": "दिए गए विकल्पों में से पहले युग्म में दिए गए शब्दों के समान संबंधित युग्म का चयन कीजिए।\nWEST BENGAL : KOLKATA :: MEGHALAYA : ...",
+      "o": [
+        "SHILLONG",
+        "DISPUR",
+        "KOHIMA",
+        "TRIVENDRUM"
+      ],
+      "ho": [
+        "शिलॉन्ग (SHILLONG)",
+        "दिसपुर (DISPUR)",
+        "कोहिमा (KOHIMA)",
+        "त्रिवेंद्रम (TRIVENDRUM)"
+      ],
+      "a": 0,
+      "e": "Kolkata is the capital city of West Bengal. Similarly, Shillong is the capital city of Meghalaya.\n(Dispur is Assam, Kohima is Nagaland).\n",
+      "he": "कोलकाता पश्चिम बंगाल की राजधानी है। इसी प्रकार, शिलॉन्ग मेघालय की राजधानी है।\n(दिसपुर असम की, कोहिमा नागालैंड की राजधानी है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations (Symbol Substitution)",
+      "q": "If '+' means 'x', '-' means '÷', 'x' means '+' and '÷' means '-' then what is the value of:\n64 - 4 + 8 x 9 = ?",
+      "hq": "यदि '+' का अर्थ 'x', '-' का अर्थ '÷', 'x' का अर्थ '+' और '÷' का अर्थ '-' है, तो इसका मान क्या है:\n64 - 4 + 8 x 9 = ?",
+      "o": [
+        "136",
+        "137",
+        "138",
+        "142"
+      ],
+      "a": 1,
+      "e": "Substitute the signs:\n- becomes ÷\n+ becomes x\nx becomes +\nNew Equation: $64 \\div 4 \\times 8 + 9$\nStep 1: Divide ($64 \\div 4 = 16$)\nStep 2: Multiply ($16 \\times 8 = 128$)\nStep 3: Add ($128 + 9 = 137$).\n",
+      "he": "चिन्हों को बदलें:\n- बन जाता है ÷\n+ बन जाता है x\nx बन जाता है +\nनया समीकरण: $64 \\div 4 \\times 8 + 9$\nचरण 1: भाग ($64 \\div 4 = 16$)\nचरण 2: गुणा ($16 \\times 8 = 128$)\nचरण 3: जोड़ ($128 + 9 = 137$)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Direction Test",
+      "q": "Three friends- P, Q and R are living in the same area. Q's house is to the east of P's house and R's house is to the South of P's house. What is the direction of R's house with respect to the house of Q?",
+      "hq": "तीन मित्र - P, Q और R एक ही क्षेत्र में रह रहे हैं। Q का घर P के घर के पूर्व में है और R का घर P के घर के दक्षिण में है। Q के घर के संदर्भ में R के घर की दिशा क्या है?",
+      "o": [
+        "South-West",
+        "North-West",
+        "South",
+        "North"
+      ],
+      "ho": [
+        "दक्षिण-पश्चिम",
+        "उत्तर-पश्चिम",
+        "दक्षिण",
+        "उत्तर"
+      ],
+      "a": 0,
+      "e": "1. P is the reference point (Origin).\n2. Q is East of P.\n3. R is South of P.\n4. To find R's direction from Q: Imagine standing at Q. You have to look West (towards P) and South (towards R).\nTherefore, R is in the **South-West** direction from Q.",
+      "he": "1. P संदर्भ बिंदु (Origin) है।\n2. Q, P के पूर्व में है।\n3. R, P के दक्षिण में है।\n4. Q से R की दिशा जानने के लिए: कल्पना करें कि आप Q पर खड़े हैं। आपको पश्चिम (P की ओर) और दक्षिण (R की ओर) देखना होगा।\nइसलिए, R, Q से **दक्षिण-पश्चिम** दिशा में है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Powers)",
+      "q": "Which number would best complete the relation given below?\n27 : 16 :: 125 : ?",
+      "hq": "नीचे दिए गए संबंध को कौन सी संख्या सबसे अच्छी तरह पूरा करेगी?\n27 : 16 :: 125 : ?",
+      "o": [
+        "30",
+        "32",
+        "36",
+        "34"
+      ],
+      "a": 2,
+      "e": "Logic: $n^3 : (n+1)^2$.\n$3^3 (27) : 4^2 (16)$.\n$5^3 (125) : 6^2 (36)$.",
+      "he": "तर्क (Logic): $n^3 : (n+1)^2$।\n$3^3 (27) : 4^2 (16)$।\n$5^3 (125) : 6^2 (36)$।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Statement and Assumption",
+      "q": "Statement: Shyam tells Ram, \"I would like to find out the effect of mobile radiation on children.\"\nAssumption:\nI. One can detect the effect of mobile radiation on children.\nII. Shyam is very good at detecting mobile radiation effect.",
+      "hq": "कथन: श्याम राम से कहता है, \"मैं बच्चों पर मोबाइल विकिरण (radiation) के प्रभाव का पता लगाना चाहता हूं।\"\nपूर्वधारणा:\nI. बच्चों पर मोबाइल विकिरण के प्रभाव का पता लगाया जा सकता है।\nII. श्याम मोबाइल विकिरण प्रभाव का पता लगाने में बहुत कुशल है।",
+      "o": [
+        "Both I and II are implicit",
+        "Neither I nor II is implicit",
+        "Only assumption I is implicit",
+        "Only assumption II is implicit"
+      ],
+      "ho": [
+        "I और II दोनों अंतर्निहित हैं",
+        "न तो I और न ही II अंतर्निहित है",
+        "केवल पूर्वधारणा I अंतर्निहित है",
+        "केवल पूर्वधारणा II अंतर्निहित है"
+      ],
+      "a": 2,
+      "e": "Shyam's desire to find the effect implies that he believes such an effect is detectable (Assumption I). However, his desire does not necessarily imply he is already \"very good\" at it (Assumption II); he might be a researcher starting a study. Thus, only I is implicit.\n",
+      "he": "प्रभाव का पता लगाने की श्याम की इच्छा का तात्पर्य है कि वह मानता है कि ऐसे प्रभाव का पता लगाया जा सकता है (पूर्वधारणा I)। हालाँकि, उसकी इच्छा का अनिवार्य रूप से यह अर्थ नहीं है कि वह पहले से ही इसमें \"बहुत कुशल\" है (पूर्वधारणा II); वह एक शोधकर्ता हो सकता है जो अध्ययन शुरू कर रहा है। अतः, केवल I अंतर्निहित है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations (Symbol Substitution)",
+      "q": "If '+' means 'x', '-' means '÷', 'x' means '-' and '÷' means '+' then what is the value of:\n42 - 6 + 5 x 6 = ?",
+      "hq": "यदि '+' का अर्थ 'x', '-' का अर्थ '÷', 'x' का अर्थ '-' और '÷' का अर्थ '+' है, तो इसका मान क्या है:\n42 - 6 + 5 x 6 = ?",
+      "o": [
+        "45",
+        "41",
+        "43",
+        "44"
+      ],
+      "a": 1,
+      "e": "Substitute the signs:\n- becomes ÷\n+ becomes x\nx becomes + (Note: Based on solution logic 'x' becomes '+', though prompt text varies slightly)\nNew Equation: $42 \\div 6 \\times 5 + 6$\nStep 1: Divide ($42 \\div 6 = 7$)\nStep 2: Multiply ($7 \\times 5 = 35$)\nStep 3: Add ($35 + 6 = 41$).\n",
+      "he": "चिन्हों को बदलें:\n- बन जाता है ÷\n+ बन जाता है x\nx बन जाता है + (नोट: समाधान तर्क के आधार पर 'x' का अर्थ '+' है)\nनया समीकरण: $42 \\div 6 \\times 5 + 6$\nचरण 1: भाग ($42 \\div 6 = 7$)\nचरण 2: गुणा ($7 \\times 5 = 35$)\nचरण 3: जोड़ ($35 + 6 = 41$)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Antonyms)",
+      "q": "Complete the analogy:\nGrief : Happiness :: Diffidence : ?",
+      "hq": "सादृश्यता (Analogy) पूर्ण करें:\nशोक : खुशी :: संकोच : ?",
+      "o": [
+        "Ignorance",
+        "Sorrow",
+        "Confidence",
+        "Funky"
+      ],
+      "ho": [
+        "अज्ञानता",
+        "दुख",
+        "आत्मविश्वास",
+        "फंकी"
+      ],
+      "a": 2,
+      "e": "'Grief' is the opposite of 'Happiness'. Similarly, 'Diffidence' (lack of self-belief/shyness) is the opposite of **Confidence**.\n",
+      "he": "'शोक' (Grief), 'खुशी' का विलोम है। इसी प्रकार, 'संकोच' (Diffidence - आत्मविश्वास की कमी/शर्मीलापन), **आत्मविश्वास** (Confidence) का विलोम है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Syllogism",
+      "q": "Statement:\nAll years are dates.\nNo date is day.\nConclusion:\n1. Some years are days.\n2. No day is date.",
+      "hq": "कथन:\nसभी वर्ष तारीखें हैं।\nकोई तारीख दिन नहीं है।\nनिष्कर्ष:\n1. कुछ वर्ष दिन हैं।\n2. कोई दिन तारीख नहीं है।",
+      "o": [
+        "Only conclusion I is rational",
+        "Neither conclusion I nor II rational",
+        "Either conclusion I or II is rational",
+        "Only conclusion II is rational"
+      ],
+      "ho": [
+        "केवल निष्कर्ष I तर्कसंगत है",
+        "न तो निष्कर्ष I और न ही II तर्कसंगत है",
+        "या तो निष्कर्ष I या II तर्कसंगत है",
+        "केवल निष्कर्ष II तर्कसंगत है"
+      ],
+      "a": 3,
+      "e": "Draw a Venn diagram:\n1. 'Year' is inside 'Date'.\n2. 'Date' and 'Day' are completely separate.\nConclusion 1: Since 'Year' is inside 'Date' and 'Date' cannot touch 'Day', 'Year' cannot touch 'Day'. \"Some years are days\" is False.\nConclusion 2: \"No day is date\" is the direct converse of \"No date is day\". This is True.\nOnly Conclusion 2 follows.\n",
+      "he": "एक वेन आरेख बनाएं:\n\n1. 'वर्ष', 'तारीख' के अंदर है।\n2. 'तारीख' और 'दिन' पूरी तरह से अलग हैं।\nनिष्कर्ष 1: चूंकि 'वर्ष', 'तारीख' के अंदर है और 'तारीख', 'दिन' को नहीं छू सकती, इसलिए 'वर्ष' भी 'दिन' को नहीं छू सकता। \"कुछ वर्ष दिन हैं\" असत्य है।\nनिष्कर्ष 2: \"कोई दिन तारीख नहीं है\" सीधे तौर पर \"कोई तारीख दिन नहीं है\" का विलोम है। यह सत्य है।\nकेवल निष्कर्ष 2 अनुसरण करता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Vehicle and Fuel)",
+      "q": "Choose the related pair from the given alternatives similar to the words given in the first pair.\nCar : Petrol :: Locomotive : .........",
+      "hq": "दिए गए विकल्पों में से पहले युग्म में दिए गए शब्दों के समान संबंधित युग्म का चयन कीजिए।\nकार : पेट्रोल :: लोकोमोटिव (रेल इंजन) : .........",
+      "o": [
+        "Engine",
+        "Fire",
+        "Coal",
+        "Smoke"
+      ],
+      "ho": [
+        "इंजन",
+        "आग",
+        "कोयला",
+        "धुआं"
+      ],
+      "a": 2,
+      "e": "Just as a car runs on petrol (fuel), a traditional steam locomotive runs on coal (fuel).",
+      "he": "जिस प्रकार कार पेट्रोल (ईंधन) पर चलती है, उसी प्रकार एक पारंपरिक भाप लोकोमोटिव कोयले (ईंधन) पर चलता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Product/Emission)",
+      "q": "Select the right pair from the available options:\nEye : Tears :: .......... : ..........",
+      "hq": "उपलब्ध विकल्पों में से सही युग्म का चयन करें:\nआँख : आँसू :: .......... : ..........",
+      "o": [
+        "Sea : Water",
+        "Volcano : Lava",
+        "Heart : Arteries",
+        "Hungry : Bread"
+      ],
+      "ho": [
+        "समुद्र : पानी",
+        "ज्वालामुखी : लावा",
+        "हृदय : धमनियां",
+        "भूखा : ब्रेड"
+      ],
+      "a": 1,
+      "e": "Tears are the fluid discharged from the Eye. Similarly, **Lava** is the molten rock discharged from a **Volcano**.\n",
+      "he": "आँख से निकलने वाला द्रव आँसू है। इसी प्रकार, **ज्वालामुखी** से निकलने वाला पिघला हुआ पत्थर **लावा** है।\n\n\n\n[Image of a volcano erupting lava]",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations (Symbol Substitution)",
+      "q": "If '+' means 'x', '-' means '+', 'x' means '÷', and '÷' means '-' then what is the value of:\n35 - 5 + 6 x 7 = ?",
+      "hq": "यदि '+' का अर्थ 'x', '-' का अर्थ '+', 'x' का अर्थ '÷', और '÷' का अर्थ '-' है, तो इसका मान क्या है:\n35 - 5 + 6 x 7 = ?",
+      "o": [
+        "45",
+        "49",
+        "55",
+        "51"
+      ],
+      "a": 1,
+      "e": "Substitute the signs according to the rules:\n- becomes ÷\n+ becomes x\nx becomes +\nNew Equation: $35 \\div 5 \\times 6 + 7$\nStep 1: Divide ($35 \\div 5 = 7$)\nStep 2: Multiply ($7 \\times 6 = 42$)\nStep 3: Add ($42 + 7 = 49$).\n",
+      "he": "नियमों के अनुसार चिन्हों को बदलें:\n- बन जाता है ÷\n+ बन जाता है x\nx बन जाता है +\nनया समीकरण: $35 \\div 5 \\times 6 + 7$\nचरण 1: भाग ($35 \\div 5 = 7$)\nचरण 2: गुणा ($7 \\times 6 = 42$)\nचरण 3: जोड़ ($42 + 7 = 49$)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Currencies)",
+      "q": "Choose the pair which is related in the same way as the word in the first pair.\nIndia : Rupee :: South Africa : ?",
+      "hq": "उस युग्म का चयन करें जो पहले युग्म के समान संबंधित हो।\nभारत : रुपया :: दक्षिण अफ्रीका : ?",
+      "o": [
+        "Dollar",
+        "Rand",
+        "Pound",
+        "Franc"
+      ],
+      "ho": [
+        "डॉलर (Dollar)",
+        "रैंड (Rand)",
+        "पाउंड (Pound)",
+        "फ्रैंक (Franc)"
+      ],
+      "a": 1,
+      "e": "'Rupee' is the currency of India. Similarly, the currency of South Africa is the **Rand**.\n",
+      "he": "'रुपया' भारत की मुद्रा (currency) है। इसी प्रकार, दक्षिण अफ्रीका की मुद्रा **रैंड** है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Jumbled Words (Days of Week)",
+      "q": "Rearrange the cluttered letters to make a meaningful words and then select one which is different from then.",
+      "hq": "अव्यवस्थित अक्षरों को सार्थक शब्द बनाने के लिए पुनर्व्यवस्थित करें और फिर उसे चुनें जो दूसरों से अलग हो।",
+      "o": [
+        "ANDOMY",
+        "STEAUDY",
+        "DIARFY",
+        "DHAILOY"
+      ],
+      "a": 3,
+      "e": "Rearranging the letters:\nANDOMY -> MONDAY\nSTEAUDY -> TUESDAY\nDIARFY -> FRIDAY\nDHAILOY -> HOLIDAY\nMonday, Tuesday, and Friday are specific days of the week. **Holiday** is a general term for a day off.\n",
+      "he": "अक्षरों को पुनर्व्यवस्थित करने पर:\nANDOMY -> MONDAY (सोमवार)\nSTEAUDY -> TUESDAY (मंगलवार)\nDIARFY -> FRIDAY (शुक्रवार)\nDHAILOY -> HOLIDAY (छुट्टी)\nसोमवार, मंगलवार और शुक्रवार सप्ताह के विशिष्ट दिन हैं। **छुट्टी (Holiday)** छुट्टी के दिन के लिए एक सामान्य शब्द है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Currency)",
+      "q": "Find the missing word of the second word pair based on the relationship established between the first two words.\nUSA : DOLLAR :: TURKEY : ..........",
+      "hq": "पहले दो शब्दों के बीच स्थापित संबंध के आधार पर दूसरे शब्द युग्म का लुप्त शब्द ज्ञात कीजिए।\nUSA : DOLLAR :: TURKEY : ..........",
+      "o": [
+        "TAKA",
+        "KYAT",
+        "BAHT",
+        "LIRA"
+      ],
+      "ho": [
+        "टका (TAKA)",
+        "क्यात (KYAT)",
+        "बहत (BAHT)",
+        "लीरा (LIRA)"
+      ],
+      "a": 3,
+      "e": "Just as 'Dollar' is the currency of the USA, similarly 'Lira' is the currency of Turkey.\n(Taka is Bangladesh, Kyat is Myanmar, Baht is Thailand).\n",
+      "he": "जिस प्रकार 'डॉलर' USA की मुद्रा है, उसी प्रकार 'लीरा' तुर्की (Turkey) की मुद्रा है।\n(टका बांग्लादेश की, क्यात म्यांमार की, बहत थाईलैंड की मुद्रा है)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations (Symbol Substitution)",
+      "q": "If the mathematical operator '+' means 'x', '÷' means '-', 'x' means '+' and '-' means '+', then:\n25 + 18 - 3 x 7 ÷ 3 = ?",
+      "hq": "यदि गणितीय संकारक '+' का अर्थ 'x', '÷' का अर्थ '-', 'x' का अर्थ '+' और '-' का अर्थ '+' है, तो:\n25 + 18 - 3 x 7 ÷ 3 = ?",
+      "o": [
+        "25",
+        "21",
+        "19",
+        "40"
+      ],
+      "a": 3,
+      "e": "Substitute the signs (deduced from solution):\n+ becomes -\n- becomes ÷\nx becomes +\n÷ becomes x\nNew Equation: $25 - 18 \\div 3 + 7 \\times 3$\nStep 1: Div/Mul ($18 \\div 3 = 6$; $7 \\times 3 = 21$)\nStep 2: Add/Sub ($25 - 6 + 21 = 19 + 21 = 40$).\n",
+      "he": "चिन्हों को बदलें (समाधान से निकाला गया):\n+ बन जाता है -\n- बन जाता है ÷\nx बन जाता है +\n÷ बन जाता है x\nनया समीकरण: $25 - 18 \\div 3 + 7 \\times 3$\nचरण 1: भाग/गुणा ($18 \\div 3 = 6$; $7 \\times 3 = 21$)\nचरण 2: जोड़/घटाव ($25 - 6 + 21 = 19 + 21 = 40$)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations (Symbol Substitution)",
+      "q": "If + means x, - means ÷, x means + and ÷ means -, then the value of:\n20 x 8 ÷ 8 - 4 + 2 = ?",
+      "hq": "यदि + का अर्थ x, - का अर्थ ÷, x का अर्थ + और ÷ का अर्थ - है, तो इसका मान क्या है:\n20 x 8 ÷ 8 - 4 + 2 = ?",
+      "o": [
+        "24",
+        "1",
+        "20",
+        "0"
+      ],
+      "a": 0,
+      "e": "Substitute the signs:\nx becomes +\n÷ becomes -\n- becomes ÷\n+ becomes x\nNew Equation: $20 + 8 - 8 \\div 4 \\times 2$\nStep 1: Divide ($8 \\div 4 = 2$)\nStep 2: Multiply ($2 \\times 2 = 4$)\nStep 3: Add/Sub ($20 + 8 - 4 = 24$).\n",
+      "he": "चिन्हों को बदलें:\nx बन जाता है +\n÷ बन जाता है -\n- बन जाता है ÷\n+ बन जाता है x\nनया समीकरण: $20 + 8 - 8 \\div 4 \\times 2$\nचरण 1: भाग ($8 \\div 4 = 2$)\nचरण 2: गुणा ($2 \\times 2 = 4$)\nचरण 3: जोड़/घटाव ($20 + 8 - 4 = 24$)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Statement and Assumption",
+      "q": "Statement: \"I want to choose 500 samples to examine the reliability of this test.\" X told Y.\nAssumption:\nI. Examining of 500 sample is possible.\nII. X has the skill and ability to test such samples.",
+      "hq": "कथन: \"मैं इस परीक्षण की विश्वसनीयता की जांच करने के लिए 500 नमूने (samples) चुनना चाहता हूं।\" X ने Y से कहा।\nपूर्वधारणा:\nI. 500 नमूनों की जांच करना संभव है।\nII. X के पास ऐसे नमूनों का परीक्षण करने का कौशल और क्षमता है।",
+      "o": [
+        "Neither I nor II is implicit",
+        "Only assumption II is implicit",
+        "Only assumption I is implicit",
+        "Both I and II are implicit"
+      ],
+      "ho": [
+        "न तो I और न ही II अंतर्निहित है",
+        "केवल पूर्वधारणा II अंतर्निहित है",
+        "केवल पूर्वधारणा I अंतर्निहित है",
+        "I और II दोनों अंतर्निहित हैं"
+      ],
+      "a": 3,
+      "e": "If X proposes to choose 500 samples, X assumes it is possible to get/examine them (Assumption I). Furthermore, if X wants to examine reliability, it implies X believes they have the necessary skill to do so (Assumption II).\n",
+      "he": "यदि X 500 नमूने चुनने का प्रस्ताव रखता है, तो X यह मानकर चलता है कि उन्हें प्राप्त करना/जांचना संभव है (पूर्वधारणा I)। इसके अलावा, यदि X विश्वसनीयता की जांच करना चाहता है, तो इसका तात्पर्य है कि X का मानना है कि उनके पास ऐसा करने के लिए आवश्यक कौशल है (पूर्वधारणा II)।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Number Series (Alternating Addition/Subtraction)",
+      "q": "Look at this series: 15, 19, 17, 21, 19, 23, ... What number should come next?",
+      "hq": "इस श्रृंखला को देखें: 15, 19, 17, 21, 19, 23, ... अगली संख्या क्या होनी चाहिए?",
+      "o": [
+        "25",
+        "24",
+        "20",
+        "21"
+      ],
+      "a": 3,
+      "e": "This is an alternating addition and subtraction series. First, 4 is added, then 2 is subtracted.\n15 + 4 = 19\n19 - 2 = 17\n17 + 4 = 21\n21 - 2 = 19\n19 + 4 = 23\n23 - 2 = 21.\n",
+      "he": "यह एक वैकल्पिक जोड़ और घटाव की श्रृंखला है। पहले 4 जोड़ा जाता है, फिर 2 घटाया जाता है।\n15 + 4 = 19\n19 - 2 = 17\n17 + 4 = 21\n21 - 2 = 19\n19 + 4 = 23\n23 - 2 = 21।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Statement and Assumption",
+      "q": "Statement: It is important to involve children in various co-curricular activities.\nAssumption:\nI. Ethical development comes from various co-curricular activities.\nII. Schools do not give admission without various co-curricular activities.",
+      "hq": "कथन: बच्चों को विभिन्न सह-पाठयक्रम गतिविधियों (co-curricular activities) में शामिल करना महत्वपूर्ण है।\nपूर्वधारणा (Assumption):\nI. नैतिक विकास विभिन्न सह-पाठयक्रम गतिविधियों से आता है।\nII. स्कूल विभिन्न सह-पाठयक्रम गतिविधियों के बिना प्रवेश नहीं देते हैं।",
+      "o": [
+        "Neither assumption I nor II is implicit",
+        "Either assumption I or II is implicit",
+        "Only assumption I is implicit",
+        "Only assumption II is implicit"
+      ],
+      "ho": [
+        "न तो पूर्वधारणा I और न ही II अंतर्निहित है",
+        "या तो पूर्वधारणा I या II अंतर्निहित है",
+        "केवल पूर्वधारणा I अंतर्निहित है",
+        "केवल पूर्वधारणा II अंतर्निहित है"
+      ],
+      "a": 2,
+      "e": "The statement emphasizes the importance of co-curricular activities. Assumption I provides a reason for this importance (ethical/moral development). Assumption II regarding admission criteria is not suggested by the statement. Therefore, only Assumption I is implicit.\n",
+      "he": "कथन सह-पाठयक्रम गतिविधियों के महत्व पर जोर देता है। पूर्वधारणा I इस महत्व का एक कारण बताती है (नैतिक विकास)। स्कूल प्रवेश मानदंडों के संबंध में पूर्वधारणा II कथन द्वारा सूचित नहीं होती है। इसलिए, केवल पूर्वधारणा I अंतर्निहित है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Prime Numbers)",
+      "q": "Which number would best complete the relation given below?\n2 : 3 :: 23 : ?",
+      "hq": "नीचे दिए गए संबंध को कौन सी संख्या सबसे अच्छी तरह पूरा करेगी?\n2 : 3 :: 23 : ?",
+      "o": [
+        "27",
+        "25",
+        "31",
+        "29"
+      ],
+      "a": 3,
+      "e": "Logic: Next consecutive Prime Number.\nNext prime after 2 is 3.\nNext prime after 23 is 29.\n",
+      "he": "तर्क (Logic): अगली क्रमिक अभाज्य संख्या (Prime Number)।\n2 के बाद अगली अभाज्य संख्या 3 है।\n23 के बाद अगली अभाज्य संख्या 29 है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Classification (Materials)",
+      "q": "Select the odd one from following.",
+      "hq": "निम्नलिखित में से विषम का चयन करें।",
+      "o": [
+        "Diamond",
+        "Fibre Glass",
+        "Glass",
+        "Copper"
+      ],
+      "ho": [
+        "हीरा (Diamond)",
+        "फाइबर ग्लास (Fibre Glass)",
+        "कांच (Glass)",
+        "तांबा (Copper)"
+      ],
+      "a": 3,
+      "e": "Diamond, Fibre Glass, and Glass are non-metals/insulators. **Copper** is a metal and a good conductor of electricity.\n",
+      "he": "हीरा, फाइबर ग्लास और कांच अधातु/कुचालक (insulators) हैं। **तांबा** एक धातु है और बिजली का अच्छा सुचालक (conductor) है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Direction Test",
+      "q": "Mallika is cleaning her friend's framed photo in her room she laid it on the floor. The top of the photo is to the West. She starts cleaning from the south-east corner of the photo and goes directly in the opposite direction through the diagonal. In which direction is her hand now?",
+      "hq": "मल्लिका अपने कमरे में अपनी सहेली की फ्रेम की हुई फोटो साफ कर रही है, उसने उसे फर्श पर लिटा दिया। फोटो का ऊपरी हिस्सा पश्चिम (West) की ओर है। वह फोटो के दक्षिण-पूर्व (South-East) कोने से सफाई करना शुरू करती है और विकर्ण (diagonal) के माध्यम से सीधे विपरीत दिशा में जाती है। अब उसका हाथ किस दिशा में है?",
+      "o": [
+        "East-North",
+        "West-East",
+        "North-West",
+        "South-West"
+      ],
+      "ho": [
+        "पूर्व-उत्तर (East-North)",
+        "पश्चिम-पूर्व (West-East)",
+        "उत्तर-पश्चिम (North-West)",
+        "दक्षिण-पश्चिम (South-West)"
+      ],
+      "a": 2,
+      "e": "Regardless of the photo's orientation (\"Top is West\"), the \"South-East corner\" refers to the geographical South-East direction.\nShe moves diagonally opposite from South-East.\nThe opposite direction of South-East is **North-West**.\n",
+      "he": "फोटो के अभिविन्यास (\"ऊपर का हिस्सा पश्चिम है\") के बावजूद, \"दक्षिण-पूर्व कोना\" भौगोलिक दक्षिण-पूर्व दिशा को ही संदर्भित करता है।\nवह दक्षिण-पूर्व से तिरछे विपरीत दिशा में चलती है।\nदक्षिण-पूर्व की विपरीत दिशा **उत्तर-पश्चिम** है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Cubes + Constant)",
+      "q": "Which number would best complete the relation given below?\n3 : 29 :: 6 : ?",
+      "hq": "नीचे दिए गए संबंध को कौन सी संख्या सबसे अच्छी तरह पूरा करेगी?\n3 : 29 :: 6 : ?",
+      "o": [
+        "251",
+        "247",
+        "229",
+        "218"
+      ],
+      "a": 3,
+      "e": "Logic: $n \\to n^3 + 2$.\n$3 \\to 3^3 + 2 = 27 + 2 = 29$.\n$6 \\to 6^3 + 2 = 216 + 2 = 218$.\n",
+      "he": "तर्क (Logic): $n \\to n^3 + 2$।\n$3 \\to 3^3 + 2 = 27 + 2 = 29$।\n$6 \\to 6^3 + 2 = 216 + 2 = 218$।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Direction Test",
+      "q": "A Jawan (soldier) walks 2 km towards North direction, then turns left and walks 3 km, again he turns left and walks continuously. In which direction is he moving now?",
+      "hq": "एक जवान (सिपाही) उत्तर (North) दिशा की ओर 2 किमी चलता है, फिर बाईं ओर मुड़ता है और 3 किमी चलता है, फिर से वह बाईं ओर मुड़ता है और लगातार चलता रहता है। अब वह किस दिशा में चल रहा है?",
+      "o": [
+        "South",
+        "North",
+        "West",
+        "East"
+      ],
+      "ho": [
+        "दक्षिण (South)",
+        "उत्तर (North)",
+        "पश्चिम (West)",
+        "पूर्व (East)"
+      ],
+      "a": 0,
+      "e": "1. Walks North.\n2. Turns Left -> Walks West.\n3. Turns Left again -> Left of West is **South**.\nHe is now moving in the South direction.\n",
+      "he": "1. उत्तर की ओर चलता है।\n2. बाईं ओर मुड़ता है -> पश्चिम की ओर चलता है।\n3. फिर से बाईं ओर मुड़ता है -> पश्चिम का बायां **दक्षिण** होता है।\nवह अब दक्षिण दिशा में चल रहा है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Classification (Structures)",
+      "q": "Which of the following does NOT belong to this group?",
+      "hq": "निम्नलिखित में से कौन सा इस समूह से संबंधित नहीं है?",
+      "o": [
+        "Tunnel",
+        "Bunker",
+        "Well",
+        "House"
+      ],
+      "ho": [
+        "सुरंग (Tunnel)",
+        "बंकर (Bunker)",
+        "कुआँ (Well)",
+        "घर (House)"
+      ],
+      "a": 3,
+      "e": "Tunnel, Bunker, and Well are structures that typically go underground or have depth. A **House** is primarily an above-ground structure.\n",
+      "he": "सुरंग, बंकर और कुआँ ऐसी संरचनाएँ हैं जो आमतौर पर जमीन के नीचे होती हैं या जिनमें गहराई होती है। **घर** मुख्य रूप से जमीन के ऊपर बनी एक संरचना है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Direction Test",
+      "q": "Balaji walks 8 meter straight and then turns left and walks 5 meters. He then turns left and now North is in front of him. Now in which direction is he from the starting point?",
+      "hq": "बालाजी 8 मीटर सीधा चलता है और फिर बाएं मुड़कर 5 मीटर चलता है। फिर वह बाएं मुड़ता है और अब उत्तर (North) उसके सामने है। अब वह शुरुआती बिंदु से किस दिशा में है?",
+      "o": [
+        "North-East",
+        "South-West",
+        "South-East",
+        "North-West"
+      ],
+      "ho": [
+        "उत्तर-पूर्व (North-East)",
+        "दक्षिण-पश्चिम (South-West)",
+        "दक्षिण-पूर्व (South-East)",
+        "उत्तर-पश्चिम (North-West)"
+      ],
+      "a": 2,
+      "e": "1. We need to determine the starting direction. Since his final facing direction is North after a Left turn, he must have been facing East before the turn.\n2. Before facing East (walking 5m), he turned Left. So he must have been facing South originally.\n3. Path: Walk 8m South -> Turn Left -> Walk 5m East -> (Face North).\n4. Position relative to start: He is 8m South and 5m East.\nDirection: **South-East**.\n",
+      "he": "1. हमें शुरुआती दिशा निर्धारित करनी होगी। चूंकि बाएं मुड़ने के बाद उसकी अंतिम दिशा उत्तर है, इसलिए मुड़ने से पहले उसका मुख पूर्व की ओर रहा होगा।\n2. पूर्व की ओर (5 मीटर) चलने से पहले, उसने बाएं मोड़ लिया था। तो वह मूल रूप से दक्षिण की ओर चल रहा होगा।\n3. पथ: 8 मीटर दक्षिण चलें -> बाएं मुड़ें -> 5 मीटर पूर्व चलें -> (उत्तर की ओर मुख)।\n4. शुरुआत के सापेक्ष स्थिति: वह 8 मीटर दक्षिण और 5 मीटर पूर्व में है।\nदिशा: **दक्षिण-पूर्व**।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Mathematical Operations (Interchange)",
+      "q": "In the given equation, LHS = RHS only when we interchange numbers _____ on the same side.\n6 x 4 + 2 = 16",
+      "hq": "दिए गए समीकरण में, LHS = RHS तभी होगा जब हम एक ही पक्ष की संख्याओं _____ को आपस में बदलेंगे।\n6 x 4 + 2 = 16",
+      "o": [
+        "x to +, 2 to 6",
+        "x to +, 4 to 2",
+        "x to +, 16 to 6",
+        "x to +, 4 to 6"
+      ],
+      "ho": [
+        "x को +, 2 को 6",
+        "x को +, 4 को 2",
+        "x को +, 16 को 6",
+        "x को +, 4 को 6"
+      ],
+      "a": 3,
+      "e": "Apply changes from Option 4: Change 'x' to '+' and interchange '4' and '6'.\nOriginal: $6 \\times 4 + 2 = 16$\nNew: $4 + 6 \\times 2 = 16$\n$4 + 12 = 16$\n$16 = 16$. Correct.\n",
+      "he": "विकल्प 4 के परिवर्तनों को लागू करें: 'x' को '+' में बदलें और '4' और '6' को आपस में बदलें।\nमूल: $6 \\times 4 + 2 = 16$\nनया: $4 + 6 \\times 2 = 16$\n$4 + 12 = 16$\n$16 = 16$। यह सही है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (Nature/Source)",
+      "q": "Choose the pair which is related in the same way as the word in the first pair.\nWater : Sea :: Ice : ?",
+      "hq": "उस युग्म का चयन करें जो पहले युग्म के समान संबंधित हो।\nपानी : समुद्र :: बर्फ : ?",
+      "o": [
+        "Mountain",
+        "Glacier",
+        "Hail",
+        "Peak"
+      ],
+      "ho": [
+        "पर्वत (Mountain)",
+        "ग्लेशियर (Glacier)",
+        "ओला (Hail)",
+        "चोटी (Peak)"
+      ],
+      "a": 1,
+      "e": "A 'Sea' is a massive body/collection of water. Similarly, a **Glacier** is a massive, slow-moving body of ice.\n",
+      "he": "'समुद्र' पानी का एक विशाल पिंड/संग्रह है। इसी प्रकार, **ग्लेशियर** बर्फ का एक विशाल और धीरे-धीरे चलने वाला पिंड होता है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Analogy (National Symbols)",
+      "q": "Choose the pair which is related in the same way as the word in the first pair.\nIndia : Tiger :: America : ?",
+      "hq": "उस युग्म का चयन करें जो पहले युग्म के समान संबंधित हो।\nभारत : बाघ :: अमेरिका : ?",
+      "o": [
+        "Unicorn",
+        "Bald Eagle",
+        "Turul",
+        "Druk"
+      ],
+      "ho": [
+        "यूनिकॉर्न (Unicorn)",
+        "बाल्ड ईगल (Bald Eagle)",
+        "टुरुल (Turul)",
+        "द्रुक (Druk)"
+      ],
+      "a": 1,
+      "e": "'Tiger' is the National Animal of India. Similarly, the **Bald Eagle** is the National Bird/Animal symbol of the USA (America).\n",
+      "he": "'बाघ' भारत का राष्ट्रीय पशु है। इसी प्रकार, **बाल्ड ईगल** अमेरिका (USA) का राष्ट्रीय पक्षी/पशु प्रतीक है।",
+      "e2": "",
+      "he2": ""
+    },
+    {
+      "s": "Reasoning",
+      "t": "Syllogism",
+      "q": "Statement:\nNo Animal is lion.\nAll lion are carnivorous.\nConclusion:\n1. Some lions are animals.\n2. Some animals are carnivorous.",
+      "hq": "कथन:\nकोई जानवर शेर नहीं है।\nसभी शेर मांसाहारी हैं।\nनिष्कर्ष:\n1. कुछ शेर जानवर हैं।\n2. कुछ जानवर मांसाहारी हैं।",
+      "o": [
+        "Only conclusion 1 is true",
+        "None of the conclusion is true",
+        "All conclusions are true",
+        "Only conclusion 2 is true"
+      ],
+      "ho": [
+        "केवल निष्कर्ष 1 सत्य है",
+        "कोई भी निष्कर्ष सत्य नहीं है",
+        "सभी निष्कर्ष सत्य हैं",
+        "केवल निष्कर्ष 2 सत्य है"
+      ],
+      "a": 1,
+      "e": "Draw a Venn diagram:\n1. 'Animal' and 'Lion' circles are separate (No interaction).\n2. 'Lion' circle is fully inside 'Carnivorous' circle.\nConclusion 1: \"Some lions are animals\" is False (No intersection).\nConclusion 2: \"Some animals are carnivorous\" is False. While possible, it is not definite. The 'Animal' circle could be completely separate from the 'Carnivorous' circle.\nNeither conclusion follows.\n",
+      "he": "एक वेन आरेख बनाएं:\n\n1. 'जानवर' और 'शेर' के गोले अलग-अलग हैं (कोई संबंध नहीं)।\n2. 'शेर' का गोला पूरी तरह से 'मांसाहारी' के गोले के अंदर है।\nनिष्कर्ष 1: \"कुछ शेर जानवर हैं\" असत्य है (कोई प्रतिच्छेदन नहीं)।\nनिष्कर्ष 2: \"कुछ जानवर मांसाहारी हैं\" असत्य है। हालांकि यह संभव हो सकता है, लेकिन यह निश्चित नहीं है। 'जानवर' का गोला 'मांसाहारी' के गोले से पूरी तरह अलग हो सकता है।\nकोई भी निष्कर्ष अनुसरण नहीं करता है।",
+      "e2": "",
+      "he2": ""
+    }
+  ]
+}
