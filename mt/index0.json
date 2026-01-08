@@ -1,8 +1,7 @@
 [
   {
     "id": "p-jan-maths-w1",
-    "ti": "Maths All Topics Practice Test 
- Jan Week 1",
+    "ti": "Maths All Topics Practice Test \n Jan Week 1",
     "q": 30,
     "t": "p",
     "s": true,
@@ -12,8 +11,7 @@
   },
   {
     "id": "p-jan-re-w1",
-    "ti": "Reasoning All Topics Practice Test 
- Jan Week 1",
+    "ti": "Reasoning All Topics Practice Test \n Jan Week 1",
     "q": 30,
     "t": "p",
     "s": true,
@@ -23,8 +21,7 @@
   },
   {
     "id": "p-jan-gk-w1",
-    "ti": "GK Practice Test 
- Jan Week 1",
+    "ti": "GK Practice Test \n Jan Week 1",
     "q": 30,
     "t": "p",
     "s": true,
@@ -34,8 +31,7 @@
   },
   {
     "id": "p-jan-gs-w1",
-    "ti": "General Science Practice Test 
- Jan Week 1",
+    "ti": "General Science Practice Test \n Jan Week 1",
     "q": 30,
     "t": "p",
     "s": true,
@@ -45,8 +41,7 @@
   },
   {
     "id": "p-jan-ca-w1",
-    "ti": "Current Affairs Practice Test 
- Jan Week 1",
+    "ti": "Current Affairs Practice Test \n Jan Week 1",
     "q": 30,
     "t": "p",
     "s": true,
@@ -56,8 +51,7 @@
   },
   {
     "id": "mt-jan-w1",
-    "ti": "RRB Full Mock Test 
- Jan Week 1",
+    "ti": "RRB Full Mock Test \n Jan Week 1",
     "q": 100,
     "t": "m",
     "s": false,
@@ -67,8 +61,7 @@
   },
   {
     "id": "p-jan-maths-w2",
-    "ti": "Maths All Topics Practice Test 
- Jan Week 2",
+    "ti": "Maths All Topics Practice Test \n Jan Week 2",
     "q": 30,
     "t": "p",
     "s": false,
@@ -78,8 +71,7 @@
   },
   {
     "id": "p-jan-re-w2",
-    "ti": "Reasoning All Topics Practice Test 
- Jan Week 2",
+    "ti": "Reasoning All Topics Practice Test \n Jan Week 2",
     "q": 30,
     "t": "p",
     "s": false,
@@ -89,8 +81,7 @@
   },
   {
     "id": "p-jan-gk-w2",
-    "ti": "GK Practice Test 
- Jan Week 2",
+    "ti": "GK Practice Test \n Jan Week 2",
     "q": 30,
     "t": "p",
     "s": false,
@@ -100,8 +91,7 @@
   },
   {
     "id": "p-jan-gs-w2",
-    "ti": "General Science Practice Test 
- Jan Week 2",
+    "ti": "General Science Practice Test \n Jan Week 2",
     "q": 30,
     "t": "p",
     "s": false,
@@ -111,8 +101,7 @@
   },
   {
     "id": "p-jan-ca-w2",
-    "ti": "Current Affairs Practice Test 
- Jan Week 2",
+    "ti": "Current Affairs Practice Test \n Jan Week 2",
     "q": 30,
     "t": "p",
     "s": false,
@@ -122,8 +111,7 @@
   },
   {
     "id": "mt-jan-w2",
-    "ti": "RRB Full Mock Test 
- Jan Week 2",
+    "ti": "RRB Full Mock Test \n Jan Week 2",
     "q": 100,
     "t": "m",
     "s": false,
@@ -133,8 +121,7 @@
   },
   {
     "id": "p-jan-maths-w3",
-    "ti": "Maths All Topics Practice Test 
- Jan Week 3",
+    "ti": "Maths All Topics Practice Test \n Jan Week 3",
     "q": 30,
     "t": "p",
     "s": false,
@@ -144,8 +131,7 @@
   },
   {
     "id": "p-jan-re-w3",
-    "ti": "Reasoning All Topics Practice Test 
- Jan Week 3",
+    "ti": "Reasoning All Topics Practice Test \n Jan Week 3",
     "q": 30,
     "t": "p",
     "s": false,
@@ -155,8 +141,7 @@
   },
   {
     "id": "p-jan-gk-w3",
-    "ti": "GK Practice Test 
- Jan Week 3",
+    "ti": "GK Practice Test \n Jan Week 3",
     "q": 30,
     "t": "p",
     "s": false,
@@ -166,8 +151,7 @@
   },
   {
     "id": "p-jan-gs-w3",
-    "ti": "General Science Practice Test 
- Jan Week 3",
+    "ti": "General Science Practice Test \n Jan Week 3",
     "q": 30,
     "t": "p",
     "s": false,
@@ -177,8 +161,7 @@
   },
   {
     "id": "p-jan-ca-w3",
-    "ti": "Current Affairs Practice Test 
- Jan Week 3",
+    "ti": "Current Affairs Practice Test \n Jan Week 3",
     "q": 30,
     "t": "p",
     "s": false,
@@ -188,8 +171,7 @@
   },
   {
     "id": "mt-jan-w3",
-    "ti": "RRB Full Mock Test 
- Jan Week 3",
+    "ti": "RRB Full Mock Test \n Jan Week 3",
     "q": 100,
     "t": "m",
     "s": false,
@@ -199,8 +181,7 @@
   },
   {
     "id": "p-jan-maths-w4",
-    "ti": "Maths All Topics Practice Test 
- Jan Week 4",
+    "ti": "Maths All Topics Practice Test \n Jan Week 4",
     "q": 30,
     "t": "p",
     "s": false,
@@ -210,8 +191,7 @@
   },
   {
     "id": "p-jan-re-w4",
-    "ti": "Reasoning All Topics Practice Test 
- Jan Week 4",
+    "ti": "Reasoning All Topics Practice Test \n Jan Week 4",
     "q": 30,
     "t": "p",
     "s": false,
@@ -221,8 +201,7 @@
   },
   {
     "id": "p-jan-gk-w4",
-    "ti": "GK Practice Test 
- Jan Week 4",
+    "ti": "GK Practice Test \n Jan Week 4",
     "q": 30,
     "t": "p",
     "s": false,
@@ -232,8 +211,7 @@
   },
   {
     "id": "p-jan-gs-w4",
-    "ti": "General Science Practice Test 
- Jan Week 4",
+    "ti": "General Science Practice Test \n Jan Week 4",
     "q": 30,
     "t": "p",
     "s": false,
@@ -243,8 +221,7 @@
   },
   {
     "id": "p-jan-ca-w4",
-    "ti": "Current Affairs Practice Test 
- Jan Week 4",
+    "ti": "Current Affairs Practice Test \n Jan Week 4",
     "q": 30,
     "t": "p",
     "s": false,
@@ -254,8 +231,7 @@
   },
   {
     "id": "mt-jan-w4",
-    "ti": "RRB Full Mock Test 
- Jan Week 4",
+    "ti": "RRB Full Mock Test \n Jan Week 4",
     "q": 100,
     "t": "m",
     "s": false,
