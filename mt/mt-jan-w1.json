@@ -73,8 +73,8 @@
     {
       "s": "Reasoning",
       "t": "Blood Relation (Coded)",
-      "q": "If L + M means 'L is the son of M', L - M means 'L is the husband of M', L × M means 'L is the brother of M' and L ÷ M means 'L is the mother of M', what does A × B ÷ C mean?",
-      "hq": "यदि L + M का अर्थ 'L, M का पुत्र है', L - M का अर्थ 'L, M का पति है', L × M का अर्थ 'L, M का भाई है' और L ÷ M का अर्थ 'L, M की माँ है', तो A × B ÷ C का क्या अर्थ है?",
+      "q": "If L + M means 'L is the son of M', \n L - M means 'L is the husband of M', \n L × M means 'L is the brother of M' and \n L ÷ M means 'L is the mother of M', \n what does A × B ÷ C mean?",
+      "hq": "यदि L + M का अर्थ 'L,  M का पुत्र है', \n L - M का अर्थ 'L, M का पति है', \n L × M का अर्थ 'L, M का भाई है' और \n L ÷ M का अर्थ 'L, M की माँ है', \n तो A × B ÷ C का क्या अर्थ है?",
       "o": [
         "A is the maternal uncle of C",
         "A is the nephew of C",
@@ -1826,4 +1826,5 @@
       "he": "1. \"सभी नदियाँ मैट हैं\" का मतलब यह नहीं है कि \"सभी मैट नदियाँ हैं\" (मैट बाहरी घेरा है)। निष्कर्ष 1 गलत है।\n2. चूँकि \"कुछ बेड नदियाँ हैं\" और \"सभी नदियाँ मैट हैं\", इसलिए बेड का वह हिस्सा जो नदी है, वह मैट भी होना चाहिए। अतः, \"कुछ बेड मैट हैं\" सत्य है।"
     }
   ]
+
 }
