@@ -428,7 +428,7 @@
     {
       "s": "Reasoning",
       "t": "Syllogism",
-      "q": "Statement:\nAll animals are dogs.\nDogs are carnivorous.\nConclusion:\n1. Some animals are not carnivorous.\n2. All animals are carnivorous.\n3. All dogs are animals.",
+      "q": "Statement:\n All animals are dogs.\nDogs are carnivorous.\nConclusion:\n1. Some animals are not carnivorous.\n2. All animals are carnivorous.\n3. All dogs are animals.",
       "hq": "कथन:\nसभी जानवर कुत्ते हैं।\nकुत्ते मांसाहारी होते हैं।\nनिष्कर्ष:\n1. कुछ जानवर मांसाहारी नहीं हैं।\n2. सभी जानवर मांसाहारी हैं।\n3. सभी कुत्ते जानवर हैं।",
       "o": [
         "Only 3 follows",
@@ -1828,3 +1828,4 @@
   ]
 
 }
+
